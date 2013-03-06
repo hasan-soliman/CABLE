@@ -39,7 +39,12 @@ Below are links to both of the datasets used for the [Submarine Cable Map](http:
 
 __Submarine Cables:__
 
-[https://www.google.com/fusiontables/DataSource?docid=1BVxUz5t3qDmHJApb6FVckR5mJDOn_xYFocOKWnA](https://www.google.com/fusiontables/DataSource?docid=1BVxUz5t3qDmHJApb6FVckR5mJDOn_xYFocOKWnA)
+[https://www.google.com/fusiontables/DataSource?docid=1BVxUz5t3qDmHJApb6FVckR5mJDOn_xYFocOKWnA#map:id=98](https://www.google.com/fusiontables/DataSource?docid=1BVxUz5t3qDmHJApb6FVckR5mJDOn_xYFocOKWnA#map:id=98)
+
+__To download as KML try the following steps:__
+
+1. Click 'File' then 'Download'.
+2. Then select the KML radion button and click 'Download'
 
 __Landing points:__
 

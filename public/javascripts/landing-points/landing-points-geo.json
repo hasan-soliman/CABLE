@@ -370,6 +370,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "177.502143",
+          "64.727152"
+        ]
+      },
+      "properties": {
+        "name": "Anadyr, Russia",
+        "id": "10447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "32.575608",
           "34.692643"
         ]
@@ -734,6 +748,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-5.559409",
+          "54.302089"
+        ]
+      },
+      "properties": {
+        "name": "Ballyhornan, United Kingdom",
+        "id": "13373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-5.484370",
+          "54.542716"
+        ]
+      },
+      "properties": {
+        "name": "Ballywater, United Kingdom",
+        "id": "13371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-64.943789",
+          "18.328199"
+        ]
+      },
+      "properties": {
+        "name": "Banana Bay, VI, United States",
+        "id": "13401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "56.274409",
           "27.187329"
         ]
@@ -1000,6 +1056,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "13.407763",
+          "-12.580077"
+        ]
+      },
+      "properties": {
+        "name": "Benguela, Angola",
+        "id": "11506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "4.656950",
           "52.486294"
         ]
@@ -1168,6 +1238,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-64.975311",
+          "18.342353"
+        ]
+      },
+      "properties": {
+        "name": "Brewer's Bay, VI, United States",
+        "id": "13398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-59.613354",
           "13.098953"
         ]
@@ -1294,6 +1378,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "12.189771",
+          "-5.556619"
+        ]
+      },
+      "properties": {
+        "name": "Cabinda, Angola",
+        "id": "10857"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "13.372327",
           "-8.776624"
         ]
@@ -1329,6 +1427,20 @@
       "properties": {
         "name": "Calais, France",
         "id": "4490"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.053865",
+          "69.117466"
+        ]
+      },
+      "properties": {
+        "name": "Cambridge Bay, Nunavut, Canada",
+        "id": "10397"
       }
     },
     {
@@ -1399,6 +1511,20 @@
       "properties": {
         "name": "Cape Town, South Africa",
         "id": "3921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-5.808167",
+          "54.713675"
+        ]
+      },
+      "properties": {
+        "name": "Carrickfergus, United Kingdom",
+        "id": "13377"
       }
     },
     {
@@ -1644,6 +1770,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-78.893832",
+          "53.782688"
+        ]
+      },
+      "properties": {
+        "name": "Chisasibi, Quebec, Canada",
+        "id": "13391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "121.395289",
           "31.619905"
         ]
@@ -1651,6 +1791,20 @@
       "properties": {
         "name": "Chongming, China",
         "id": "5802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-64.703162",
+          "17.746658"
+        ]
+      },
+      "properties": {
+        "name": "Christiansted, VI, United States",
+        "id": "13396"
       }
     },
     {
@@ -2162,6 +2316,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-5.538779",
+          "54.642802"
+        ]
+      },
+      "properties": {
+        "name": "Donaghadee, United Kingdom",
+        "id": "7732"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "9.706303",
           "4.047180"
         ]
@@ -2169,6 +2337,20 @@
       "properties": {
         "name": "Douala, Cameroon",
         "id": "4210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-4.480904",
+          "54.150305"
+        ]
+      },
+      "properties": {
+        "name": "Douglas, Isle of Man, United Kingdom",
+        "id": "3171"
       }
     },
     {
@@ -2512,6 +2694,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-0.290761",
+          "54.211842"
+        ]
+      },
+      "properties": {
+        "name": "Filey, United Kingdom",
+        "id": "5739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-64.957793",
+          "18.312839"
+        ]
+      },
+      "properties": {
+        "name": "Flamingo Bay, VI, United States",
+        "id": "13400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-124.099840",
           "43.982131"
         ]
@@ -2575,6 +2785,20 @@
       "properties": {
         "name": "Four Mile Bluff, Australia",
         "id": "10796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-64.881549",
+          "17.712426"
+        ]
+      },
+      "properties": {
+        "name": "Frederiksted, VI, United States",
+        "id": "13397"
       }
     },
     {
@@ -2820,6 +3044,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-4.854242",
+          "55.240204"
+        ]
+      },
+      "properties": {
+        "name": "Girvan, United Kingdom",
+        "id": "13378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "19.499231",
           "41.210654"
         ]
@@ -2876,6 +3114,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-64.843202",
+          "18.322477"
+        ]
+      },
+      "properties": {
+        "name": "Great Bay, VI, United States",
+        "id": "13399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-2.201422",
           "49.247918"
         ]
@@ -2897,6 +3149,20 @@
       "properties": {
         "name": "Grindavik, Iceland",
         "id": "10385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-4.423884",
+          "54.166969"
+        ]
+      },
+      "properties": {
+        "name": "Groudle Bay, United Kingdom",
+        "id": "13374"
       }
     },
     {
@@ -4164,6 +4430,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-5.809874",
+          "54.857529"
+        ]
+      },
+      "properties": {
+        "name": "Larne, United Kingdom",
+        "id": "11390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-56.695512",
           "-36.472523"
         ]
@@ -4339,6 +4619,20 @@
       "properties": {
         "name": "Luanda, Angola",
         "id": "4190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.530985",
+          "-13.866934"
+        ]
+      },
+      "properties": {
+        "name": "Lucira, Angola",
+        "id": "11507"
       }
     },
     {
@@ -5186,6 +5480,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "12.866679",
+          "-7.233378"
+        ]
+      },
+      "properties": {
+        "name": "N'zeto, Angola",
+        "id": "11504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "35.094713",
           "33.011266"
         ]
@@ -5207,6 +5515,20 @@
       "properties": {
         "name": "Nakhodka, Russia",
         "id": "5362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.156041",
+          "-15.187020"
+        ]
+      },
+      "properties": {
+        "name": "Namibe, Angola",
+        "id": "11508"
       }
     },
     {
@@ -5914,6 +6236,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-2.976056",
+          "53.775661"
+        ]
+      },
+      "properties": {
+        "name": "Peel, United Kingdom",
+        "id": "13372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-2.537617",
           "49.509526"
         ]
@@ -6152,6 +6488,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-4.566684",
+          "54.100011"
+        ]
+      },
+      "properties": {
+        "name": "Port Grenaugh, United Kingdom",
+        "id": "13370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-74.840567",
           "23.652109"
         ]
@@ -6236,6 +6586,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "13.782306",
+          "-10.703045"
+        ]
+      },
+      "properties": {
+        "name": "Porto Amboim, Angola",
+        "id": "11505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-5.115549",
+          "54.843776"
+        ]
+      },
+      "properties": {
+        "name": "Portpatrick, United Kingdom",
+        "id": "7731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "41.667635",
           "42.150776"
         ]
@@ -6299,6 +6677,20 @@
       "properties": {
         "name": "Providenciales, Turks and Caicos Islands",
         "id": "4258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-148.338420",
+          "70.255651"
+        ]
+      },
+      "properties": {
+        "name": "Prudhoe Bay, Alaska, United States",
+        "id": "13390"
       }
     },
     {
@@ -6712,6 +7104,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "145.212446",
+          "14.151809"
+        ]
+      },
+      "properties": {
+        "name": "Rota, Northern Mariana Islands",
+        "id": "13409"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-6.358186",
           "36.616957"
         ]
@@ -6838,6 +7244,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "145.751021",
+          "15.177761"
+        ]
+      },
+      "properties": {
+        "name": "Saipan, Northern Mariana Islands",
+        "id": "13408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "103.704234",
           "1.258838"
         ]
@@ -6845,6 +7265,20 @@
       "properties": {
         "name": "Sakra Island, Singapore",
         "id": "10307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-4.783519",
+          "55.637635"
+        ]
+      },
+      "properties": {
+        "name": "Saltcoats, United Kingdom",
+        "id": "13376"
       }
     },
     {
@@ -7244,6 +7678,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-3.357124",
+          "54.210637"
+        ]
+      },
+      "properties": {
+        "name": "Silecroft Beach, United Kingdom",
+        "id": "13375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "103.853007",
           "1.293672"
         ]
@@ -7391,6 +7839,20 @@
       "properties": {
         "name": "Southport, United Kingdom",
         "id": "3324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.352096",
+          "-6.140970"
+        ]
+      },
+      "properties": {
+        "name": "Soyo, Angola",
+        "id": "11503"
       }
     },
     {
@@ -7888,6 +8350,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "35.125933",
+          "69.182868"
+        ]
+      },
+      "properties": {
+        "name": "Terberka, Russia",
+        "id": "10901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "57.510069",
           "-20.077862"
         ]
@@ -7951,6 +8427,20 @@
       "properties": {
         "name": "Tijuana, Mexico",
         "id": "3484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "145.637483",
+          "15.011119"
+        ]
+      },
+      "properties": {
+        "name": "Tinian, Northern Mariana Islands",
+        "id": "13410"
       }
     },
     {
@@ -8602,6 +9092,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-64.948006",
+          "18.335728"
+        ]
+      },
+      "properties": {
+        "name": "Vila Olga, VI, United States",
+        "id": "13402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-75.977999",
           "36.852966"
         ]
@@ -8609,6 +9113,20 @@
       "properties": {
         "name": "Virginia Beach, VA, United States",
         "id": "4862"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "131.910700",
+          "43.154643"
+        ]
+      },
+      "properties": {
+        "name": "Vladivostok, Russia",
+        "id": "3896"
       }
     },
     {
@@ -8748,7 +9266,7 @@
       },
       "properties": {
         "name": "Willemstad, Curaçao",
-        "id": "10729"
+        "id": "4275"
       }
     },
     {
@@ -8762,7 +9280,7 @@
       },
       "properties": {
         "name": "Willemstad, Curaçao",
-        "id": "4275"
+        "id": "10729"
       }
     },
     {
