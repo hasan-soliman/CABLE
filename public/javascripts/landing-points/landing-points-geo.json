@@ -1294,6 +1294,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "12.414938",
+          "55.647272"
+        ]
+      },
+      "properties": {
+        "name": "Brondby, Denmark",
+        "id": "11045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-72.912288",
           "40.773169"
         ]
@@ -3464,20 +3478,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "12.300799",
-          "55.927853"
-        ]
-      },
-      "properties": {
-        "name": "Hillerød, Denmark",
-        "id": "5992"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-123.811178",
           "45.824830"
         ]
@@ -4080,6 +4080,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "12.916671",
+          "55.533333"
+        ]
+      },
+      "properties": {
+        "name": "Klagshamn, Sweden",
+        "id": "14586"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-152.395249",
           "57.794143"
         ]
@@ -4115,6 +4129,20 @@
       "properties": {
         "name": "Kolobrzeg, Poland",
         "id": "5933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "11.149363",
+          "55.325733"
+        ]
+      },
+      "properties": {
+        "name": "Korsor, Denmark",
+        "id": "13465"
       }
     },
     {
@@ -4164,8 +4192,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.016757",
-          "56.516721"
+          "12.588607",
+          "56.134750"
         ]
       },
       "properties": {
@@ -4976,6 +5004,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "12.149516",
+          "54.191363"
+        ]
+      },
+      "properties": {
+        "name": "Markgrafenheide, Germany",
+        "id": "14585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "28.253658",
           "36.855275"
         ]
@@ -5375,6 +5417,20 @@
       "properties": {
         "name": "Morro Bay, California, United States",
         "id": "5751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.272991",
+          "55.575897"
+        ]
+      },
+      "properties": {
+        "name": "Mosede, Denmark",
+        "id": "14583"
       }
     },
     {
@@ -5886,6 +5942,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "10.799515",
+          "55.324127"
+        ]
+      },
+      "properties": {
+        "name": "Nybor, Denmark",
+        "id": "13466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "17.946549",
           "58.902914"
         ]
@@ -6012,8 +6082,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "10.600950",
-          "55.858285"
+          "11.199255",
+          "57.313491"
         ]
       },
       "properties": {
@@ -7097,6 +7167,20 @@
       "properties": {
         "name": "Roseau, Dominica",
         "id": "4260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.132450",
+          "54.078930"
+        ]
+      },
+      "properties": {
+        "name": "Rostock, Germany",
+        "id": "3130"
       }
     },
     {
@@ -9022,6 +9106,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "12.963853",
+          "55.471093"
+        ]
+      },
+      "properties": {
+        "name": "Velling, Sweden",
+        "id": "14584"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "21.570009",
           "57.389484"
         ]
@@ -9266,7 +9364,7 @@
       },
       "properties": {
         "name": "Willemstad, Curaçao",
-        "id": "4275"
+        "id": "10729"
       }
     },
     {
@@ -9280,7 +9378,7 @@
       },
       "properties": {
         "name": "Willemstad, Curaçao",
-        "id": "10729"
+        "id": "4275"
       }
     },
     {
