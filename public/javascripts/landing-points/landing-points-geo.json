@@ -692,6 +692,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "115.597051",
+          "-8.464421"
+        ]
+      },
+      "properties": {
+        "name": "Bali, Indonesia",
+        "id": "9597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "121.514047",
           "18.409411"
         ]
@@ -825,6 +839,20 @@
       "properties": {
         "name": "Banff, United Kingdom",
         "id": "8680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.604026",
+          "-3.328133"
+        ]
+      },
+      "properties": {
+        "name": "Banjarmasin, Indonesia",
+        "id": "7803"
       }
     },
     {
@@ -979,6 +1007,20 @@
       "properties": {
         "name": "Batangas, Philippines",
         "id": "3218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.097073",
+          "-8.615603"
+        ]
+      },
+      "properties": {
+        "name": "Beculuk, Indonesia",
+        "id": "14611"
       }
     },
     {
@@ -3786,6 +3828,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "115.159867",
+          "-8.784052"
+        ]
+      },
+      "properties": {
+        "name": "Jimbaran, Indonesia",
+        "id": "14612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-134.406848",
           "58.299490"
         ]
@@ -3947,6 +4003,20 @@
       "properties": {
         "name": "Keoje, Korea,Rep.",
         "id": "5975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "109.971880",
+          "-1.859074"
+        ]
+      },
+      "properties": {
+        "name": "Ketapang, Indonesia",
+        "id": "14607"
       }
     },
     {
@@ -5053,6 +5123,20 @@
       "properties": {
         "name": "Maruyama, Japan",
         "id": "5887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "116.081518",
+          "-8.586391"
+        ]
+      },
+      "properties": {
+        "name": "Mataram, Indonesia",
+        "id": "14613"
       }
     },
     {
@@ -6250,6 +6334,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "111.752942",
+          "-2.849690"
+        ]
+      },
+      "properties": {
+        "name": "Pankalan, Indonesia",
+        "id": "14608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-149.441068",
           "-17.512379"
         ]
@@ -6523,6 +6621,20 @@
       "properties": {
         "name": "Ponta Delgada, Portugal",
         "id": "5945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "109.335529",
+          "-0.027417"
+        ]
+      },
+      "properties": {
+        "name": "Pontianak, Indonesia",
+        "id": "8360"
       }
     },
     {
@@ -7503,6 +7615,20 @@
       "properties": {
         "name": "Sangano, Angola",
         "id": "10727"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "117.550979",
+          "0.326848"
+        ]
+      },
+      "properties": {
+        "name": "Sangata, Indonesia",
+        "id": "14609"
       }
     },
     {
@@ -8679,6 +8805,20 @@
       "properties": {
         "name": "Toucheng, Taiwan",
         "id": "5981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "119.388458",
+          "-1.142513"
+        ]
+      },
+      "properties": {
+        "name": "Toweli, Indonesia",
+        "id": "14610"
       }
     },
     {
