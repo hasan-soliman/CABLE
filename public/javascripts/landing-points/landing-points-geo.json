@@ -356,6 +356,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "118.760338",
+          "-8.319362"
+        ]
+      },
+      "properties": {
+        "name": "Ambalawi, Indonesia",
+        "id": "14650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "50.575855",
           "26.229037"
         ]
@@ -608,8 +622,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-69.964030",
-          "12.518115"
+          "-69.878701",
+          "12.414215"
         ]
       },
       "properties": {
@@ -2064,6 +2078,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "120.200687",
+          "12.005038"
+        ]
+      },
+      "properties": {
+        "name": "Coron, Philippines",
+        "id": "9385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-31.110545",
+          "39.671926"
+        ]
+      },
+      "properties": {
+        "name": "Corvo, Portugal",
+        "id": "14657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "2.439909",
           "6.356577"
         ]
@@ -2666,6 +2708,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "25.087359",
+          "31.760848"
+        ]
+      },
+      "properties": {
+        "name": "El-Quawef, Libya",
+        "id": "14647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "147.156335",
           "-9.480235"
         ]
@@ -2694,6 +2750,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "121.651577",
+          "-8.855227"
+        ]
+      },
+      "properties": {
+        "name": "Ende, Indonesia",
+        "id": "14648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-5.145865",
           "36.427125"
         ]
@@ -2715,6 +2785,20 @@
       "properties": {
         "name": "Eydhafushi, Maldives",
         "id": "10812"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-28.647557",
+          "38.525108"
+        ]
+      },
+      "properties": {
+        "name": "Faial, Portugal",
+        "id": "14659"
       }
     },
     {
@@ -2785,6 +2869,20 @@
       "properties": {
         "name": "Florence, Oregon, United States",
         "id": "8539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-31.128515",
+          "39.462218"
+        ]
+      },
+      "properties": {
+        "name": "Flores, Portugal",
+        "id": "14656"
       }
     },
     {
@@ -3149,6 +3247,20 @@
       "properties": {
         "name": "Governors Harbor, Bahamas",
         "id": "10357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-27.963471",
+          "39.011080"
+        ]
+      },
+      "properties": {
+        "name": "Graciosa, Portugal",
+        "id": "14658"
       }
     },
     {
@@ -4234,6 +4346,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-68.276679",
+          "12.150700"
+        ]
+      },
+      "properties": {
+        "name": "Kralendijk, Bonaire, Netherlands",
+        "id": "14635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "9.910389",
           "2.932888"
         ]
@@ -4325,6 +4451,20 @@
       "properties": {
         "name": "Kungsbacka, Sweden",
         "id": "10605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "123.583419",
+          "-10.183343"
+        ]
+      },
+      "properties": {
+        "name": "Kupang, Indonesia",
+        "id": "14653"
       }
     },
     {
@@ -4535,6 +4675,20 @@
       "properties": {
         "name": "Larne, United Kingdom",
         "id": "11390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-16.362377",
+          "28.377213"
+        ]
+      },
+      "properties": {
+        "name": "Las Caletillas, Spain",
+        "id": "14645"
       }
     },
     {
@@ -5844,6 +5998,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "94.391155",
+          "16.858035"
+        ]
+      },
+      "properties": {
+        "name": "Ngwe Saung, Myanmar",
+        "id": "14639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-151.291698",
           "60.689798"
         ]
@@ -5921,6 +6089,20 @@
       "properties": {
         "name": "North Miami Beach, Florida, United States",
         "id": "5772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-68.284108",
+          "12.163750"
+        ]
+      },
+      "properties": {
+        "name": "North Salina, Bonaire, Netherlands",
+        "id": "10730"
       }
     },
     {
@@ -6131,20 +6313,6 @@
       "properties": {
         "name": "Oran, Algeria",
         "id": "8359"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-70.026470",
-          "12.524640"
-        ]
-      },
-      "properties": {
-        "name": "Oranjestad, Aruba",
-        "id": "4233"
       }
     },
     {
@@ -6530,6 +6698,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-15.408804",
+          "28.040616"
+        ]
+      },
+      "properties": {
+        "name": "Piedra Santa, Spain",
+        "id": "14646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "144.694751",
           "13.464662"
         ]
@@ -6628,7 +6810,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "109.335529",
+          "103.398757",
+          "1.486816"
+        ]
+      },
+      "properties": {
+        "name": "Pontian Kechil, Malaysia",
+        "id": "14640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "109.335629",
           "-0.027417"
         ]
       },
@@ -7132,6 +7328,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "79.889286",
+          "6.820364"
+        ]
+      },
+      "properties": {
+        "name": "Ratmalana, Sri Lanka",
+        "id": "14621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-1.068206",
           "54.613891"
         ]
@@ -7510,6 +7720,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "121.050160",
+          "12.362616"
+        ]
+      },
+      "properties": {
+        "name": "San Jose, Philippines",
+        "id": "7841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-66.106669",
           "18.465829"
         ]
@@ -7671,6 +7895,20 @@
       "properties": {
         "name": "Santos, Brazil",
         "id": "3411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "118.711851",
+          "-8.796902"
+        ]
+      },
+      "properties": {
+        "name": "Saraemee, Indonesia",
+        "id": "14651"
       }
     },
     {
@@ -7881,6 +8119,20 @@
       "properties": {
         "name": "Siboney, Cuba",
         "id": "8351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "103.506673",
+          "10.629941"
+        ]
+      },
+      "properties": {
+        "name": "Sihanoukville, Cambodia",
+        "id": "9118"
       }
     },
     {
@@ -8294,6 +8546,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "117.401001",
+          "-8.496946"
+        ]
+      },
+      "properties": {
+        "name": "Sumbawa Besar, Indonesia",
+        "id": "14649"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "109.183242",
           "-0.067070"
         ]
@@ -8518,6 +8784,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "119.500389",
+          "10.819672"
+        ]
+      },
+      "properties": {
+        "name": "Taytay, Philippines",
+        "id": "14655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "34.769661",
           "32.044642"
         ]
@@ -8553,6 +8833,20 @@
       "properties": {
         "name": "Tenerife,Canary Islands, Spain",
         "id": "7713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-69.020646",
+          "12.234422"
+        ]
+      },
+      "properties": {
+        "name": "Tera Cora, Curaçao",
+        "id": "14631"
       }
     },
     {
@@ -9414,6 +9708,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "120.252989",
+          "-9.646174"
+        ]
+      },
+      "properties": {
+        "name": "Waingapu, Indonesia",
+        "id": "14652"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-74.062871",
           "40.152879"
         ]
@@ -9504,7 +9812,7 @@
       },
       "properties": {
         "name": "Willemstad, Curaçao",
-        "id": "10729"
+        "id": "4275"
       }
     },
     {
@@ -9518,7 +9826,7 @@
       },
       "properties": {
         "name": "Willemstad, Curaçao",
-        "id": "4275"
+        "id": "10729"
       }
     },
     {
