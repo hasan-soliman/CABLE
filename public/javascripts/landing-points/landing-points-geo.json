@@ -5998,20 +5998,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "94.391155",
-          "16.858035"
-        ]
-      },
-      "properties": {
-        "name": "Ngwe Saung, Myanmar",
-        "id": "14639"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-151.291698",
           "60.689798"
         ]
@@ -6299,6 +6285,20 @@
       "properties": {
         "name": "Olbia, Italy",
         "id": "8592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "115.113288",
+          "-21.637872"
+        ]
+      },
+      "properties": {
+        "name": "Onslow, Australia",
+        "id": "14675"
       }
     },
     {
@@ -6803,20 +6803,6 @@
       "properties": {
         "name": "Ponta Delgada, Portugal",
         "id": "5945"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "103.398757",
-          "1.486816"
-        ]
-      },
-      "properties": {
-        "name": "Pontian Kechil, Malaysia",
-        "id": "14640"
       }
     },
     {
@@ -9812,7 +9798,7 @@
       },
       "properties": {
         "name": "Willemstad, Curaçao",
-        "id": "4275"
+        "id": "10729"
       }
     },
     {
@@ -9826,7 +9812,7 @@
       },
       "properties": {
         "name": "Willemstad, Curaçao",
-        "id": "10729"
+        "id": "4275"
       }
     },
     {
