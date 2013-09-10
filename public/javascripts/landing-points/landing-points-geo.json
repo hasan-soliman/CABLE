@@ -1182,6 +1182,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-3.610902",
+          "50.318844"
+        ]
+      },
+      "properties": {
+        "name": "Blackpool Sands, United Kingdom",
+        "id": "14677"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-3.050744",
           "53.808689"
         ]
@@ -4528,6 +4542,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-2.533451",
+          "49.503402"
+        ]
+      },
+      "properties": {
+        "name": "L'Ancresse Bay,Guernsey",
+        "id": "10380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-66.889636",
           "10.603137"
         ]
@@ -4591,20 +4619,6 @@
       "properties": {
         "name": "Lake Ci, Taiwan",
         "id": "10367"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-2.533451",
-          "49.503402"
-        ]
-      },
-      "properties": {
-        "name": "Lancresse Bay,Guernsey",
-        "id": "10380"
       }
     },
     {
@@ -9798,7 +9812,7 @@
       },
       "properties": {
         "name": "Willemstad, Curaçao",
-        "id": "10729"
+        "id": "4275"
       }
     },
     {
@@ -9812,7 +9826,7 @@
       },
       "properties": {
         "name": "Willemstad, Curaçao",
-        "id": "4275"
+        "id": "10729"
       }
     },
     {
