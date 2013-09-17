@@ -1,0 +1,24 @@
+<div id="side_bar">
+	<div id="header">
+		<a id="telegeography-logo" onclick="window.open(this.href, 'tg'); return false;" href="http://www.telegeography.com/"></a>
+		<h1>Submarine Cable Map</h1>
+		<p>The <a onclick="window.open('http://www.telegeography.com/telecom-resources/submarine-cable-map/index.html','tg'); return false;" href="http://www.telegeography.com/telecom-resources/submarine-cable-map/index.html">Submarine Cable Map</a> is a free resource from TeleGeography. Data contained in this map is drawn from the <a onclick="window.open('http://www.telegeography.com/research-services/global-bandwidth-research-service/index.html','tg'); return false;" href="http://www.telegeography.com/research-services/global-bandwidth-research-service/index.html">Global Bandwidth Research Service</a> and is updated on a regular basis.</p>
+		<p>To learn more about TeleGeography or this map please click <a onclick="window.open('http://www.telegeography.com/telecom-resources/submarine-cable-map/index.html','tg'); return false;" href="http://www.telegeography.com/telecom-resources/submarine-cable-map/index.html">here</a>.</p>
+		<p id="sponsor">
+			<span>Sponsored in part by</span><br />
+			<a id="sponsor-logo" onclick="googleAnalyticsCall('sponsor');" href="http://www.huaweimarine.com/marine/"></a>
+		</p>
+		<div id="footer">
+			<a href="http://www.facebook.com/sharer.php?u=http://www.submarinecablemap.com/" class="facebook"></a>
+			<a href="https://twitter.com/share?original_referer=http%3A%2F%2Fwww.submarinecablemap.com%2F&amp;source=tweetbutton&amp;text=Submarine+Cable+Map&amp;url=http%3A%2F%2Fwww.submarinecablemap.com" class="twitter"></a>
+			<a href="mailto:cablemap@telegeography.com">Feedback</a>
+			<span>All content &#169; 2013 PriMetrica, Inc.</span>
+		</div>
+	</div>
+		<div id="nav" class="ui-widget">
+			<input id="search" />
+		</div>
+	<div id="content">{{outlet}}</div>
+</div>
+<div id="map"></div>
+<div id="updated-on"><a onclick="window.open(this.href,'github'); googleAnalyticsCall('github'); return false;" href="https://github.com/telegeography/www.submarinecablemap.com"></a></div>

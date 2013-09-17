@@ -31,6 +31,23 @@ How did you make the Submarine Cable Map?
 
 We use [Google's Maps API v3.](http://code.google.com/apis/maps/documentation/javascript/) to transform the [Google Fusion Tables](http://www.google.com/fusiontables) into two separate map layers of cable routes and landing points. The interactivity on the map is driven by javascript and was written in-house at TeleGeography.
 
+This interactive map Javascript was created using the [Node.js](http://nodejs.org/) utility [CoffeeScript](http://coffeescript.org/) written by Jeremy Ashkenas, the [Ember](http://emberjs.com/) web application framework, the [HTML5 Boilerplate](http://html5boilerplate.com/) front-end template, the [node-build-script](https://github.com/h5bp/node-build-script) and [node-ember-precompile](https://github.com/gabrielgrant/node-ember-precompile) tools.  The CoffeScript for the map was written in-house at TeleGeography.
+
+Notable Commandline examples:
+
+	# Install ember-precomile from github to get versions correct.
+	npm install --from-git git://github.com/gabrielgrant/node-ember-precompile.git
+	# precompile handlebars templates
+	ember-precompile handlebars/*.handlebars -f src/javascripts/handlebars.tmpl.js
+	
+	# Used watchr to compile coffeescript/handlebars.
+	watchr bin/script.watchr
+	
+	# Watch, server and build using h5bp, very helpful
+	h5bp watch
+	h5bp server
+	h5bp build:minify
+
 
 How can I download the KML or a CSV of the dataset?
 --------------------------------------------------
@@ -39,7 +56,7 @@ Below are links to both of the datasets used for the [Submarine Cable Map](http:
 
 __Submarine Cables:__
 
-[https://www.google.com/fusiontables/DataSource?docid=1BVxUz5t3qDmHJApb6FVckR5mJDOn_xYFocOKWnA#map:id=98](https://www.google.com/fusiontables/DataSource?docid=1BVxUz5t3qDmHJApb6FVckR5mJDOn_xYFocOKWnA#map:id=98)
+[https://www.google.com/fusiontables/DataSource?docid=1pY5tMAMkf36aH-N2VvXPxnmjPblcQnONodZ32fk#rows:id=1](https://www.google.com/fusiontables/DataSource?docid=1pY5tMAMkf36aH-N2VvXPxnmjPblcQnONodZ32fk#rows:id=1)
 
 __To download as KML try the following steps:__
 
@@ -48,7 +65,7 @@ __To download as KML try the following steps:__
 
 __Landing points:__
 
-[https://www.google.com/fusiontables/DataSource?docid=1viJdQy7bRfdGlFuVAEYLrTQ7TClIwtPKCdcpCYY](https://www.google.com/fusiontables/DataSource?docid=1viJdQy7bRfdGlFuVAEYLrTQ7TClIwtPKCdcpCYY)
+[https://www.google.com/fusiontables/DataSource?docid=1y38C_S73_osEB-L60DiRS7JJFARw03SnYzVJtdg#rows:id=1](https://www.google.com/fusiontables/DataSource?docid=1y38C_S73_osEB-L60DiRS7JJFARw03SnYzVJtdg#rows:id=1)
 
 
 __To download as KML try the following steps:__
