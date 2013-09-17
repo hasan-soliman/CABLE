@@ -73,7 +73,7 @@ __To download as KML try the following steps:__
 1. Click 'File' then 'Download'.
 2. Then select the KML radion button and click 'Download'
 
-__Note:__ For landing points, modify the 'Location' dropdown menu to 'coordinates' from 'name', then click 'Download KML' to get the landing point data.
+__Note:__ For landing points, modify the 'Select location' dropdown menu to 'coordinates' from 'id', then click 'Download KML' to get the landing point data.
 
 
 Questions? Corrections?
