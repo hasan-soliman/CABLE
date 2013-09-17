@@ -56,7 +56,7 @@ Below are links to both of the datasets used for the [Submarine Cable Map](http:
 
 __Submarine Cables:__
 
-[https://www.google.com/fusiontables/DataSource?docid=1pY5tMAMkf36aH-N2VvXPxnmjPblcQnONodZ32fk#rows:id=1](https://www.google.com/fusiontables/DataSource?docid=1pY5tMAMkf36aH-N2VvXPxnmjPblcQnONodZ32fk#rows:id=1)
+[https://www.google.com/fusiontables/DataSource?docid=1pY5tMAMkf36aH-N2VvXPxnmjPblcQnONodZ32fk#map:id=3](https://www.google.com/fusiontables/DataSource?docid=1pY5tMAMkf36aH-N2VvXPxnmjPblcQnONodZ32fk#map:id=3)
 
 __To download as KML try the following steps:__
 
@@ -65,13 +65,13 @@ __To download as KML try the following steps:__
 
 __Landing points:__
 
-[https://www.google.com/fusiontables/DataSource?docid=1y38C_S73_osEB-L60DiRS7JJFARw03SnYzVJtdg#rows:id=1](https://www.google.com/fusiontables/DataSource?docid=1y38C_S73_osEB-L60DiRS7JJFARw03SnYzVJtdg#rows:id=1)
+[https://www.google.com/fusiontables/DataSource?docid=1y38C_S73_osEB-L60DiRS7JJFARw03SnYzVJtdg#map:id=3](https://www.google.com/fusiontables/DataSource?docid=1y38C_S73_osEB-L60DiRS7JJFARw03SnYzVJtdg#map:id=3)
 
 
 __To download as KML try the following steps:__
 
-1. Click 'Visualize' then select 'Map'.
-2. Then click the 'Download KML' link available above the map.
+1. Click 'File' then 'Download'.
+2. Then select the KML radion button and click 'Download'
 
 __Note:__ For landing points, modify the 'Location' dropdown menu to 'coordinates' from 'name', then click 'Download KML' to get the landing point data.
 
