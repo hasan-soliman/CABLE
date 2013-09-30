@@ -112,12 +112,10 @@ class SubmarineCable.Map
     # Cable Event
     google.maps.event.addListener @cables, 'click', (event) => 
       jQuery(location).attr('href',"#/submarine-cable/#{event.row.id.value}")
-      @selectCable event.row.id.value, jQuery.parseJSON event.row.description.value
 
     # LandingPoint Event
     google.maps.event.addListener @landing_points, 'click', (event) => 
       jQuery(location).attr('href',"#/landing-point/#{event.row.id.value}")
-      @selectLandingPoint event.row.name.value, event.latLng
 
   constructor: (@element) ->
     @gmap = new google.maps.Map document.getElementById(@element), {
