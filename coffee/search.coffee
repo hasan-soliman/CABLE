@@ -7,7 +7,7 @@ class SubmarineCable.Search
     jQuery.getJSON SubmarineCable.Search.searchJsonPath, (data) =>
       jQuery("#search")
         .autocomplete
-          position: { my : "right top", at: "right bottom" }
+          position: { my : "right top+12", at: "right bottom" }
           source: data
           open: (event, ui) ->
             jQuery(".ui-menu-item a:contains(Connected)").addClass('country')
@@ -21,9 +21,9 @@ class SubmarineCable.Search
 
     # Search Input Focus/Blur
     jQuery("#search").val("Search").focus () ->
-      jQuery(this).toggleClass("focus")
-      if jQuery(this).val() == "Search"
-        jQuery(this).val("")
+      jQuery(this).addClass("focus")
+      jQuery("#nav").addClass("focus")
+      jQuery(this).val("") if jQuery(this).val() == "Search"
     .blur () ->
-      jQuery(this).removeClass("focus")
-      jQuery(this).val("Search")
+      jQuery(this).removeClass("focus").val("Search")
+      jQuery("#nav").removeClass("focus")
