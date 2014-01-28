@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"39.552366","cables":[{"name":"Balalink","id":"balalink","cable_id":1696}],"longitude":"2.605246","name":"Palma, Spain","id":"palma-spain","city_id":4723}
+{"type":"landing_point","city_id":4723,"latitude":"39.552366","longitude":"2.605246","name":"Palma, Spain","id":"palma-spain","cables":[{"cable_id":1696,"name":"Balalink","id":"balalink"}]}

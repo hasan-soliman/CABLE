@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"44.305577","cables":[{"name":"BARSAV","id":"barsav","cable_id":1053},{"name":"Italy-Monaco","id":"italy-monaco","cable_id":1302}],"longitude":"8.483793","name":"Savona, Italy","id":"savona-italy","city_id":5880}
+{"type":"landing_point","city_id":5880,"latitude":"44.305577","longitude":"8.483793","name":"Savona, Italy","id":"savona-italy","cables":[{"cable_id":1053,"name":"BARSAV","id":"barsav"},{"cable_id":1302,"name":"Italy-Monaco","id":"italy-monaco"}]}

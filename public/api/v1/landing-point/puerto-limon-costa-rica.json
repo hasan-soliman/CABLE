@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"9.988570","cables":[{"name":"ARCOS","id":"arcos","cable_id":1078},{"name":"Maya-1","id":"maya-1","cable_id":1071}],"longitude":"-83.037697","name":"Puerto Limon, Costa Rica","id":"puerto-limon-costa-rica","city_id":5810}
+{"type":"landing_point","city_id":5810,"latitude":"9.988570","longitude":"-83.037697","name":"Puerto Limon, Costa Rica","id":"puerto-limon-costa-rica","cables":[{"cable_id":1078,"name":"ARCOS","id":"arcos"},{"cable_id":1071,"name":"Maya-1","id":"maya-1"}]}

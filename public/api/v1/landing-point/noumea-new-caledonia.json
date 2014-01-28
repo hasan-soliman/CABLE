@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"-22.303336","cables":[{"name":"Gondwana-1","id":"gondwana-1","cable_id":1514}],"longitude":"166.439122","name":"Noumea, New Caledonia","id":"noumea-new-caledonia","city_id":5704}
+{"type":"landing_point","city_id":5704,"latitude":"-22.303336","longitude":"166.439122","name":"Noumea, New Caledonia","id":"noumea-new-caledonia","cables":[{"cable_id":1514,"name":"Gondwana-1","id":"gondwana-1"}]}

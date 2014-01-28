@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"54.210637","cables":[{"name":"BT-MT-1","id":"bt-mt-1","cable_id":1752}],"longitude":"-3.357124","name":"Silecroft Beach, United Kingdom","id":"silecroft-beach-united-kingdom","city_id":13375}
+{"type":"landing_point","city_id":13375,"latitude":"54.210637","longitude":"-3.357124","name":"Silecroft Beach, United Kingdom","id":"silecroft-beach-united-kingdom","cables":[{"cable_id":1752,"name":"BT-MT-1","id":"bt-mt-1"}]}

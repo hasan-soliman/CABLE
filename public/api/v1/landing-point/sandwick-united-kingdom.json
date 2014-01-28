@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"59.996026","cables":[{"name":"SHEFA-2","id":"shefa-2","cable_id":1576}],"longitude":"-1.238663","name":"Sandwick, United Kingdom","id":"sandwick-united-kingdom","city_id":8683}
+{"type":"landing_point","city_id":8683,"latitude":"59.996026","longitude":"-1.238663","name":"Sandwick, United Kingdom","id":"sandwick-united-kingdom","cables":[{"cable_id":1576,"name":"SHEFA-2","id":"shefa-2"}]}

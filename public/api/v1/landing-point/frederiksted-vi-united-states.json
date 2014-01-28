@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"17.712426","cables":[{"name":"St. Thomas-St. Croix System","id":"st-thomas-st-croix-system","cable_id":1756}],"longitude":"-64.881549","name":"Frederiksted, VI, United States","id":"frederiksted-vi-united-states","city_id":13397}
+{"type":"landing_point","city_id":13397,"latitude":"17.712426","longitude":"-64.881549","name":"Frederiksted, VI, United States","id":"frederiksted-vi-united-states","cables":[{"cable_id":1756,"name":"St. Thomas-St. Croix System","id":"st-thomas-st-croix-system"}]}

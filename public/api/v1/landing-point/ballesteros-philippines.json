@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"18.409411","cables":[{"name":"Tata TGN-Intra Asia (TGN-IA)","id":"tata-tgn-intra-asia-tgn-ia","cable_id":1534}],"longitude":"121.514047","name":"Ballesteros, Philippines","id":"ballesteros-philippines","city_id":8541}
+{"type":"landing_point","city_id":8541,"latitude":"18.409411","longitude":"121.514047","name":"Ballesteros, Philippines","id":"ballesteros-philippines","cables":[{"cable_id":1534,"name":"Tata TGN-Intra Asia (TGN-IA)","id":"tata-tgn-intra-asia-tgn-ia"}]}

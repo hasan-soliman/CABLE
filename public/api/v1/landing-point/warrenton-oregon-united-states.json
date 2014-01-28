@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"46.165141","cables":[{"name":"Alaska United West","id":"alaska-united-west","cable_id":1348}],"longitude":"-123.923862","name":"Warrenton, Oregon, United States","id":"warrenton-oregon-united-states","city_id":6191}
+{"type":"landing_point","city_id":6191,"latitude":"46.165141","longitude":"-123.923862","name":"Warrenton, Oregon, United States","id":"warrenton-oregon-united-states","cables":[{"cable_id":1348,"name":"Alaska United West","id":"alaska-united-west"}]}

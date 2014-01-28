@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"62.017513","cables":[{"name":"SHEFA-2","id":"shefa-2","cable_id":1576}],"longitude":"-6.771830","name":"Torshavn, Faeroe Islands","id":"torshavn-faeroe-islands","city_id":8681}
+{"type":"landing_point","city_id":8681,"latitude":"62.017513","longitude":"-6.771830","name":"Torshavn, Faeroe Islands","id":"torshavn-faeroe-islands","cables":[{"cable_id":1576,"name":"SHEFA-2","id":"shefa-2"}]}

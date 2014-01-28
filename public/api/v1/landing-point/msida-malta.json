@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"35.898690","cables":[{"name":"Italy-Malta","id":"italy-malta","cable_id":1301}],"longitude":"14.488125","name":"Msida, Malta","id":"msida-malta","city_id":4058}
+{"type":"landing_point","city_id":4058,"latitude":"35.898690","longitude":"14.488125","name":"Msida, Malta","id":"msida-malta","cables":[{"cable_id":1301,"name":"Italy-Malta","id":"italy-malta"}]}

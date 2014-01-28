@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"-0.298361","cables":[{"name":"Dhiraagu Cable Network","id":"dhiraagu-cable-network","cable_id":1746}],"longitude":"73.426889","name":"Fuvahmulah, Maldives","id":"fuvahmulah-maldives","city_id":10817}
+{"type":"landing_point","city_id":10817,"latitude":"-0.298361","longitude":"73.426889","name":"Fuvahmulah, Maldives","id":"fuvahmulah-maldives","cables":[{"cable_id":1746,"name":"Dhiraagu Cable Network","id":"dhiraagu-cable-network"}]}

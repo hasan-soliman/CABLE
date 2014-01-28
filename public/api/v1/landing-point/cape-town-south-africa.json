@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"-33.919086","cables":[{"name":"Africa Coast to Europe (ACE)","id":"africa-coast-to-europe-ace","cable_id":1629}],"longitude":"18.421981","name":"Cape Town, South Africa","id":"cape-town-south-africa","city_id":3921}
+{"type":"landing_point","city_id":3921,"latitude":"-33.919086","longitude":"18.421981","name":"Cape Town, South Africa","id":"cape-town-south-africa","cables":[{"cable_id":1629,"name":"Africa Coast to Europe (ACE)","id":"africa-coast-to-europe-ace"}]}

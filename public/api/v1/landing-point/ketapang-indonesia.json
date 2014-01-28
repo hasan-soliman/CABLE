@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"-1.859074","cables":[{"name":"JaKa2LaDeMa","id":"jaka2ladema","cable_id":1767}],"longitude":"109.971880","name":"Ketapang, Indonesia","id":"ketapang-indonesia","city_id":14607}
+{"type":"landing_point","city_id":14607,"latitude":"-1.859074","longitude":"109.971880","name":"Ketapang, Indonesia","id":"ketapang-indonesia","cables":[{"cable_id":1767,"name":"JaKa2LaDeMa","id":"jaka2ladema"}]}

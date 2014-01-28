@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"-4.050416","cables":[{"name":"Lower Indian Ocean Network 2 (LION2)","id":"lower-indian-ocean-network-2-lion2","cable_id":1667}],"longitude":"39.700055","name":"Nyali, Kenya","id":"nyali-kenya","city_id":10122}
+{"type":"landing_point","city_id":10122,"latitude":"-4.050416","longitude":"39.700055","name":"Nyali, Kenya","id":"nyali-kenya","cables":[{"cable_id":1667,"name":"Lower Indian Ocean Network 2 (LION2)","id":"lower-indian-ocean-network-2-lion2"}]}

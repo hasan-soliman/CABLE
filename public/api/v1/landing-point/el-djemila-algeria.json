@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"36.313387","cables":[{"name":"ALPAL-2","id":"alpal-2","cable_id":1234}],"longitude":"5.734200","name":"El Djemila, Algeria","id":"el-djemila-algeria","city_id":5774}
+{"type":"landing_point","city_id":5774,"latitude":"36.313387","longitude":"5.734200","name":"El Djemila, Algeria","id":"el-djemila-algeria","cables":[{"cable_id":1234,"name":"ALPAL-2","id":"alpal-2"}]}

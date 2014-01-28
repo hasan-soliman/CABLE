@@ -1,1 +1,1 @@
-{"latlon":[{"latlon":"36.155981,-5.347693"}],"landing_points":[{"name":"Gibraltar, Gibraltar","landing_point_id":8948,"id":"gibraltar-gibraltar"}],"cables":[{"name":"Europe India Gateway (EIG)","cable_id":1580,"id":"europe-india-gateway-eig"}],"name":"Gibraltar"}
+{"latlon":[{"latlon":"36.155981,-5.347693"}],"landing_points":[{"landing_point_id":8948,"name":"Gibraltar, Gibraltar","id":"gibraltar-gibraltar"}],"name":"Gibraltar","cables":[{"cable_id":1580,"name":"Europe India Gateway (EIG)","id":"europe-india-gateway-eig"}]}

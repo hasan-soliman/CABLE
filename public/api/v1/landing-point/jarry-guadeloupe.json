@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"16.242965","cables":[{"name":"Global Caribbean Network (GCN)","id":"global-caribbean-network-gcn","cable_id":1619}],"longitude":"-61.554883","name":"Jarry, Guadeloupe","id":"jarry-guadeloupe","city_id":8836}
+{"type":"landing_point","city_id":8836,"latitude":"16.242965","longitude":"-61.554883","name":"Jarry, Guadeloupe","id":"jarry-guadeloupe","cables":[{"cable_id":1619,"name":"Global Caribbean Network (GCN)","id":"global-caribbean-network-gcn"}]}

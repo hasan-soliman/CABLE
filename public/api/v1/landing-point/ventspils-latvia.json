@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"57.389484","cables":[{"name":"BCF-1","id":"bcf-1","cable_id":1364},{"name":"Latvia-Sweden 1 (LV-SE 1)","id":"latvia-sweden-1-lv-se-1","cable_id":1270}],"longitude":"21.570009","name":"Ventspils, Latvia","id":"ventspils-latvia","city_id":5897}
+{"type":"landing_point","city_id":5897,"latitude":"57.389484","longitude":"21.570009","name":"Ventspils, Latvia","id":"ventspils-latvia","cables":[{"cable_id":1364,"name":"BCF-1","id":"bcf-1"},{"cable_id":1270,"name":"Latvia-Sweden 1 (LV-SE 1)","id":"latvia-sweden-1-lv-se-1"}]}

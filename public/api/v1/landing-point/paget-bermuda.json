@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"32.280551","cables":[{"name":"Challenger Bermuda-1 (CB-1)","id":"challenger-bermuda-1-cb-1","cable_id":1596}],"longitude":"-64.788692","name":"Paget, Bermuda","id":"paget-bermuda","city_id":9069}
+{"type":"landing_point","city_id":9069,"latitude":"32.280551","longitude":"-64.788692","name":"Paget, Bermuda","id":"paget-bermuda","cables":[{"cable_id":1596,"name":"Challenger Bermuda-1 (CB-1)","id":"challenger-bermuda-1-cb-1"}]}

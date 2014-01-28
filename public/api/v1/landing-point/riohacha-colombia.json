@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"11.482927","cables":[{"name":"ARCOS","id":"arcos","cable_id":1078}],"longitude":"-72.952744","name":"Riohacha, Colombia","id":"riohacha-colombia","city_id":5807}
+{"type":"landing_point","city_id":5807,"latitude":"11.482927","longitude":"-72.952744","name":"Riohacha, Colombia","id":"riohacha-colombia","cables":[{"cable_id":1078,"name":"ARCOS","id":"arcos"}]}

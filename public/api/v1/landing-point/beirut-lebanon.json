@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"33.892460","cables":[{"name":"BERYTAR","id":"berytar","cable_id":1321},{"name":"CADMOS","id":"cadmos","cable_id":1305},{"name":"EUROPA","id":"europa","cable_id":1708}],"longitude":"35.485217","name":"Beirut, Lebanon","id":"beirut-lebanon","city_id":3862}
+{"type":"landing_point","city_id":3862,"latitude":"33.892460","longitude":"35.485217","name":"Beirut, Lebanon","id":"beirut-lebanon","cables":[{"cable_id":1321,"name":"BERYTAR","id":"berytar"},{"cable_id":1305,"name":"CADMOS","id":"cadmos"},{"cable_id":1708,"name":"EUROPA","id":"europa"}]}

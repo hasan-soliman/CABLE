@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"58.833246","cables":[{"name":"SHEFA-2","id":"shefa-2","cable_id":1576}],"longitude":"-2.900114","name":"Ayre of Caira, United Kingdom","id":"ayre-of-caira-united-kingdom","city_id":8682}
+{"type":"landing_point","city_id":8682,"latitude":"58.833246","longitude":"-2.900114","name":"Ayre of Caira, United Kingdom","id":"ayre-of-caira-united-kingdom","cables":[{"cable_id":1576,"name":"SHEFA-2","id":"shefa-2"}]}

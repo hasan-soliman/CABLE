@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"56.549146","cables":[{"name":"NorSea Com","id":"norsea-com","cable_id":1203}],"longitude":"3.210026","name":"Ekofisk, Norway","id":"ekofisk-norway","city_id":7649}
+{"type":"landing_point","city_id":7649,"latitude":"56.549146","longitude":"3.210026","name":"Ekofisk, Norway","id":"ekofisk-norway","cables":[{"cable_id":1203,"name":"NorSea Com","id":"norsea-com"}]}

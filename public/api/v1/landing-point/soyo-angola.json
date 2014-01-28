@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"-6.140970","cables":[{"name":"Angola Domestic Network System (ADONES)","id":"angola-domestic-network-system-adones","cable_id":1374}],"longitude":"12.352096","name":"Soyo, Angola","id":"soyo-angola","city_id":11503}
+{"type":"landing_point","city_id":11503,"latitude":"-6.140970","longitude":"12.352096","name":"Soyo, Angola","id":"soyo-angola","cables":[{"cable_id":1374,"name":"Angola Domestic Network System (ADONES)","id":"angola-domestic-network-system-adones"}]}

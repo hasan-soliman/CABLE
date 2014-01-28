@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"51.231159","cables":[{"name":"SeaMeWe-3","id":"seamewe-3","cable_id":1031},{"name":"Tangerine","id":"tangerine","cable_id":1324}],"longitude":"2.912630","name":"Ostend, Belgium","id":"ostend-belgium","city_id":5789}
+{"type":"landing_point","city_id":5789,"latitude":"51.231159","longitude":"2.912630","name":"Ostend, Belgium","id":"ostend-belgium","cables":[{"cable_id":1031,"name":"SeaMeWe-3","id":"seamewe-3"},{"cable_id":1324,"name":"Tangerine","id":"tangerine"}]}

@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"38.525108","cables":[{"name":"Flores-Corvo Cable System","id":"flores-corvo-cable-system","cable_id":1782}],"longitude":"-28.647557","name":"Faial, Portugal","id":"faial-portugal","city_id":14659}
+{"type":"landing_point","city_id":14659,"latitude":"38.525108","longitude":"-28.647557","name":"Faial, Portugal","id":"faial-portugal","cables":[{"cable_id":1782,"name":"Flores-Corvo Cable System","id":"flores-corvo-cable-system"}]}

@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"17.900049","cables":[{"name":"Global Caribbean Network (GCN)","id":"global-caribbean-network-gcn","cable_id":1619}],"longitude":"-62.833409","name":"Saint Barthelemy, Guadeloupe","id":"saint-barthelemy-guadeloupe","city_id":7876}
+{"type":"landing_point","city_id":7876,"latitude":"17.900049","longitude":"-62.833409","name":"Saint Barthelemy, Guadeloupe","id":"saint-barthelemy-guadeloupe","cables":[{"cable_id":1619,"name":"Global Caribbean Network (GCN)","id":"global-caribbean-network-gcn"}]}

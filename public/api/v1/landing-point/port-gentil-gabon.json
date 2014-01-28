@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"-0.720989","cables":[{"name":"Libreville-Port Gentil Cable","id":"libreville-port-gentil-cable","cable_id":1747}],"longitude":"8.781641","name":"Port Gentil, Gabon","id":"port-gentil-gabon","city_id":10818}
+{"type":"landing_point","city_id":10818,"latitude":"-0.720989","longitude":"8.781641","name":"Port Gentil, Gabon","id":"port-gentil-gabon","cables":[{"cable_id":1747,"name":"Libreville-Port Gentil Cable","id":"libreville-port-gentil-cable"}]}

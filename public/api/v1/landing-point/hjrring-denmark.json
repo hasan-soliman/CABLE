@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"57.456140","cables":[{"name":"Denmark-Norway 5","id":"denmark-norway-5","cable_id":1326}],"longitude":"9.995618","name":"Hjørring, Denmark","id":"hjrring-denmark","city_id":5821}
+{"type":"landing_point","city_id":5821,"latitude":"57.456140","longitude":"9.995618","name":"Hjørring, Denmark","id":"hjrring-denmark","cables":[{"cable_id":1326,"name":"Denmark-Norway 5","id":"denmark-norway-5"}]}

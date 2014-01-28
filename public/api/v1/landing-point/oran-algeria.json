@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"35.701630","cables":[{"name":"Algeria-Spain","id":"algeria-spain","cable_id":1664},{"name":"Med Cable Network","id":"med-cable-network","cable_id":1366}],"longitude":"-0.641964","name":"Oran, Algeria","id":"oran-algeria","city_id":8359}
+{"type":"landing_point","city_id":8359,"latitude":"35.701630","longitude":"-0.641964","name":"Oran, Algeria","id":"oran-algeria","cables":[{"cable_id":1366,"name":"Med Cable Network","id":"med-cable-network"},{"cable_id":1664,"name":"Oran-Valencia (ORVAL)","id":"oran-valencia-orval"}]}

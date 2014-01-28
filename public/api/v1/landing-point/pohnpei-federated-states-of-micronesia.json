@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"7.786486","cables":[{"name":"HANTRU1 Cable System","id":"hantru1-cable-system","cable_id":1605}],"longitude":"159.070234","name":"Pohnpei, Federated States of Micronesia","id":"pohnpei-federated-states-of-micronesia","city_id":9062}
+{"type":"landing_point","city_id":9062,"latitude":"7.786486","longitude":"159.070234","name":"Pohnpei, Federated States of Micronesia","id":"pohnpei-federated-states-of-micronesia","cables":[{"cable_id":1605,"name":"HANTRU1 Cable System","id":"hantru1-cable-system"}]}

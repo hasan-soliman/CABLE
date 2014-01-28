@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"10.629941","cables":[{"name":"Malaysia-Cambodia-Thailand (MCT) Cable","id":"malaysia-cambodia-thailand-mct-cable","cable_id":1776}],"longitude":"103.506673","name":"Sihanoukville, Cambodia","id":"sihanoukville-cambodia","city_id":9118}
+{"type":"landing_point","city_id":9118,"latitude":"10.629941","longitude":"103.506673","name":"Sihanoukville, Cambodia","id":"sihanoukville-cambodia","cables":[{"cable_id":1776,"name":"Malaysia-Cambodia-Thailand (MCT) Cable","id":"malaysia-cambodia-thailand-mct-cable"}]}

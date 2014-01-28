@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"35.299080","cables":[{"name":"Turcyos-1","id":"turcyos-1","cable_id":1341}],"longitude":"33.236354","name":"Girne, Cyprus","id":"girne-cyprus","city_id":9661}
+{"type":"landing_point","city_id":9661,"latitude":"35.299080","longitude":"33.236354","name":"Girne, Cyprus","id":"girne-cyprus","cables":[{"cable_id":1341,"name":"Turcyos-1","id":"turcyos-1"}]}

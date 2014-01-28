@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"4.211915","cables":[{"name":"Dhiraagu Cable Network","id":"dhiraagu-cable-network","cable_id":1746}],"longitude":"73.540226","name":"Hulhumale, Maldives","id":"hulhumale-maldives","city_id":9215}
+{"type":"landing_point","city_id":9215,"latitude":"4.211915","longitude":"73.540226","name":"Hulhumale, Maldives","id":"hulhumale-maldives","cables":[{"cable_id":1746,"name":"Dhiraagu Cable Network","id":"dhiraagu-cable-network"}]}

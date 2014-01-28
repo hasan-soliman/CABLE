@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"15.303345","cables":[{"name":"Global Caribbean Network (GCN)","id":"global-caribbean-network-gcn","cable_id":1619}],"longitude":"-61.384828","name":"Canefield, Dominica","id":"canefield-dominica","city_id":8835}
+{"type":"landing_point","city_id":8835,"latitude":"15.303345","longitude":"-61.384828","name":"Canefield, Dominica","id":"canefield-dominica","cables":[{"cable_id":1619,"name":"Global Caribbean Network (GCN)","id":"global-caribbean-network-gcn"}]}

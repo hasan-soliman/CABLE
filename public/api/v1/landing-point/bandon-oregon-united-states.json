@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"43.118504","cables":[{"name":"China-U.S. Cable Network (CHUS)","id":"china-u-s-cable-network-chus","cable_id":1146}],"longitude":"-124.408279","name":"Bandon, Oregon, United States","id":"bandon-oregon-united-states","city_id":3554}
+{"type":"landing_point","city_id":3554,"latitude":"43.118504","longitude":"-124.408279","name":"Bandon, Oregon, United States","id":"bandon-oregon-united-states","cables":[{"cable_id":1146,"name":"China-U.S. Cable Network (CHUS)","id":"china-u-s-cable-network-chus"}]}

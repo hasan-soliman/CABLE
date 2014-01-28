@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"43.615519","cables":[{"name":"Georgia-Russia","id":"georgia-russia","cable_id":1192}],"longitude":"39.725855","name":"Sochi, Russia","id":"sochi-russia","city_id":5092}
+{"type":"landing_point","city_id":5092,"latitude":"43.615519","longitude":"39.725855","name":"Sochi, Russia","id":"sochi-russia","cables":[{"cable_id":1192,"name":"Georgia-Russia","id":"georgia-russia"}]}

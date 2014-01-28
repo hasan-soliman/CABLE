@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"30.306345","cables":[{"name":"Asia Pacific Gateway (APG)","id":"asia-pacific-gateway-apg","cable_id":1617}],"longitude":"121.191404","name":"Nanhui, China","id":"nanhui-china","city_id":5804}
+{"type":"landing_point","city_id":5804,"latitude":"30.306345","longitude":"121.191404","name":"Nanhui, China","id":"nanhui-china","cables":[{"cable_id":1617,"name":"Asia Pacific Gateway (APG)","id":"asia-pacific-gateway-apg"}]}

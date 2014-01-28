@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"3.751742","cables":[{"name":"SeaMeWe-3","id":"seamewe-3","cable_id":1031}],"longitude":"98.676063","name":"Medan, Indonesia","id":"medan-indonesia","city_id":5861}
+{"type":"landing_point","city_id":5861,"latitude":"3.751742","longitude":"98.676063","name":"Medan, Indonesia","id":"medan-indonesia","cables":[{"cable_id":1031,"name":"SeaMeWe-3","id":"seamewe-3"}]}

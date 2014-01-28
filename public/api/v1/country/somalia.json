@@ -1,1 +1,1 @@
-{"latlon":[{"latlon":"2.041152,45.344200"}],"landing_points":[{"name":"Mogadishu, Somalia","landing_point_id":4255,"id":"mogadishu-somalia"}],"cables":[{"name":"Eastern Africa Submarine System (EASSy)","cable_id":1246,"id":"eastern-africa-submarine-system-eassy"}],"name":"Somalia"}
+{"latlon":[{"latlon":"2.041152,45.344200"}],"landing_points":[{"landing_point_id":4255,"name":"Mogadishu, Somalia","id":"mogadishu-somalia"}],"name":"Somalia","cables":[{"cable_id":1246,"name":"Eastern Africa Submarine System (EASSy)","id":"eastern-africa-submarine-system-eassy"}]}

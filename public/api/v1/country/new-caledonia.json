@@ -1,1 +1,1 @@
-{"latlon":[{"latlon":"-22.303336,166.439122"}],"landing_points":[{"name":"Noumea, New Caledonia","landing_point_id":5704,"id":"noumea-new-caledonia"}],"cables":[{"name":"Gondwana-1","cable_id":1514,"id":"gondwana-1"}],"name":"New Caledonia"}
+{"latlon":[{"latlon":"-22.303336,166.439122"}],"landing_points":[{"landing_point_id":5704,"name":"Noumea, New Caledonia","id":"noumea-new-caledonia"}],"name":"New Caledonia","cables":[{"cable_id":1514,"name":"Gondwana-1","id":"gondwana-1"}]}

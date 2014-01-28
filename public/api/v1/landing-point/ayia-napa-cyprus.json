@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"34.983263","cables":[{"name":"CIOS","id":"cios","cable_id":1304}],"longitude":"33.999996","name":"Ayia Napa, Cyprus","id":"ayia-napa-cyprus","city_id":6029}
+{"type":"landing_point","city_id":6029,"latitude":"34.983263","longitude":"33.999996","name":"Ayia Napa, Cyprus","id":"ayia-napa-cyprus","cables":[{"cable_id":1304,"name":"CIOS","id":"cios"}]}

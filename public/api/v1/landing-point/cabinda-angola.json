@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"-5.556619","cables":[{"name":"Angola Domestic Network System (ADONES)","id":"angola-domestic-network-system-adones","cable_id":1374}],"longitude":"12.189771","name":"Cabinda, Angola","id":"cabinda-angola","city_id":10857}
+{"type":"landing_point","city_id":10857,"latitude":"-5.556619","longitude":"12.189771","name":"Cabinda, Angola","id":"cabinda-angola","cables":[{"cable_id":1374,"name":"Angola Domestic Network System (ADONES)","id":"angola-domestic-network-system-adones"}]}

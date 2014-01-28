@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"63.095165","cables":[{"name":"Botnia","id":"botnia","cable_id":1271}],"longitude":"21.616387","name":"Vaasa, Finland","id":"vaasa-finland","city_id":5052}
+{"type":"landing_point","city_id":5052,"latitude":"63.095165","longitude":"21.616387","name":"Vaasa, Finland","id":"vaasa-finland","cables":[{"cable_id":1271,"name":"Botnia","id":"botnia"}]}

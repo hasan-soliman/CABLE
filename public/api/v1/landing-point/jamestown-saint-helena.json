@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"-15.922152","cables":[{"name":"South Atlantic Express (SAEx)","id":"south-atlantic-express-saex","cable_id":1669}],"longitude":"-5.704668","name":"Jamestown, Saint Helena","id":"jamestown-saint-helena","city_id":10722}
+{"type":"landing_point","city_id":10722,"latitude":"-15.922152","longitude":"-5.704668","name":"Jamestown, Saint Helena","id":"jamestown-saint-helena","cables":[{"cable_id":1669,"name":"South Atlantic Express (SAEx)","id":"south-atlantic-express-saex"}]}

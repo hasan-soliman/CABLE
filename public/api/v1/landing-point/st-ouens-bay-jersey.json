@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"49.215694","cables":[{"name":"UK-Channel Islands-8","id":"uk-channel-islands-8","cable_id":1704}],"longitude":"-2.225916","name":"St. Ouens Bay, Jersey","id":"st-ouens-bay-jersey","city_id":10379}
+{"type":"landing_point","city_id":10379,"latitude":"49.215694","longitude":"-2.225916","name":"St. Ouens Bay, Jersey","id":"st-ouens-bay-jersey","cables":[{"cable_id":1704,"name":"UK-Channel Islands-8","id":"uk-channel-islands-8"}]}

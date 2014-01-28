@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"29.531761","cables":[{"name":"FLAG Europe-Asia (FEA)","id":"flag-europe-asia-fea","cable_id":1027}],"longitude":"35.006975","name":"Aqaba, Jordan","id":"aqaba-jordan","city_id":4363}
+{"type":"landing_point","city_id":4363,"latitude":"29.531761","longitude":"35.006975","name":"Aqaba, Jordan","id":"aqaba-jordan","cables":[{"cable_id":1027,"name":"FLAG Europe-Asia (FEA)","id":"flag-europe-asia-fea"}]}

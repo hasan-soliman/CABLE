@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"8.949969","cables":[{"name":"Pacific Caribbean Cable System (PCCS)","id":"pacific-caribbean-cable-system-pccs","cable_id":1727}],"longitude":"-79.566674","name":"Balboa, Panama","id":"balboa-panama","city_id":8722}
+{"type":"landing_point","city_id":8722,"latitude":"8.949969","longitude":"-79.566674","name":"Balboa, Panama","id":"balboa-panama","cables":[{"cable_id":1727,"name":"Pacific Caribbean Cable System (PCCS)","id":"pacific-caribbean-cable-system-pccs"}]}

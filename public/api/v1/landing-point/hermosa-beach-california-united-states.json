@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"33.862244","cables":[{"name":"APX-East","id":"apx-east","cable_id":1743}],"longitude":"-118.399530","name":"Hermosa Beach, California, United States","id":"hermosa-beach-california-united-states","city_id":4966}
+{"type":"landing_point","city_id":4966,"latitude":"33.862244","longitude":"-118.399530","name":"Hermosa Beach, California, United States","id":"hermosa-beach-california-united-states","cables":[{"cable_id":1743,"name":"APX-East","id":"apx-east"}]}

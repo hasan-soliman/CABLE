@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"54.150305","cables":[{"name":"E-LLAN","id":"e-llan","cable_id":1753}],"longitude":"-4.480904","name":"Douglas, Isle of Man, United Kingdom","id":"douglas-isle-of-man-united-kingdom","city_id":3171}
+{"type":"landing_point","city_id":3171,"latitude":"54.150305","longitude":"-4.480904","name":"Douglas, Isle of Man, United Kingdom","id":"douglas-isle-of-man-united-kingdom","cables":[{"cable_id":1753,"name":"E-LLAN","id":"e-llan"}]}

@@ -1,1 +1,1 @@
-{"latlon":[{"latlon":"4.941325,-52.321060"}],"landing_points":[{"name":"Cayenne, French Guiana","landing_point_id":5575,"id":"cayenne-french-guiana"}],"cables":[{"name":"Americas-II","cable_id":1148,"id":"americas-ii"}],"name":"French Guiana"}
+{"latlon":[{"latlon":"4.941325,-52.321060"}],"landing_points":[{"landing_point_id":5575,"name":"Cayenne, French Guiana","id":"cayenne-french-guiana"}],"name":"French Guiana","cables":[{"cable_id":1148,"name":"Americas-II","id":"americas-ii"}]}

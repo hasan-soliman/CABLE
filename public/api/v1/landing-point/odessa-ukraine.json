@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"46.488989","cables":[{"name":"ITUR","id":"itur","cable_id":1300}],"longitude":"30.677495","name":"Odessa, Ukraine","id":"odessa-ukraine","city_id":5355}
+{"type":"landing_point","city_id":5355,"latitude":"46.488989","longitude":"30.677495","name":"Odessa, Ukraine","id":"odessa-ukraine","cables":[{"cable_id":1300,"name":"ITUR","id":"itur"}]}

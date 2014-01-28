@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"-17.730419","cables":[{"name":"Interchange Cable Network (ICN)","id":"interchange-cable-network-icn","cable_id":1682}],"longitude":"168.322880","name":"Port Vila, Vanuatu","id":"port-vila-vanuatu","city_id":9086}
+{"type":"landing_point","city_id":9086,"latitude":"-17.730419","longitude":"168.322880","name":"Port Vila, Vanuatu","id":"port-vila-vanuatu","cables":[{"cable_id":1682,"name":"Interchange Cable Network 1 (ICN1)","id":"interchange-cable-network-1-icn1"}]}

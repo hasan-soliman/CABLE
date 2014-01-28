@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"54.542716","cables":[{"name":"Lanis-2","id":"lanis-2","cable_id":1751}],"longitude":"-5.484370","name":"Ballywater, United Kingdom","id":"ballywater-united-kingdom","city_id":13371}
+{"type":"landing_point","city_id":13371,"latitude":"54.542716","longitude":"-5.484370","name":"Ballywater, United Kingdom","id":"ballywater-united-kingdom","cables":[{"cable_id":1751,"name":"Lanis-2","id":"lanis-2"}]}

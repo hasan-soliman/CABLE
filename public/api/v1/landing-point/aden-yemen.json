@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"12.800704","cables":[{"name":"Aden-Djibouti","id":"aden-djibouti","cable_id":1307}],"longitude":"45.033503","name":"Aden, Yemen","id":"aden-yemen","city_id":5969}
+{"type":"landing_point","city_id":5969,"latitude":"12.800704","longitude":"45.033503","name":"Aden, Yemen","id":"aden-yemen","cables":[{"cable_id":1307,"name":"Aden-Djibouti","id":"aden-djibouti"}]}

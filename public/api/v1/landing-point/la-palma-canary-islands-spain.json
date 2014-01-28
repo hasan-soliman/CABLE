@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"28.663215","cables":[{"name":"Canalink","id":"canalink","cable_id":1666}],"longitude":"-17.765232","name":"La Palma, Canary Islands, Spain","id":"la-palma-canary-islands-spain","city_id":7776}
+{"type":"landing_point","city_id":7776,"latitude":"28.663215","longitude":"-17.765232","name":"La Palma, Canary Islands, Spain","id":"la-palma-canary-islands-spain","cables":[{"cable_id":1666,"name":"Canalink","id":"canalink"}]}

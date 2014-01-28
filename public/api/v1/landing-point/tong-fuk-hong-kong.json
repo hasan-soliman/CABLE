@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"22.227320","cables":[{"name":"FLAG North Asia Loop/REACH North Asia Loop","id":"flag-north-asia-loopreach-north-asia-loop","cable_id":1150}],"longitude":"113.932137","name":"Tong Fuk, Hong Kong","id":"tong-fuk-hong-kong","city_id":5855}
+{"type":"landing_point","city_id":5855,"latitude":"22.227320","longitude":"113.932137","name":"Tong Fuk, Hong Kong","id":"tong-fuk-hong-kong","cables":[{"cable_id":1150,"name":"FLAG North Asia Loop/REACH North Asia Loop","id":"flag-north-asia-loopreach-north-asia-loop"}]}

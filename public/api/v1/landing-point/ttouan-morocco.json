@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"35.565908","cables":[{"name":"Estepona-Tetouan","id":"estepona-tetouan","cable_id":1251},{"name":"SeaMeWe-3","id":"seamewe-3","cable_id":1031}],"longitude":"-5.391813","name":"Tétouan, Morocco","id":"ttouan-morocco","city_id":5909}
+{"type":"landing_point","city_id":5909,"latitude":"35.565908","longitude":"-5.391813","name":"Tétouan, Morocco","id":"ttouan-morocco","cables":[{"cable_id":1251,"name":"Estepona-Tetouan","id":"estepona-tetouan"},{"cable_id":1031,"name":"SeaMeWe-3","id":"seamewe-3"}]}

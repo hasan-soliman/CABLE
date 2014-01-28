@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"34.053380","cables":[{"name":"Tata TGN-Pacific","id":"tata-tgn-pacific","cable_id":1155}],"longitude":"-118.245336","name":"Los Angeles, California, United States","id":"los-angeles-california-united-states","city_id":3678}
+{"type":"landing_point","city_id":3678,"latitude":"34.053380","longitude":"-118.245336","name":"Los Angeles, California, United States","id":"los-angeles-california-united-states","cables":[{"cable_id":1155,"name":"Tata TGN-Pacific","id":"tata-tgn-pacific"}]}

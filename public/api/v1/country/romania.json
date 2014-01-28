@@ -1,1 +1,1 @@
-{"latlon":[{"latlon":"43.817196,28.582725"}],"landing_points":[{"name":"Mangalia, Romania","landing_point_id":6059,"id":"mangalia-romania"}],"cables":[{"name":"KAFOS","cable_id":1333,"id":"kafos"}],"name":"Romania"}
+{"latlon":[{"latlon":"43.817196,28.582725"}],"landing_points":[{"landing_point_id":6059,"name":"Mangalia, Romania","id":"mangalia-romania"}],"name":"Romania","cables":[{"cable_id":1333,"name":"KAFOS","id":"kafos"}]}

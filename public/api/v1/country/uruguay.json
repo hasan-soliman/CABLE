@@ -1,1 +1,1 @@
-{"latlon":[{"latlon":"-34.900367,-54.950189"}],"landing_points":[{"name":"Maldonado, Uruguay","landing_point_id":5963,"id":"maldonado-uruguay"}],"cables":[{"name":"Unisur","cable_id":1132,"id":"unisur"},{"name":"Bicentenario","cable_id":1633,"id":"bicentenario"}],"name":"Uruguay"}
+{"latlon":[{"latlon":"-34.900367,-54.950189"}],"landing_points":[{"landing_point_id":5963,"name":"Maldonado, Uruguay","id":"maldonado-uruguay"}],"name":"Uruguay","cables":[{"cable_id":1132,"name":"Unisur","id":"unisur"},{"cable_id":1633,"name":"Bicentenario","id":"bicentenario"}]}

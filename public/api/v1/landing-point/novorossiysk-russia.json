@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"44.723588","cables":[{"name":"Georgia-Russia","id":"georgia-russia","cable_id":1192},{"name":"ITUR","id":"itur","cable_id":1300}],"longitude":"37.772831","name":"Novorossiysk, Russia","id":"novorossiysk-russia","city_id":5117}
+{"type":"landing_point","city_id":5117,"latitude":"44.723588","longitude":"37.772831","name":"Novorossiysk, Russia","id":"novorossiysk-russia","cables":[{"cable_id":1192,"name":"Georgia-Russia","id":"georgia-russia"},{"cable_id":1300,"name":"ITUR","id":"itur"}]}

@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"39.011080","cables":[{"name":"Flores-Corvo Cable System","id":"flores-corvo-cable-system","cable_id":1782}],"longitude":"-27.963471","name":"Graciosa, Portugal","id":"graciosa-portugal","city_id":14658}
+{"type":"landing_point","city_id":14658,"latitude":"39.011080","longitude":"-27.963471","name":"Graciosa, Portugal","id":"graciosa-portugal","cables":[{"cable_id":1782,"name":"Flores-Corvo Cable System","id":"flores-corvo-cable-system"}]}

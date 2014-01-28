@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"49.335656","cables":[{"name":"FastnetConnect","id":"fastnetconnect","cable_id":1734}],"longitude":"-1.699990","name":"Portbail, France","id":"portbail-france","city_id":14704}
+{"type":"landing_point","city_id":14704,"latitude":"49.335656","longitude":"-1.699990","name":"Portbail, France","id":"portbail-france","cables":[{"cable_id":1734,"name":"FastnetConnect","id":"fastnetconnect"}]}

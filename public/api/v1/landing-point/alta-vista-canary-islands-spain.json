@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"27.999558","cables":[{"name":"SAT-3/WASC","id":"sat-3wasc","cable_id":1219}],"longitude":"-15.699976","name":"Alta Vista, Canary Islands, Spain","id":"alta-vista-canary-islands-spain","city_id":10726}
+{"type":"landing_point","city_id":10726,"latitude":"27.999558","longitude":"-15.699976","name":"Alta Vista, Canary Islands, Spain","id":"alta-vista-canary-islands-spain","cables":[{"cable_id":1219,"name":"SAT-3/WASC","id":"sat-3wasc"}]}

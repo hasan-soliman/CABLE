@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"42.463681","cables":[{"name":"Hibernia Atlantic","id":"hibernia-atlantic","cable_id":1080}],"longitude":"-70.950280","name":"Lynn, Massachusetts, United States","id":"lynn-massachusetts-united-states","city_id":3683}
+{"type":"landing_point","city_id":3683,"latitude":"42.463681","longitude":"-70.950280","name":"Lynn, Massachusetts, United States","id":"lynn-massachusetts-united-states","cables":[{"cable_id":1080,"name":"Hibernia Atlantic","id":"hibernia-atlantic"}]}

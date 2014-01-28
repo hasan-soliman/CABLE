@@ -1,1 +1,1 @@
-{"latlon":[{"latlon":"-15.922152,-5.704668"}],"landing_points":[{"name":"Jamestown, Saint Helena","landing_point_id":10722,"id":"jamestown-saint-helena"}],"cables":[{"name":"South Atlantic Express (SAEx)","cable_id":1669,"id":"south-atlantic-express-saex"}],"name":"Saint Helena"}
+{"latlon":[{"latlon":"-15.922152,-5.704668"}],"landing_points":[{"landing_point_id":10722,"name":"Jamestown, Saint Helena","id":"jamestown-saint-helena"}],"name":"Saint Helena","cables":[{"cable_id":1669,"name":"South Atlantic Express (SAEx)","id":"south-atlantic-express-saex"}]}

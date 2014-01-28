@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"54.191363","cables":[{"name":"Germany-Denmark 3","id":"germany-denmark-3","cable_id":1764}],"longitude":"12.149516","name":"Markgrafenheide, Germany","id":"markgrafenheide-germany","city_id":14585}
+{"type":"landing_point","city_id":14585,"latitude":"54.191363","longitude":"12.149516","name":"Markgrafenheide, Germany","id":"markgrafenheide-germany","cables":[{"cable_id":1764,"name":"Germany-Denmark 3","id":"germany-denmark-3"}]}

@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"14.286227","cables":[{"name":"EAC-C2C","id":"eac-c2c","cable_id":1592}],"longitude":"120.820174","name":"Cavite, Philippines","id":"cavite-philippines","city_id":5931}
+{"type":"landing_point","city_id":5931,"latitude":"14.286227","longitude":"120.820174","name":"Cavite, Philippines","id":"cavite-philippines","cables":[{"cable_id":1592,"name":"EAC-C2C","id":"eac-c2c"}]}

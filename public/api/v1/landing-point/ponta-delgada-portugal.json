@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"37.739281","cables":[{"name":"Columbus-III","id":"columbus-iii","cable_id":1046}],"longitude":"-25.668781","name":"Ponta Delgada, Portugal","id":"ponta-delgada-portugal","city_id":5945}
+{"type":"landing_point","city_id":5945,"latitude":"37.739281","longitude":"-25.668781","name":"Ponta Delgada, Portugal","id":"ponta-delgada-portugal","cables":[{"cable_id":1046,"name":"Columbus-III","id":"columbus-iii"}]}

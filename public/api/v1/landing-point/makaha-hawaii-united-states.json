@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"21.460265","cables":[{"name":"Japan-U.S. Cable Network (JUS)","id":"japan-u-s-cable-network-jus","cable_id":1010}],"longitude":"-158.206036","name":"Makaha, Hawaii, United States","id":"makaha-hawaii-united-states","city_id":5760}
+{"type":"landing_point","city_id":5760,"latitude":"21.460265","longitude":"-158.206036","name":"Makaha, Hawaii, United States","id":"makaha-hawaii-united-states","cables":[{"cable_id":1010,"name":"Japan-U.S. Cable Network (JUS)","id":"japan-u-s-cable-network-jus"}]}

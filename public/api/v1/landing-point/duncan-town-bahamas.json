@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"22.183250","cables":[{"name":"Bahamas Domestic Submarine Network (BDSNi)","id":"bahamas-domestic-submarine-network-bdsni","cable_id":1510}],"longitude":"-75.733457","name":"Duncan Town, Bahamas","id":"duncan-town-bahamas","city_id":10361}
+{"type":"landing_point","city_id":10361,"latitude":"22.183250","longitude":"-75.733457","name":"Duncan Town, Bahamas","id":"duncan-town-bahamas","cables":[{"cable_id":1510,"name":"Bahamas Domestic Submarine Network (BDSNi)","id":"bahamas-domestic-submarine-network-bdsni"}]}

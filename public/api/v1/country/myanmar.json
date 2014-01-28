@@ -1,1 +1,1 @@
-{"latlon":[{"latlon":"16.282216,95.682028"}],"landing_points":[{"name":"Pyapon, Myanmar","landing_point_id":5911,"id":"pyapon-myanmar"}],"cables":[{"name":"SeaMeWe-3","cable_id":1031,"id":"seamewe-3"}],"name":"Myanmar"}
+{"latlon":[{"latlon":"16.282216,95.682028"}],"landing_points":[{"landing_point_id":5911,"name":"Pyapon, Myanmar","id":"pyapon-myanmar"}],"name":"Myanmar","cables":[{"cable_id":1031,"name":"SeaMeWe-3","id":"seamewe-3"}]}

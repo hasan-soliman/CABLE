@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"54.100011","cables":[{"name":"Lanis-1","id":"lanis-1","cable_id":1616}],"longitude":"-4.566684","name":"Port Grenaugh, United Kingdom","id":"port-grenaugh-united-kingdom","city_id":13370}
+{"type":"landing_point","city_id":13370,"latitude":"54.100011","longitude":"-4.566684","name":"Port Grenaugh, United Kingdom","id":"port-grenaugh-united-kingdom","cables":[{"cable_id":1616,"name":"Lanis-1","id":"lanis-1"}]}

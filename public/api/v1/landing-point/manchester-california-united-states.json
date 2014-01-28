@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"38.969219","cables":[{"name":"Japan-U.S. Cable Network (JUS)","id":"japan-u-s-cable-network-jus","cable_id":1010}],"longitude":"-123.687000","name":"Manchester, California, United States","id":"manchester-california-united-states","city_id":3687}
+{"type":"landing_point","city_id":3687,"latitude":"38.969219","longitude":"-123.687000","name":"Manchester, California, United States","id":"manchester-california-united-states","cables":[{"cable_id":1010,"name":"Japan-U.S. Cable Network (JUS)","id":"japan-u-s-cable-network-jus"}]}

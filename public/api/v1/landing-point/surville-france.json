@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"49.283254","cables":[{"name":"INGRID","id":"ingrid","cable_id":1700}],"longitude":"-1.649997","name":"Surville, France","id":"surville-france","city_id":10378}
+{"type":"landing_point","city_id":10378,"latitude":"49.283254","longitude":"-1.649997","name":"Surville, France","id":"surville-france","cables":[{"cable_id":1700,"name":"INGRID","id":"ingrid"}]}

@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"52.616395","cables":[{"name":"UK-Netherlands 14","id":"uk-netherlands-14","cable_id":1365}],"longitude":"4.616394","name":"Egmond, Netherlands","id":"egmond-netherlands","city_id":8409}
+{"type":"landing_point","city_id":8409,"latitude":"52.616395","longitude":"4.616394","name":"Egmond, Netherlands","id":"egmond-netherlands","cables":[{"cable_id":1365,"name":"UK-Netherlands 14","id":"uk-netherlands-14"}]}

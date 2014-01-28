@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"18.092792","cables":[{"name":"Global Caribbean Network (GCN)","id":"global-caribbean-network-gcn","cable_id":1619}],"longitude":"-63.050094","name":"Saint Martin, Guadeloupe","id":"saint-martin-guadeloupe","city_id":7875}
+{"type":"landing_point","city_id":7875,"latitude":"18.092792","longitude":"-63.050094","name":"Saint Martin, Guadeloupe","id":"saint-martin-guadeloupe","cables":[{"cable_id":1619,"name":"Global Caribbean Network (GCN)","id":"global-caribbean-network-gcn"}]}

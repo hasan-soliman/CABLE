@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"10.606149","cables":[{"name":"Americas-II","id":"americas-ii","cable_id":1148}],"longitude":"-66.878292","name":"Camuri, Venezuela","id":"camuri-venezuela","city_id":5966}
+{"type":"landing_point","city_id":5966,"latitude":"10.606149","longitude":"-66.878292","name":"Camuri, Venezuela","id":"camuri-venezuela","cables":[{"cable_id":1148,"name":"Americas-II","id":"americas-ii"}]}

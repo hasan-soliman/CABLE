@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"55.012627","cables":[{"name":"Denmark-Poland 2","id":"denmark-poland-2","cable_id":1262}],"longitude":"14.966669","name":"Gedebak Odde, Denmark","id":"gedebak-odde-denmark","city_id":5994}
+{"type":"landing_point","city_id":5994,"latitude":"55.012627","longitude":"14.966669","name":"Gedebak Odde, Denmark","id":"gedebak-odde-denmark","cables":[{"cable_id":1262,"name":"Denmark-Poland 2","id":"denmark-poland-2"}]}

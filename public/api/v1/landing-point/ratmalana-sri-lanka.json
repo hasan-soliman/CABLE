@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"6.820364","cables":[{"name":"Bay of Bengal Gateway (BBG)","id":"bay-of-bengal-gateway-bbg","cable_id":1735}],"longitude":"79.889286","name":"Ratmalana, Sri Lanka","id":"ratmalana-sri-lanka","city_id":14621}
+{"type":"landing_point","city_id":14621,"latitude":"6.820364","longitude":"79.889286","name":"Ratmalana, Sri Lanka","id":"ratmalana-sri-lanka","cables":[{"cable_id":1735,"name":"Bay of Bengal Gateway (BBG)","id":"bay-of-bengal-gateway-bbg"}]}

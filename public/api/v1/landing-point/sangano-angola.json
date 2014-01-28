@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"-8.812863","cables":[{"name":"West African Cable System (WACS)","id":"west-african-cable-system-wacs","cable_id":1560}],"longitude":"13.234998","name":"Sangano, Angola","id":"sangano-angola","city_id":10727}
+{"type":"landing_point","city_id":10727,"latitude":"-8.812863","longitude":"13.234998","name":"Sangano, Angola","id":"sangano-angola","cables":[{"cable_id":1560,"name":"West African Cable System (WACS)","id":"west-african-cable-system-wacs"}]}

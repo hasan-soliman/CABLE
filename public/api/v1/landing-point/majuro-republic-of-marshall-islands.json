@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"7.116204","cables":[{"name":"HANTRU1 Cable System","id":"hantru1-cable-system","cable_id":1605}],"longitude":"171.185608","name":"Majuro, Republic of Marshall Islands","id":"majuro-republic-of-marshall-islands","city_id":9060}
+{"type":"landing_point","city_id":9060,"latitude":"7.116204","longitude":"171.185608","name":"Majuro, Republic of Marshall Islands","id":"majuro-republic-of-marshall-islands","cables":[{"cable_id":1605,"name":"HANTRU1 Cable System","id":"hantru1-cable-system"}]}

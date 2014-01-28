@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"-12.580077","cables":[{"name":"Angola Domestic Network System (ADONES)","id":"angola-domestic-network-system-adones","cable_id":1374}],"longitude":"13.407763","name":"Benguela, Angola","id":"benguela-angola","city_id":11506}
+{"type":"landing_point","city_id":11506,"latitude":"-12.580077","longitude":"13.407763","name":"Benguela, Angola","id":"benguela-angola","cables":[{"cable_id":1374,"name":"Angola Domestic Network System (ADONES)","id":"angola-domestic-network-system-adones"}]}

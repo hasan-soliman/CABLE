@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"35.144082","cables":[{"name":"FLAG Europe-Asia (FEA)","id":"flag-europe-asia-fea","cable_id":1027}],"longitude":"139.620703","name":"Miura, Japan","id":"miura-japan","city_id":5889}
+{"type":"landing_point","city_id":5889,"latitude":"35.144082","longitude":"139.620703","name":"Miura, Japan","id":"miura-japan","cables":[{"cable_id":1027,"name":"FLAG Europe-Asia (FEA)","id":"flag-europe-asia-fea"}]}

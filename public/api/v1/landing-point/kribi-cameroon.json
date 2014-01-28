@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"2.932888","cables":[{"name":"Africa Coast to Europe (ACE)","id":"africa-coast-to-europe-ace","cable_id":1629}],"longitude":"9.910389","name":"Kribi, Cameroon","id":"kribi-cameroon","city_id":10095}
+{"type":"landing_point","city_id":10095,"latitude":"2.932888","longitude":"9.910389","name":"Kribi, Cameroon","id":"kribi-cameroon","cables":[{"cable_id":1629,"name":"Africa Coast to Europe (ACE)","id":"africa-coast-to-europe-ace"}]}

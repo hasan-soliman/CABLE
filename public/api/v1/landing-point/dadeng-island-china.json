@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"24.556694","cables":[{"name":"Xiamen-Kinmen Undersea Cable","id":"xiamen-kinmen-undersea-cable","cable_id":1632}],"longitude":"118.300968","name":"Dadeng Island, China","id":"dadeng-island-china","city_id":10368}
+{"type":"landing_point","city_id":10368,"latitude":"24.556694","longitude":"118.300968","name":"Dadeng Island, China","id":"dadeng-island-china","cables":[{"cable_id":1632,"name":"Xiamen-Kinmen Undersea Cable","id":"xiamen-kinmen-undersea-cable"}]}

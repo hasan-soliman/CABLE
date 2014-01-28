@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"57.487461","cables":[{"name":"GlobalConnect 2 (GC2)","id":"globalconnect-2-gc2","cable_id":1760},{"name":"Kattegat 1","id":"kattegat-1","cable_id":1218}],"longitude":"12.076233","name":"Kungsbacka, Sweden","id":"kungsbacka-sweden","city_id":10605}
+{"type":"landing_point","city_id":10605,"latitude":"57.487461","longitude":"12.076233","name":"Kungsbacka, Sweden","id":"kungsbacka-sweden","cables":[{"cable_id":1760,"name":"GlobalConnect 2 (GC2)","id":"globalconnect-2-gc2"},{"cable_id":1218,"name":"Kattegat 1","id":"kattegat-1"}]}

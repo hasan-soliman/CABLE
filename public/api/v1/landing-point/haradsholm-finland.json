@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"60.301000","cables":[{"name":"BCS North - Phase 1","id":"bcs-north---phase-1","cable_id":1609}],"longitude":"22.302129","name":"Haradsholm, Finland","id":"haradsholm-finland","city_id":9104}
+{"type":"landing_point","city_id":9104,"latitude":"60.301000","longitude":"22.302129","name":"Haradsholm, Finland","id":"haradsholm-finland","cables":[{"cable_id":1609,"name":"BCS North - Phase 1","id":"bcs-north---phase-1"}]}

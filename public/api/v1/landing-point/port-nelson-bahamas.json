@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"23.652109","cables":[{"name":"Bahamas Domestic Submarine Network (BDSNi)","id":"bahamas-domestic-submarine-network-bdsni","cable_id":1510}],"longitude":"-74.840567","name":"Port Nelson, Bahamas","id":"port-nelson-bahamas","city_id":10363}
+{"type":"landing_point","city_id":10363,"latitude":"23.652109","longitude":"-74.840567","name":"Port Nelson, Bahamas","id":"port-nelson-bahamas","cables":[{"cable_id":1510,"name":"Bahamas Domestic Submarine Network (BDSNi)","id":"bahamas-domestic-submarine-network-bdsni"}]}

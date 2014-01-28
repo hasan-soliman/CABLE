@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"1.677150","cables":[{"name":"Batam-Rengit Cable System (BRCS)","id":"batam-rengit-cable-system-brcs","cable_id":1601}],"longitude":"103.147690","name":"Rengit, Malaysia","id":"rengit-malaysia","city_id":8970}
+{"type":"landing_point","city_id":8970,"latitude":"1.677150","longitude":"103.147690","name":"Rengit, Malaysia","id":"rengit-malaysia","cables":[{"cable_id":1601,"name":"Batam-Rengit Cable System (BRCS)","id":"batam-rengit-cable-system-brcs"}]}

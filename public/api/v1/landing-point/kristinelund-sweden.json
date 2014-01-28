@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"56.134750","cables":[{"name":"Denmark-Sweden 17","id":"denmark-sweden-17","cable_id":1730}],"longitude":"12.588607","name":"Kristinelund, Sweden","id":"kristinelund-sweden","city_id":10739}
+{"type":"landing_point","city_id":10739,"latitude":"56.134750","longitude":"12.588607","name":"Kristinelund, Sweden","id":"kristinelund-sweden","cables":[{"cable_id":1730,"name":"Denmark-Sweden 17","id":"denmark-sweden-17"}]}

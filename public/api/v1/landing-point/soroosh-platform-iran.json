@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"29.072491","cables":[{"name":"Kuwait-Iran","id":"kuwait-iran","cable_id":1250}],"longitude":"49.478025","name":"Soroosh Platform, Iran","id":"soroosh-platform-iran","city_id":10604}
+{"type":"landing_point","city_id":10604,"latitude":"29.072491","longitude":"49.478025","name":"Soroosh Platform, Iran","id":"soroosh-platform-iran","cables":[{"cable_id":1250,"name":"Kuwait-Iran","id":"kuwait-iran"}]}

@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"64.181149","cables":[{"name":"Greenland Connect","id":"greenland-connect","cable_id":1569}],"longitude":"-51.729983","name":"Nuuk, Greenland","id":"nuuk-greenland","city_id":8488}
+{"type":"landing_point","city_id":8488,"latitude":"64.181149","longitude":"-51.729983","name":"Nuuk, Greenland","id":"nuuk-greenland","cables":[{"cable_id":1569,"name":"Greenland Connect","id":"greenland-connect"}]}

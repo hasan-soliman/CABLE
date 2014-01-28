@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"56.683163","cables":[{"name":"Kattegat 2","id":"kattegat-2","cable_id":1688}],"longitude":"12.683272","name":"Skalvik, Sweden","id":"skalvik-sweden","city_id":10323}
+{"type":"landing_point","city_id":10323,"latitude":"56.683163","longitude":"12.683272","name":"Skalvik, Sweden","id":"skalvik-sweden","cables":[{"cable_id":1688,"name":"Kattegat 2","id":"kattegat-2"}]}

@@ -1,1 +1,1 @@
-{"type":"landing_point","latitude":"24.493952","cables":[{"name":"Xiamen-Kinmen Undersea Cable","id":"xiamen-kinmen-undersea-cable","cable_id":1632}],"longitude":"118.189037","name":"Guanyin Mountain, China","id":"guanyin-mountain-china","city_id":10369}
+{"type":"landing_point","city_id":10369,"latitude":"24.493952","longitude":"118.189037","name":"Guanyin Mountain, China","id":"guanyin-mountain-china","cables":[{"cable_id":1632,"name":"Xiamen-Kinmen Undersea Cable","id":"xiamen-kinmen-undersea-cable"}]}
