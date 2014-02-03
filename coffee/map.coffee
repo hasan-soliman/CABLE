@@ -62,7 +62,7 @@ class SubmarineCable.Map
       where: "cable_id IN (#{("#{d.cable_id}"for d in cables).join()})"
 
     @boundMap(latlons)
-
+    
   selectRfs: (data) ->
     @infoBox.close()
     @cables.setOptions 
