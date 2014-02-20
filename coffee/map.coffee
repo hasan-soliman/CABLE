@@ -33,7 +33,8 @@ class SubmarineCable.Map
       suppressInfoWindows:true
       styleId: 2
     @landing_points.setMap(@gmap)
-  
+
+
   selectCable: (id, desc, is_map_clicked = false) ->
     @infoBox.close()
     @cables.setOptions 

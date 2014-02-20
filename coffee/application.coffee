@@ -38,7 +38,7 @@ App.IndexRoute = Ember.Route.extend
   setupController: (controller, model) ->
     App.analytics("/#/")
     jQuery.getJSON "#{App.apiPath}/cable/all.json", (data) ->
-      App.map.resetMap()
+      App.map.resetMap() if App.map
       controller.set "model",  data
 
 App.SubmarineCableView = Ember.View.extend
@@ -47,7 +47,7 @@ App.SubmarineCableView = Ember.View.extend
     mouseEnter: (e) =>
       if jQuery(e.target).context.tagName == "A"
         App.map.infoBox.setPosition new google.maps.LatLng jQuery(e.target).attr('name').split(",")[0], jQuery(e.target).attr('name').split(",")[1]
-        App.map.infoBox.setContent "<div class=\"infoBoxContent\"><div class=\"infoBoxPointer\"></div>#{jQuery(e.target).context.textContent}</span>"
+        App.map.infoBox.setContent "<div class=\"infoBoxContent\"><div class=\"infoBoxPointer\"></div>#{jQuery(e.target.innerHTML).text()}</span>"
         App.map.infoBox.open App.map.gmap
     mouseLeave: (e) =>
       App.map.infoBox.close()
