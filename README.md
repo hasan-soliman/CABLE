@@ -14,6 +14,21 @@ Installation
 
 Point your webserver's document root to the public directory and that's it.
 
+Or you can click the [Download ZIP](https://github.com/telegeography/www.submarinecablemap.com/archive/master.zip) link on the right and download the zip file.  Unzip the zip file and point your webserver's document root to the public directory.
+
+If you're on a Mac you can download the zip file or clone the repo and use [python's SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html):
+
+    $ git clone git://github.com/telegeography/www.submarinecablemap.com.git
+    $ cd www.submarinecablemap.com/public 
+    $ python -m SimpleHTTPServer
+
+Or the following will work on a Mac too:
+
+    $ wget https://github.com/telegeography/www.submarinecablemap.com/archive/master.zip
+    $ unzip master.zip
+    $ cd www.submarinecablemap.com-master/public/
+    $ python -m SimpleHTTPServer
+
 
 Updates
 -------
