@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5866,"latitude":"33.011224","longitude":"35.094692","name":"Nahariyya, Israel","id":"nahariyya-israel","cables":[{"cable_id":1304,"name":"CIOS","id":"cios"}]}
+{"type":"landing_point","longitude":"35.094692","cables":[{"cable_id":1304,"name":"CIOS","id":"cios"}],"name":"Nahariyya, Israel","city_id":5866,"id":"nahariyya-israel","latitude":"33.011224"}

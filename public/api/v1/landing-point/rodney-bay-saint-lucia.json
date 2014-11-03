@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":8837,"latitude":"14.035647","longitude":"-60.988563","name":"Rodney Bay, Saint Lucia","id":"rodney-bay-saint-lucia","cables":[{"cable_id":1619,"name":"Global Caribbean Network (GCN)","id":"global-caribbean-network-gcn"}]}
+{"type":"landing_point","longitude":"-60.988563","cables":[{"cable_id":1619,"name":"Global Caribbean Network (GCN)","id":"global-caribbean-network-gcn"}],"name":"Rodney Bay, Saint Lucia","city_id":8837,"id":"rodney-bay-saint-lucia","latitude":"14.035647"}

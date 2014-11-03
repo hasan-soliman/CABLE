@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":3822,"latitude":"40.152920","longitude":"-74.062873","name":"Wall Township, New Jersey, United States","id":"wall-township-new-jersey-united-states","cables":[{"cable_id":1149,"name":"Tata TGN-Atlantic","id":"tata-tgn-atlantic"}]}
+{"type":"landing_point","longitude":"-74.062873","cables":[{"cable_id":1149,"name":"Tata TGN-Atlantic","id":"tata-tgn-atlantic"}],"name":"Wall Township, New Jersey, United States","city_id":3822,"id":"wall-township-new-jersey-united-states","latitude":"40.152920"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":10385,"latitude":"63.846171","longitude":"-22.444832","name":"Grindavik, Iceland","id":"grindavik-iceland","cables":[{"cable_id":1691,"name":"Emerald Express","id":"emerald-express"}]}
+{"type":"landing_point","longitude":"-22.444832","cables":[{"cable_id":1691,"name":"America Europe Connect (AEC)","id":"america-europe-connect-aec"}],"name":"Grindavik, Iceland","city_id":10385,"id":"grindavik-iceland","latitude":"63.846171"}

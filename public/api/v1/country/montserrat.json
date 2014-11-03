@@ -1,1 +1,1 @@
-{"latlon":[{"latlon":"16.706545,-62.215711"}],"landing_points":[{"landing_point_id":4355,"name":"Plymouth, Montserrat","id":"plymouth-montserrat"}],"name":"Montserrat","cables":[{"cable_id":1290,"name":"Eastern Caribbean Fiber System (ECFS)","id":"eastern-caribbean-fiber-system-ecfs"}]}
+{"landing_points":[{"landing_point_id":4355,"name":"Plymouth, Montserrat","id":"plymouth-montserrat"}],"cables":[{"cable_id":1290,"name":"Eastern Caribbean Fiber System (ECFS)","id":"eastern-caribbean-fiber-system-ecfs"}],"name":"Montserrat","latlon":[{"latlon":"16.706545,-62.215711"}]}

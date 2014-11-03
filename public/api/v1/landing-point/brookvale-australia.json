@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5781,"latitude":"-33.761205","longitude":"151.273933","name":"Brookvale, Australia","id":"brookvale-australia","cables":[{"cable_id":1009,"name":"Southern Cross Cable Network (SCCN)","id":"southern-cross-cable-network-sccn"}]}
+{"type":"landing_point","longitude":"151.273933","cables":[{"cable_id":1009,"name":"Southern Cross Cable Network (SCCN)","id":"southern-cross-cable-network-sccn"}],"name":"Brookvale, Australia","city_id":5781,"id":"brookvale-australia","latitude":"-33.761205"}

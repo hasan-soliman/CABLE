@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":3904,"latitude":"6.804108","longitude":"-58.154922","name":"Georgetown, Guyana","id":"georgetown-guyana","cables":[{"cable_id":1612,"name":"Suriname-Guyana Submarine Cable System (SG-SCS)","id":"suriname-guyana-submarine-cable-system-sg-scs"}]}
+{"type":"landing_point","longitude":"-58.154922","cables":[{"cable_id":1612,"name":"Suriname-Guyana Submarine Cable System (SG-SCS)","id":"suriname-guyana-submarine-cable-system-sg-scs"}],"name":"Georgetown, Guyana","city_id":3904,"id":"georgetown-guyana","latitude":"6.804108"}

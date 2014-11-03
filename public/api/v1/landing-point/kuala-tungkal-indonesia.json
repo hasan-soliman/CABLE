@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":10283,"latitude":"-0.816494","longitude":"103.466730","name":"Kuala Tungkal, Indonesia","id":"kuala-tungkal-indonesia","cables":[{"cable_id":1680,"name":"PGASCOM","id":"pgascom"}]}
+{"type":"landing_point","longitude":"103.466730","cables":[{"cable_id":1680,"name":"PGASCOM","id":"pgascom"}],"name":"Kuala Tungkal, Indonesia","city_id":10283,"id":"kuala-tungkal-indonesia","latitude":"-0.816494"}

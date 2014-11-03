@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":3334,"latitude":"8.964556","longitude":"-79.536699","name":"Panama City, Panama","id":"panama-city-panama","cables":[{"cable_id":1073,"name":"Pan American (PAN-AM)","id":"pan-american-pan-am"}]}
+{"type":"landing_point","longitude":"-79.536699","cables":[{"cable_id":1073,"name":"Pan American (PAN-AM)","id":"pan-american-pan-am"}],"name":"Panama City, Panama","city_id":3334,"id":"panama-city-panama","latitude":"8.964556"}

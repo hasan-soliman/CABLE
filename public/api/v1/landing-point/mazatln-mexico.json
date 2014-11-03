@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":3470,"latitude":"23.199510","longitude":"-106.421891","name":"Mazatlán, Mexico","id":"mazatln-mexico","cables":[{"cable_id":1072,"name":"Pan-American Crossing (PAC)","id":"pan-american-crossing-pac"}]}
+{"type":"landing_point","longitude":"-106.421891","cables":[{"cable_id":1072,"name":"Pan-American Crossing (PAC)","id":"pan-american-crossing-pac"}],"name":"Mazatlán, Mexico","city_id":3470,"id":"mazatln-mexico","latitude":"23.199510"}

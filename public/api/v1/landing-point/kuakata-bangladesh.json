@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":15020,"latitude":"21.816698","longitude":"90.116638","name":"Kuakata, Bangladesh","id":"kuakata-bangladesh","cables":[{"cable_id":1559,"name":"SeaMeWe-5","id":"seamewe-5"}]}
+{"type":"landing_point","longitude":"90.116638","cables":[{"cable_id":1559,"name":"SeaMeWe-5","id":"seamewe-5"}],"name":"Kuakata, Bangladesh","city_id":15020,"id":"kuakata-bangladesh","latitude":"21.816698"}

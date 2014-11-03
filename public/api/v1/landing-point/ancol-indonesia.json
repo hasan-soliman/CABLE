@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5860,"latitude":"-6.129382","longitude":"106.833330","name":"Ancol, Indonesia","id":"ancol-indonesia","cables":[{"cable_id":1031,"name":"SeaMeWe-3","id":"seamewe-3"}]}
+{"type":"landing_point","longitude":"106.833330","cables":[{"cable_id":1031,"name":"SeaMeWe-3","id":"seamewe-3"}],"name":"Ancol, Indonesia","city_id":5860,"id":"ancol-indonesia","latitude":"-6.129382"}

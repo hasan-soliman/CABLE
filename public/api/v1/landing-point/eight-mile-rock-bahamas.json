@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5783,"latitude":"26.539645","longitude":"-78.802861","name":"Eight-Mile Rock, Bahamas","id":"eight-mile-rock-bahamas","cables":[{"cable_id":1069,"name":"Bahamas 2","id":"bahamas-2"}]}
+{"type":"landing_point","longitude":"-78.802861","cables":[{"cable_id":1069,"name":"Bahamas 2","id":"bahamas-2"}],"name":"Eight-Mile Rock, Bahamas","city_id":5783,"id":"eight-mile-rock-bahamas","latitude":"26.539645"}

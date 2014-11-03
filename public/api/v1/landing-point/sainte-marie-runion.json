@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":9399,"latitude":"-20.897344","longitude":"55.549956","name":"Sainte Marie, Réunion","id":"sainte-marie-runion","cables":[{"cable_id":1594,"name":"Lower Indian Ocean Network (LION)","id":"lower-indian-ocean-network-lion"}]}
+{"type":"landing_point","longitude":"55.549956","cables":[{"cable_id":1594,"name":"Lower Indian Ocean Network (LION)","id":"lower-indian-ocean-network-lion"}],"name":"Sainte Marie, Réunion","city_id":9399,"id":"sainte-marie-runion","latitude":"-20.897344"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":4242,"latitude":"18.500001","longitude":"-69.983285","name":"Santo Domingo, Dominican Republic","id":"santo-domingo-dominican-republic","cables":[{"cable_id":1227,"name":"Antillas 1","id":"antillas-1"}]}
+{"type":"landing_point","longitude":"-69.983285","cables":[{"cable_id":1227,"name":"Antillas 1","id":"antillas-1"}],"name":"Santo Domingo, Dominican Republic","city_id":4242,"id":"santo-domingo-dominican-republic","latitude":"18.500001"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":7650,"latitude":"56.278108","longitude":"3.395293","name":"Valhala, Norway","id":"valhala-norway","cables":[{"cable_id":1203,"name":"NorSea Com","id":"norsea-com"}]}
+{"type":"landing_point","longitude":"3.395293","cables":[{"cable_id":1203,"name":"NorSea Com","id":"norsea-com"}],"name":"Valhala, Norway","city_id":7650,"id":"valhala-norway","latitude":"56.278108"}

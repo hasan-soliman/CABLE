@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":8994,"latitude":"63.642167","longitude":"-20.142294","name":"Landeyjar, Iceland","id":"landeyjar-iceland","cables":[{"cable_id":1569,"name":"Greenland Connect","id":"greenland-connect"}]}
+{"type":"landing_point","longitude":"-20.142294","cables":[{"cable_id":1569,"name":"Greenland Connect","id":"greenland-connect"}],"name":"Landeyjar, Iceland","city_id":8994,"id":"landeyjar-iceland","latitude":"63.642167"}

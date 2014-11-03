@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":3782,"latitude":"47.603600","longitude":"-122.329452","name":"Seattle, WA, United States","id":"seattle-wa-united-states","cables":[{"cable_id":1712,"name":"Arctic Fibre","id":"arctic-fibre"}]}
+{"type":"landing_point","longitude":"-122.329452","cables":[{"cable_id":1712,"name":"Arctic Fibre","id":"arctic-fibre"}],"name":"Seattle, WA, United States","city_id":3782,"id":"seattle-wa-united-states","latitude":"47.603600"}

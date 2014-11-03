@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":15035,"latitude":"58.455158","longitude":"-78.105108","name":"Inukjuak, Québec, Canada","id":"inukjuak-qubec-canada","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}]}
+{"type":"landing_point","longitude":"-78.105108","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Inukjuak, Québec, Canada","city_id":15035,"id":"inukjuak-qubec-canada","latitude":"58.455158"}

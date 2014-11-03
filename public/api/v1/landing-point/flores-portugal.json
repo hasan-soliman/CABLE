@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":14656,"latitude":"39.462198","longitude":"-31.128519","name":"Flores, Portugal","id":"flores-portugal","cables":[{"cable_id":1782,"name":"Flores-Corvo Cable System","id":"flores-corvo-cable-system"}]}
+{"type":"landing_point","longitude":"-31.128519","cables":[{"cable_id":1782,"name":"Flores-Corvo Cable System","id":"flores-corvo-cable-system"}],"name":"Flores, Portugal","city_id":14656,"id":"flores-portugal","latitude":"39.462198"}

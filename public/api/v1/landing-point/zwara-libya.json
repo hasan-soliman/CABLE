@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":7864,"latitude":"32.933392","longitude":"12.083375","name":"Zwara, Libya","id":"zwara-libya","cables":[{"cable_id":1184,"name":"LFON (Libyan Fiber Optic Network)","id":"lfon-libyan-fiber-optic-network"}]}
+{"type":"landing_point","longitude":"12.083375","cables":[{"cable_id":1184,"name":"LFON (Libyan Fiber Optic Network)","id":"lfon-libyan-fiber-optic-network"}],"name":"Zwara, Libya","city_id":7864,"id":"zwara-libya","latitude":"32.933392"}

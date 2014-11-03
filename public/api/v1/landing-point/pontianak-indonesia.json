@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":8360,"latitude":"-0.027432","longitude":"109.335672","name":"Pontianak, Indonesia","id":"pontianak-indonesia","cables":[{"cable_id":1767,"name":"JaKa2LaDeMa","id":"jaka2ladema"}]}
+{"type":"landing_point","longitude":"109.335672","cables":[{"cable_id":1767,"name":"JaKa2LaDeMa","id":"jaka2ladema"}],"name":"Pontianak, Indonesia","city_id":8360,"id":"pontianak-indonesia","latitude":"-0.027432"}

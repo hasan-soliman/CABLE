@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":14833,"latitude":"38.683878","longitude":"-28.213188","name":"Velas, Portugal","id":"velas-portugal","cables":[{"cable_id":1801,"name":"Azores Fiber Optic System (AFOS)","id":"azores-fiber-optic-system-afos"}]}
+{"type":"landing_point","longitude":"-28.213188","cables":[{"cable_id":1801,"name":"Azores Fiber Optic System (AFOS)","id":"azores-fiber-optic-system-afos"}],"name":"Velas, Portugal","city_id":14833,"id":"velas-portugal","latitude":"38.683878"}

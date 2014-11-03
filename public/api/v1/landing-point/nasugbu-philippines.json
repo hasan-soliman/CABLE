@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":9603,"latitude":"14.317386","longitude":"120.695823","name":"Nasugbu, Philippines","id":"nasugbu-philippines","cables":[{"cable_id":1604,"name":"Southeast Asia Japan Cable (SJC)","id":"southeast-asia-japan-cable-sjc"}]}
+{"type":"landing_point","longitude":"120.695823","cables":[{"cable_id":1604,"name":"Southeast Asia Japan Cable (SJC)","id":"southeast-asia-japan-cable-sjc"}],"name":"Nasugbu, Philippines","city_id":9603,"id":"nasugbu-philippines","latitude":"14.317386"}

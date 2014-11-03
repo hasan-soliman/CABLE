@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":10398,"latitude":"63.748612","longitude":"-68.519712","name":"Iqaluit, Nunavut, Canada","id":"iqaluit-nunavut-canada","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}]}
+{"type":"landing_point","longitude":"-68.519712","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Iqaluit, Nunavut, Canada","city_id":10398,"id":"iqaluit-nunavut-canada","latitude":"63.748612"}

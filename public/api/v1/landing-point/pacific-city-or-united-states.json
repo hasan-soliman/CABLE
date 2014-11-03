@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":3730,"latitude":"45.201941","longitude":"-123.962654","name":"Pacific City, OR, United States","id":"pacific-city-or-united-states","cables":[{"cable_id":1733,"name":"Hawaiki Cable","id":"hawaiki-cable"}]}
+{"type":"landing_point","longitude":"-123.962654","cables":[{"cable_id":1733,"name":"Hawaiki Cable","id":"hawaiki-cable"}],"name":"Pacific City, OR, United States","city_id":3730,"id":"pacific-city-or-united-states","latitude":"45.201941"}

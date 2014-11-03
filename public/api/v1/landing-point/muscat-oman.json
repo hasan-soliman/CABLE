@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":4225,"latitude":"23.615135","longitude":"58.591067","name":"Muscat, Oman","id":"muscat-oman","cables":[{"cable_id":1031,"name":"SeaMeWe-3","id":"seamewe-3"}]}
+{"type":"landing_point","longitude":"58.591067","cables":[{"cable_id":1031,"name":"SeaMeWe-3","id":"seamewe-3"}],"name":"Muscat, Oman","city_id":4225,"id":"muscat-oman","latitude":"23.615135"}

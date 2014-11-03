@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":13377,"latitude":"54.713655","longitude":"-5.808170","name":"Carrickfergus, United Kingdom","id":"carrickfergus-united-kingdom","cables":[{"cable_id":1754,"name":"Sirius North","id":"sirius-north"}]}
+{"type":"landing_point","longitude":"-5.808170","cables":[{"cable_id":1754,"name":"Sirius North","id":"sirius-north"}],"name":"Carrickfergus, United Kingdom","city_id":13377,"id":"carrickfergus-united-kingdom","latitude":"54.713655"}

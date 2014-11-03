@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":3873,"latitude":"-12.043637","longitude":"-77.021222","name":"Lima, Peru","id":"lima-peru","cables":[{"cable_id":1791,"name":"South America Pacific Link (SAPL)","id":"south-america-pacific-link-sapl"}]}
+{"type":"landing_point","longitude":"-77.021222","cables":[{"cable_id":1791,"name":"South America Pacific Link (SAPL)","id":"south-america-pacific-link-sapl"}],"name":"Lima, Peru","city_id":3873,"id":"lima-peru","latitude":"-12.043637"}

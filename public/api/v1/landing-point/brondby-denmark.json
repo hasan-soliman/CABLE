@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":11045,"latitude":"55.647249","longitude":"12.414917","name":"Brondby, Denmark","id":"brondby-denmark","cables":[{"cable_id":1765,"name":"IP-Only Denmark-Sweden","id":"ip-only-denmark-sweden"}]}
+{"type":"landing_point","longitude":"12.414917","cables":[{"cable_id":1765,"name":"IP-Only Denmark-Sweden","id":"ip-only-denmark-sweden"}],"name":"Brondby, Denmark","city_id":11045,"id":"brondby-denmark","latitude":"55.647249"}

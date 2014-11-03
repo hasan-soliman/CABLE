@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":8397,"latitude":"51.358579","longitude":"1.439337","name":"Dumpton Gap, United Kingdom","id":"dumpton-gap-united-kingdom","cables":[{"cable_id":1539,"name":"Pan European Crossing (UK-Belgium)","id":"pan-european-crossing-uk-belgium"}]}
+{"type":"landing_point","longitude":"1.439337","cables":[{"cable_id":1539,"name":"Pan European Crossing (UK-Belgium)","id":"pan-european-crossing-uk-belgium"}],"name":"Dumpton Gap, United Kingdom","city_id":8397,"id":"dumpton-gap-united-kingdom","latitude":"51.358579"}

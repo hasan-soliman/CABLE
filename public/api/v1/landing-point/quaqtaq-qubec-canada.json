@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":15072,"latitude":"61.041680","longitude":"-69.639926","name":"Quaqtaq, Québec, Canada","id":"quaqtaq-qubec-canada","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}]}
+{"type":"landing_point","longitude":"-69.639926","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Quaqtaq, Québec, Canada","city_id":15072,"id":"quaqtaq-qubec-canada","latitude":"61.041680"}

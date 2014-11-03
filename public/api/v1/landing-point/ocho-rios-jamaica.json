@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":7688,"latitude":"18.398536","longitude":"-77.103204","name":"Ocho Rios, Jamaica","id":"ocho-rios-jamaica","cables":[{"cable_id":1529,"name":"ALBA-1","id":"alba-1"}]}
+{"type":"landing_point","longitude":"-77.103204","cables":[{"cable_id":1529,"name":"ALBA-1","id":"alba-1"}],"name":"Ocho Rios, Jamaica","city_id":7688,"id":"ocho-rios-jamaica","latitude":"18.398536"}

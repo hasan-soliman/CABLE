@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":13402,"latitude":"18.335743","longitude":"-64.948034","name":"Vila Olga, VI, United States","id":"vila-olga-vi-united-states","cables":[{"cable_id":1756,"name":"St. Thomas-St. Croix System","id":"st-thomas-st-croix-system"}]}
+{"type":"landing_point","longitude":"-64.948034","cables":[{"cable_id":1756,"name":"St. Thomas-St. Croix System","id":"st-thomas-st-croix-system"}],"name":"Vila Olga, VI, United States","city_id":13402,"id":"vila-olga-vi-united-states","latitude":"18.335743"}

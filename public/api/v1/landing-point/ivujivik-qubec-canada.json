@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":15047,"latitude":"62.416679","longitude":"-77.916680","name":"Ivujivik, Québec, Canada","id":"ivujivik-qubec-canada","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}]}
+{"type":"landing_point","longitude":"-77.916680","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Ivujivik, Québec, Canada","city_id":15047,"id":"ivujivik-qubec-canada","latitude":"62.416679"}

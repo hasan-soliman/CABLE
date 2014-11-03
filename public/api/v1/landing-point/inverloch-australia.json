@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":7860,"latitude":"-38.633468","longitude":"145.729405","name":"Inverloch, Australia","id":"inverloch-australia","cables":[{"cable_id":1492,"name":"Bass Strait-2","id":"bass-strait-2"}]}
+{"type":"landing_point","longitude":"145.729405","cables":[{"cable_id":1492,"name":"Bass Strait-2","id":"bass-strait-2"}],"name":"Inverloch, Australia","city_id":7860,"id":"inverloch-australia","latitude":"-38.633468"}

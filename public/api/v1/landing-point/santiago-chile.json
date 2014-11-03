@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":3026,"latitude":"-33.437279","longitude":"-70.650570","name":"Santiago, Chile","id":"santiago-chile","cables":[{"cable_id":1791,"name":"South America Pacific Link (SAPL)","id":"south-america-pacific-link-sapl"}]}
+{"type":"landing_point","longitude":"-70.650570","cables":[{"cable_id":1791,"name":"South America Pacific Link (SAPL)","id":"south-america-pacific-link-sapl"}],"name":"Santiago, Chile","city_id":3026,"id":"santiago-chile","latitude":"-33.437279"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5814,"latitude":"54.663069","longitude":"11.358668","name":"Rodbyhavn, Denmark","id":"rodbyhavn-denmark","cables":[{"cable_id":1336,"name":"Fehmarn Bält","id":"fehmarn-blt"}]}
+{"type":"landing_point","longitude":"11.358668","cables":[{"cable_id":1336,"name":"Fehmarn Bält","id":"fehmarn-blt"}],"name":"Rodbyhavn, Denmark","city_id":5814,"id":"rodbyhavn-denmark","latitude":"54.663069"}

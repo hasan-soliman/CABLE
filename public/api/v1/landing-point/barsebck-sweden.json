@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":8403,"latitude":"55.770393","longitude":"12.955445","name":"Barsebäck, Sweden","id":"barsebck-sweden","cables":[{"cable_id":1541,"name":"Danica North","id":"danica-north"}]}
+{"type":"landing_point","longitude":"12.955445","cables":[{"cable_id":1541,"name":"Danica North","id":"danica-north"}],"name":"Barsebäck, Sweden","city_id":8403,"id":"barsebck-sweden","latitude":"55.770393"}

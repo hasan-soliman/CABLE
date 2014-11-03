@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":14584,"latitude":"55.471077","longitude":"12.963843","name":"Velling, Sweden","id":"velling-sweden","cables":[{"cable_id":1261,"name":"Denmark-Sweden 16","id":"denmark-sweden-16"}]}
+{"type":"landing_point","longitude":"12.963843","cables":[{"cable_id":1261,"name":"Denmark-Sweden 16","id":"denmark-sweden-16"}],"name":"Velling, Sweden","city_id":14584,"id":"velling-sweden","latitude":"55.471077"}

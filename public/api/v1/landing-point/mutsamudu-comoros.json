@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":14841,"latitude":"-12.166684","longitude":"44.400058","name":"Mutsamudu, Comoros","id":"mutsamudu-comoros","cables":[{"cable_id":1803,"name":"Comoros Domestic Cable System","id":"comoros-domestic-cable-system"}]}
+{"type":"landing_point","longitude":"44.400058","cables":[{"cable_id":1803,"name":"Comoros Domestic Cable System","id":"comoros-domestic-cable-system"}],"name":"Mutsamudu, Comoros","city_id":14841,"id":"mutsamudu-comoros","latitude":"-12.166684"}

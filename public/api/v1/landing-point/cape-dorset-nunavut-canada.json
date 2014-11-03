@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":15057,"latitude":"64.230350","longitude":"-76.540948","name":"Cape Dorset, Nunavut, Canada","id":"cape-dorset-nunavut-canada","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}]}
+{"type":"landing_point","longitude":"-76.540948","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Cape Dorset, Nunavut, Canada","city_id":15057,"id":"cape-dorset-nunavut-canada","latitude":"64.230350"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5804,"latitude":"30.306343","longitude":"121.191428","name":"Nanhui, China","id":"nanhui-china","cables":[{"cable_id":1617,"name":"Asia Pacific Gateway (APG)","id":"asia-pacific-gateway-apg"}]}
+{"type":"landing_point","longitude":"121.191428","cables":[{"cable_id":1617,"name":"Asia Pacific Gateway (APG)","id":"asia-pacific-gateway-apg"},{"cable_id":1786,"name":"New Cross Pacific (NCP) Cable System","id":"new-cross-pacific-ncp-cable-system"}],"name":"Nanhui, China","city_id":5804,"id":"nanhui-china","latitude":"30.306343"}

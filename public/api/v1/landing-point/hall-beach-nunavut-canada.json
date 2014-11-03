@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":15041,"latitude":"68.772731","longitude":"-81.235233","name":"Hall Beach, Nunavut, Canada","id":"hall-beach-nunavut-canada","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}]}
+{"type":"landing_point","longitude":"-81.235233","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Hall Beach, Nunavut, Canada","city_id":15041,"id":"hall-beach-nunavut-canada","latitude":"68.772731"}

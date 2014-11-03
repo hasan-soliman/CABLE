@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":6033,"latitude":"51.358872","longitude":"1.439434","name":"Broadstairs, United Kingdom","id":"broadstairs-united-kingdom","cables":[{"cable_id":1324,"name":"Tangerine","id":"tangerine"}]}
+{"type":"landing_point","longitude":"1.439434","cables":[{"cable_id":1324,"name":"Tangerine","id":"tangerine"}],"name":"Broadstairs, United Kingdom","city_id":6033,"id":"broadstairs-united-kingdom","latitude":"51.358872"}

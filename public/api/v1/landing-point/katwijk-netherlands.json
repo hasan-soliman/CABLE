@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":3283,"latitude":"52.205161","longitude":"4.396464","name":"Katwijk, Netherlands","id":"katwijk-netherlands","cables":[{"cable_id":1043,"name":"TAT-14","id":"tat-14"}]}
+{"type":"landing_point","longitude":"4.396464","cables":[{"cable_id":1043,"name":"TAT-14","id":"tat-14"}],"name":"Katwijk, Netherlands","city_id":3283,"id":"katwijk-netherlands","latitude":"52.205161"}

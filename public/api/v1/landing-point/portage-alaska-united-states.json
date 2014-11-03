@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":15022,"latitude":"60.828301","longitude":"-148.989791","name":"Portage, Alaska, United States","id":"portage-alaska-united-states","cables":[{"cable_id":1813,"name":"Alaska United Turnagain Arm (AUTA)","id":"alaska-united-turnagain-arm-auta"}]}
+{"type":"landing_point","longitude":"-148.989791","cables":[{"cable_id":1813,"name":"Alaska United Turnagain Arm (AUTA)","id":"alaska-united-turnagain-arm-auta"}],"name":"Portage, Alaska, United States","city_id":15022,"id":"portage-alaska-united-states","latitude":"60.828301"}

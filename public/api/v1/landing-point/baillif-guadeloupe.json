@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":8834,"latitude":"16.028908","longitude":"-61.713953","name":"Baillif, Guadeloupe","id":"baillif-guadeloupe","cables":[{"cable_id":1619,"name":"Global Caribbean Network (GCN)","id":"global-caribbean-network-gcn"}]}
+{"type":"landing_point","longitude":"-61.713953","cables":[{"cable_id":1619,"name":"Global Caribbean Network (GCN)","id":"global-caribbean-network-gcn"}],"name":"Baillif, Guadeloupe","city_id":8834,"id":"baillif-guadeloupe","latitude":"16.028908"}

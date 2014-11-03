@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":7872,"latitude":"32.716693","longitude":"20.949972","name":"Tolmeta, Libya","id":"tolmeta-libya","cables":[{"cable_id":1184,"name":"LFON (Libyan Fiber Optic Network)","id":"lfon-libyan-fiber-optic-network"}]}
+{"type":"landing_point","longitude":"20.949972","cables":[{"cable_id":1184,"name":"LFON (Libyan Fiber Optic Network)","id":"lfon-libyan-fiber-optic-network"}],"name":"Tolmeta, Libya","city_id":7872,"id":"tolmeta-libya","latitude":"32.716693"}

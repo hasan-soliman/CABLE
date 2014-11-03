@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5912,"latitude":"-22.957304","longitude":"14.522338","name":"Walvis Bay, Namibia","id":"walvis-bay-namibia","cables":[{"cable_id":1669,"name":"South Atlantic Express (SAEx)","id":"south-atlantic-express-saex"}]}
+{"type":"landing_point","longitude":"14.522338","cables":[{"cable_id":1669,"name":"South Atlantic Express (SAEx)","id":"south-atlantic-express-saex"}],"name":"Walvis Bay, Namibia","city_id":5912,"id":"walvis-bay-namibia","latitude":"-22.957304"}

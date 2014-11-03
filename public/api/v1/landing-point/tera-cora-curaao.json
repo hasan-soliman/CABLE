@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":14631,"latitude":"12.234476","longitude":"-69.020639","name":"Tera Cora, Curaçao","id":"tera-cora-curaao","cables":[{"cable_id":1775,"name":"PCCS/Alonso de Ojeda II","id":"pccsalonso-de-ojeda-ii"}]}
+{"type":"landing_point","longitude":"-69.020639","cables":[{"cable_id":1775,"name":"PCCS/Alonso de Ojeda II","id":"pccsalonso-de-ojeda-ii"}],"name":"Tera Cora, Curaçao","city_id":14631,"id":"tera-cora-curaao","latitude":"12.234476"}

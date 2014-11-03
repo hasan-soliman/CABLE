@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":7784,"latitude":"32.060737","longitude":"-16.334922","name":"Porto Santo, Madeira, Portugal","id":"porto-santo-madeira-portugal","cables":[{"cable_id":1800,"name":"CAM Ring","id":"cam-ring"}]}
+{"type":"landing_point","longitude":"-16.334922","cables":[{"cable_id":1800,"name":"CAM Ring","id":"cam-ring"}],"name":"Porto Santo, Madeira, Portugal","city_id":7784,"id":"porto-santo-madeira-portugal","latitude":"32.060737"}

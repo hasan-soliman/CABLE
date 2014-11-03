@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":10364,"latitude":"24.052537","longitude":"-74.530256","name":"Cockburn Town, Bahamas","id":"cockburn-town-bahamas","cables":[{"cable_id":1510,"name":"Bahamas Domestic Submarine Network (BDSNi)","id":"bahamas-domestic-submarine-network-bdsni"}]}
+{"type":"landing_point","longitude":"-74.530256","cables":[{"cable_id":1510,"name":"Bahamas Domestic Submarine Network (BDSNi)","id":"bahamas-domestic-submarine-network-bdsni"}],"name":"Cockburn Town, Bahamas","city_id":10364,"id":"cockburn-town-bahamas","latitude":"24.052537"}

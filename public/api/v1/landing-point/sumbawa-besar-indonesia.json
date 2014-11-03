@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":14649,"latitude":"-8.496959","longitude":"117.401000","name":"Sumbawa Besar, Indonesia","id":"sumbawa-besar-indonesia","cables":[{"cable_id":1780,"name":"Mataram Kupang Cable System (MKCS)","id":"mataram-kupang-cable-system-mkcs"}]}
+{"type":"landing_point","longitude":"117.401000","cables":[{"cable_id":1780,"name":"Mataram Kupang Cable System (MKCS)","id":"mataram-kupang-cable-system-mkcs"}],"name":"Sumbawa Besar, Indonesia","city_id":14649,"id":"sumbawa-besar-indonesia","latitude":"-8.496959"}

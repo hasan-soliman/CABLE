@@ -1,1 +1,1 @@
-{"latlon":[{"latlon":"41.316689,19.450070"}],"landing_points":[{"landing_point_id":6025,"name":"Durres, Albania","id":"durres-albania"}],"name":"Albania","cables":[{"cable_id":1317,"name":"Adria-1","id":"adria-1"},{"cable_id":1296,"name":"Italy-Albania","id":"italy-albania"}]}
+{"landing_points":[{"landing_point_id":6025,"name":"Durres, Albania","id":"durres-albania"}],"cables":[{"cable_id":1317,"name":"Adria-1","id":"adria-1"},{"cable_id":1296,"name":"Italy-Albania","id":"italy-albania"}],"name":"Albania","latlon":[{"latlon":"41.316689,19.450070"}]}

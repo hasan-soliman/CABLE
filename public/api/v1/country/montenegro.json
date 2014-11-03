@@ -1,1 +1,1 @@
-{"latlon":[{"latlon":"42.093056,19.100266"}],"landing_points":[{"landing_point_id":9342,"name":"Bar, Montenegro","id":"bar-montenegro"}],"name":"Montenegro","cables":[{"cable_id":1295,"name":"Corfu-Bar","id":"corfu-bar"}]}
+{"landing_points":[{"landing_point_id":9342,"name":"Bar, Montenegro","id":"bar-montenegro"}],"cables":[{"cable_id":1295,"name":"Corfu-Bar","id":"corfu-bar"}],"name":"Montenegro","latlon":[{"latlon":"42.093056,19.100266"}]}

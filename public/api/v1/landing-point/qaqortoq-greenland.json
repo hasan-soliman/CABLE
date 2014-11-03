@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":8543,"latitude":"60.718926","longitude":"-46.035396","name":"Qaqortoq, Greenland","id":"qaqortoq-greenland","cables":[{"cable_id":1569,"name":"Greenland Connect","id":"greenland-connect"}]}
+{"type":"landing_point","longitude":"-46.035396","cables":[{"cable_id":1569,"name":"Greenland Connect","id":"greenland-connect"}],"name":"Qaqortoq, Greenland","city_id":8543,"id":"qaqortoq-greenland","latitude":"60.718926"}

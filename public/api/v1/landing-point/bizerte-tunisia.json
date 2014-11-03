@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5958,"latitude":"37.276359","longitude":"9.867360","name":"Bizerte, Tunisia","id":"bizerte-tunisia","cables":[{"cable_id":1035,"name":"SeaMeWe-4","id":"seamewe-4"}]}
+{"type":"landing_point","longitude":"9.867360","cables":[{"cable_id":1035,"name":"SeaMeWe-4","id":"seamewe-4"}],"name":"Bizerte, Tunisia","city_id":5958,"id":"bizerte-tunisia","latitude":"37.276359"}

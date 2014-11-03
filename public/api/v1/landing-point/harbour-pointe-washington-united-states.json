@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":3641,"latitude":"47.886217","longitude":"-122.302206","name":"Harbour Pointe, Washington, United States","id":"harbour-pointe-washington-united-states","cables":[{"cable_id":1007,"name":"Pacific Crossing-1 (PC-1)","id":"pacific-crossing-1-pc-1"}]}
+{"type":"landing_point","longitude":"-122.302206","cables":[{"cable_id":1007,"name":"Pacific Crossing-1 (PC-1)","id":"pacific-crossing-1-pc-1"}],"name":"Harbour Pointe, Washington, United States","city_id":3641,"id":"harbour-pointe-washington-united-states","latitude":"47.886217"}

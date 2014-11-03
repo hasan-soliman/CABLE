@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5741,"latitude":"50.063560","longitude":"-5.675064","name":"Skewjack, United Kingdom","id":"skewjack-united-kingdom","cables":[{"cable_id":1028,"name":"FLAG Atlantic-1 (FA-1)","id":"flag-atlantic-1-fa-1"}]}
+{"type":"landing_point","longitude":"-5.675064","cables":[{"cable_id":1028,"name":"FLAG Atlantic-1 (FA-1)","id":"flag-atlantic-1-fa-1"}],"name":"Skewjack, United Kingdom","city_id":5741,"id":"skewjack-united-kingdom","latitude":"50.063560"}

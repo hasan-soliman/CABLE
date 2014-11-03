@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":14732,"latitude":"54.206820","longitude":"-9.232191","name":"Killala, Ireland","id":"killala-ireland","cables":[{"cable_id":1691,"name":"Emerald Express","id":"emerald-express"}]}
+{"type":"landing_point","longitude":"-9.232191","cables":[{"cable_id":1691,"name":"America Europe Connect (AEC)","id":"america-europe-connect-aec"}],"name":"Killala, Ireland","city_id":14732,"id":"killala-ireland","latitude":"54.206820"}

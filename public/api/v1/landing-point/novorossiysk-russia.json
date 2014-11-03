@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5117,"latitude":"44.723621","longitude":"37.772816","name":"Novorossiysk, Russia","id":"novorossiysk-russia","cables":[{"cable_id":1192,"name":"Georgia-Russia","id":"georgia-russia"}]}
+{"type":"landing_point","longitude":"37.772816","cables":[{"cable_id":1192,"name":"Georgia-Russia","id":"georgia-russia"}],"name":"Novorossiysk, Russia","city_id":5117,"id":"novorossiysk-russia","latitude":"44.723621"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":15061,"latitude":"69.372535","longitude":"-81.824637","name":"Igloolik, Nunavut, Canada","id":"igloolik-nunavut-canada","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}]}
+{"type":"landing_point","longitude":"-81.824637","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Igloolik, Nunavut, Canada","city_id":15061,"id":"igloolik-nunavut-canada","latitude":"69.372535"}

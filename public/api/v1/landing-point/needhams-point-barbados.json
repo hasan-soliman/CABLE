@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":6183,"latitude":"13.078812","longitude":"-59.612734","name":"Needham’s Point, Barbados","id":"needhams-point-barbados","cables":[{"cable_id":1619,"name":"Global Caribbean Network (GCN)","id":"global-caribbean-network-gcn"}]}
+{"type":"landing_point","longitude":"-59.612734","cables":[{"cable_id":1619,"name":"Global Caribbean Network (GCN)","id":"global-caribbean-network-gcn"}],"name":"Needham’s Point, Barbados","city_id":6183,"id":"needhams-point-barbados","latitude":"13.078812"}

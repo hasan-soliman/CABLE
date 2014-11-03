@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":15052,"latitude":"61.108281","longitude":"-94.059934","name":"Arviat, Nunavut, Canada","id":"arviat-nunavut-canada","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}]}
+{"type":"landing_point","longitude":"-94.059934","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Arviat, Nunavut, Canada","city_id":15052,"id":"arviat-nunavut-canada","latitude":"61.108281"}

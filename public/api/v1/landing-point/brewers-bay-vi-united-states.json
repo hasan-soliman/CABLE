@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":13398,"latitude":"18.342384","longitude":"-64.975329","name":"Brewer's Bay, VI, United States","id":"brewers-bay-vi-united-states","cables":[{"cable_id":1756,"name":"St. Thomas-St. Croix System","id":"st-thomas-st-croix-system"}]}
+{"type":"landing_point","longitude":"-64.975329","cables":[{"cable_id":1756,"name":"St. Thomas-St. Croix System","id":"st-thomas-st-croix-system"}],"name":"Brewer's Bay, VI, United States","city_id":13398,"id":"brewers-bay-vi-united-states","latitude":"18.342384"}

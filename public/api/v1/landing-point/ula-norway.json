@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":7647,"latitude":"57.111115","longitude":"2.847246","name":"Ula, Norway","id":"ula-norway","cables":[{"cable_id":1203,"name":"NorSea Com","id":"norsea-com"}]}
+{"type":"landing_point","longitude":"2.847246","cables":[{"cable_id":1203,"name":"NorSea Com","id":"norsea-com"}],"name":"Ula, Norway","city_id":7647,"id":"ula-norway","latitude":"57.111115"}

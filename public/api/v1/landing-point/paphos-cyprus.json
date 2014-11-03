@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":9246,"latitude":"34.916399","longitude":"32.491959","name":"Paphos, Cyprus","id":"paphos-cyprus","cables":[{"cable_id":1713,"name":"Tamares North","id":"tamares-north"}]}
+{"type":"landing_point","longitude":"32.491959","cables":[{"cable_id":1713,"name":"Tamares North","id":"tamares-north"}],"name":"Paphos, Cyprus","city_id":9246,"id":"paphos-cyprus","latitude":"34.916399"}

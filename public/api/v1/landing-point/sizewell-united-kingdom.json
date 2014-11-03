@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":8398,"latitude":"52.207114","longitude":"1.620294","name":"Sizewell, United Kingdom","id":"sizewell-united-kingdom","cables":[{"cable_id":1538,"name":"Concerto","id":"concerto"}]}
+{"type":"landing_point","longitude":"1.620294","cables":[{"cable_id":1538,"name":"Concerto","id":"concerto"}],"name":"Sizewell, United Kingdom","city_id":8398,"id":"sizewell-united-kingdom","latitude":"52.207114"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":14834,"latitude":"38.432316","longitude":"-28.461235","name":"Sao Mateus, Portugal","id":"sao-mateus-portugal","cables":[{"cable_id":1801,"name":"Azores Fiber Optic System (AFOS)","id":"azores-fiber-optic-system-afos"}]}
+{"type":"landing_point","longitude":"-28.461235","cables":[{"cable_id":1801,"name":"Azores Fiber Optic System (AFOS)","id":"azores-fiber-optic-system-afos"}],"name":"Sao Mateus, Portugal","city_id":14834,"id":"sao-mateus-portugal","latitude":"38.432316"}

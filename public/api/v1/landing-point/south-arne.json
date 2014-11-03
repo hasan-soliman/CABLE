@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":10780,"latitude":"56.078303","longitude":"4.228398","name":"South Arne","id":"south-arne","cables":[{"cable_id":1737,"name":"CANTAT-3","id":"cantat-3"}]}
+{"type":"landing_point","longitude":"4.228398","cables":[{"cable_id":1737,"name":"CANTAT-3","id":"cantat-3"}],"name":"South Arne","city_id":10780,"id":"south-arne","latitude":"56.078303"}

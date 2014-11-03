@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":15036,"latitude":"62.201249","longitude":"-75.646857","name":"Salluit, Québec, Canada","id":"salluit-qubec-canada","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}]}
+{"type":"landing_point","longitude":"-75.646857","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Salluit, Québec, Canada","city_id":15036,"id":"salluit-qubec-canada","latitude":"62.201249"}

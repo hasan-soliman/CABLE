@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":14647,"latitude":"31.760834","longitude":"25.087372","name":"El-Quawef, Libya","id":"el-quawef-libya","cables":[{"cable_id":1779,"name":"Tobrok-Emasaed Cable System","id":"tobrok-emasaed-cable-system"}]}
+{"type":"landing_point","longitude":"25.087372","cables":[{"cable_id":1779,"name":"Tobrok-Emasaed Cable System","id":"tobrok-emasaed-cable-system"}],"name":"El-Quawef, Libya","city_id":14647,"id":"el-quawef-libya","latitude":"31.760834"}

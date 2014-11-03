@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":10579,"latitude":"25.616990","longitude":"56.258061","name":"Diba, Oman","id":"diba-oman","cables":[{"cable_id":1695,"name":"OMRAN/EPEG Cable System","id":"omranepeg-cable-system"}]}
+{"type":"landing_point","longitude":"56.258061","cables":[{"cable_id":1695,"name":"OMRAN/EPEG Cable System","id":"omranepeg-cable-system"}],"name":"Diba, Oman","city_id":10579,"id":"diba-oman","latitude":"25.616990"}

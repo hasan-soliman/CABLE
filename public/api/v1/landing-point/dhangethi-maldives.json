@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":10813,"latitude":"3.608113","longitude":"72.955611","name":"Dhangethi, Maldives","id":"dhangethi-maldives","cables":[{"cable_id":1746,"name":"Dhiraagu Cable Network","id":"dhiraagu-cable-network"}]}
+{"type":"landing_point","longitude":"72.955611","cables":[{"cable_id":1746,"name":"Dhiraagu Cable Network","id":"dhiraagu-cable-network"}],"name":"Dhangethi, Maldives","city_id":10813,"id":"dhangethi-maldives","latitude":"3.608113"}

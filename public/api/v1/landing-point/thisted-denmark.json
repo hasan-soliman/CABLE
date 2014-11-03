@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":6054,"latitude":"56.959162","longitude":"8.703493","name":"Thisted, Denmark","id":"thisted-denmark","cables":[{"cable_id":1327,"name":"Denmark-Norway 6","id":"denmark-norway-6"}]}
+{"type":"landing_point","longitude":"8.703493","cables":[{"cable_id":1327,"name":"Denmark-Norway 6","id":"denmark-norway-6"}],"name":"Thisted, Denmark","city_id":6054,"id":"thisted-denmark","latitude":"56.959162"}

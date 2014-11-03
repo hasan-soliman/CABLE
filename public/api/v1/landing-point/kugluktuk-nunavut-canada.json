@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":15067,"latitude":"67.825270","longitude":"-115.096545","name":"Kugluktuk, Nunavut, Canada","id":"kugluktuk-nunavut-canada","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}]}
+{"type":"landing_point","longitude":"-115.096545","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Kugluktuk, Nunavut, Canada","city_id":15067,"id":"kugluktuk-nunavut-canada","latitude":"67.825270"}

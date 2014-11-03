@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":9094,"latitude":"-0.067080","longitude":"109.183231","name":"Sungai Kakap, Indonesia","id":"sungai-kakap-indonesia","cables":[{"cable_id":1597,"name":"JAKABARE","id":"jakabare"}]}
+{"type":"landing_point","longitude":"109.183231","cables":[{"cable_id":1597,"name":"JAKABARE","id":"jakabare"}],"name":"Sungai Kakap, Indonesia","city_id":9094,"id":"sungai-kakap-indonesia","latitude":"-0.067080"}

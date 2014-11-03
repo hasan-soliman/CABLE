@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":10354,"latitude":"60.749883","longitude":"-2.399919","name":"Clair, United Kingdom","id":"clair-united-kingdom","cables":[{"cable_id":1576,"name":"SHEFA-2","id":"shefa-2"}]}
+{"type":"landing_point","longitude":"-2.399919","cables":[{"cable_id":1576,"name":"SHEFA-2","id":"shefa-2"}],"name":"Clair, United Kingdom","city_id":10354,"id":"clair-united-kingdom","latitude":"60.749883"}

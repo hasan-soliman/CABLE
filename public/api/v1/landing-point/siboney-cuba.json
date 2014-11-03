@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":8351,"latitude":"19.963672","longitude":"-75.712384","name":"Siboney, Cuba","id":"siboney-cuba","cables":[{"cable_id":1529,"name":"ALBA-1","id":"alba-1"}]}
+{"type":"landing_point","longitude":"-75.712384","cables":[{"cable_id":1529,"name":"ALBA-1","id":"alba-1"}],"name":"Siboney, Cuba","city_id":8351,"id":"siboney-cuba","latitude":"19.963672"}

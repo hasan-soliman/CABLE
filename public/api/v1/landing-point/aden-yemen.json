@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5969,"latitude":"12.800687","longitude":"45.033554","name":"Aden, Yemen","id":"aden-yemen","cables":[{"cable_id":1307,"name":"Aden-Djibouti","id":"aden-djibouti"},{"cable_id":1739,"name":"Asia Africa Europe-1 (AAE-1)","id":"asia-africa-europe-1-aae-1"}]}
+{"type":"landing_point","longitude":"45.033554","cables":[{"cable_id":1307,"name":"Aden-Djibouti","id":"aden-djibouti"},{"cable_id":1739,"name":"Asia Africa Europe-1 (AAE-1)","id":"asia-africa-europe-1-aae-1"}],"name":"Aden, Yemen","city_id":5969,"id":"aden-yemen","latitude":"12.800687"}

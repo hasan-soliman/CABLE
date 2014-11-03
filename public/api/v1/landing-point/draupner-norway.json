@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":7648,"latitude":"58.922540","longitude":"2.685137","name":"Draupner, Norway","id":"draupner-norway","cables":[{"cable_id":1203,"name":"NorSea Com","id":"norsea-com"}]}
+{"type":"landing_point","longitude":"2.685137","cables":[{"cable_id":1203,"name":"NorSea Com","id":"norsea-com"}],"name":"Draupner, Norway","city_id":7648,"id":"draupner-norway","latitude":"58.922540"}

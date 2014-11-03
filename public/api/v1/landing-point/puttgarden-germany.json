@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5839,"latitude":"54.496077","longitude":"11.212477","name":"Puttgarden, Germany","id":"puttgarden-germany","cables":[{"cable_id":1336,"name":"Fehmarn Bält","id":"fehmarn-blt"}]}
+{"type":"landing_point","longitude":"11.212477","cables":[{"cable_id":1336,"name":"Fehmarn Bält","id":"fehmarn-blt"}],"name":"Puttgarden, Germany","city_id":5839,"id":"puttgarden-germany","latitude":"54.496077"}

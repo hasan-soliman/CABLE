@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":3315,"latitude":"6.356550","longitude":"2.439922","name":"Cotonou, Benin","id":"cotonou-benin","cables":[{"cable_id":1629,"name":"Africa Coast to Europe (ACE)","id":"africa-coast-to-europe-ace"},{"cable_id":1219,"name":"SAT-3/WASC","id":"sat-3wasc"}]}
+{"type":"landing_point","longitude":"2.439922","cables":[{"cable_id":1629,"name":"Africa Coast to Europe (ACE)","id":"africa-coast-to-europe-ace"},{"cable_id":1219,"name":"SAT-3/WASC","id":"sat-3wasc"}],"name":"Cotonou, Benin","city_id":3315,"id":"cotonou-benin","latitude":"6.356550"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5346,"latitude":"43.125282","longitude":"5.930350","name":"Toulon, France","id":"toulon-france","cables":[{"cable_id":1559,"name":"SeaMeWe-5","id":"seamewe-5"}]}
+{"type":"landing_point","longitude":"5.930350","cables":[{"cable_id":1559,"name":"SeaMeWe-5","id":"seamewe-5"}],"name":"Toulon, France","city_id":5346,"id":"toulon-france","latitude":"43.125282"}

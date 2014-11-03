@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":15044,"latitude":"56.540803","longitude":"-79.223222","name":"Sanikiluaq, Nunavut, Canada","id":"sanikiluaq-nunavut-canada","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}]}
+{"type":"landing_point","longitude":"-79.223222","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Sanikiluaq, Nunavut, Canada","city_id":15044,"id":"sanikiluaq-nunavut-canada","latitude":"56.540803"}

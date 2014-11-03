@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":4355,"latitude":"16.706545","longitude":"-62.215711","name":"Plymouth, Montserrat","id":"plymouth-montserrat","cables":[{"cable_id":1290,"name":"Eastern Caribbean Fiber System (ECFS)","id":"eastern-caribbean-fiber-system-ecfs"}]}
+{"type":"landing_point","longitude":"-62.215711","cables":[{"cable_id":1290,"name":"Eastern Caribbean Fiber System (ECFS)","id":"eastern-caribbean-fiber-system-ecfs"}],"name":"Plymouth, Montserrat","city_id":4355,"id":"plymouth-montserrat","latitude":"16.706545"}

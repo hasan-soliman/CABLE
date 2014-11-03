@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":10447,"latitude":"64.727127","longitude":"177.502046","name":"Anadyr, Russia","id":"anadyr-russia","cables":[{"cable_id":1244,"name":"Russian Optical Trans-Arctic Cable System (ROTACS)","id":"russian-optical-trans-arctic-cable-system-rotacs"}]}
+{"type":"landing_point","longitude":"177.502046","cables":[{"cable_id":1244,"name":"Russian Optical Trans-Arctic Cable System (ROTACS)","id":"russian-optical-trans-arctic-cable-system-rotacs"}],"name":"Anadyr, Russia","city_id":10447,"id":"anadyr-russia","latitude":"64.727127"}

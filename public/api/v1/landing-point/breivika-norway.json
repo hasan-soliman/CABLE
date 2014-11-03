@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":9671,"latitude":"68.735035","longitude":"16.553197","name":"Breivika, Norway","id":"breivika-norway","cables":[{"cable_id":1651,"name":"Svalbard Undersea Cable System","id":"svalbard-undersea-cable-system"}]}
+{"type":"landing_point","longitude":"16.553197","cables":[{"cable_id":1651,"name":"Svalbard Undersea Cable System","id":"svalbard-undersea-cable-system"}],"name":"Breivika, Norway","city_id":9671,"id":"breivika-norway","latitude":"68.735035"}

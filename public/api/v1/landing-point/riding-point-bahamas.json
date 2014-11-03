@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":8354,"latitude":"24.424998","longitude":"-76.574444","name":"Riding Point, Bahamas","id":"riding-point-bahamas","cables":[{"cable_id":1232,"name":"Bahamas Internet Cable System (BICS)","id":"bahamas-internet-cable-system-bics"}]}
+{"type":"landing_point","longitude":"-76.574444","cables":[{"cable_id":1232,"name":"Bahamas Internet Cable System (BICS)","id":"bahamas-internet-cable-system-bics"}],"name":"Riding Point, Bahamas","city_id":8354,"id":"riding-point-bahamas","latitude":"24.424998"}

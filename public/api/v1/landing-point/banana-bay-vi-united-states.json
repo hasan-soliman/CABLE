@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":13401,"latitude":"18.328224","longitude":"-64.943786","name":"Banana Bay, VI, United States","id":"banana-bay-vi-united-states","cables":[{"cable_id":1756,"name":"St. Thomas-St. Croix System","id":"st-thomas-st-croix-system"}]}
+{"type":"landing_point","longitude":"-64.943786","cables":[{"cable_id":1756,"name":"St. Thomas-St. Croix System","id":"st-thomas-st-croix-system"}],"name":"Banana Bay, VI, United States","city_id":13401,"id":"banana-bay-vi-united-states","latitude":"18.328224"}

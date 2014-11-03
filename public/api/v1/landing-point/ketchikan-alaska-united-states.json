@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":8551,"latitude":"55.341878","longitude":"-131.647807","name":"Ketchikan, Alaska, United States","id":"ketchikan-alaska-united-states","cables":[{"cable_id":1567,"name":"Alaska United Southeast","id":"alaska-united-southeast"}]}
+{"type":"landing_point","longitude":"-131.647807","cables":[{"cable_id":1567,"name":"Alaska United Southeast","id":"alaska-united-southeast"}],"name":"Ketchikan, Alaska, United States","city_id":8551,"id":"ketchikan-alaska-united-states","latitude":"55.341878"}

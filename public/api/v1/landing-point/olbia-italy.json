@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":8592,"latitude":"40.922549","longitude":"9.486892","name":"Olbia, Italy","id":"olbia-italy","cables":[{"cable_id":1729,"name":"Janna","id":"janna"}]}
+{"type":"landing_point","longitude":"9.486892","cables":[{"cable_id":1729,"name":"Janna","id":"janna"}],"name":"Olbia, Italy","city_id":8592,"id":"olbia-italy","latitude":"40.922549"}

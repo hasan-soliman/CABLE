@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":3010,"latitude":"22.283300","longitude":"114.158717","name":"Hong Kong, Hong Kong","id":"hong-kong-hong-kong","cables":[{"cable_id":1739,"name":"Asia Africa Europe-1 (AAE-1)","id":"asia-africa-europe-1-aae-1"}]}
+{"type":"landing_point","longitude":"114.158717","cables":[{"cable_id":1739,"name":"Asia Africa Europe-1 (AAE-1)","id":"asia-africa-europe-1-aae-1"}],"name":"Hong Kong, Hong Kong","city_id":3010,"id":"hong-kong-hong-kong","latitude":"22.283300"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":3902,"latitude":"7.079987","longitude":"125.612813","name":"Davao, Philippines","id":"davao-philippines","cables":[{"cable_id":1823,"name":"SEA-US","id":"sea-us"}]}
+{"type":"landing_point","longitude":"125.612813","cables":[{"cable_id":1823,"name":"SEA-US","id":"sea-us"}],"name":"Davao, Philippines","city_id":3902,"id":"davao-philippines","latitude":"7.079987"}

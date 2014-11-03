@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":4359,"latitude":"18.324513","longitude":"-64.904430","name":"St. Thomas, Virgin Islands (U.S.)","id":"st-thomas-virgin-islands-u-s-","cables":[{"cable_id":1073,"name":"Pan American (PAN-AM)","id":"pan-american-pan-am"}]}
+{"type":"landing_point","longitude":"-64.904430","cables":[{"cable_id":1073,"name":"Pan American (PAN-AM)","id":"pan-american-pan-am"}],"name":"St. Thomas, Virgin Islands (U.S.)","city_id":4359,"id":"st-thomas-virgin-islands-u-s-","latitude":"18.324513"}
