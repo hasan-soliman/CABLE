@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"145.784873","cables":[{"cable_id":1520,"name":"PIPE Pacific Cable-1 (PPC-1)","id":"pipe-pacific-cable-1-ppc-1"}],"name":"Madang, Papua New Guinea","city_id":8558,"id":"madang-papua-new-guinea","latitude":"-5.233679"}
+{"type":"landing_point","city_id":8558,"cables":[{"cable_id":1520,"name":"PIPE Pacific Cable-1 (PPC-1)","id":"pipe-pacific-cable-1-ppc-1"}],"latitude":"-5.233679","longitude":"145.784873","name":"Madang, Papua New Guinea","id":"madang-papua-new-guinea"}

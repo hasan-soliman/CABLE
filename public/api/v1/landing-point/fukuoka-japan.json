@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"130.401678","cables":[{"cable_id":1231,"name":"Korea-Japan Cable Network (KJCN)","id":"korea-japan-cable-network-kjcn"}],"name":"Fukuoka, Japan","city_id":4059,"id":"fukuoka-japan","latitude":"33.590326"}
+{"type":"landing_point","city_id":4059,"cables":[{"cable_id":1231,"name":"Korea-Japan Cable Network (KJCN)","id":"korea-japan-cable-network-kjcn"}],"latitude":"33.590326","longitude":"130.401678","name":"Fukuoka, Japan","id":"fukuoka-japan"}

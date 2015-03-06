@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"145.637413","cables":[{"cable_id":1757,"name":"Mariana-Guam Cable","id":"mariana-guam-cable"}],"name":"Tinian, Northern Mariana Islands","city_id":13410,"id":"tinian-northern-mariana-islands","latitude":"15.011135"}
+{"type":"landing_point","city_id":13410,"cables":[{"cable_id":1757,"name":"Mariana-Guam Cable","id":"mariana-guam-cable"}],"latitude":"15.011135","longitude":"145.637413","name":"Tinian, Northern Mariana Islands","id":"tinian-northern-mariana-islands"}

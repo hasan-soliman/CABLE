@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"2.970977","cables":[{"cable_id":1234,"name":"ALPAL-2","id":"alpal-2"},{"cable_id":1187,"name":"PENBAL-5","id":"penbal-5"}],"name":"Ses Covetes, Spain","city_id":5948,"id":"ses-covetes-spain","latitude":"39.354581"}
+{"type":"landing_point","city_id":5948,"cables":[{"cable_id":1234,"name":"ALPAL-2","id":"alpal-2"},{"cable_id":1187,"name":"PENBAL-5","id":"penbal-5"}],"latitude":"39.354581","longitude":"2.970977","name":"Ses Covetes, Spain","id":"ses-covetes-spain"}

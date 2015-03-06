@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"1.317560","cables":[{"cable_id":1343,"name":"Ulysses","id":"ulysses"}],"name":"Dover, United Kingdom","city_id":6086,"id":"dover-united-kingdom","latitude":"51.125571"}
+{"type":"landing_point","city_id":6086,"cables":[{"cable_id":1343,"name":"Ulysses","id":"ulysses"}],"latitude":"51.125571","longitude":"1.317560","name":"Dover, United Kingdom","id":"dover-united-kingdom"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"114.604029","cables":[{"cable_id":1767,"name":"JaKa2LaDeMa","id":"jaka2ladema"}],"name":"Banjarmasin, Indonesia","city_id":7803,"id":"banjarmasin-indonesia","latitude":"-3.328016"}
+{"type":"landing_point","city_id":7803,"cables":[{"cable_id":1767,"name":"JaKa2LaDeMa","id":"jaka2ladema"}],"latitude":"-3.328016","longitude":"114.604029","name":"Banjarmasin, Indonesia","id":"banjarmasin-indonesia"}

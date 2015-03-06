@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-90.736840","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Chesterfield Inlet, Nunavut, Canada","city_id":15055,"id":"chesterfield-inlet-nunavut-canada","latitude":"63.346561"}
+{"type":"landing_point","city_id":15055,"cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"latitude":"63.346561","longitude":"-90.736840","name":"Chesterfield Inlet, Nunavut, Canada","id":"chesterfield-inlet-nunavut-canada"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"157.199907","cables":[{"cable_id":1736,"name":"Solomons Oceanic Cable Network","id":"solomons-oceanic-cable-network"}],"name":"Noro, Solomon Islands","city_id":10984,"id":"noro-solomon-islands","latitude":"-8.241100"}
+{"type":"landing_point","city_id":10984,"cables":[{"cable_id":1736,"name":"Solomons Oceanic Cable Network","id":"solomons-oceanic-cable-network"}],"latitude":"-8.241100","longitude":"157.199907","name":"Noro, Solomon Islands","id":"noro-solomon-islands"}

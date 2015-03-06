@@ -1,1 +1,1 @@
-{"landing_points":[{"landing_point_id":4362,"name":"Victoria, Seychelles","id":"victoria-seychelles"}],"cables":[{"cable_id":1672,"name":"Seychelles to East Africa System (SEAS)","id":"seychelles-to-east-africa-system-seas"}],"name":"Seychelles","latlon":[{"latlon":"-4.617664,55.445073"}]}
+{"latlon":[{"latlon":"-4.617664,55.445073"}],"cables":[{"cable_id":1672,"name":"Seychelles to East Africa System (SEAS)","id":"seychelles-to-east-africa-system-seas"}],"landing_points":[{"landing_point_id":4362,"name":"Victoria, Seychelles","id":"victoria-seychelles"}],"name":"Seychelles"}

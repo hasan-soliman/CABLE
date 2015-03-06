@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"124.612813","cables":[{"cable_id":1839,"name":"PLDT Domestic Fiber Optic Network(DFON)","id":"pldt-domestic-fiber-optic-networkdfon"}],"name":"Ormoc, Philippines","city_id":9387,"id":"ormoc-philippines","latitude":"11.006938"}
+{"type":"landing_point","city_id":9387,"cables":[{"cable_id":1839,"name":"PLDT Domestic Fiber Optic Network(DFON)","id":"pldt-domestic-fiber-optic-networkdfon"}],"latitude":"11.006938","longitude":"124.612813","name":"Ormoc, Philippines","id":"ormoc-philippines"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"113.561061","cables":[{"cable_id":1031,"name":"SeaMeWe-3","id":"seamewe-3"}],"name":"Taipa, China","city_id":5900,"id":"taipa-china","latitude":"22.156151"}
+{"type":"landing_point","city_id":5900,"cables":[{"cable_id":1031,"name":"SeaMeWe-3","id":"seamewe-3"}],"latitude":"22.156151","longitude":"113.561061","name":"Taipa, China","id":"taipa-china"}

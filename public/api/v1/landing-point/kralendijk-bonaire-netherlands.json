@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-68.276694","cables":[{"cable_id":1494,"name":"Amerigo Vespucci","id":"amerigo-vespucci"}],"name":"Kralendijk, Bonaire, Netherlands","city_id":14635,"id":"kralendijk-bonaire-netherlands","latitude":"12.150687"}
+{"type":"landing_point","city_id":14635,"cables":[{"cable_id":1494,"name":"Amerigo Vespucci","id":"amerigo-vespucci"}],"latitude":"12.150687","longitude":"-68.276694","name":"Kralendijk, Bonaire, Netherlands","id":"kralendijk-bonaire-netherlands"}

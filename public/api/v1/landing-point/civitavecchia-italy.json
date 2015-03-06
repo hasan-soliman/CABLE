@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"11.796851","cables":[{"cable_id":1729,"name":"Janna","id":"janna"}],"name":"Civitavecchia, Italy","city_id":7751,"id":"civitavecchia-italy","latitude":"42.091103"}
+{"type":"landing_point","city_id":7751,"cables":[{"cable_id":1729,"name":"Janna","id":"janna"}],"latitude":"42.091103","longitude":"11.796851","name":"Civitavecchia, Italy","id":"civitavecchia-italy"}

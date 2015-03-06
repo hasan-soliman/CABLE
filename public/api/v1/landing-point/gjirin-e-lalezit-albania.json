@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"19.354172","cables":[{"cable_id":1668,"name":"Balkans-Italy Network (BIN)","id":"balkans-italy-network-bin"}],"name":"Gjirin e Lalezit, Albania","city_id":10178,"id":"gjirin-e-lalezit-albania","latitude":"41.210830"}
+{"type":"landing_point","city_id":10178,"cables":[{"cable_id":1668,"name":"Balkans-Italy Network (BIN)","id":"balkans-italy-network-bin"}],"latitude":"41.210830","longitude":"19.354172","name":"Gjirin e Lalezit, Albania","id":"gjirin-e-lalezit-albania"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"18.816575","cables":[{"cable_id":1208,"name":"Sweden-Finland Link (SFL)","id":"sweden-finland-link-sfl"}],"name":"Väddö, Sweden","city_id":6000,"id":"vdd-sweden","latitude":"59.983379"}
+{"type":"landing_point","city_id":6000,"cables":[{"cable_id":1208,"name":"Sweden-Finland Link (SFL)","id":"sweden-finland-link-sfl"}],"latitude":"59.983379","longitude":"18.816575","name":"Väddö, Sweden","id":"vdd-sweden"}

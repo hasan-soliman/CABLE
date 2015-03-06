@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-76.666681","cables":[{"cable_id":1361,"name":"Fibralink","id":"fibralink"}],"name":"Bull Bay, Jamaica","city_id":7689,"id":"bull-bay-jamaica","latitude":"17.949708"}
+{"type":"landing_point","city_id":7689,"cables":[{"cable_id":1361,"name":"Fibralink","id":"fibralink"}],"latitude":"17.949708","longitude":"-76.666681","name":"Bull Bay, Jamaica","id":"bull-bay-jamaica"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"28.582781","cables":[{"cable_id":1333,"name":"KAFOS","id":"kafos"}],"name":"Mangalia, Romania","city_id":6059,"id":"mangalia-romania","latitude":"43.817176"}
+{"type":"landing_point","city_id":6059,"cables":[{"cable_id":1333,"name":"KAFOS","id":"kafos"}],"latitude":"43.817176","longitude":"28.582781","name":"Mangalia, Romania","id":"mangalia-romania"}

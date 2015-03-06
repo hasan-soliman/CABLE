@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"4.746171","cables":[{"cable_id":1330,"name":"Germany-Netherlands","id":"germany-netherlands"}],"name":"Alkmaar, Netherlands","city_id":3086,"id":"alkmaar-netherlands","latitude":"52.634652"}
+{"type":"landing_point","city_id":3086,"cables":[{"cable_id":1330,"name":"Germany-Netherlands","id":"germany-netherlands"}],"latitude":"52.634652","longitude":"4.746171","name":"Alkmaar, Netherlands","id":"alkmaar-netherlands"}

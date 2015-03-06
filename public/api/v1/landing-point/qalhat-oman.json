@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"58.591067","cables":[{"cable_id":1631,"name":"Tata TGN-Gulf","id":"tata-tgn-gulf"}],"name":"Qalhat, Oman","city_id":10684,"id":"qalhat-oman","latitude":"23.615135"}
+{"type":"landing_point","city_id":10684,"cables":[{"cable_id":1631,"name":"Tata TGN-Gulf","id":"tata-tgn-gulf"}],"latitude":"23.615135","longitude":"58.591067","name":"Qalhat, Oman","id":"qalhat-oman"}

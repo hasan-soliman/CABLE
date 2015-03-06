@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"43.008555","cables":[{"cable_id":1346,"name":"FALCON","id":"falcon"},{"cable_id":1559,"name":"SeaMeWe-5","id":"seamewe-5"}],"name":"Al Hudaydah, Yemen","city_id":7681,"id":"al-hudaydah-yemen","latitude":"14.685549"}
+{"type":"landing_point","city_id":7681,"cables":[{"cable_id":1346,"name":"FALCON","id":"falcon"},{"cable_id":1559,"name":"SeaMeWe-5","id":"seamewe-5"}],"latitude":"14.685549","longitude":"43.008555","name":"Al Hudaydah, Yemen","id":"al-hudaydah-yemen"}

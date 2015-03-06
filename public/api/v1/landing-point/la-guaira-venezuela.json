@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-66.889635","cables":[{"cable_id":1529,"name":"ALBA-1","id":"alba-1"}],"name":"La Guaira, Venezuela","city_id":8352,"id":"la-guaira-venezuela","latitude":"10.603130"}
+{"type":"landing_point","city_id":8352,"cables":[{"cable_id":1529,"name":"ALBA-1","id":"alba-1"}],"latitude":"10.603130","longitude":"-66.889635","name":"La Guaira, Venezuela","id":"la-guaira-venezuela"}

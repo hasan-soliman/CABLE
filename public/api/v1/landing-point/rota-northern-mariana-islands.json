@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"145.212413","cables":[{"cable_id":1757,"name":"Mariana-Guam Cable","id":"mariana-guam-cable"}],"name":"Rota, Northern Mariana Islands","city_id":13409,"id":"rota-northern-mariana-islands","latitude":"14.151858"}
+{"type":"landing_point","city_id":13409,"cables":[{"cable_id":1757,"name":"Mariana-Guam Cable","id":"mariana-guam-cable"}],"latitude":"14.151858","longitude":"145.212413","name":"Rota, Northern Mariana Islands","id":"rota-northern-mariana-islands"}

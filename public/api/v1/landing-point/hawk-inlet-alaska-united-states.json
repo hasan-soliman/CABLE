@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-134.741848","cables":[{"cable_id":1567,"name":"Alaska United Southeast","id":"alaska-united-southeast"}],"name":"Hawk Inlet, Alaska, United States","city_id":8552,"id":"hawk-inlet-alaska-united-states","latitude":"58.128107"}
+{"type":"landing_point","city_id":8552,"cables":[{"cable_id":1567,"name":"Alaska United Southeast","id":"alaska-united-southeast"}],"latitude":"58.128107","longitude":"-134.741848","name":"Hawk Inlet, Alaska, United States","id":"hawk-inlet-alaska-united-states"}

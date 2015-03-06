@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-78.893828","cables":[{"cable_id":1712,"name":"Arctic Fibre","id":"arctic-fibre"}],"name":"Chisasibi, Quebec, Canada","city_id":13391,"id":"chisasibi-quebec-canada","latitude":"53.782699"}
+{"type":"landing_point","city_id":13391,"cables":[{"cable_id":1712,"name":"Arctic Fibre","id":"arctic-fibre"}],"latitude":"53.782699","longitude":"-78.893828","name":"Chisasibi, Quebec, Canada","id":"chisasibi-quebec-canada"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"100.930598","cables":[{"cable_id":1507,"name":"Asia-America Gateway (AAG) Cable System","id":"asia-america-gateway-aag-cable-system"}],"name":"Sri Racha, Thailand","city_id":6014,"id":"sri-racha-thailand","latitude":"13.174320"}
+{"type":"landing_point","city_id":6014,"cables":[{"cable_id":1507,"name":"Asia-America Gateway (AAG) Cable System","id":"asia-america-gateway-aag-cable-system"}],"latitude":"13.174320","longitude":"100.930598","name":"Sri Racha, Thailand","id":"sri-racha-thailand"}

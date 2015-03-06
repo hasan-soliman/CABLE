@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"12.866675","cables":[{"cable_id":1374,"name":"Angola Domestic Network System (ADONES)","id":"angola-domestic-network-system-adones"}],"name":"N'zeto, Angola","city_id":11504,"id":"nzeto-angola","latitude":"-7.233385"}
+{"type":"landing_point","city_id":11504,"cables":[{"cable_id":1374,"name":"Angola Domestic Network System (ADONES)","id":"angola-domestic-network-system-adones"}],"latitude":"-7.233385","longitude":"12.866675","name":"N'zeto, Angola","id":"nzeto-angola"}

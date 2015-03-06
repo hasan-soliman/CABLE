@@ -1,1 +1,1 @@
-{"landing_points":[{"landing_point_id":10781,"name":"Valdemar","id":"valdemar"}],"cables":[{"cable_id":1737,"name":"CANTAT-3","id":"cantat-3"}],"name":"Valdemar","latlon":[{"latlon":"55.804085,4.564335"}]}
+{"latlon":[{"latlon":"55.804085,4.564335"}],"cables":[{"cable_id":1737,"name":"CANTAT-3","id":"cantat-3"}],"landing_points":[{"landing_point_id":10781,"name":"Valdemar","id":"valdemar"}],"name":"Valdemar"}

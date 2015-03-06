@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"43.663145","cables":[{"cable_id":1246,"name":"Eastern Africa Submarine System (EASSy)","id":"eastern-africa-submarine-system-eassy"}],"name":"Toliary, Madagascar","city_id":7398,"id":"toliary-madagascar","latitude":"-23.354764"}
+{"type":"landing_point","city_id":7398,"cables":[{"cable_id":1246,"name":"Eastern Africa Submarine System (EASSy)","id":"eastern-africa-submarine-system-eassy"}],"latitude":"-23.354764","longitude":"43.663145","name":"Toliary, Madagascar","id":"toliary-madagascar"}

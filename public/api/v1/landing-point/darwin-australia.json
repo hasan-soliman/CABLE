@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"130.843181","cables":[{"cable_id":1817,"name":"Nextgen Darwin-Port Hedland","id":"nextgen-darwin-port-hedland"}],"name":"Darwin, Australia","city_id":7685,"id":"darwin-australia","latitude":"-12.467465"}
+{"type":"landing_point","city_id":7685,"cables":[{"cable_id":1817,"name":"Nextgen Darwin-Port Hedland","id":"nextgen-darwin-port-hedland"}],"latitude":"-12.467465","longitude":"130.843181","name":"Darwin, Australia","id":"darwin-australia"}

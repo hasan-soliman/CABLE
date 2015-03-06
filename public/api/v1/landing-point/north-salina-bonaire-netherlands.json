@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-68.284116","cables":[{"cable_id":1774,"name":"Jerry Newton","id":"jerry-newton"}],"name":"North Salina, Bonaire, Netherlands","city_id":10730,"id":"north-salina-bonaire-netherlands","latitude":"12.163773"}
+{"type":"landing_point","city_id":10730,"cables":[{"cable_id":1774,"name":"Jerry Newton","id":"jerry-newton"}],"latitude":"12.163773","longitude":"-68.284116","name":"North Salina, Bonaire, Netherlands","id":"north-salina-bonaire-netherlands"}

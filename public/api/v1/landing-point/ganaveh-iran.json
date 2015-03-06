@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"50.521149","cables":[{"cable_id":1250,"name":"Kuwait-Iran","id":"kuwait-iran"}],"name":"Ganaveh, Iran","city_id":5990,"id":"ganaveh-iran","latitude":"29.570796"}
+{"type":"landing_point","city_id":5990,"cables":[{"cable_id":1250,"name":"Kuwait-Iran","id":"kuwait-iran"}],"latitude":"29.570796","longitude":"50.521149","name":"Ganaveh, Iran","id":"ganaveh-iran"}

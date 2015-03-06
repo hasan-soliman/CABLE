@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-72.608724","cables":[{"cable_id":1361,"name":"Fibralink","id":"fibralink"}],"name":"Kaliko, Haiti","city_id":14805,"id":"kaliko-haiti","latitude":"18.864551"}
+{"type":"landing_point","city_id":14805,"cables":[{"cable_id":1361,"name":"Fibralink","id":"fibralink"}],"latitude":"18.864551","longitude":"-72.608724","name":"Kaliko, Haiti","id":"kaliko-haiti"}

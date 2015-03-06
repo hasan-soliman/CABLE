@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-89.824975","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Kuqaaruk, Nunavut, Canada","city_id":15062,"id":"kuqaaruk-nunavut-canada","latitude":"68.534743"}
+{"type":"landing_point","city_id":15062,"cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"latitude":"68.534743","longitude":"-89.824975","name":"Kuqaaruk, Nunavut, Canada","id":"kuqaaruk-nunavut-canada"}

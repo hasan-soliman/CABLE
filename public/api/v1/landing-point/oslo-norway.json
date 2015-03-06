@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"10.749977","cables":[{"cable_id":1203,"name":"Tampnet Offshore FOC Network","id":"tampnet-offshore-foc-network"}],"name":"Oslo, Norway","city_id":3062,"id":"oslo-norway","latitude":"59.912286"}
+{"type":"landing_point","city_id":3062,"cables":[{"cable_id":1203,"name":"Tampnet Offshore FOC Network","id":"tampnet-offshore-foc-network"}],"latitude":"59.912286","longitude":"10.749977","name":"Oslo, Norway","id":"oslo-norway"}

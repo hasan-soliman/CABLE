@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"1.493438","cables":[{"cable_id":1323,"name":"Circe South","id":"circe-south"}],"name":"Cayeux-sur-Mer, France","city_id":6051,"id":"cayeux-sur-mer-france","latitude":"50.178794"}
+{"type":"landing_point","city_id":6051,"cables":[{"cable_id":1323,"name":"Circe South","id":"circe-south"}],"latitude":"50.178794","longitude":"1.493438","name":"Cayeux-sur-Mer, France","id":"cayeux-sur-mer-france"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-148.338424","cables":[{"cable_id":1712,"name":"Arctic Fibre","id":"arctic-fibre"}],"name":"Prudhoe Bay, Alaska, United States","city_id":13390,"id":"prudhoe-bay-alaska-united-states","latitude":"70.255640"}
+{"type":"landing_point","city_id":13390,"cables":[{"cable_id":1712,"name":"Arctic Fibre","id":"arctic-fibre"}],"latitude":"70.255640","longitude":"-148.338424","name":"Prudhoe Bay, Alaska, United States","id":"prudhoe-bay-alaska-united-states"}

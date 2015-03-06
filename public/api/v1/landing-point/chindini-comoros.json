@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"43.489121","cables":[{"cable_id":1803,"name":"Comoros Domestic Cable System","id":"comoros-domestic-cable-system"}],"name":"Chindini, Comoros","city_id":14840,"id":"chindini-comoros","latitude":"-11.923520"}
+{"type":"landing_point","city_id":14840,"cables":[{"cable_id":1803,"name":"Comoros Domestic Cable System","id":"comoros-domestic-cable-system"}],"latitude":"-11.923520","longitude":"43.489121","name":"Chindini, Comoros","id":"chindini-comoros"}

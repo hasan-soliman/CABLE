@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"131.910661","cables":[{"cable_id":1244,"name":"Russian Optical Trans-Arctic Cable System (ROTACS)","id":"russian-optical-trans-arctic-cable-system-rotacs"}],"name":"Vladivostok, Russia","city_id":3896,"id":"vladivostok-russia","latitude":"43.154677"}
+{"type":"landing_point","city_id":3896,"cables":[{"cable_id":1244,"name":"Russian Optical Trans-Arctic Cable System (ROTACS)","id":"russian-optical-trans-arctic-cable-system-rotacs"}],"latitude":"43.154677","longitude":"131.910661","name":"Vladivostok, Russia","id":"vladivostok-russia"}

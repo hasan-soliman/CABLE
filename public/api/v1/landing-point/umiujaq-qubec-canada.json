@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-76.547101","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Umiujaq, Québec, Canada","city_id":15043,"id":"umiujaq-qubec-canada","latitude":"56.551545"}
+{"type":"landing_point","city_id":15043,"cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"latitude":"56.551545","longitude":"-76.547101","name":"Umiujaq, Québec, Canada","id":"umiujaq-qubec-canada"}

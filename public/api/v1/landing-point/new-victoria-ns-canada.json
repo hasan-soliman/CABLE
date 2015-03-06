@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-60.129579","cables":[{"cable_id":1577,"name":"Persona","id":"persona"}],"name":"New Victoria, NS, Canada","city_id":9374,"id":"new-victoria-ns-canada","latitude":"46.252917"}
+{"type":"landing_point","city_id":9374,"cables":[{"cable_id":1577,"name":"Persona","id":"persona"}],"latitude":"46.252917","longitude":"-60.129579","name":"New Victoria, NS, Canada","id":"new-victoria-ns-canada"}

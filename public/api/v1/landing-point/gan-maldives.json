@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"73.544674","cables":[{"cable_id":1746,"name":"Dhiraagu Cable Network","id":"dhiraagu-cable-network"}],"name":"Gan, Maldives","city_id":10814,"id":"gan-maldives","latitude":"1.918466"}
+{"type":"landing_point","city_id":10814,"cables":[{"cable_id":1746,"name":"Dhiraagu Cable Network","id":"dhiraagu-cable-network"}],"latitude":"1.918466","longitude":"73.544674","name":"Gan, Maldives","id":"gan-maldives"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"124.600313","cables":[{"cable_id":1839,"name":"PLDT Domestic Fiber Optic Network(DFON)","id":"pldt-domestic-fiber-optic-networkdfon"}],"name":"Calbayog, Philippines","city_id":9384,"id":"calbayog-philippines","latitude":"12.069926"}
+{"type":"landing_point","city_id":9384,"cables":[{"cable_id":1839,"name":"PLDT Domestic Fiber Optic Network(DFON)","id":"pldt-domestic-fiber-optic-networkdfon"}],"latitude":"12.069926","longitude":"124.600313","name":"Calbayog, Philippines","id":"calbayog-philippines"}

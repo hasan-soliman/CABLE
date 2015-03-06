@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-5.145865","cables":[{"cable_id":1251,"name":"Estepona-Tetouan","id":"estepona-tetouan"},{"cable_id":1027,"name":"FLAG Europe-Asia (FEA)","id":"flag-europe-asia-fea"}],"name":"Estepona, Spain","city_id":5943,"id":"estepona-spain","latitude":"36.427141"}
+{"type":"landing_point","city_id":5943,"cables":[{"cable_id":1251,"name":"Estepona-Tetouan","id":"estepona-tetouan"},{"cable_id":1027,"name":"FLAG Europe-Asia (FEA)","id":"flag-europe-asia-fea"}],"latitude":"36.427141","longitude":"-5.145865","name":"Estepona, Spain","id":"estepona-spain"}

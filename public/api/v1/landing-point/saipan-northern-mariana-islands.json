@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"145.750889","cables":[{"cable_id":1757,"name":"Mariana-Guam Cable","id":"mariana-guam-cable"}],"name":"Saipan, Northern Mariana Islands","city_id":13408,"id":"saipan-northern-mariana-islands","latitude":"15.177737"}
+{"type":"landing_point","city_id":13408,"cables":[{"cable_id":1757,"name":"Mariana-Guam Cable","id":"mariana-guam-cable"}],"latitude":"15.177737","longitude":"145.750889","name":"Saipan, Northern Mariana Islands","id":"saipan-northern-mariana-islands"}

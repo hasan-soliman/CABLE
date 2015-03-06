@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-64.957800","cables":[{"cable_id":1756,"name":"St. Thomas-St. Croix System","id":"st-thomas-st-croix-system"}],"name":"Flamingo Bay, VI, United States","city_id":13400,"id":"flamingo-bay-vi-united-states","latitude":"18.312794"}
+{"type":"landing_point","city_id":13400,"cables":[{"cable_id":1756,"name":"St. Thomas-St. Croix System","id":"st-thomas-st-croix-system"}],"latitude":"18.312794","longitude":"-64.957800","name":"Flamingo Bay, VI, United States","id":"flamingo-bay-vi-united-states"}

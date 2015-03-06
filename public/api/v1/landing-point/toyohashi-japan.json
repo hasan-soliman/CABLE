@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"137.391518","cables":[{"cable_id":1155,"name":"Tata TGN-Pacific","id":"tata-tgn-pacific"}],"name":"Toyohashi, Japan","city_id":5893,"id":"toyohashi-japan","latitude":"34.769036"}
+{"type":"landing_point","city_id":5893,"cables":[{"cable_id":1155,"name":"Tata TGN-Pacific","id":"tata-tgn-pacific"}],"latitude":"34.769036","longitude":"137.391518","name":"Toyohashi, Japan","id":"toyohashi-japan"}

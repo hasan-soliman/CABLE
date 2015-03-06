@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"147.331552","cables":[{"cable_id":1818,"name":"APX-Central","id":"apx-central"}],"name":"Hobart, Australia","city_id":7671,"id":"hobart-australia","latitude":"-42.881611"}
+{"type":"landing_point","city_id":7671,"cables":[{"cable_id":1818,"name":"APX-Central","id":"apx-central"}],"latitude":"-42.881611","longitude":"147.331552","name":"Hobart, Australia","id":"hobart-australia"}

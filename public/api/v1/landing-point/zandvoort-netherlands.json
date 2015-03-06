@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"4.527226","cables":[{"cable_id":1137,"name":"Circe North","id":"circe-north"},{"cable_id":1538,"name":"Concerto","id":"concerto"}],"name":"Zandvoort, Netherlands","city_id":3141,"id":"zandvoort-netherlands","latitude":"52.370395"}
+{"type":"landing_point","city_id":3141,"cables":[{"cable_id":1137,"name":"Circe North","id":"circe-north"},{"cable_id":1538,"name":"Concerto","id":"concerto"}],"latitude":"52.370395","longitude":"4.527226","name":"Zandvoort, Netherlands","id":"zandvoort-netherlands"}

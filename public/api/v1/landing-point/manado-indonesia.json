@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"124.839669","cables":[{"cable_id":1823,"name":"SEA-US","id":"sea-us"}],"name":"Manado, Indonesia","city_id":15115,"id":"manado-indonesia","latitude":"1.490732"}
+{"type":"landing_point","city_id":15115,"cables":[{"cable_id":1823,"name":"SEA-US","id":"sea-us"}],"latitude":"1.490732","longitude":"124.839669","name":"Manado, Indonesia","id":"manado-indonesia"}

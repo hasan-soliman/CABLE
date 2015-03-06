@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"18.445774","cables":[{"cable_id":1220,"name":"SAFE","id":"safe"},{"cable_id":1219,"name":"SAT-3/WASC","id":"sat-3wasc"}],"name":"Melkbosstrand, South Africa","city_id":5941,"id":"melkbosstrand-south-africa","latitude":"-33.727220"}
+{"type":"landing_point","city_id":5941,"cables":[{"cable_id":1220,"name":"SAFE","id":"safe"},{"cable_id":1219,"name":"SAT-3/WASC","id":"sat-3wasc"}],"latitude":"-33.727220","longitude":"18.445774","name":"Melkbosstrand, South Africa","id":"melkbosstrand-south-africa"}

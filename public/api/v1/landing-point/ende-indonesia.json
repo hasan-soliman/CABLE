@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"121.651584","cables":[{"cable_id":1780,"name":"Mataram Kupang Cable System (MKCS)","id":"mataram-kupang-cable-system-mkcs"}],"name":"Ende, Indonesia","city_id":14648,"id":"ende-indonesia","latitude":"-8.855357"}
+{"type":"landing_point","city_id":14648,"cables":[{"cable_id":1780,"name":"Mataram Kupang Cable System (MKCS)","id":"mataram-kupang-cable-system-mkcs"}],"latitude":"-8.855357","longitude":"121.651584","name":"Ende, Indonesia","id":"ende-indonesia"}

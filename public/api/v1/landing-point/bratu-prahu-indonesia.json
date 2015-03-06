@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"106.547490","cables":[{"cable_id":1833,"name":"Jakarta-Bangka-Bintan-Batam-Singapore (B3JS)","id":"jakarta-bangka-bintan-batam-singapore-b3js"}],"name":"Bratu Prahu, Indonesia","city_id":16015,"id":"bratu-prahu-indonesia","latitude":"-3.079969"}
+{"type":"landing_point","city_id":16015,"cables":[{"cable_id":1833,"name":"Jakarta-Bangka-Bintan-Batam-Singapore (B3JS)","id":"jakarta-bangka-bintan-batam-singapore-b3js"}],"latitude":"-3.079969","longitude":"106.547490","name":"Bratu Prahu, Indonesia","id":"bratu-prahu-indonesia"}

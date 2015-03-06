@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-61.370741","cables":[{"cable_id":1290,"name":"Eastern Caribbean Fiber System (ECFS)","id":"eastern-caribbean-fiber-system-ecfs"}],"name":"Roseau, Dominica","city_id":4260,"id":"roseau-dominica","latitude":"15.251760"}
+{"type":"landing_point","city_id":4260,"cables":[{"cable_id":1290,"name":"Eastern Caribbean Fiber System (ECFS)","id":"eastern-caribbean-fiber-system-ecfs"}],"latitude":"15.251760","longitude":"-61.370741","name":"Roseau, Dominica","id":"roseau-dominica"}

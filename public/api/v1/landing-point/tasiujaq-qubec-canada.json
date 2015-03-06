@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-69.937387","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Tasiujaq, Québec, Canada","city_id":15051,"id":"tasiujaq-qubec-canada","latitude":"58.697443"}
+{"type":"landing_point","city_id":15051,"cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"latitude":"58.697443","longitude":"-69.937387","name":"Tasiujaq, Québec, Canada","id":"tasiujaq-qubec-canada"}

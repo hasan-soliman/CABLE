@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"73.071432","cables":[{"cable_id":1746,"name":"Dhiraagu Cable Network","id":"dhiraagu-cable-network"}],"name":"Kulhudhufushi, Maldives","city_id":10811,"id":"kulhudhufushi-maldives","latitude":"6.622467"}
+{"type":"landing_point","city_id":10811,"cables":[{"cable_id":1746,"name":"Dhiraagu Cable Network","id":"dhiraagu-cable-network"}],"latitude":"6.622467","longitude":"73.071432","name":"Kulhudhufushi, Maldives","id":"kulhudhufushi-maldives"}

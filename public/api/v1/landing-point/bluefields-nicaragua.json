@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-83.771462","cables":[{"cable_id":1078,"name":"ARCOS","id":"arcos"}],"name":"Bluefields, Nicaragua","city_id":5920,"id":"bluefields-nicaragua","latitude":"11.991801"}
+{"type":"landing_point","city_id":5920,"cables":[{"cable_id":1078,"name":"ARCOS","id":"arcos"}],"latitude":"11.991801","longitude":"-83.771462","name":"Bluefields, Nicaragua","id":"bluefields-nicaragua"}

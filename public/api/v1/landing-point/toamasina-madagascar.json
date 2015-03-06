@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"49.400349","cables":[{"cable_id":1594,"name":"Lower Indian Ocean Network (LION)","id":"lower-indian-ocean-network-lion"}],"name":"Toamasina, Madagascar","city_id":9398,"id":"toamasina-madagascar","latitude":"-18.146173"}
+{"type":"landing_point","city_id":9398,"cables":[{"cable_id":1594,"name":"Lower Indian Ocean Network (LION)","id":"lower-indian-ocean-network-lion"}],"latitude":"-18.146173","longitude":"49.400349","name":"Toamasina, Madagascar","id":"toamasina-madagascar"}

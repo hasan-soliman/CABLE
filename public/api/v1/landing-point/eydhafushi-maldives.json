@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"73.070846","cables":[{"cable_id":1746,"name":"Dhiraagu Cable Network","id":"dhiraagu-cable-network"}],"name":"Eydhafushi, Maldives","city_id":10812,"id":"eydhafushi-maldives","latitude":"5.103230"}
+{"type":"landing_point","city_id":10812,"cables":[{"cable_id":1746,"name":"Dhiraagu Cable Network","id":"dhiraagu-cable-network"}],"latitude":"5.103230","longitude":"73.070846","name":"Eydhafushi, Maldives","id":"eydhafushi-maldives"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"50.312067","cables":[{"cable_id":1250,"name":"Kuwait-Iran","id":"kuwait-iran"}],"name":"Khark Island, Iran","city_id":10603,"id":"khark-island-iran","latitude":"29.245796"}
+{"type":"landing_point","city_id":10603,"cables":[{"cable_id":1250,"name":"Kuwait-Iran","id":"kuwait-iran"}],"latitude":"29.245796","longitude":"50.312067","name":"Khark Island, Iran","id":"khark-island-iran"}

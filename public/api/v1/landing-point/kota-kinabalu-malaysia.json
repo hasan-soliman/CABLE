@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"116.074341","cables":[{"cable_id":1828,"name":"Sistem Kabel Rakyat 1Malaysia (SKR1M)","id":"sistem-kabel-rakyat-1malaysia-skr1m"}],"name":"Kota Kinabalu, Malaysia","city_id":6009,"id":"kota-kinabalu-malaysia","latitude":"5.981354"}
+{"type":"landing_point","city_id":6009,"cables":[{"cable_id":1828,"name":"Sistem Kabel Rakyat 1Malaysia (SKR1M)","id":"sistem-kabel-rakyat-1malaysia-skr1m"}],"latitude":"5.981354","longitude":"116.074341","name":"Kota Kinabalu, Malaysia","id":"kota-kinabalu-malaysia"}

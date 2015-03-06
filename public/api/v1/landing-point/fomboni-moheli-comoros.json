@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"43.739610","cables":[{"cable_id":1803,"name":"Comoros Domestic Cable System","id":"comoros-domestic-cable-system"}],"name":"Fomboni Moheli, Comoros","city_id":14842,"id":"fomboni-moheli-comoros","latitude":"-12.288266"}
+{"type":"landing_point","city_id":14842,"cables":[{"cable_id":1803,"name":"Comoros Domestic Cable System","id":"comoros-domestic-cable-system"}],"latitude":"-12.288266","longitude":"43.739610","name":"Fomboni Moheli, Comoros","id":"fomboni-moheli-comoros"}

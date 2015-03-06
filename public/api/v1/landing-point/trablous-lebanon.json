@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"35.859145","cables":[{"cable_id":1321,"name":"BERYTAR","id":"berytar"}],"name":"Trablous, Lebanon","city_id":6046,"id":"trablous-lebanon","latitude":"34.439446"}
+{"type":"landing_point","city_id":6046,"cables":[{"cable_id":1321,"name":"BERYTAR","id":"berytar"}],"latitude":"34.439446","longitude":"35.859145","name":"Trablous, Lebanon","id":"trablous-lebanon"}

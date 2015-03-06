@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"19.576535","cables":[{"cable_id":1184,"name":"LFON (Libyan Fiber Optic Network)","id":"lfon-libyan-fiber-optic-network"}],"name":"Al Brega, Libya","city_id":7870,"id":"al-brega-libya","latitude":"30.378120"}
+{"type":"landing_point","city_id":7870,"cables":[{"cable_id":1184,"name":"LFON (Libyan Fiber Optic Network)","id":"lfon-libyan-fiber-optic-network"}],"latitude":"30.378120","longitude":"19.576535","name":"Al Brega, Libya","id":"al-brega-libya"}

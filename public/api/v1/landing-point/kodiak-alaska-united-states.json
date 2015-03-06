@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-152.395258","cables":[{"cable_id":1530,"name":"Kodiak Kenai Fiber Link (KKFL)","id":"kodiak-kenai-fiber-link-kkfl"}],"name":"Kodiak, Alaska, United States","city_id":8394,"id":"kodiak-alaska-united-states","latitude":"57.794123"}
+{"type":"landing_point","city_id":8394,"cables":[{"cable_id":1530,"name":"Kodiak Kenai Fiber Link (KKFL)","id":"kodiak-kenai-fiber-link-kkfl"}],"latitude":"57.794123","longitude":"-152.395258","name":"Kodiak, Alaska, United States","id":"kodiak-alaska-united-states"}

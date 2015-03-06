@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-2.021306","cables":[{"cable_id":1700,"name":"INGRID","id":"ingrid"}],"name":"Archirondel, Jersey","city_id":10377,"id":"archirondel-jersey","latitude":"49.225279"}
+{"type":"landing_point","city_id":10377,"cables":[{"cable_id":1700,"name":"INGRID","id":"ingrid"}],"latitude":"49.225279","longitude":"-2.021306","name":"Archirondel, Jersey","id":"archirondel-jersey"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-92.085277","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Rankin Inlet, Nunavut, Canada","city_id":15054,"id":"rankin-inlet-nunavut-canada","latitude":"62.808378"}
+{"type":"landing_point","city_id":15054,"cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"latitude":"62.808378","longitude":"-92.085277","name":"Rankin Inlet, Nunavut, Canada","id":"rankin-inlet-nunavut-canada"}

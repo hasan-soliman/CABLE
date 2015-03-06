@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"107.120927","cables":[{"cable_id":1597,"name":"JAKABARE","id":"jakabare"}],"name":"Tanjung Pakis, Indonesia","city_id":9095,"id":"tanjung-pakis-indonesia","latitude":"-5.981433"}
+{"type":"landing_point","city_id":9095,"cables":[{"cable_id":1597,"name":"JAKABARE","id":"jakabare"}],"latitude":"-5.981433","longitude":"107.120927","name":"Tanjung Pakis, Indonesia","id":"tanjung-pakis-indonesia"}

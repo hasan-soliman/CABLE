@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-82.858768","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Grise Fiord, Nunavut, Canada","city_id":15065,"id":"grise-fiord-nunavut-canada","latitude":"76.410813"}
+{"type":"landing_point","city_id":15065,"cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"latitude":"76.410813","longitude":"-82.858768","name":"Grise Fiord, Nunavut, Canada","id":"grise-fiord-nunavut-canada"}

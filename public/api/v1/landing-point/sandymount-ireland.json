@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-6.215445","cables":[{"cable_id":1224,"name":"ESAT-2","id":"esat-2"}],"name":"Sandymount, Ireland","city_id":5865,"id":"sandymount-ireland","latitude":"53.331429"}
+{"type":"landing_point","city_id":5865,"cables":[{"cable_id":1224,"name":"ESAT-2","id":"esat-2"}],"latitude":"53.331429","longitude":"-6.215445","name":"Sandymount, Ireland","id":"sandymount-ireland"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"1.613067","cables":[{"cable_id":1538,"name":"Concerto","id":"concerto"}],"name":"Thorpeness, United Kingdom","city_id":8399,"id":"thorpeness-united-kingdom","latitude":"52.180844"}
+{"type":"landing_point","city_id":8399,"cables":[{"cable_id":1538,"name":"Concerto","id":"concerto"}],"latitude":"52.180844","longitude":"1.613067","name":"Thorpeness, United Kingdom","id":"thorpeness-united-kingdom"}

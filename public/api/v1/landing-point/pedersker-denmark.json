@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"14.992162","cables":[{"cable_id":1199,"name":"Baltica","id":"baltica"}],"name":"Pedersker, Denmark","city_id":5822,"id":"pedersker-denmark","latitude":"55.030940"}
+{"type":"landing_point","city_id":5822,"cables":[{"cable_id":1199,"name":"Baltica","id":"baltica"}],"latitude":"55.030940","longitude":"14.992162","name":"Pedersker, Denmark","id":"pedersker-denmark"}

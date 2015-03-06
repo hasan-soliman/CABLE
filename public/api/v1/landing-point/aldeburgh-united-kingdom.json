@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"1.590606","cables":[{"cable_id":1819,"name":"Farland North","id":"farland-north"}],"name":"Aldeburgh, United Kingdom","city_id":3225,"id":"aldeburgh-united-kingdom","latitude":"52.157895"}
+{"type":"landing_point","city_id":3225,"cables":[{"cable_id":1819,"name":"Farland North","id":"farland-north"}],"latitude":"52.157895","longitude":"1.590606","name":"Aldeburgh, United Kingdom","id":"aldeburgh-united-kingdom"}

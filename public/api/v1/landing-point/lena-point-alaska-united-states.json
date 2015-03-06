@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-134.747317","cables":[{"cable_id":1166,"name":"NorthStar","id":"northstar"}],"name":"Lena Point, Alaska, United States","city_id":5765,"id":"lena-point-alaska-united-states","latitude":"58.550958"}
+{"type":"landing_point","city_id":5765,"cables":[{"cable_id":1166,"name":"NorthStar","id":"northstar"}],"latitude":"58.550958","longitude":"-134.747317","name":"Lena Point, Alaska, United States","id":"lena-point-alaska-united-states"}

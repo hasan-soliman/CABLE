@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"0.366681","cables":[{"cable_id":1323,"name":"Circe South","id":"circe-south"}],"name":"Pevensey Bay, United Kingdom","city_id":6050,"id":"pevensey-bay-united-kingdom","latitude":"50.819028"}
+{"type":"landing_point","city_id":6050,"cables":[{"cable_id":1323,"name":"Circe South","id":"circe-south"}],"latitude":"50.819028","longitude":"0.366681","name":"Pevensey Bay, United Kingdom","id":"pevensey-bay-united-kingdom"}

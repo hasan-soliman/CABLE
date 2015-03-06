@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"14.458764","cables":[{"cable_id":1602,"name":"Melita 1","id":"melita-1"}],"name":"Bahar ic-Caghaq, Malta","city_id":9028,"id":"bahar-ic-caghaq-malta","latitude":"35.934075"}
+{"type":"landing_point","city_id":9028,"cables":[{"cable_id":1602,"name":"Melita 1","id":"melita-1"}],"latitude":"35.934075","longitude":"14.458764","name":"Bahar ic-Caghaq, Malta","id":"bahar-ic-caghaq-malta"}

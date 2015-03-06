@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"144.967100","cables":[{"cable_id":1818,"name":"APX-Central","id":"apx-central"}],"name":"Melbourne, Australia","city_id":3017,"id":"melbourne-australia","latitude":"-37.817453"}
+{"type":"landing_point","city_id":3017,"cables":[{"cable_id":1818,"name":"APX-Central","id":"apx-central"}],"latitude":"-37.817453","longitude":"144.967100","name":"Melbourne, Australia","id":"melbourne-australia"}

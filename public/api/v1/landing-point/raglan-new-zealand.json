@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"174.871774","cables":[{"cable_id":1750,"name":"Tasman Global Access (TGA) Cable","id":"tasman-global-access-tga-cable"}],"name":"Raglan, New Zealand","city_id":15884,"id":"raglan-new-zealand","latitude":"-37.801437"}
+{"type":"landing_point","city_id":15884,"cables":[{"cable_id":1750,"name":"Tasman Global Access (TGA) Cable","id":"tasman-global-access-tga-cable"}],"latitude":"-37.801437","longitude":"174.871774","name":"Raglan, New Zealand","id":"raglan-new-zealand"}

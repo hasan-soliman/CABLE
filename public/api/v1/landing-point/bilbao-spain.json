@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-2.946159","cables":[{"cable_id":1173,"name":"Tata TGN-Western Europe","id":"tata-tgn-western-europe"}],"name":"Bilbao, Spain","city_id":3067,"id":"bilbao-spain","latitude":"43.268348"}
+{"type":"landing_point","city_id":3067,"cables":[{"cable_id":1173,"name":"Tata TGN-Western Europe","id":"tata-tgn-western-europe"}],"latitude":"43.268348","longitude":"-2.946159","name":"Bilbao, Spain","id":"bilbao-spain"}

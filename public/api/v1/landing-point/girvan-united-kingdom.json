@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-4.854215","cables":[{"cable_id":1614,"name":"Scotland-Northern Ireland 2","id":"scotland-northern-ireland-2"}],"name":"Girvan, United Kingdom","city_id":13378,"id":"girvan-united-kingdom","latitude":"55.240218"}
+{"type":"landing_point","city_id":13378,"cables":[{"cable_id":1614,"name":"Scotland-Northern Ireland 2","id":"scotland-northern-ireland-2"}],"latitude":"55.240218","longitude":"-4.854215","name":"Girvan, United Kingdom","id":"girvan-united-kingdom"}

@@ -1,1 +1,1 @@
-{"landing_points":[{"landing_point_id":4363,"name":"Aqaba, Jordan","id":"aqaba-jordan"}],"cables":[{"cable_id":1027,"name":"FLAG Europe-Asia (FEA)","id":"flag-europe-asia-fea"}],"name":"Jordan","latlon":[{"latlon":"29.531734,35.006997"}]}
+{"latlon":[{"latlon":"29.531734,35.006997"}],"cables":[{"cable_id":1027,"name":"FLAG Europe-Asia (FEA)","id":"flag-europe-asia-fea"}],"landing_points":[{"landing_point_id":4363,"name":"Aqaba, Jordan","id":"aqaba-jordan"}],"name":"Jordan"}

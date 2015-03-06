@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"5.878104","cables":[{"cable_id":1428,"name":"Corse-Continent 5 (CC5)","id":"corse-continent-5-cc5"}],"name":"La Seyne, France","city_id":7766,"id":"la-seyne-france","latitude":"43.102919"}
+{"type":"landing_point","city_id":7766,"cables":[{"cable_id":1428,"name":"Corse-Continent 5 (CC5)","id":"corse-continent-5-cc5"}],"latitude":"43.102919","longitude":"5.878104","name":"La Seyne, France","id":"la-seyne-france"}

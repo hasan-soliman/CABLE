@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-64.025671","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Qikiqtarjuaq, Nunavut, Canada","city_id":15060,"id":"qikiqtarjuaq-nunavut-canada","latitude":"67.555544"}
+{"type":"landing_point","city_id":15060,"cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"latitude":"67.555544","longitude":"-64.025671","name":"Qikiqtarjuaq, Nunavut, Canada","id":"qikiqtarjuaq-nunavut-canada"}

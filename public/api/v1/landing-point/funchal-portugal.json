@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-16.908945","cables":[{"cable_id":1800,"name":"CAM Ring","id":"cam-ring"}],"name":"Funchal, Portugal","city_id":5935,"id":"funchal-portugal","latitude":"32.646869"}
+{"type":"landing_point","city_id":5935,"cables":[{"cable_id":1800,"name":"CAM Ring","id":"cam-ring"}],"latitude":"32.646869","longitude":"-16.908945","name":"Funchal, Portugal","id":"funchal-portugal"}

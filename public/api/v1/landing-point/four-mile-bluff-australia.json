@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"146.850107","cables":[{"cable_id":1742,"name":"Basslink","id":"basslink"}],"name":"Four Mile Bluff, Australia","city_id":10796,"id":"four-mile-bluff-australia","latitude":"-41.033272"}
+{"type":"landing_point","city_id":10796,"cables":[{"cable_id":1742,"name":"Basslink","id":"basslink"}],"latitude":"-41.033272","longitude":"146.850107","name":"Four Mile Bluff, Australia","id":"four-mile-bluff-australia"}

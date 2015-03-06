@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-6.558804","cables":[{"cable_id":1547,"name":"Pan European Crossing (UK-Ireland)","id":"pan-european-crossing-uk-ireland"}],"name":"Ballygrangans, Ireland","city_id":8406,"id":"ballygrangans-ireland","latitude":"52.184067"}
+{"type":"landing_point","city_id":8406,"cables":[{"cable_id":1547,"name":"Pan European Crossing (UK-Ireland)","id":"pan-european-crossing-uk-ireland"}],"latitude":"52.184067","longitude":"-6.558804","name":"Ballygrangans, Ireland","id":"ballygrangans-ireland"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"140.016712","cables":[{"cable_id":1150,"name":"FLAG North Asia Loop/REACH North Asia Loop","id":"flag-north-asia-loopreach-north-asia-loop"}],"name":"Wada, Japan","city_id":5892,"id":"wada-japan","latitude":"35.035833"}
+{"type":"landing_point","city_id":5892,"cables":[{"cable_id":1150,"name":"FLAG North Asia Loop/REACH North Asia Loop","id":"flag-north-asia-loopreach-north-asia-loop"}],"latitude":"35.035833","longitude":"140.016712","name":"Wada, Japan","id":"wada-japan"}

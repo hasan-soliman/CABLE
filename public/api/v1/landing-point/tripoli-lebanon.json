@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"35.859145","cables":[{"cable_id":1536,"name":"IMEWE","id":"imewe"}],"name":"Tripoli, Lebanon","city_id":8663,"id":"tripoli-lebanon","latitude":"34.439446"}
+{"type":"landing_point","city_id":8663,"cables":[{"cable_id":1536,"name":"IMEWE","id":"imewe"}],"latitude":"34.439446","longitude":"35.859145","name":"Tripoli, Lebanon","id":"tripoli-lebanon"}

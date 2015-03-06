@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-7.328139","cables":[{"cable_id":1827,"name":"BT Highlands and Islands Submarine Cable System","id":"bt-highlands-and-islands-submarine-cable-system"}],"name":"Ludag, United Kingdom","city_id":15867,"id":"ludag-united-kingdom","latitude":"57.105549"}
+{"type":"landing_point","city_id":15867,"cables":[{"cable_id":1827,"name":"BT Highlands and Islands Submarine Cable System","id":"bt-highlands-and-islands-submarine-cable-system"}],"latitude":"57.105549","longitude":"-7.328139","name":"Ludag, United Kingdom","id":"ludag-united-kingdom"}

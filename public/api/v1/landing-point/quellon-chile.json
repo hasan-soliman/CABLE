@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-73.663948","cables":[{"cable_id":1805,"name":"Quellon-Puerto Chacabuco","id":"quellon-puerto-chacabuco"}],"name":"Quellon, Chile","city_id":14843,"id":"quellon-chile","latitude":"-43.137079"}
+{"type":"landing_point","city_id":14843,"cables":[{"cable_id":1805,"name":"Quellon-Puerto Chacabuco","id":"quellon-puerto-chacabuco"}],"latitude":"-43.137079","longitude":"-73.663948","name":"Quellon, Chile","id":"quellon-chile"}

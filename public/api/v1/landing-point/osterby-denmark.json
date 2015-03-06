@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"11.199293","cables":[{"cable_id":1688,"name":"Kattegat 2","id":"kattegat-2"}],"name":"Osterby, Denmark","city_id":10322,"id":"osterby-denmark","latitude":"57.313459"}
+{"type":"landing_point","city_id":10322,"cables":[{"cable_id":1688,"name":"Kattegat 2","id":"kattegat-2"}],"latitude":"57.313459","longitude":"11.199293","name":"Osterby, Denmark","id":"osterby-denmark"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"27.985320","cables":[{"cable_id":1333,"name":"KAFOS","id":"kafos"}],"name":"Igneada, Turkey","city_id":6058,"id":"igneada-turkey","latitude":"41.884169"}
+{"type":"landing_point","city_id":6058,"cables":[{"cable_id":1333,"name":"KAFOS","id":"kafos"}],"latitude":"41.884169","longitude":"27.985320","name":"Igneada, Turkey","id":"igneada-turkey"}

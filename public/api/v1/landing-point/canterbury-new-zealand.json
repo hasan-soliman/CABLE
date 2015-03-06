@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"171.707322","cables":[{"cable_id":1487,"name":"Aqualink","id":"aqualink"}],"name":"Canterbury, New Zealand","city_id":7855,"id":"canterbury-new-zealand","latitude":"-43.494208"}
+{"type":"landing_point","city_id":7855,"cables":[{"cable_id":1487,"name":"Aqualink","id":"aqualink"}],"latitude":"-43.494208","longitude":"171.707322","name":"Canterbury, New Zealand","id":"canterbury-new-zealand"}

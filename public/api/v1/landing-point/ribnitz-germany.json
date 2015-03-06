@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"12.431519","cables":[{"cable_id":1200,"name":"Germany-Denmark 2","id":"germany-denmark-2"}],"name":"Ribnitz, Germany","city_id":5842,"id":"ribnitz-germany","latitude":"54.243343"}
+{"type":"landing_point","city_id":5842,"cables":[{"cable_id":1200,"name":"Germany-Denmark 2","id":"germany-denmark-2"}],"latitude":"54.243343","longitude":"12.431519","name":"Ribnitz, Germany","id":"ribnitz-germany"}

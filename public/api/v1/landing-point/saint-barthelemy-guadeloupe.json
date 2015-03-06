@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-62.833386","cables":[{"cable_id":1829,"name":"Global Caribbean Fiber (GCF)","id":"global-caribbean-fiber-gcf"}],"name":"Saint Barthelemy, Guadeloupe","city_id":7876,"id":"saint-barthelemy-guadeloupe","latitude":"17.900099"}
+{"type":"landing_point","city_id":7876,"cables":[{"cable_id":1829,"name":"Global Caribbean Fiber (GCF)","id":"global-caribbean-fiber-gcf"}],"latitude":"17.900099","longitude":"-62.833386","name":"Saint Barthelemy, Guadeloupe","id":"saint-barthelemy-guadeloupe"}

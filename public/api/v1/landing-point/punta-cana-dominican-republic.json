@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-68.438267","cables":[{"cable_id":1078,"name":"ARCOS","id":"arcos"},{"cable_id":1227,"name":"Antillas 1","id":"antillas-1"}],"name":"Punta Cana, Dominican Republic","city_id":5694,"id":"punta-cana-dominican-republic","latitude":"18.621290"}
+{"type":"landing_point","city_id":5694,"cables":[{"cable_id":1078,"name":"ARCOS","id":"arcos"},{"cable_id":1227,"name":"Antillas 1","id":"antillas-1"}],"latitude":"18.621290","longitude":"-68.438267","name":"Punta Cana, Dominican Republic","id":"punta-cana-dominican-republic"}

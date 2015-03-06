@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"3.210039","cables":[{"cable_id":1203,"name":"Tampnet Offshore FOC Network","id":"tampnet-offshore-foc-network"}],"name":"Ekofisk, Norway","city_id":7649,"id":"ekofisk-norway","latitude":"56.549104"}
+{"type":"landing_point","city_id":7649,"cables":[{"cable_id":1203,"name":"Tampnet Offshore FOC Network","id":"tampnet-offshore-foc-network"}],"latitude":"56.549104","longitude":"3.210039","name":"Ekofisk, Norway","id":"ekofisk-norway"}

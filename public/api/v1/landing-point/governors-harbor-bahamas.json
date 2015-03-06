@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-76.240655","cables":[{"cable_id":1510,"name":"Bahamas Domestic Submarine Network (BDSNi)","id":"bahamas-domestic-submarine-network-bdsni"}],"name":"Governors Harbor, Bahamas","city_id":10357,"id":"governors-harbor-bahamas","latitude":"25.196091"}
+{"type":"landing_point","city_id":10357,"cables":[{"cable_id":1510,"name":"Bahamas Domestic Submarine Network (BDSNi)","id":"bahamas-domestic-submarine-network-bdsni"}],"latitude":"25.196091","longitude":"-76.240655","name":"Governors Harbor, Bahamas","id":"governors-harbor-bahamas"}

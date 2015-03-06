@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-70.026254","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Kangirsuk, Québec, Canada","city_id":15049,"id":"kangirsuk-qubec-canada","latitude":"60.023418"}
+{"type":"landing_point","city_id":15049,"cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"latitude":"60.023418","longitude":"-70.026254","name":"Kangirsuk, Québec, Canada","id":"kangirsuk-qubec-canada"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"126.391621","cables":[{"cable_id":1592,"name":"EAC-C2C","id":"eac-c2c"}],"name":"Shindu-Ri, Korea, Rep.","city_id":5977,"id":"shindu-ri-korea-rep-","latitude":"36.576262"}
+{"type":"landing_point","city_id":5977,"cables":[{"cable_id":1592,"name":"EAC-C2C","id":"eac-c2c"}],"latitude":"36.576262","longitude":"126.391621","name":"Shindu-Ri, Korea, Rep.","id":"shindu-ri-korea-rep-"}

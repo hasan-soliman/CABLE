@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-5.538785","cables":[{"cable_id":1387,"name":"Scotland-Northern Ireland 1","id":"scotland-northern-ireland-1"}],"name":"Donaghadee, United Kingdom","city_id":7732,"id":"donaghadee-united-kingdom","latitude":"54.642855"}
+{"type":"landing_point","city_id":7732,"cables":[{"cable_id":1387,"name":"Scotland-Northern Ireland 1","id":"scotland-northern-ireland-1"}],"latitude":"54.642855","longitude":"-5.538785","name":"Donaghadee, United Kingdom","id":"donaghadee-united-kingdom"}

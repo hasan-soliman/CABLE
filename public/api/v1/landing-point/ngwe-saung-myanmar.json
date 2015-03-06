@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"94.391246","cables":[{"cable_id":1559,"name":"SeaMeWe-5","id":"seamewe-5"}],"name":"Ngwe Saung, Myanmar","city_id":14639,"id":"ngwe-saung-myanmar","latitude":"16.858009"}
+{"type":"landing_point","city_id":14639,"cables":[{"cable_id":1559,"name":"SeaMeWe-5","id":"seamewe-5"}],"latitude":"16.858009","longitude":"94.391246","name":"Ngwe Saung, Myanmar","id":"ngwe-saung-myanmar"}

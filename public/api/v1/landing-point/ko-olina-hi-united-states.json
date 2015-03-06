@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-158.119474","cables":[{"cable_id":1455,"name":"HICS (Hawaii Inter-Island Cable System)","id":"hics-hawaii-inter-island-cable-system"}],"name":"Ko Olina, HI, United States","city_id":16118,"id":"ko-olina-hi-united-states","latitude":"21.339746"}
+{"type":"landing_point","city_id":16118,"cables":[{"cable_id":1455,"name":"HICS (Hawaii Inter-Island Cable System)","id":"hics-hawaii-inter-island-cable-system"}],"latitude":"21.339746","longitude":"-158.119474","name":"Ko Olina, HI, United States","id":"ko-olina-hi-united-states"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"57.510111","cables":[{"cable_id":1594,"name":"Lower Indian Ocean Network (LION)","id":"lower-indian-ocean-network-lion"}],"name":"Terre Rouge, Mauritius","city_id":9400,"id":"terre-rouge-mauritius","latitude":"-20.077813"}
+{"type":"landing_point","city_id":9400,"cables":[{"cable_id":1594,"name":"Lower Indian Ocean Network (LION)","id":"lower-indian-ocean-network-lion"}],"latitude":"-20.077813","longitude":"57.510111","name":"Terre Rouge, Mauritius","id":"terre-rouge-mauritius"}

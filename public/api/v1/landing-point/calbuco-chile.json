@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-73.132698","cables":[{"cable_id":1830,"name":"Calbuco-Linao","id":"calbuco-linao"}],"name":"Calbuco, Chile","city_id":16012,"id":"calbuco-chile","latitude":"-41.771943"}
+{"type":"landing_point","city_id":16012,"cables":[{"cable_id":1830,"name":"Calbuco-Linao","id":"calbuco-linao"}],"latitude":"-41.771943","longitude":"-73.132698","name":"Calbuco, Chile","id":"calbuco-chile"}

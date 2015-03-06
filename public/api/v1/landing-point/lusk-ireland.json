@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-6.165884","cables":[{"cable_id":1685,"name":"Geo-Eirgrid","id":"geo-eirgrid"}],"name":"Lusk, Ireland","city_id":10907,"id":"lusk-ireland","latitude":"53.526254"}
+{"type":"landing_point","city_id":10907,"cables":[{"cable_id":1685,"name":"Geo-Eirgrid","id":"geo-eirgrid"}],"latitude":"53.526254","longitude":"-6.165884","name":"Lusk, Ireland","id":"lusk-ireland"}

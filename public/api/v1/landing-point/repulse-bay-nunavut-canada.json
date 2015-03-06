@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-86.244655","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Repulse Bay, Nunavut, Canada","city_id":15040,"id":"repulse-bay-nunavut-canada","latitude":"66.528298"}
+{"type":"landing_point","city_id":15040,"cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"latitude":"66.528298","longitude":"-86.244655","name":"Repulse Bay, Nunavut, Canada","id":"repulse-bay-nunavut-canada"}

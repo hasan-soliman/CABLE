@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"1.852813","cables":[{"cable_id":1343,"name":"Ulysses","id":"ulysses"}],"name":"Calais, France","city_id":4490,"id":"calais-france","latitude":"50.952915"}
+{"type":"landing_point","city_id":4490,"cables":[{"cable_id":1343,"name":"Ulysses","id":"ulysses"}],"latitude":"50.952915","longitude":"1.852813","name":"Calais, France","id":"calais-france"}

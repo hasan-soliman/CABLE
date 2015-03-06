@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-17.765244","cables":[{"cable_id":1666,"name":"Canalink","id":"canalink"}],"name":"Santa Cruz de La Palma, Canary Islands, Spain","city_id":7776,"id":"santa-cruz-de-la-palma-canary-islands-spain","latitude":"28.663180"}
+{"type":"landing_point","city_id":7776,"cables":[{"cable_id":1666,"name":"Canalink","id":"canalink"}],"latitude":"28.663180","longitude":"-17.765244","name":"Santa Cruz de La Palma, Canary Islands, Spain","id":"santa-cruz-de-la-palma-canary-islands-spain"}

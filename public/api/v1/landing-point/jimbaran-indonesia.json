@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"115.159888","cables":[{"cable_id":1767,"name":"JaKa2LaDeMa","id":"jaka2ladema"}],"name":"Jimbaran, Indonesia","city_id":14612,"id":"jimbaran-indonesia","latitude":"-8.784068"}
+{"type":"landing_point","city_id":14612,"cables":[{"cable_id":1767,"name":"JaKa2LaDeMa","id":"jaka2ladema"}],"latitude":"-8.784068","longitude":"115.159888","name":"Jimbaran, Indonesia","id":"jimbaran-indonesia"}

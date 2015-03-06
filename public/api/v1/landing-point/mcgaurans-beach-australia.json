@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"147.071201","cables":[{"cable_id":1742,"name":"Basslink","id":"basslink"}],"name":"McGaurans Beach, Australia","city_id":10797,"id":"mcgaurans-beach-australia","latitude":"-38.443624"}
+{"type":"landing_point","city_id":10797,"cables":[{"cable_id":1742,"name":"Basslink","id":"basslink"}],"latitude":"-38.443624","longitude":"147.071201","name":"McGaurans Beach, Australia","id":"mcgaurans-beach-australia"}

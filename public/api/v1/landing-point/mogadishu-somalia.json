@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"45.344199","cables":[{"cable_id":1246,"name":"Eastern Africa Submarine System (EASSy)","id":"eastern-africa-submarine-system-eassy"}],"name":"Mogadishu, Somalia","city_id":4255,"id":"mogadishu-somalia","latitude":"2.041220"}
+{"type":"landing_point","city_id":4255,"cables":[{"cable_id":1246,"name":"Eastern Africa Submarine System (EASSy)","id":"eastern-africa-submarine-system-eassy"}],"latitude":"2.041220","longitude":"45.344199","name":"Mogadishu, Somalia","id":"mogadishu-somalia"}

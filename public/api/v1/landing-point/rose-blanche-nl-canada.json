@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-58.686611","cables":[{"cable_id":1577,"name":"Persona","id":"persona"}],"name":"Rose Blanche, NL, Canada","city_id":9375,"id":"rose-blanche-nl-canada","latitude":"47.617663"}
+{"type":"landing_point","city_id":9375,"cables":[{"cable_id":1577,"name":"Persona","id":"persona"}],"latitude":"47.617663","longitude":"-58.686611","name":"Rose Blanche, NL, Canada","id":"rose-blanche-nl-canada"}

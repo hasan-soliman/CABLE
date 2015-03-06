@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-151.749506","cables":[{"cable_id":1556,"name":"Honotua","id":"honotua"}],"name":"Vaitape, French Polynesia","city_id":14800,"id":"vaitape-french-polynesia","latitude":"-16.506330"}
+{"type":"landing_point","city_id":14800,"cables":[{"cable_id":1556,"name":"Honotua","id":"honotua"}],"latitude":"-16.506330","longitude":"-151.749506","name":"Vaitape, French Polynesia","id":"vaitape-french-polynesia"}

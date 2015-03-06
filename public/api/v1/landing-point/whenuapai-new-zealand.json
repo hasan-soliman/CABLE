@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"174.623336","cables":[{"cable_id":1009,"name":"Southern Cross Cable Network (SCCN)","id":"southern-cross-cable-network-sccn"}],"name":"Whenuapai, New Zealand","city_id":5919,"id":"whenuapai-new-zealand","latitude":"-36.788840"}
+{"type":"landing_point","city_id":5919,"cables":[{"cable_id":1009,"name":"Southern Cross Cable Network (SCCN)","id":"southern-cross-cable-network-sccn"}],"latitude":"-36.788840","longitude":"174.623336","name":"Whenuapai, New Zealand","id":"whenuapai-new-zealand"}

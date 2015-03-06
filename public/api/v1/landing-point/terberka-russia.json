@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"35.125942","cables":[{"cable_id":1244,"name":"Russian Optical Trans-Arctic Cable System (ROTACS)","id":"russian-optical-trans-arctic-cable-system-rotacs"}],"name":"Terberka, Russia","city_id":10901,"id":"terberka-russia","latitude":"69.182887"}
+{"type":"landing_point","city_id":10901,"cables":[{"cable_id":1244,"name":"Russian Optical Trans-Arctic Cable System (ROTACS)","id":"russian-optical-trans-arctic-cable-system-rotacs"}],"latitude":"69.182887","longitude":"35.125942","name":"Terberka, Russia","id":"terberka-russia"}

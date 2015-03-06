@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-77.958526","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Pond Inlet, Nunavut, Canada","city_id":15064,"id":"pond-inlet-nunavut-canada","latitude":"72.700073"}
+{"type":"landing_point","city_id":15064,"cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"latitude":"72.700073","longitude":"-77.958526","name":"Pond Inlet, Nunavut, Canada","id":"pond-inlet-nunavut-canada"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"120.389768","cables":[{"cable_id":1507,"name":"Asia-America Gateway (AAG) Cable System","id":"asia-america-gateway-aag-cable-system"}],"name":"Currimao, Philippines","city_id":8536,"id":"currimao-philippines","latitude":"16.582814"}
+{"type":"landing_point","city_id":8536,"cables":[{"cable_id":1507,"name":"Asia-America Gateway (AAG) Cable System","id":"asia-america-gateway-aag-cable-system"}],"latitude":"16.582814","longitude":"120.389768","name":"Currimao, Philippines","id":"currimao-philippines"}

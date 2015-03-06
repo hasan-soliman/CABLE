@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-95.849728","cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"name":"Gjoa Haven, Nunavut, Canada","city_id":15069,"id":"gjoa-haven-nunavut-canada","latitude":"68.635524"}
+{"type":"landing_point","city_id":15069,"cables":[{"cable_id":1815,"name":"Ivaluk Network","id":"ivaluk-network"}],"latitude":"68.635524","longitude":"-95.849728","name":"Gjoa Haven, Nunavut, Canada","id":"gjoa-haven-nunavut-canada"}

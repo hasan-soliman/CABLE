@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"28.499871","cables":[{"cable_id":1610,"name":"BCS North - Phase 2","id":"bcs-north---phase-2"}],"name":"Logi, Russia","city_id":9102,"id":"logi-russia","latitude":"59.799883"}
+{"type":"landing_point","city_id":9102,"cables":[{"cable_id":1610,"name":"BCS North - Phase 2","id":"bcs-north---phase-2"}],"latitude":"59.799883","longitude":"28.499871","name":"Logi, Russia","id":"logi-russia"}

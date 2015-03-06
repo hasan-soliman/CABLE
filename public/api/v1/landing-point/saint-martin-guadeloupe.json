@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-63.050086","cables":[{"cable_id":1829,"name":"Global Caribbean Fiber (GCF)","id":"global-caribbean-fiber-gcf"}],"name":"Saint Martin, Guadeloupe","city_id":7875,"id":"saint-martin-guadeloupe","latitude":"18.092774"}
+{"type":"landing_point","city_id":7875,"cables":[{"cable_id":1829,"name":"Global Caribbean Fiber (GCF)","id":"global-caribbean-fiber-gcf"}],"latitude":"18.092774","longitude":"-63.050086","name":"Saint Martin, Guadeloupe","id":"saint-martin-guadeloupe"}

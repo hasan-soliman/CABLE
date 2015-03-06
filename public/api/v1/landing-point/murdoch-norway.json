@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"2.333477","cables":[{"cable_id":1203,"name":"Tampnet Offshore FOC Network","id":"tampnet-offshore-foc-network"}],"name":"Murdoch, Norway","city_id":7651,"id":"murdoch-norway","latitude":"54.266390"}
+{"type":"landing_point","city_id":7651,"cables":[{"cable_id":1203,"name":"Tampnet Offshore FOC Network","id":"tampnet-offshore-foc-network"}],"latitude":"54.266390","longitude":"2.333477","name":"Murdoch, Norway","id":"murdoch-norway"}

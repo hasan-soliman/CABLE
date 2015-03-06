@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"4.748515","cables":[{"cable_id":1737,"name":"CANTAT-3","id":"cantat-3"}],"name":"Tyra","city_id":10782,"id":"tyra","latitude":"55.715608"}
+{"type":"landing_point","city_id":10782,"cables":[{"cable_id":1737,"name":"CANTAT-3","id":"cantat-3"}],"latitude":"55.715608","longitude":"4.748515","name":"Tyra","id":"tyra"}

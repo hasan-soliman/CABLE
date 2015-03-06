@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-0.137176","cables":[{"cable_id":1314,"name":"UK-France 3","id":"uk-france-3"}],"name":"Brighton, United Kingdom","city_id":3170,"id":"brighton-united-kingdom","latitude":"50.822544"}
+{"type":"landing_point","city_id":3170,"cables":[{"cable_id":1314,"name":"UK-France 3","id":"uk-france-3"}],"latitude":"50.822544","longitude":"-0.137176","name":"Brighton, United Kingdom","id":"brighton-united-kingdom"}

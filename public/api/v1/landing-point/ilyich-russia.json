@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"36.770863","cables":[{"cable_id":1822,"name":"Kerch Strait Cable","id":"kerch-strait-cable"}],"name":"Ilyich, Russia","city_id":15111,"id":"ilyich-russia","latitude":"45.423621"}
+{"type":"landing_point","city_id":15111,"cables":[{"cable_id":1822,"name":"Kerch Strait Cable","id":"kerch-strait-cable"}],"latitude":"45.423621","longitude":"36.770863","name":"Ilyich, Russia","id":"ilyich-russia"}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"119.303245","cables":[{"cable_id":1636,"name":"Taiwan Strait Express-1 (TSE)-1","id":"taiwan-strait-express-1-tse-1"}],"name":"Fuzhou, China","city_id":8620,"id":"fuzhou-china","latitude":"26.071091"}
+{"type":"landing_point","city_id":8620,"cables":[{"cable_id":1636,"name":"Taiwan Strait Express-1 (TSE)-1","id":"taiwan-strait-express-1-tse-1"}],"latitude":"26.071091","longitude":"119.303245","name":"Fuzhou, China","id":"fuzhou-china"}

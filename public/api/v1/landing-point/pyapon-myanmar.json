@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"95.681968","cables":[{"cable_id":1031,"name":"SeaMeWe-3","id":"seamewe-3"}],"name":"Pyapon, Myanmar","city_id":5911,"id":"pyapon-myanmar","latitude":"16.282228"}
+{"type":"landing_point","city_id":5911,"cables":[{"cable_id":1031,"name":"SeaMeWe-3","id":"seamewe-3"}],"latitude":"16.282228","longitude":"95.681968","name":"Pyapon, Myanmar","id":"pyapon-myanmar"}

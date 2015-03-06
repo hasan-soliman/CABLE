@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-117.038243","cables":[{"cable_id":1072,"name":"Pan-American Crossing (PAC)","id":"pan-american-crossing-pac"}],"name":"Tijuana, Mexico","city_id":3484,"id":"tijuana-mexico","latitude":"32.530853"}
+{"type":"landing_point","city_id":3484,"cables":[{"cable_id":1072,"name":"Pan-American Crossing (PAC)","id":"pan-american-crossing-pac"}],"latitude":"32.530853","longitude":"-117.038243","name":"Tijuana, Mexico","id":"tijuana-mexico"}

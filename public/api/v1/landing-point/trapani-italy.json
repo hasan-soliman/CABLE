@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"12.513648","cables":[{"cable_id":1555,"name":"Trapani-Kelibia","id":"trapani-kelibia"}],"name":"Trapani, Italy","city_id":5876,"id":"trapani-italy","latitude":"38.017960"}
+{"type":"landing_point","city_id":5876,"cables":[{"cable_id":1555,"name":"Trapani-Kelibia","id":"trapani-kelibia"}],"latitude":"38.017960","longitude":"12.513648","name":"Trapani, Italy","id":"trapani-italy"}

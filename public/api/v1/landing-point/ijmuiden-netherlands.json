@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"4.612773","cables":[{"cable_id":1343,"name":"Ulysses","id":"ulysses"}],"name":"Ijmuiden, Netherlands","city_id":10414,"id":"ijmuiden-netherlands","latitude":"52.460922"}
+{"type":"landing_point","city_id":10414,"cables":[{"cable_id":1343,"name":"Ulysses","id":"ulysses"}],"latitude":"52.460922","longitude":"4.612773","name":"Ijmuiden, Netherlands","id":"ijmuiden-netherlands"}
