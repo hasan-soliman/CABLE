@@ -37,6 +37,7 @@ App.IndexController = Ember.ArrayController.extend {}
 App.IndexRoute = Ember.Route.extend
   setupController: (controller, model) ->
     App.analytics("/#/")
+    window.scrollTo(0,0)
     jQuery.getJSON "#{App.apiPath}/cable/all.json", (data) ->
       App.map.resetMap() if App.map
       controller.set "model",  data
@@ -55,6 +56,7 @@ App.SubmarineCableView = Ember.View.extend
 App.SubmarineCableRoute = Ember.Route.extend
   setupController: (controller, model) ->
     App.analytics("/#/submarine-cable/#{App.getSlug(model)}")
+    window.scrollTo(0,0)
     jQuery.getJSON "#{App.apiPath}/cable/#{App.getSlug(model)}.json", (data) ->
       App.map.selectCable data.id, data.landing_points
       controller.set "model",  data
@@ -62,6 +64,7 @@ App.SubmarineCableRoute = Ember.Route.extend
 App.LandingPointRoute = Ember.Route.extend
   setupController: (controller, model) ->
     App.analytics("/#/landing-point/#{App.getSlug(model)}")
+    window.scrollTo(0,0)
     jQuery.getJSON "#{App.apiPath}/landing-point/#{App.getSlug(model)}.json", (data) ->
       App.map.selectLandingPoint data.name, new google.maps.LatLng data.latitude, data.longitude 
       controller.set "model",  data
@@ -69,6 +72,7 @@ App.LandingPointRoute = Ember.Route.extend
 App.CountryRoute = Ember.Route.extend
   setupController: (controller, model) ->
     App.analytics("/#/country/#{App.getSlug(model)}")
+    window.scrollTo(0,0)
     jQuery.getJSON "#{App.apiPath}/country/#{App.getSlug(model)}.json", (data) ->
       App.map.selectCountry data.cables, data.latlon 
       controller.set "model",  data
@@ -76,6 +80,7 @@ App.CountryRoute = Ember.Route.extend
 App.ReadyForServiceRoute = Ember.Route.extend
   setupController: (controller, model) ->
     App.analytics("/#/ready-for-service/#{App.getSlug(model)}")
+    window.scrollTo(0,0)
     jQuery.getJSON "#{App.apiPath}/ready-for-service/#{App.getSlug(model)}.json", (data) ->
       App.map.resetBounds()
       App.map.selectRfs data

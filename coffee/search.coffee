@@ -24,6 +24,9 @@ class SubmarineCable.Search
       jQuery(this).addClass("focus")
       jQuery("#nav").addClass("focus")
       jQuery(this).val("") if jQuery(this).val() == "Search"
+      if window.matchMedia("only screen and (max-width:736px) and (orientation : portrait)").matches
+        console.log "mobile search"
+        window.scrollTo(0, jQuery("#nav").offset().top)
     .blur () ->
       jQuery(this).removeClass("focus").val("Search")
       jQuery("#nav").removeClass("focus")
