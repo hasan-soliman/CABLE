@@ -24,14 +24,14 @@ class SubmarineCable.Map
       query: {select: 'coordinates',from: SubmarineCable.Map.cables_table_id}
       styles: [{polylineOptions: {strokeOpacity: 1}}]
       suppressInfoWindows:true, 
-      styleId: 2
+      styleId: 1
     @cables.setMap(@gmap)
   
   showLandingPoints: () ->
     @landing_points = new google.maps.FusionTablesLayer
       query: {select: 'coordinates',from: SubmarineCable.Map.landing_points_table_id}
       suppressInfoWindows:true
-      styleId: 2
+      styleId: 1
     @landing_points.setMap(@gmap)
 
 
