@@ -117,11 +117,16 @@ class SubmarineCable.Map
     # LandingPoint Event
     google.maps.event.addListener @landing_points, 'click', (event) => 
       jQuery(location).attr('href',"#/landing-point/#{event.row.id.value}")
-
+  
+  isMobile: () ->
+    try
+      window.matchMedia("only screen and (max-width:736px)").matches
+    catch error
+      false
+    
   constructor: (@element) ->
-    @isMobile = window.matchMedia("only screen and (max-width:736px)")
     @gmap = new google.maps.Map document.getElementById(@element), {
-      zoom: if @isMobile.matches then 1 else 3,
+      zoom: if @isMobile() then 1 else 3,
       maxZoom: 8,
       minZoom: 2,
       mapTypeId: google.maps.MapTypeId.ROADMAP,
@@ -129,7 +134,7 @@ class SubmarineCable.Map
       center: new google.maps.LatLng(30.0,-30.0),
       streetViewControl: false,
       mapTypeControl: false,
-      disableDefaultUI: if @isMobile.matches then true else false
+      disableDefaultUI: if @isMobile() then true else false
     }
     @infoBox = new InfoBox({closeBoxURL:"",alignBottom:true,pixelOffset:new google.maps.Size(-60,-15)})
     @showCables()
