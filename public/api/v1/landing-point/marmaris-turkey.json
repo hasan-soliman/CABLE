@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5959,"cables":[{"cable_id":1031,"name":"SeaMeWe-3","id":"seamewe-3"}],"latitude":"36.855265","longitude":"28.253679","name":"Marmaris, Turkey","id":"marmaris-turkey"}
+{"type":"landing_point","city_id":5959,"cables":[{"cable_id":1031,"name":"SeaMeWe-3","id":"seamewe-3"},{"cable_id":1559,"name":"SeaMeWe-5","id":"seamewe-5"}],"latitude":"36.855265","longitude":"28.253679","name":"Marmaris, Turkey","id":"marmaris-turkey"}
