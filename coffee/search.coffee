@@ -3,6 +3,9 @@ class SubmarineCable.Search
   
   @searchJsonPath = "/api/v1/search.json"
   
+  # analytics: (category, action, label) ->
+  #   _gaq.push(['_trackEvent', category, action, label]) if _gaq
+  
   constructor: () ->
     jQuery.getJSON SubmarineCable.Search.searchJsonPath, (data) =>
       jQuery("#search")
@@ -16,6 +19,7 @@ class SubmarineCable.Search
             jQuery("#search").val("Search")
             jQuery("#search").blur()
           select: (event, ui) ->
+            _gaq.push(['_trackEvent', 'Search', 'Complete Search', jQuery(this).val()]) if _gaq
             window.location.href = ui.item.url
             
 

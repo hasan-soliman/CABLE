@@ -2,8 +2,8 @@ window.SubmarineCable = {}
 
 class SubmarineCable.Map
   
-  @landing_points_table_id = "1y38C_S73_osEB-L60DiRS7JJFARw03SnYzVJtdg"
-  @cables_table_id = "1pY5tMAMkf36aH-N2VvXPxnmjPblcQnONodZ32fk"
+  @landing_points_table_id = "1Cl54ggURDqPMvVSuxaQM5mPinrdeDq9FDCGfg9T4"
+  @cables_table_id = "1lObSCM2_KCXIcbCfm_rbilwftWBbxAKszNyfOiL3"
   
   @mapStyles: [
     {"featureType": "landscape","stylers": [{ "visibility": "on" },{ "color": "#d9d9d9" }]},
@@ -36,6 +36,7 @@ class SubmarineCable.Map
 
 
   selectCable: (id, desc, is_map_clicked = false) ->
+    # Cable Select Event
     @infoBox.close()
     @cables.setOptions 
       styles: [
@@ -50,6 +51,7 @@ class SubmarineCable.Map
     @boundMap(desc)
 
   selectCountry: (cables, latlons) ->
+    # Country Select Event
     @infoBox.close()
     @cables.setOptions 
       styles: [
@@ -65,6 +67,7 @@ class SubmarineCable.Map
     @boundMap(latlons)
     
   selectRfs: (data) ->
+    # RFS Select Event
     @infoBox.close()
     @cables.setOptions 
       styles: [
@@ -85,6 +88,7 @@ class SubmarineCable.Map
       @gmap.setZoom @gmap.getZoom() - 2
 
   selectLandingPoint: (name, latLng) ->
+    # Landing Point Select Event
     @cables.setOptions({styles: [{ polylineOptions: {strokeOpacity: 1} }] });
     @landing_points.setQuery
       select: 'coordinates',
@@ -108,14 +112,22 @@ class SubmarineCable.Map
   setEvents: () ->
     # Map Event
     google.maps.event.addListener @gmap, 'click', (event) =>
+      @analytics('Map', 'Click', 'On Map')
       jQuery(location).attr('href',"#/")
+      
+    # google.maps.event.addListener @gmap, 'zoom_changed', (event) =>
+    #   console.log @gmap.getZoom()
   
     # Cable Event
     google.maps.event.addListener @cables, 'click', (event) => 
+      # Cable Click Event?
+      @analytics('Cable', 'Click', event.row.id.value)
       jQuery(location).attr('href',"#/submarine-cable/#{event.row.id.value}")
 
     # LandingPoint Event
     google.maps.event.addListener @landing_points, 'click', (event) => 
+      # Landing Point Click Event?
+      @analytics('Landing Point', 'Click', event.row.id.value)
       jQuery(location).attr('href',"#/landing-point/#{event.row.id.value}")
   
   isMobile: () ->
@@ -124,9 +136,13 @@ class SubmarineCable.Map
     catch error
       false
     
+  analytics: (category, action, label) ->
+    _gaq.push(['_trackEvent', category, action, label]) if _gaq
+    
   constructor: (@element) ->
     @gmap = new google.maps.Map document.getElementById(@element), {
       zoom: if @isMobile() then 1 else 3,
+      maptiks_id: "Submarine Cable Map",
       maxZoom: 8,
       minZoom: 2,
       mapTypeId: google.maps.MapTypeId.ROADMAP,
