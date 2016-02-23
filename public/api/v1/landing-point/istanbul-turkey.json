@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":3221,"cables":[{"cable_id":1333,"name":"KAFOS","id":"kafos"},{"cable_id":1185,"name":"MedNautilus Submarine System","id":"mednautilus-submarine-system"}],"latitude":"41.040615","longitude":"28.986101","name":"Istanbul, Turkey","id":"istanbul-turkey"}
+{"type":"landing_point","city_id":3221,"cables":[{"cable_id":1185,"name":"MedNautilus Submarine System","id":"mednautilus-submarine-system"}],"latitude":"41.040615","longitude":"28.986101","name":"Istanbul, Turkey","id":"istanbul-turkey"}

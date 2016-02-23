@@ -150,6 +150,8 @@ class SubmarineCable.Map
       center: new google.maps.LatLng(30.0,-30.0),
       streetViewControl: false,
       mapTypeControl: false,
+      zoomControlOptions:
+        position: google.maps.ControlPosition.TOP_LEFT
       disableDefaultUI: if @isMobile() then true else false
     }
     @infoBox = new InfoBox({closeBoxURL:"",alignBottom:true,pixelOffset:new google.maps.Size(-60,-15)})

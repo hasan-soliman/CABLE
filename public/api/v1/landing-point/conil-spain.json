@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5944,"cables":[{"cable_id":1046,"name":"Columbus-III","id":"columbus-iii"},{"cable_id":1448,"name":"Pencan-6","id":"pencan-6"}],"latitude":"36.276555","longitude":"-6.087222","name":"Conil, Spain","id":"conil-spain"}
+{"type":"landing_point","city_id":5944,"cables":[{"cable_id":1046,"name":"Columbus-III","id":"columbus-iii"},{"cable_id":1448,"name":"Pencan-6","id":"pencan-6"},{"cable_id":1701,"name":"Pencan-8","id":"pencan-8"}],"latitude":"36.276555","longitude":"-6.087222","name":"Conil, Spain","id":"conil-spain"}
