@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":4236,"cables":[{"cable_id":1148,"name":"Americas-II","id":"americas-ii"}],"latitude":"10.649809","longitude":"-61.516688","name":"Port of Spain, Trinidad and Tobago","id":"port-of-spain-trinidad-and-tobago"}
+{"cables":[{"cable_id":1148,"name":"Americas-II","id":"americas-ii"}],"type":"landing_point","latitude":"10.649809","longitude":"-61.516688","name":"Port of Spain, Trinidad and Tobago","id":"port-of-spain-trinidad-and-tobago","city_id":4236}

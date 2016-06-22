@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":15834,"cables":[{"cable_id":1825,"name":"Far East Submarine Cable System","id":"far-east-submarine-cable-system"}],"latitude":"59.583380","longitude":"151.283308","name":"Ola, Russia","id":"ola-russia"}
+{"cables":[{"cable_id":1825,"name":"Far East Submarine Cable System","id":"far-east-submarine-cable-system"}],"type":"landing_point","latitude":"59.583380","longitude":"151.283308","name":"Ola, Russia","id":"ola-russia","city_id":15834}

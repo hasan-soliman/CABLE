@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5791,"cables":[{"cable_id":1078,"name":"ARCOS","id":"arcos"}],"latitude":"17.495509","longitude":"-88.181617","name":"Belize City, Belize","id":"belize-city-belize"}
+{"cables":[{"cable_id":1078,"name":"ARCOS","id":"arcos"}],"type":"landing_point","latitude":"17.495509","longitude":"-88.181617","name":"Belize City, Belize","id":"belize-city-belize","city_id":5791}

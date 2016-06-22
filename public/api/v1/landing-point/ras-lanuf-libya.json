@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":7869,"cables":[{"cable_id":1184,"name":"LFON (Libyan Fiber Optic Network)","id":"lfon-libyan-fiber-optic-network"}],"latitude":"30.586714","longitude":"18.411887","name":"Ras Lanuf, Libya","id":"ras-lanuf-libya"}
+{"cables":[{"cable_id":1184,"name":"LFON (Libyan Fiber Optic Network)","id":"lfon-libyan-fiber-optic-network"}],"type":"landing_point","latitude":"30.586714","longitude":"18.411887","name":"Ras Lanuf, Libya","id":"ras-lanuf-libya","city_id":7869}

@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":5923,"cables":[{"cable_id":1203,"name":"Tampnet Offshore FOC Network","id":"tampnet-offshore-foc-network"}],"latitude":"59.279278","longitude":"5.524393","name":"Kårstø, Norway","id":"krst-norway"}
+{"cables":[{"cable_id":1203,"name":"Tampnet Offshore FOC Network","id":"tampnet-offshore-foc-network"}],"type":"landing_point","latitude":"59.279278","longitude":"5.524393","name":"Kårstø, Norway","id":"krst-norway","city_id":5923}

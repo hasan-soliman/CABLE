@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":6004,"cables":[{"cable_id":1271,"name":"Botnia","id":"botnia"}],"latitude":"63.825858","longitude":"20.262961","name":"Umeå, Sweden","id":"ume-sweden"}
+{"cables":[{"cable_id":1271,"name":"Botnia","id":"botnia"}],"type":"landing_point","latitude":"63.825858","longitude":"20.262961","name":"Umeå, Sweden","id":"ume-sweden","city_id":6004}

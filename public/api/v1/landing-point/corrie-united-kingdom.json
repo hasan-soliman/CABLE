@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":15844,"cables":[{"cable_id":1827,"name":"BT Highlands and Islands Submarine Cable System","id":"bt-highlands-and-islands-submarine-cable-system"}],"latitude":"55.643635","longitude":"-5.141422","name":"Corrie, United Kingdom","id":"corrie-united-kingdom"}
+{"cables":[{"cable_id":1827,"name":"BT Highlands and Islands Submarine Cable System","id":"bt-highlands-and-islands-submarine-cable-system"}],"type":"landing_point","latitude":"55.643635","longitude":"-5.141422","name":"Corrie, United Kingdom","id":"corrie-united-kingdom","city_id":15844}

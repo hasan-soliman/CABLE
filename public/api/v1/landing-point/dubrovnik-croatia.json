@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":6043,"cables":[{"cable_id":1317,"name":"Adria-1","id":"adria-1"}],"latitude":"42.641884","longitude":"18.106419","name":"Dubrovnik, Croatia","id":"dubrovnik-croatia"}
+{"cables":[{"cable_id":1317,"name":"Adria-1","id":"adria-1"}],"type":"landing_point","latitude":"42.641884","longitude":"18.106419","name":"Dubrovnik, Croatia","id":"dubrovnik-croatia","city_id":6043}

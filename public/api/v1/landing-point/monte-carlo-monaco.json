@@ -1,1 +1,1 @@
-{"type":"landing_point","city_id":6028,"cables":[{"cable_id":1302,"name":"Italy-Monaco","id":"italy-monaco"}],"latitude":"43.739735","longitude":"7.427225","name":"Monte Carlo, Monaco","id":"monte-carlo-monaco"}
+{"cables":[{"cable_id":1302,"name":"Italy-Monaco","id":"italy-monaco"}],"type":"landing_point","latitude":"43.739735","longitude":"7.427225","name":"Monte Carlo, Monaco","id":"monte-carlo-monaco","city_id":6028}

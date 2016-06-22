@@ -1,1 +1,1 @@
-{"latlon":[{"latlon":"8.485357,-13.238098"}],"cables":[{"cable_id":1629,"name":"Africa Coast to Europe (ACE)","id":"africa-coast-to-europe-ace"}],"landing_points":[{"landing_point_id":4212,"name":"Freetown, Sierra Leone","id":"freetown-sierra-leone"}],"name":"Sierra Leone"}
+{"latlon":[{"latlon":"8.485357,-13.238098"}],"cables":[{"cable_id":1629,"name":"Africa Coast to Europe (ACE)","id":"africa-coast-to-europe-ace"}],"landing_points":[{"name":"Freetown, Sierra Leone","landing_point_id":4212,"id":"freetown-sierra-leone"}],"name":"Sierra Leone"}
