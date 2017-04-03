@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1643,"name":"Columbus-II b","id":"columbus-ii-b"}],"type":"landing_point","latitude":"26.715353","longitude":"-80.053343","name":"West Palm Beach, FL, United States","id":"west-palm-beach-fl-united-states","city_id":3824}
+{"type":"landing_point","longitude":"-80.053343","cables":[{"name":"Columbus-II b","id":"columbus-ii-b","cable_id":1643}],"name":"West Palm Beach, FL, United States","city_id":3824,"id":"west-palm-beach-fl-united-states","latitude":"26.715353"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1510,"name":"Bahamas Domestic Submarine Network (BDSNi)","id":"bahamas-domestic-submarine-network-bdsni"}],"type":"landing_point","latitude":"20.950512","longitude":"-73.683076","name":"Matthew Town, Bahamas","id":"matthew-town-bahamas","city_id":9581}
+{"type":"landing_point","longitude":"-73.683076","cables":[{"name":"Bahamas Domestic Submarine Network (BDSNi)","id":"bahamas-domestic-submarine-network-bdsni","cable_id":1510}],"name":"Matthew Town, Bahamas","city_id":9581,"id":"matthew-town-bahamas","latitude":"20.950512"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1028,"name":"FLAG Atlantic-1 (FA-1)","id":"flag-atlantic-1-fa-1"}],"type":"landing_point","latitude":"48.534740","longitude":"-2.768083","name":"Plerin, France","id":"plerin-france","city_id":5836}
+{"type":"landing_point","longitude":"-2.768083","cables":[{"name":"FLAG Atlantic-1 (FA-1)","id":"flag-atlantic-1-fa-1","cable_id":1028}],"name":"Plerin, France","city_id":5836,"id":"plerin-france","latitude":"48.534740"}

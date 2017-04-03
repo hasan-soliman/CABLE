@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1049,"name":"APCN-2","id":"apcn-2"}],"type":"landing_point","latitude":"1.309286","longitude":"103.904693","name":"Katong, Singapore","id":"katong-singapore","city_id":5939}
+{"type":"landing_point","longitude":"103.904693","cables":[{"name":"APCN-2","id":"apcn-2","cable_id":1049}],"name":"Katong, Singapore","city_id":5939,"id":"katong-singapore","latitude":"1.309286"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1346,"name":"FALCON","id":"falcon"},{"cable_id":1209,"name":"Fiber Optic Gulf (FOG)","id":"fiber-optic-gulf-fog"}],"type":"landing_point","latitude":"26.228977","longitude":"50.575812","name":"Manama, Bahrain","id":"manama-bahrain","city_id":4188}
+{"type":"landing_point","longitude":"50.575812","cables":[{"name":"FALCON","id":"falcon","cable_id":1346},{"name":"Fiber Optic Gulf (FOG)","id":"fiber-optic-gulf-fog","cable_id":1209}],"name":"Manama, Bahrain","city_id":4188,"id":"manama-bahrain","latitude":"26.228977"}

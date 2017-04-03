@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1602,"name":"Melita 1","id":"melita-1"}],"type":"landing_point","latitude":"36.733720","longitude":"14.853869","name":"Pozzallo, Italy","id":"pozzallo-italy","city_id":8972}
+{"type":"landing_point","longitude":"14.853869","cables":[{"name":"Melita 1","id":"melita-1","cable_id":1602}],"name":"Pozzallo, Italy","city_id":8972,"id":"pozzallo-italy","latitude":"36.733720"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1559,"name":"SeaMeWe-5","id":"seamewe-5"}],"type":"landing_point","latitude":"5.940827","longitude":"80.539861","name":"Matara, Sri Lanka","id":"matara-sri-lanka","city_id":15021}
+{"type":"landing_point","longitude":"80.539861","cables":[{"name":"SeaMeWe-5","id":"seamewe-5","cable_id":1559}],"name":"Matara, Sri Lanka","city_id":15021,"id":"matara-sri-lanka","latitude":"5.940827"}

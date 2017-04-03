@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1507,"name":"Asia-America Gateway (AAG) Cable System","id":"asia-america-gateway-aag-cable-system"}],"type":"landing_point","latitude":"16.582594","longitude":"120.389646","name":"La Union, Philippines","id":"la-union-philippines","city_id":10340}
+{"type":"landing_point","longitude":"120.389646","cables":[{"name":"Asia-America Gateway (AAG) Cable System","id":"asia-america-gateway-aag-cable-system","cable_id":1507}],"name":"La Union, Philippines","city_id":10340,"id":"la-union-philippines","latitude":"16.582594"}

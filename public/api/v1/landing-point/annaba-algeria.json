@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1366,"name":"Med Cable Network","id":"med-cable-network"},{"cable_id":1035,"name":"SeaMeWe-4","id":"seamewe-4"}],"type":"landing_point","latitude":"36.902348","longitude":"7.755435","name":"Annaba, Algeria","id":"annaba-algeria","city_id":4196}
+{"type":"landing_point","longitude":"7.755435","cables":[{"name":"Med Cable Network","id":"med-cable-network","cable_id":1366},{"name":"SeaMeWe-4","id":"seamewe-4","cable_id":1035}],"name":"Annaba, Algeria","city_id":4196,"id":"annaba-algeria","latitude":"36.902348"}

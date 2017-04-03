@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1780,"name":"Mataram Kupang Cable System (MKCS)","id":"mataram-kupang-cable-system-mkcs"}],"type":"landing_point","latitude":"-10.183311","longitude":"123.583395","name":"Kupang, Indonesia","id":"kupang-indonesia","city_id":14653}
+{"type":"landing_point","longitude":"123.583395","cables":[{"name":"Mataram Kupang Cable System (MKCS)","id":"mataram-kupang-cable-system-mkcs","cable_id":1780}],"name":"Kupang, Indonesia","city_id":14653,"id":"kupang-indonesia","latitude":"-10.183311"}

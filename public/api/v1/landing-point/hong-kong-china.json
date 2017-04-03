@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1902,"name":"Hong Kong-Guam (HK-G)","id":"hong-kong-guam-hk-g"}],"type":"landing_point","latitude":"22.283324","longitude":"114.158717","name":"Hong Kong, China","id":"hong-kong-china","city_id":7660}
+{"type":"landing_point","longitude":"114.158717","cables":[{"name":"Hong Kong-Guam (HK-G)","id":"hong-kong-guam-hk-g","cable_id":1902}],"name":"Hong Kong, China","city_id":7660,"id":"hong-kong-china","latitude":"22.283324"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1078,"name":"ARCOS","id":"arcos"},{"cable_id":1073,"name":"Pan American (PAN-AM)","id":"pan-american-pan-am"}],"type":"landing_point","latitude":"11.708598","longitude":"-70.204367","name":"Punto Fijo, Venezuela","id":"punto-fijo-venezuela","city_id":5965}
+{"type":"landing_point","longitude":"-70.204367","cables":[{"name":"ARCOS","id":"arcos","cable_id":1078},{"name":"Pan American (PAN-AM)","id":"pan-american-pan-am","cable_id":1073}],"name":"Punto Fijo, Venezuela","city_id":5965,"id":"punto-fijo-venezuela","latitude":"11.708598"}

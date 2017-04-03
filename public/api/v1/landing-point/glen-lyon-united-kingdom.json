@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1576,"name":"SHEFA-2","id":"shefa-2"}],"type":"landing_point","latitude":"60.333074","longitude":"-4.333414","name":"Glen Lyon, United Kingdom","id":"glen-lyon-united-kingdom","city_id":10353}
+{"type":"landing_point","longitude":"-4.333414","cables":[{"name":"SHEFA-2","id":"shefa-2","cable_id":1576}],"name":"Glen Lyon, United Kingdom","city_id":10353,"id":"glen-lyon-united-kingdom","latitude":"60.333074"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1888,"name":"Brazilian Festoon","id":"brazilian-festoon"}],"type":"landing_point","latitude":"-5.794836","longitude":"-35.211183","name":"Natal, Brazil","id":"natal-brazil","city_id":3354}
+{"type":"landing_point","longitude":"-35.211183","cables":[{"name":"Brazilian Festoon","id":"brazilian-festoon","cable_id":1888}],"name":"Natal, Brazil","city_id":3354,"id":"natal-brazil","latitude":"-5.794836"}

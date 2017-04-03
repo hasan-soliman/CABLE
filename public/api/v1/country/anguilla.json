@@ -1,1 +1,1 @@
-{"latlon":[{"latlon":"18.217408,-63.057202"}],"cables":[{"cable_id":1290,"name":"Eastern Caribbean Fiber System (ECFS)","id":"eastern-caribbean-fiber-system-ecfs"}],"landing_points":[{"name":"The Valley, Anguilla","landing_point_id":4195,"id":"the-valley-anguilla"}],"name":"Anguilla"}
+{"landing_points":[{"landing_point_id":4195,"name":"The Valley, Anguilla","id":"the-valley-anguilla"}],"cables":[{"name":"Eastern Caribbean Fiber System (ECFS)","id":"eastern-caribbean-fiber-system-ecfs","cable_id":1290}],"name":"Anguilla","latlon":[{"latlon":"18.217408,-63.057202"}]}

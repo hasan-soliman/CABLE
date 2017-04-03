@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1567,"name":"Alaska United Southeast","id":"alaska-united-southeast"}],"type":"landing_point","latitude":"57.052912","longitude":"-135.334402","name":"Sitka, Alaska, United States","id":"sitka-alaska-united-states","city_id":8554}
+{"type":"landing_point","longitude":"-135.334402","cables":[{"name":"Alaska United Southeast","id":"alaska-united-southeast","cable_id":1567}],"name":"Sitka, Alaska, United States","city_id":8554,"id":"sitka-alaska-united-states","latitude":"57.052912"}

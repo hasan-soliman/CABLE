@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1884,"name":"SMPCS Packet-1","id":"smpcs-packet-1"}],"type":"landing_point","latitude":"-3.655384","longitude":"128.190717","name":"Ambon, Indonesia","id":"ambon-indonesia","city_id":16571}
+{"type":"landing_point","longitude":"128.190717","cables":[{"name":"SMPCS Packet-1","id":"smpcs-packet-1","cable_id":1884}],"name":"Ambon, Indonesia","city_id":16571,"id":"ambon-indonesia","latitude":"-3.655384"}

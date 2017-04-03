@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1822,"name":"Kerch Strait Cable","id":"kerch-strait-cable"}],"type":"landing_point","latitude":"45.356983","longitude":"36.477382","name":"Kerch, Ukraine","id":"kerch-ukraine","city_id":15112}
+{"type":"landing_point","longitude":"36.477382","cables":[{"name":"Kerch Strait Cable","id":"kerch-strait-cable","cable_id":1822}],"name":"Kerch, Ukraine","city_id":15112,"id":"kerch-ukraine","latitude":"45.356983"}

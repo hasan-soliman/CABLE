@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1767,"name":"JaKa2LaDeMa","id":"jaka2ladema"}],"type":"landing_point","latitude":"-8.615636","longitude":"114.097071","name":"Beculuk, Indonesia","id":"beculuk-indonesia","city_id":14611}
+{"type":"landing_point","longitude":"114.097071","cables":[{"name":"JaKa2LaDeMa","id":"jaka2ladema","cable_id":1767}],"name":"Beculuk, Indonesia","city_id":14611,"id":"beculuk-indonesia","latitude":"-8.615636"}

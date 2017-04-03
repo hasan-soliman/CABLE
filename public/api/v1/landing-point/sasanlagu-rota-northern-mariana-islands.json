@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1874,"name":"Atisa","id":"atisa"}],"type":"landing_point","latitude":"14.144937","longitude":"145.134337","name":"Sasanlagu, Rota, Northern Mariana Islands","id":"sasanlagu-rota-northern-mariana-islands","city_id":16551}
+{"type":"landing_point","longitude":"145.134337","cables":[{"name":"Atisa","id":"atisa","cable_id":1874}],"name":"Sasanlagu, Rota, Northern Mariana Islands","city_id":16551,"id":"sasanlagu-rota-northern-mariana-islands","latitude":"14.144937"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1867,"name":"XL Bali Lombok Submarine Cable System","id":"xl-bali-lombok-submarine-cable-system"}],"type":"landing_point","latitude":"-8.386266","longitude":"115.746680","name":"Seraya, Indonesia","id":"seraya-indonesia","city_id":16515}
+{"type":"landing_point","longitude":"115.746680","cables":[{"name":"XL Bali Lombok Submarine Cable System","id":"xl-bali-lombok-submarine-cable-system","cable_id":1867}],"name":"Seraya, Indonesia","city_id":16515,"id":"seraya-indonesia","latitude":"-8.386266"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1567,"name":"Alaska United Southeast","id":"alaska-united-southeast"}],"type":"landing_point","latitude":"57.501838","longitude":"-134.582254","name":"Angoon, Alaska, United States","id":"angoon-alaska-united-states","city_id":8553}
+{"type":"landing_point","longitude":"-134.582254","cables":[{"name":"Alaska United Southeast","id":"alaska-united-southeast","cable_id":1567}],"name":"Angoon, Alaska, United States","city_id":8553,"id":"angoon-alaska-united-states","latitude":"57.501838"}

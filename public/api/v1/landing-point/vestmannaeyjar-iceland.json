@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1737,"name":"CANTAT-3","id":"cantat-3"}],"type":"landing_point","latitude":"63.437687","longitude":"-20.267293","name":"Vestmannaeyjar, Iceland","id":"vestmannaeyjar-iceland","city_id":5858}
+{"type":"landing_point","longitude":"-20.267293","cables":[{"name":"CANTAT-3","id":"cantat-3","cable_id":1737}],"name":"Vestmannaeyjar, Iceland","city_id":5858,"id":"vestmannaeyjar-iceland","latitude":"63.437687"}

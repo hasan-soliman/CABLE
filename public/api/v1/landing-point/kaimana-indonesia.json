@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1885,"name":"SMPCS Packet-2","id":"smpcs-packet-2"}],"type":"landing_point","latitude":"-3.679359","longitude":"133.791495","name":"Kaimana, Indonesia","id":"kaimana-indonesia","city_id":16633}
+{"type":"landing_point","longitude":"133.791495","cables":[{"name":"SMPCS Packet-2","id":"smpcs-packet-2","cable_id":1885}],"name":"Kaimana, Indonesia","city_id":16633,"id":"kaimana-indonesia","latitude":"-3.679359"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1840,"name":"Lynn Canal Fiber","id":"lynn-canal-fiber"}],"type":"landing_point","latitude":"59.458343","longitude":"-135.313894","name":"Skagway, Alaska, United States","id":"skagway-alaska-united-states","city_id":16208}
+{"type":"landing_point","longitude":"-135.313894","cables":[{"name":"Lynn Canal Fiber","id":"lynn-canal-fiber","cable_id":1840}],"name":"Skagway, Alaska, United States","city_id":16208,"id":"skagway-alaska-united-states","latitude":"59.458343"}

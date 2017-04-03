@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1679,"name":"Asia Submarine-cable Express (ASE)/Cahaya Malaysia","id":"asia-submarine-cable-express-asecahaya-malaysia"}],"type":"landing_point","latitude":"14.116617","longitude":"122.949899","name":"Daet, Philippines","id":"daet-philippines","city_id":10355}
+{"type":"landing_point","longitude":"122.949899","cables":[{"name":"Asia Submarine-cable Express (ASE)/Cahaya Malaysia","id":"asia-submarine-cable-express-asecahaya-malaysia","cable_id":1679}],"name":"Daet, Philippines","city_id":10355,"id":"daet-philippines","latitude":"14.116617"}

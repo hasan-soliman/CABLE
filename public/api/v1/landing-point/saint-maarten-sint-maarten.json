@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1290,"name":"Eastern Caribbean Fiber System (ECFS)","id":"eastern-caribbean-fiber-system-ecfs"}],"type":"landing_point","latitude":"18.031043","longitude":"-63.073706","name":"Saint Maarten, Sint Maarten","id":"saint-maarten-sint-maarten","city_id":10728}
+{"type":"landing_point","longitude":"-63.073706","cables":[{"name":"Eastern Caribbean Fiber System (ECFS)","id":"eastern-caribbean-fiber-system-ecfs","cable_id":1290}],"name":"Saint Maarten, Sint Maarten","city_id":10728,"id":"saint-maarten-sint-maarten","latitude":"18.031043"}

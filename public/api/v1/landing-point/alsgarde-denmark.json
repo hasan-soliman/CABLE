@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1730,"name":"Denmark-Sweden 17","id":"denmark-sweden-17"}],"type":"landing_point","latitude":"56.074885","longitude":"12.536878","name":"Alsgarde, Denmark","id":"alsgarde-denmark","city_id":10737}
+{"type":"landing_point","longitude":"12.536878","cables":[{"name":"Denmark-Sweden 17","id":"denmark-sweden-17","cable_id":1730}],"name":"Alsgarde, Denmark","city_id":10737,"id":"alsgarde-denmark","latitude":"56.074885"}

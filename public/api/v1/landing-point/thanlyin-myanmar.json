@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1854,"name":"Myanmar-Thailand Interconnect Cable (MYTHIC)","id":"myanmar-thailand-interconnect-cable-mythic"}],"type":"landing_point","latitude":"16.758754","longitude":"96.248252","name":"Thanlyin, Myanmar","id":"thanlyin-myanmar","city_id":16372}
+{"type":"landing_point","longitude":"96.248252","cables":[{"name":"Myanmar-Thailand Interconnect Cable (MYTHIC)","id":"myanmar-thailand-interconnect-cable-mythic","cable_id":1854}],"name":"Thanlyin, Myanmar","city_id":16372,"id":"thanlyin-myanmar","latitude":"16.758754"}

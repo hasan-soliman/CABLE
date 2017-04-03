@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1604,"name":"Southeast Asia Japan Cable (SJC)","id":"southeast-asia-japan-cable-sjc"}],"type":"landing_point","latitude":"4.703718","longitude":"114.570606","name":"Telisai, Brunei","id":"telisai-brunei","city_id":10309}
+{"type":"landing_point","longitude":"114.570606","cables":[{"name":"Southeast Asia Japan Cable (SJC)","id":"southeast-asia-japan-cable-sjc","cable_id":1604}],"name":"Telisai, Brunei","city_id":10309,"id":"telisai-brunei","latitude":"4.703718"}

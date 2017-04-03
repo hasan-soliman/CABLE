@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1356,"name":"Bharat Lanka Cable System","id":"bharat-lanka-cable-system"}],"type":"landing_point","latitude":"8.802203","longitude":"78.145135","name":"Tuticorine, India","id":"tuticorine-india","city_id":7678}
+{"type":"landing_point","longitude":"78.145135","cables":[{"name":"Bharat Lanka Cable System","id":"bharat-lanka-cable-system","cable_id":1356}],"name":"Tuticorine, India","city_id":7678,"id":"tuticorine-india","latitude":"8.802203"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1733,"name":"Hawaiki Cable","id":"hawaiki-cable"}],"type":"landing_point","latitude":"-36.126145","longitude":"174.574459","name":"Mangawhai, New Zealand","id":"mangawhai-new-zealand","city_id":16442}
+{"type":"landing_point","longitude":"174.574459","cables":[{"name":"Hawaiki","id":"hawaiki","cable_id":1733}],"name":"Mangawhai, New Zealand","city_id":16442,"id":"mangawhai-new-zealand","latitude":"-36.126145"}

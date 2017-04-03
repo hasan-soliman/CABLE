@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1078,"name":"ARCOS","id":"arcos"}],"type":"landing_point","latitude":"20.212549","longitude":"-87.463587","name":"Tulum, Mexico","id":"tulum-mexico","city_id":5908}
+{"type":"landing_point","longitude":"-87.463587","cables":[{"name":"ARCOS","id":"arcos","cable_id":1078}],"name":"Tulum, Mexico","city_id":5908,"id":"tulum-mexico","latitude":"20.212549"}

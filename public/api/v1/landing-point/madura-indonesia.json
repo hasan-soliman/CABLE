@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1895,"name":"Indonesia Global Gateway (IGG) System","id":"indonesia-global-gateway-igg-system"}],"type":"landing_point","latitude":"-6.902282","longitude":"113.283473","name":"Madura, Indonesia","id":"madura-indonesia","city_id":16717}
+{"type":"landing_point","longitude":"113.283473","cables":[{"name":"Indonesia Global Gateway (IGG) System","id":"indonesia-global-gateway-igg-system","cable_id":1895}],"name":"Madura, Indonesia","city_id":16717,"id":"madura-indonesia","latitude":"-6.902282"}

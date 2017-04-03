@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1888,"name":"Brazilian Festoon","id":"brazilian-festoon"}],"type":"landing_point","latitude":"-14.787972","longitude":"-39.047704","name":"Ilhéus, Brazil","id":"ilhus-brazil","city_id":4590}
+{"type":"landing_point","longitude":"-39.047704","cables":[{"name":"Brazilian Festoon","id":"brazilian-festoon","cable_id":1888}],"name":"Ilhéus, Brazil","city_id":4590,"id":"ilhus-brazil","latitude":"-14.787972"}

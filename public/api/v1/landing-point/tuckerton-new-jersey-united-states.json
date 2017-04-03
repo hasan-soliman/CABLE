@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1076,"name":"GlobeNet","id":"globenet"},{"cable_id":1043,"name":"TAT-14","id":"tat-14"}],"type":"landing_point","latitude":"39.603885","longitude":"-74.337910","name":"Tuckerton, New Jersey, United States","id":"tuckerton-new-jersey-united-states","city_id":3808}
+{"type":"landing_point","longitude":"-74.337910","cables":[{"name":"GlobeNet","id":"globenet","cable_id":1076},{"name":"TAT-14","id":"tat-14","cable_id":1043}],"name":"Tuckerton, New Jersey, United States","city_id":3808,"id":"tuckerton-new-jersey-united-states","latitude":"39.603885"}

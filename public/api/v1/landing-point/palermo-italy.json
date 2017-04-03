@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1027,"name":"FLAG Europe-Asia (FEA)","id":"flag-europe-asia-fea"},{"cable_id":1035,"name":"SeaMeWe-4","id":"seamewe-4"}],"type":"landing_point","latitude":"38.121500","longitude":"13.358362","name":"Palermo, Italy","id":"palermo-italy","city_id":3177}
+{"type":"landing_point","longitude":"13.358362","cables":[{"name":"FLAG Europe-Asia (FEA)","id":"flag-europe-asia-fea","cable_id":1027},{"name":"SeaMeWe-4","id":"seamewe-4","cable_id":1035}],"name":"Palermo, Italy","city_id":3177,"id":"palermo-italy","latitude":"38.121500"}

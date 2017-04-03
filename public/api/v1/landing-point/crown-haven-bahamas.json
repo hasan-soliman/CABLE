@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1232,"name":"Bahamas Internet Cable System (BICS)","id":"bahamas-internet-cable-system-bics"}],"type":"landing_point","latitude":"26.912509","longitude":"-77.821941","name":"Crown Haven, Bahamas","id":"crown-haven-bahamas","city_id":8355}
+{"type":"landing_point","longitude":"-77.821941","cables":[{"name":"Bahamas Internet Cable System (BICS)","id":"bahamas-internet-cable-system-bics","cable_id":1232}],"name":"Crown Haven, Bahamas","city_id":8355,"id":"crown-haven-bahamas","latitude":"26.912509"}

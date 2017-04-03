@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1427,"name":"Corse-Continent 4 (CC4)","id":"corse-continent-4-cc4"}],"type":"landing_point","latitude":"43.552931","longitude":"7.017349","name":"Cannes, France","id":"cannes-france","city_id":6279}
+{"type":"landing_point","longitude":"7.017349","cables":[{"name":"Corse-Continent 4 (CC4)","id":"corse-continent-4-cc4","cable_id":1427}],"name":"Cannes, France","city_id":6279,"id":"cannes-france","latitude":"43.552931"}

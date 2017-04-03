@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1819,"name":"Farland North","id":"farland-north"}],"type":"landing_point","latitude":"51.563950","longitude":"3.496160","name":"Domburg, Netherlands","id":"domburg-netherlands","city_id":3144}
+{"type":"landing_point","longitude":"3.496160","cables":[{"name":"Farland North","id":"farland-north","cable_id":1819}],"name":"Domburg, Netherlands","city_id":3144,"id":"domburg-netherlands","latitude":"51.563950"}

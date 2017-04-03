@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1078,"name":"ARCOS","id":"arcos"}],"type":"landing_point","latitude":"14.021609","longitude":"-83.393911","name":"Puerto Cabezas, Nicaragua","id":"puerto-cabezas-nicaragua","city_id":5921}
+{"type":"landing_point","longitude":"-83.393911","cables":[{"name":"ARCOS","id":"arcos","cable_id":1078}],"name":"Puerto Cabezas, Nicaragua","city_id":5921,"id":"puerto-cabezas-nicaragua","latitude":"14.021609"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1619,"name":"Southern Caribbean Fiber","id":"southern-caribbean-fiber"}],"type":"landing_point","latitude":"15.303335","longitude":"-61.384840","name":"Canefield, Dominica","id":"canefield-dominica","city_id":8835}
+{"type":"landing_point","longitude":"-61.384840","cables":[{"name":"Southern Caribbean Fiber","id":"southern-caribbean-fiber","cable_id":1619}],"name":"Canefield, Dominica","city_id":8835,"id":"canefield-dominica","latitude":"15.303335"}

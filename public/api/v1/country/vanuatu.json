@@ -1,1 +1,1 @@
-{"latlon":[{"latlon":"-17.730329,168.322802"}],"cables":[{"cable_id":1682,"name":"Interchange Cable Network 1 (ICN1)","id":"interchange-cable-network-1-icn1"}],"landing_points":[{"name":"Port Vila, Vanuatu","landing_point_id":9086,"id":"port-vila-vanuatu"}],"name":"Vanuatu"}
+{"landing_points":[{"landing_point_id":9086,"name":"Port Vila, Vanuatu","id":"port-vila-vanuatu"}],"cables":[{"name":"Interchange Cable Network 1 (ICN1)","id":"interchange-cable-network-1-icn1","cable_id":1682}],"name":"Vanuatu","latlon":[{"latlon":"-17.730329,168.322802"}]}

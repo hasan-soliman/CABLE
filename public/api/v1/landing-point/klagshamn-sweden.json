@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1765,"name":"IP-Only Denmark-Sweden","id":"ip-only-denmark-sweden"}],"type":"landing_point","latitude":"55.533296","longitude":"12.916663","name":"Klagshamn, Sweden","id":"klagshamn-sweden","city_id":14586}
+{"type":"landing_point","longitude":"12.916663","cables":[{"name":"IP-Only Denmark-Sweden","id":"ip-only-denmark-sweden","cable_id":1765}],"name":"Klagshamn, Sweden","city_id":14586,"id":"klagshamn-sweden","latitude":"55.533296"}

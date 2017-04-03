@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1671,"name":"East-West","id":"east-west"}],"type":"landing_point","latitude":"17.949671","longitude":"-76.716864","name":"Harbour View, Jamaica","id":"harbour-view-jamaica","city_id":9600}
+{"type":"landing_point","longitude":"-76.716864","cables":[{"name":"East-West","id":"east-west","cable_id":1671}],"name":"Harbour View, Jamaica","city_id":9600,"id":"harbour-view-jamaica","latitude":"17.949671"}

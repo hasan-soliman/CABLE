@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1219,"name":"SAT-3/WASC","id":"sat-3wasc"}],"type":"landing_point","latitude":"-8.776671","longitude":"13.372327","name":"Cacuaco, Angola","id":"cacuaco-angola","city_id":5775}
+{"type":"landing_point","longitude":"13.372327","cables":[{"name":"SAT-3/WASC","id":"sat-3wasc","cable_id":1219}],"name":"Cacuaco, Angola","city_id":5775,"id":"cacuaco-angola","latitude":"-8.776671"}

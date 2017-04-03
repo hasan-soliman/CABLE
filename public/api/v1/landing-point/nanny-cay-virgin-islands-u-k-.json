@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1671,"name":"East-West","id":"east-west"}],"type":"landing_point","latitude":"18.414784","longitude":"-64.597241","name":"Nanny Cay, Virgin Islands (U.K.)","id":"nanny-cay-virgin-islands-u-k-","city_id":10121}
+{"type":"landing_point","longitude":"-64.597241","cables":[{"name":"East-West","id":"east-west","cable_id":1671}],"name":"Nanny Cay, Virgin Islands (U.K.)","city_id":10121,"id":"nanny-cay-virgin-islands-u-k-","latitude":"18.414784"}

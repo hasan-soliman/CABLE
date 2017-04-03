@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1539,"name":"Pan European Crossing (UK-Belgium)","id":"pan-european-crossing-uk-belgium"}],"type":"landing_point","latitude":"51.246384","longitude":"2.961882","name":"Bredene, Belgium","id":"bredene-belgium","city_id":8396}
+{"type":"landing_point","longitude":"2.961882","cables":[{"name":"Pan European Crossing (UK-Belgium)","id":"pan-european-crossing-uk-belgium","cable_id":1539}],"name":"Bredene, Belgium","city_id":8396,"id":"bredene-belgium","latitude":"51.246384"}

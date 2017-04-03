@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1864,"name":"Liquid Sea","id":"liquid-sea"}],"type":"landing_point","latitude":"26.106821","longitude":"34.274355","name":"Quseer, Egypt","id":"quseer-egypt","city_id":16715}
+{"type":"landing_point","longitude":"34.274355","cables":[{"name":"Liquid Sea","id":"liquid-sea","cable_id":1864}],"name":"Quseer, Egypt","city_id":16715,"id":"quseer-egypt","latitude":"26.106821"}

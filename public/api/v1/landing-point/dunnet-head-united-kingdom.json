@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1836,"name":"Northern Lights","id":"northern-lights"}],"type":"landing_point","latitude":"58.670331","longitude":"-3.376579","name":"Dunnet Head, United Kingdom","id":"dunnet-head-united-kingdom","city_id":16020}
+{"type":"landing_point","longitude":"-3.376579","cables":[{"name":"Northern Lights","id":"northern-lights","cable_id":1836}],"name":"Dunnet Head, United Kingdom","city_id":16020,"id":"dunnet-head-united-kingdom","latitude":"58.670331"}

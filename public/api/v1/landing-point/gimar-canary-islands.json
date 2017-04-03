@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1666,"name":"Canalink","id":"canalink"}],"type":"landing_point","latitude":"28.310580","longitude":"-16.412559","name":"Güimar, Canary Islands","id":"gimar-canary-islands","city_id":16017}
+{"type":"landing_point","longitude":"-16.412559","cables":[{"name":"Canalink","id":"canalink","cable_id":1666}],"name":"Güimar, Canary Islands","city_id":16017,"id":"gimar-canary-islands","latitude":"28.310580"}

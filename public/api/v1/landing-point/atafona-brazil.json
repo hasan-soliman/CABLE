@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1888,"name":"Brazilian Festoon","id":"brazilian-festoon"}],"type":"landing_point","latitude":"-21.631157","longitude":"-41.027245","name":"Atafona, Brazil","id":"atafona-brazil","city_id":16690}
+{"type":"landing_point","longitude":"-41.027245","cables":[{"name":"Brazilian Festoon","id":"brazilian-festoon","cable_id":1888}],"name":"Atafona, Brazil","city_id":16690,"id":"atafona-brazil","latitude":"-21.631157"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1076,"name":"GlobeNet","id":"globenet"}],"type":"landing_point","latitude":"10.599394","longitude":"-66.960325","name":"Maiquetia, Venezuela","id":"maiquetia-venezuela","city_id":5968}
+{"type":"landing_point","longitude":"-66.960325","cables":[{"name":"GlobeNet","id":"globenet","cable_id":1076}],"name":"Maiquetia, Venezuela","city_id":5968,"id":"maiquetia-venezuela","latitude":"10.599394"}

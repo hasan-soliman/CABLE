@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1290,"name":"Eastern Caribbean Fiber System (ECFS)","id":"eastern-caribbean-fiber-system-ecfs"}],"type":"landing_point","latitude":"13.098954","longitude":"-59.613356","name":"Bridgetown, Barbados","id":"bridgetown-barbados","city_id":4202}
+{"type":"landing_point","longitude":"-59.613356","cables":[{"name":"Eastern Caribbean Fiber System (ECFS)","id":"eastern-caribbean-fiber-system-ecfs","cable_id":1290}],"name":"Bridgetown, Barbados","city_id":4202,"id":"bridgetown-barbados","latitude":"13.098954"}

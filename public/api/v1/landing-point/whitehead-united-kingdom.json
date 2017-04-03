@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1834,"name":"Lanis-3","id":"lanis-3"}],"type":"landing_point","latitude":"54.753707","longitude":"-5.718716","name":"Whitehead, United Kingdom","id":"whitehead-united-kingdom","city_id":16018}
+{"type":"landing_point","longitude":"-5.718716","cables":[{"name":"Lanis-3","id":"lanis-3","cable_id":1834}],"name":"Whitehead, United Kingdom","city_id":16018,"id":"whitehead-united-kingdom","latitude":"54.753707"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1614,"name":"Scotland-Northern Ireland 2","id":"scotland-northern-ireland-2"}],"type":"landing_point","latitude":"54.857491","longitude":"-5.809879","name":"Larne, United Kingdom","id":"larne-united-kingdom","city_id":11390}
+{"type":"landing_point","longitude":"-5.809879","cables":[{"name":"Scotland-Northern Ireland 2","id":"scotland-northern-ireland-2","cable_id":1614}],"name":"Larne, United Kingdom","city_id":11390,"id":"larne-united-kingdom","latitude":"54.857491"}

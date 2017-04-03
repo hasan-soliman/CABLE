@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1605,"name":"HANTRU1 Cable System","id":"hantru1-cable-system"}],"type":"landing_point","latitude":"9.189776","longitude":"167.424365","name":"Kwajalein, Republic of Marshall Islands","id":"kwajalein-republic-of-marshall-islands","city_id":7879}
+{"type":"landing_point","longitude":"167.424365","cables":[{"name":"HANTRU1 Cable System","id":"hantru1-cable-system","cable_id":1605}],"name":"Kwajalein, Republic of Marshall Islands","city_id":7879,"id":"kwajalein-republic-of-marshall-islands","latitude":"9.189776"}

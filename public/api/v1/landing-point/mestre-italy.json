@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1286,"name":"Italy-Croatia","id":"italy-croatia"}],"type":"landing_point","latitude":"45.495874","longitude":"12.244105","name":"Mestre, Italy","id":"mestre-italy","city_id":6016}
+{"type":"landing_point","longitude":"12.244105","cables":[{"name":"Italy-Croatia","id":"italy-croatia","cable_id":1286}],"name":"Mestre, Italy","city_id":6016,"id":"mestre-italy","latitude":"45.495874"}

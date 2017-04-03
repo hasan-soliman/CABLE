@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1875,"name":"Skagerrak 4","id":"skagerrak-4"}],"type":"landing_point","latitude":"56.510798","longitude":"9.611684","name":"Tjele, Denmark","id":"tjele-denmark","city_id":16362}
+{"type":"landing_point","longitude":"9.611684","cables":[{"name":"Skagerrak 4","id":"skagerrak-4","cable_id":1875}],"name":"Tjele, Denmark","city_id":16362,"id":"tjele-denmark","latitude":"56.510798"}

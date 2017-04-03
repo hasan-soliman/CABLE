@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1754,"name":"Sirius North","id":"sirius-north"}],"type":"landing_point","latitude":"55.637581","longitude":"-4.783512","name":"Saltcoats, United Kingdom","id":"saltcoats-united-kingdom","city_id":13376}
+{"type":"landing_point","longitude":"-4.783512","cables":[{"name":"Sirius North","id":"sirius-north","cable_id":1754}],"name":"Saltcoats, United Kingdom","city_id":13376,"id":"saltcoats-united-kingdom","latitude":"55.637581"}

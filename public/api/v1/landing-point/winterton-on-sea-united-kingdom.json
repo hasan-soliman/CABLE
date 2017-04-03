@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1365,"name":"UK-Netherlands 14","id":"uk-netherlands-14"}],"type":"landing_point","latitude":"52.715231","longitude":"1.693536","name":"Winterton-on-Sea, United Kingdom","id":"winterton-on-sea-united-kingdom","city_id":3269}
+{"type":"landing_point","longitude":"1.693536","cables":[{"name":"UK-Netherlands 14","id":"uk-netherlands-14","cable_id":1365}],"name":"Winterton-on-Sea, United Kingdom","city_id":3269,"id":"winterton-on-sea-united-kingdom","latitude":"52.715231"}

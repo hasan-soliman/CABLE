@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1184,"name":"LFON (Libyan Fiber Optic Network)","id":"lfon-libyan-fiber-optic-network"}],"type":"landing_point","latitude":"32.774725","longitude":"12.529749","name":"Zawia, Libya","id":"zawia-libya","city_id":7865}
+{"type":"landing_point","longitude":"12.529749","cables":[{"name":"LFON (Libyan Fiber Optic Network)","id":"lfon-libyan-fiber-optic-network","cable_id":1184}],"name":"Zawia, Libya","city_id":7865,"id":"zawia-libya","latitude":"32.774725"}

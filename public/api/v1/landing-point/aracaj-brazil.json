@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1888,"name":"Brazilian Festoon","id":"brazilian-festoon"}],"type":"landing_point","latitude":"-10.909604","longitude":"-37.074805","name":"Aracajú, Brazil","id":"aracaj-brazil","city_id":3356}
+{"type":"landing_point","longitude":"-37.074805","cables":[{"name":"Brazilian Festoon","id":"brazilian-festoon","cable_id":1888}],"name":"Aracajú, Brazil","city_id":3356,"id":"aracaj-brazil","latitude":"-10.909604"}

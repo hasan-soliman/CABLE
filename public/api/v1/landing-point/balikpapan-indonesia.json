@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1895,"name":"Indonesia Global Gateway (IGG) System","id":"indonesia-global-gateway-igg-system"}],"type":"landing_point","latitude":"-1.265371","longitude":"116.831201","name":"Balikpapan, Indonesia","id":"balikpapan-indonesia","city_id":9716}
+{"type":"landing_point","longitude":"116.831201","cables":[{"name":"Indonesia Global Gateway (IGG) System","id":"indonesia-global-gateway-igg-system","cable_id":1895}],"name":"Balikpapan, Indonesia","city_id":9716,"id":"balikpapan-indonesia","latitude":"-1.265371"}

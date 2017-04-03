@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1693,"name":"TERRA SW","id":"terra-sw"}],"type":"landing_point","latitude":"59.327801","longitude":"-155.894736","name":"Igiugig, Alaska, United States","id":"igiugig-alaska-united-states","city_id":15033}
+{"type":"landing_point","longitude":"-155.894736","cables":[{"name":"TERRA SW","id":"terra-sw","cable_id":1693}],"name":"Igiugig, Alaska, United States","city_id":15033,"id":"igiugig-alaska-united-states","latitude":"59.327801"}

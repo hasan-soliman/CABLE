@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1199,"name":"Baltica","id":"baltica"}],"type":"landing_point","latitude":"54.172347","longitude":"15.574865","name":"Kolobrzeg, Poland","id":"kolobrzeg-poland","city_id":5933}
+{"type":"landing_point","longitude":"15.574865","cables":[{"name":"Baltica","id":"baltica","cable_id":1199}],"name":"Kolobrzeg, Poland","city_id":5933,"id":"kolobrzeg-poland","latitude":"54.172347"}

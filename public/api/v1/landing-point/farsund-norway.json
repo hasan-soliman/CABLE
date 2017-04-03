@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1203,"name":"Tampnet Offshore FOC Network","id":"tampnet-offshore-foc-network"}],"type":"landing_point","latitude":"58.082770","longitude":"6.752799","name":"Farsund, Norway","id":"farsund-norway","city_id":15386}
+{"type":"landing_point","longitude":"6.752799","cables":[{"name":"Tampnet Offshore FOC Network","id":"tampnet-offshore-foc-network","cable_id":1203}],"name":"Farsund, Norway","city_id":15386,"id":"farsund-norway","latitude":"58.082770"}

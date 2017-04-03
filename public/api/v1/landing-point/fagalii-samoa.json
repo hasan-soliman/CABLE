@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1855,"name":"Tui-Samoa","id":"tui-samoa"}],"type":"landing_point","latitude":"-13.849227","longitude":"-171.740084","name":"Fagali'i, Samoa","id":"fagalii-samoa","city_id":16521}
+{"type":"landing_point","longitude":"-171.740084","cables":[{"name":"Tui-Samoa","id":"tui-samoa","cable_id":1855}],"name":"Fagali'i, Samoa","city_id":16521,"id":"fagalii-samoa","latitude":"-13.849227"}

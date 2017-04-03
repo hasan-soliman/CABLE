@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1687,"name":"Tonga Cable","id":"tonga-cable"}],"type":"landing_point","latitude":"-21.133281","longitude":"-175.200042","name":"Nuku'alofa, Tonga","id":"nukualofa-tonga","city_id":10315}
+{"type":"landing_point","longitude":"-175.200042","cables":[{"name":"Tonga Cable","id":"tonga-cable","cable_id":1687}],"name":"Nuku'alofa, Tonga","city_id":10315,"id":"nukualofa-tonga","latitude":"-21.133281"}

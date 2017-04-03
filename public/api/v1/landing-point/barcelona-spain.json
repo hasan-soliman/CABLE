@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1053,"name":"BARSAV","id":"barsav"}],"type":"landing_point","latitude":"41.385341","longitude":"2.168536","name":"Barcelona, Spain","id":"barcelona-spain","city_id":3036}
+{"type":"landing_point","longitude":"2.168536","cables":[{"name":"BARSAV","id":"barsav","cable_id":1053}],"name":"Barcelona, Spain","city_id":3036,"id":"barcelona-spain","latitude":"41.385341"}

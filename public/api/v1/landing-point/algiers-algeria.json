@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1366,"name":"Med Cable Network","id":"med-cable-network"}],"type":"landing_point","latitude":"36.765336","longitude":"3.031804","name":"Algiers, Algeria","id":"algiers-algeria","city_id":4176}
+{"type":"landing_point","longitude":"3.031804","cables":[{"name":"Med Cable Network","id":"med-cable-network","cable_id":1366}],"name":"Algiers, Algeria","city_id":4176,"id":"algiers-algeria","latitude":"36.765336"}

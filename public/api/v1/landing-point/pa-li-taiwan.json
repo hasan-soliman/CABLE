@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1592,"name":"EAC-C2C","id":"eac-c2c"}],"type":"landing_point","latitude":"25.149985","longitude":"121.383200","name":"Pa Li, Taiwan","id":"pa-li-taiwan","city_id":5983}
+{"type":"landing_point","longitude":"121.383200","cables":[{"name":"EAC-C2C","id":"eac-c2c","cable_id":1592}],"name":"Pa Li, Taiwan","city_id":5983,"id":"pa-li-taiwan","latitude":"25.149985"}

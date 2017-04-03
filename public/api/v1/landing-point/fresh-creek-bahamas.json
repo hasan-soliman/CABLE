@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1510,"name":"Bahamas Domestic Submarine Network (BDSNi)","id":"bahamas-domestic-submarine-network-bdsni"}],"type":"landing_point","latitude":"24.689805","longitude":"-77.844604","name":"Fresh Creek, Bahamas","id":"fresh-creek-bahamas","city_id":10358}
+{"type":"landing_point","longitude":"-77.844604","cables":[{"name":"Bahamas Domestic Submarine Network (BDSNi)","id":"bahamas-domestic-submarine-network-bdsni","cable_id":1510}],"name":"Fresh Creek, Bahamas","city_id":10358,"id":"fresh-creek-bahamas","latitude":"24.689805"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1844,"name":"JASUKA","id":"jasuka"}],"type":"landing_point","latitude":"3.380599","longitude":"99.208211","name":"Teping Tinggi, Indonesia","id":"teping-tinggi-indonesia","city_id":16285}
+{"type":"landing_point","longitude":"99.208211","cables":[{"name":"JASUKA","id":"jasuka","cable_id":1844}],"name":"Teping Tinggi, Indonesia","city_id":16285,"id":"teping-tinggi-indonesia","latitude":"3.380599"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1693,"name":"TERRA SW","id":"terra-sw"}],"type":"landing_point","latitude":"59.972649","longitude":"-154.847716","name":"Nondalton, Alaska, United States","id":"nondalton-alaska-united-states","city_id":15030}
+{"type":"landing_point","longitude":"-154.847716","cables":[{"name":"TERRA SW","id":"terra-sw","cable_id":1693}],"name":"Nondalton, Alaska, United States","city_id":15030,"id":"nondalton-alaska-united-states","latitude":"59.972649"}

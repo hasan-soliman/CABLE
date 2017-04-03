@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1517,"name":"WARF Submarine Cable","id":"warf-submarine-cable"}],"type":"landing_point","latitude":"8.798150","longitude":"76.970233","name":"Trivendrum, India","id":"trivendrum-india","city_id":7706}
+{"type":"landing_point","longitude":"76.970233","cables":[{"name":"WARF Submarine Cable","id":"warf-submarine-cable","cable_id":1517}],"name":"Trivendrum, India","city_id":7706,"id":"trivendrum-india","latitude":"8.798150"}

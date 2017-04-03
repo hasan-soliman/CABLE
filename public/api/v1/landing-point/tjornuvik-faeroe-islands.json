@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1737,"name":"CANTAT-3","id":"cantat-3"}],"type":"landing_point","latitude":"62.289921","longitude":"-7.147231","name":"Tjornuvik, Faeroe Islands","id":"tjornuvik-faeroe-islands","city_id":5724}
+{"type":"landing_point","longitude":"-7.147231","cables":[{"name":"CANTAT-3","id":"cantat-3","cable_id":1737}],"name":"Tjornuvik, Faeroe Islands","city_id":5724,"id":"tjornuvik-faeroe-islands","latitude":"62.289921"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1187,"name":"PENBAL-5","id":"penbal-5"}],"type":"landing_point","latitude":"41.304006","longitude":"2.001348","name":"Gavá, Spain","id":"gav-spain","city_id":7762}
+{"type":"landing_point","longitude":"2.001348","cables":[{"name":"PENBAL-5","id":"penbal-5","cable_id":1187}],"name":"Gavá, Spain","city_id":7762,"id":"gav-spain","latitude":"41.304006"}

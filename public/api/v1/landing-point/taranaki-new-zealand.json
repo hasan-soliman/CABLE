@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1487,"name":"Aqualink","id":"aqualink"}],"type":"landing_point","latitude":"-39.287862","longitude":"174.371530","name":"Taranaki, New Zealand","id":"taranaki-new-zealand","city_id":7852}
+{"type":"landing_point","longitude":"174.371530","cables":[{"name":"Aqualink","id":"aqualink","cable_id":1487}],"name":"Taranaki, New Zealand","city_id":7852,"id":"taranaki-new-zealand","latitude":"-39.287862"}

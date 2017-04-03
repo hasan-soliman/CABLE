@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1560,"name":"West African Cable System (WACS)","id":"west-african-cable-system-wacs"}],"type":"landing_point","latitude":"-4.779090","longitude":"11.863636","name":"Point Noire, Congo, Rep.","id":"point-noire-congo-rep-","city_id":5971}
+{"type":"landing_point","longitude":"11.863636","cables":[{"name":"West African Cable System (WACS)","id":"west-african-cable-system-wacs","cable_id":1560}],"name":"Point Noire, Congo, Rep.","city_id":5971,"id":"point-noire-congo-rep-","latitude":"-4.779090"}

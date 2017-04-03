@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1849,"name":"Silk Route Gateway (SRG-1)","id":"silk-route-gateway-srg-1"}],"type":"landing_point","latitude":"25.132297","longitude":"62.325026","name":"Gwador, Pakistan","id":"gwador-pakistan","city_id":16371}
+{"type":"landing_point","longitude":"62.325026","cables":[{"name":"Silk Route Gateway (SRG-1)","id":"silk-route-gateway-srg-1","cable_id":1849}],"name":"Gwador, Pakistan","city_id":16371,"id":"gwador-pakistan","latitude":"25.132297"}

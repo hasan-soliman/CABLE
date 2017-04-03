@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1884,"name":"SMPCS Packet-1","id":"smpcs-packet-1"}],"type":"landing_point","latitude":"0.734970","longitude":"127.561420","name":"Sofifi, Indonesia","id":"sofifi-indonesia","city_id":16622}
+{"type":"landing_point","longitude":"127.561420","cables":[{"name":"SMPCS Packet-1","id":"smpcs-packet-1","cable_id":1884}],"name":"Sofifi, Indonesia","city_id":16622,"id":"sofifi-indonesia","latitude":"0.734970"}

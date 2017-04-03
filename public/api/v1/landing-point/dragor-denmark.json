@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1545,"name":"Scandinavian Ring South","id":"scandinavian-ring-south"}],"type":"landing_point","latitude":"55.593538","longitude":"12.670179","name":"Dragor, Denmark","id":"dragor-denmark","city_id":8400}
+{"type":"landing_point","longitude":"12.670179","cables":[{"name":"Scandinavian Ring South","id":"scandinavian-ring-south","cable_id":1545}],"name":"Dragor, Denmark","city_id":8400,"id":"dragor-denmark","latitude":"55.593538"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1571,"name":"ACS Alaska-Oregon Network (AKORN)","id":"acs-alaska-oregon-network-akorn"}],"type":"landing_point","latitude":"43.982130","longitude":"-124.099837","name":"Florence, Oregon, United States","id":"florence-oregon-united-states","city_id":8539}
+{"type":"landing_point","longitude":"-124.099837","cables":[{"name":"ACS Alaska-Oregon Network (AKORN)","id":"acs-alaska-oregon-network-akorn","cable_id":1571}],"name":"Florence, Oregon, United States","city_id":8539,"id":"florence-oregon-united-states","latitude":"43.982130"}

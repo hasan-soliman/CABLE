@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1880,"name":"S-U-B Cable System","id":"s-u-b-cable-system"}],"type":"landing_point","latitude":"-7.258581","longitude":"112.746681","name":"Surabaya, Indonesia","id":"surabaya-indonesia","city_id":7802}
+{"type":"landing_point","longitude":"112.746681","cables":[{"name":"S-U-B Cable System","id":"s-u-b-cable-system","cable_id":1880}],"name":"Surabaya, Indonesia","city_id":7802,"id":"surabaya-indonesia","latitude":"-7.258581"}

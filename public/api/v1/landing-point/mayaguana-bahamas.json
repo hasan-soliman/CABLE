@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1510,"name":"Bahamas Domestic Submarine Network (BDSNi)","id":"bahamas-domestic-submarine-network-bdsni"}],"type":"landing_point","latitude":"22.401561","longitude":"-73.064131","name":"Mayaguana, Bahamas","id":"mayaguana-bahamas","city_id":10362}
+{"type":"landing_point","longitude":"-73.064131","cables":[{"name":"Bahamas Domestic Submarine Network (BDSNi)","id":"bahamas-domestic-submarine-network-bdsni","cable_id":1510}],"name":"Mayaguana, Bahamas","city_id":10362,"id":"mayaguana-bahamas","latitude":"22.401561"}

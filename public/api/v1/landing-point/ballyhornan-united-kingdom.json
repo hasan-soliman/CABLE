@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1752,"name":"BT-MT-1","id":"bt-mt-1"}],"type":"landing_point","latitude":"54.302047","longitude":"-5.559390","name":"Ballyhornan, United Kingdom","id":"ballyhornan-united-kingdom","city_id":13373}
+{"type":"landing_point","longitude":"-5.559390","cables":[{"name":"BT-MT-1","id":"bt-mt-1","cable_id":1752}],"name":"Ballyhornan, United Kingdom","city_id":13373,"id":"ballyhornan-united-kingdom","latitude":"54.302047"}

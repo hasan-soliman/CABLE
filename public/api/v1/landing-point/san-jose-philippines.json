@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1781,"name":"Boracay-Palawan Submarine Cable System","id":"boracay-palawan-submarine-cable-system"}],"type":"landing_point","latitude":"12.362626","longitude":"121.050095","name":"San Jose, Philippines","id":"san-jose-philippines","city_id":7841}
+{"type":"landing_point","longitude":"121.050095","cables":[{"name":"Boracay-Palawan Submarine Cable System","id":"boracay-palawan-submarine-cable-system","cable_id":1781}],"name":"San Jose, Philippines","city_id":7841,"id":"san-jose-philippines","latitude":"12.362626"}

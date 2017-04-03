@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1651,"name":"Svalbard Undersea Cable System","id":"svalbard-undersea-cable-system"}],"type":"landing_point","latitude":"78.218527","longitude":"15.648790","name":"Longyearbyen, Svalbard, Norway","id":"longyearbyen-svalbard-norway","city_id":9672}
+{"type":"landing_point","longitude":"15.648790","cables":[{"name":"Svalbard Undersea Cable System","id":"svalbard-undersea-cable-system","cable_id":1651}],"name":"Longyearbyen, Svalbard, Norway","city_id":9672,"id":"longyearbyen-svalbard-norway","latitude":"78.218527"}

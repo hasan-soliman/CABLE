@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1733,"name":"Hawaiki Cable","id":"hawaiki-cable"}],"type":"landing_point","latitude":"21.335424","longitude":"-158.056895","name":"Kapolei, HI, United States","id":"kapolei-hi-united-states","city_id":16358}
+{"type":"landing_point","longitude":"-158.056895","cables":[{"name":"Hawaiki","id":"hawaiki","cable_id":1733}],"name":"Kapolei, HI, United States","city_id":16358,"id":"kapolei-hi-united-states","latitude":"21.335424"}

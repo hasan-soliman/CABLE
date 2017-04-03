@@ -1,1 +1,1 @@
-{"latlon":[{"latlon":"45.356983,36.477382"}],"cables":[{"cable_id":1822,"name":"Kerch Strait Cable","id":"kerch-strait-cable"}],"landing_points":[{"name":"Kerch, Ukraine","landing_point_id":15112,"id":"kerch-ukraine"}],"name":"Ukraine"}
+{"landing_points":[{"landing_point_id":15112,"name":"Kerch, Ukraine","id":"kerch-ukraine"}],"cables":[{"name":"Kerch Strait Cable","id":"kerch-strait-cable","cable_id":1822}],"name":"Ukraine","latlon":[{"latlon":"45.356983,36.477382"}]}

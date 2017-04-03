@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1886,"name":"East-West Submarine Cable System","id":"east-west-submarine-cable-system"}],"type":"landing_point","latitude":"3.207137","longitude":"106.211137","name":"Terempa, Indonesia","id":"terempa-indonesia","city_id":16635}
+{"type":"landing_point","longitude":"106.211137","cables":[{"name":"East-West Submarine Cable System","id":"east-west-submarine-cable-system","cable_id":1886}],"name":"Terempa, Indonesia","city_id":16635,"id":"terempa-indonesia","latitude":"3.207137"}

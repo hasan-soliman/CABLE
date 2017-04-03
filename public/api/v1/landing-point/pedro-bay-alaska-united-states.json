@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1693,"name":"TERRA SW","id":"terra-sw"}],"type":"landing_point","latitude":"59.787213","longitude":"-154.106115","name":"Pedro Bay, Alaska, United States","id":"pedro-bay-alaska-united-states","city_id":15025}
+{"type":"landing_point","longitude":"-154.106115","cables":[{"name":"TERRA SW","id":"terra-sw","cable_id":1693}],"name":"Pedro Bay, Alaska, United States","city_id":15025,"id":"pedro-bay-alaska-united-states","latitude":"59.787213"}

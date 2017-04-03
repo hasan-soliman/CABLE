@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1290,"name":"Eastern Caribbean Fiber System (ECFS)","id":"eastern-caribbean-fiber-system-ecfs"}],"type":"landing_point","latitude":"13.994217","longitude":"-61.006813","name":"Castries, Saint Lucia","id":"castries-saint-lucia","city_id":4207}
+{"type":"landing_point","longitude":"-61.006813","cables":[{"name":"Eastern Caribbean Fiber System (ECFS)","id":"eastern-caribbean-fiber-system-ecfs","cable_id":1290}],"name":"Castries, Saint Lucia","city_id":4207,"id":"castries-saint-lucia","latitude":"13.994217"}

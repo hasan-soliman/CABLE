@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1786,"name":"New Cross Pacific (NCP) Cable System","id":"new-cross-pacific-ncp-cable-system"}],"type":"landing_point","latitude":"30.935664","longitude":"121.896091","name":"Lingang, China","id":"lingang-china","city_id":16316}
+{"type":"landing_point","longitude":"121.896091","cables":[{"name":"New Cross Pacific (NCP) Cable System","id":"new-cross-pacific-ncp-cable-system","cable_id":1786}],"name":"Lingang, China","city_id":16316,"id":"lingang-china","latitude":"30.935664"}

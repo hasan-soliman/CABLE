@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1205,"name":"Solas","id":"solas"},{"cable_id":1835,"name":"Swansea-Brean","id":"swansea-brean"}],"type":"landing_point","latitude":"51.557785","longitude":"-4.169596","name":"Oxwich Bay, United Kingdom","id":"oxwich-bay-united-kingdom","city_id":3145}
+{"type":"landing_point","longitude":"-4.169596","cables":[{"name":"Solas","id":"solas","cable_id":1205},{"name":"Swansea-Brean","id":"swansea-brean","cable_id":1835}],"name":"Oxwich Bay, United Kingdom","city_id":3145,"id":"oxwich-bay-united-kingdom","latitude":"51.557785"}

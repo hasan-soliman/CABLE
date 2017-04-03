@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1592,"name":"EAC-C2C","id":"eac-c2c"},{"cable_id":1031,"name":"SeaMeWe-3","id":"seamewe-3"}],"type":"landing_point","latitude":"22.249254","longitude":"120.662107","name":"Fangshan, Taiwan","id":"fangshan-taiwan","city_id":5980}
+{"type":"landing_point","longitude":"120.662107","cables":[{"name":"EAC-C2C","id":"eac-c2c","cable_id":1592},{"name":"SeaMeWe-3","id":"seamewe-3","cable_id":1031}],"name":"Fangshan, Taiwan","city_id":5980,"id":"fangshan-taiwan","latitude":"22.249254"}

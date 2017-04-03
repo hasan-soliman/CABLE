@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1229,"name":"Taino-Carib","id":"taino-carib"}],"type":"landing_point","latitude":"18.459901","longitude":"-66.077953","name":"Condado Beach, PR, United States","id":"condado-beach-pr-united-states","city_id":6084}
+{"type":"landing_point","longitude":"-66.077953","cables":[{"name":"Taino-Carib","id":"taino-carib","cable_id":1229}],"name":"Condado Beach, PR, United States","city_id":6084,"id":"condado-beach-pr-united-states","latitude":"18.459901"}

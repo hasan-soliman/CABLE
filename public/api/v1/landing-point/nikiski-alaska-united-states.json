@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1571,"name":"ACS Alaska-Oregon Network (AKORN)","id":"acs-alaska-oregon-network-akorn"}],"type":"landing_point","latitude":"60.689824","longitude":"-151.291709","name":"Nikiski, Alaska, United States","id":"nikiski-alaska-united-states","city_id":8540}
+{"type":"landing_point","longitude":"-151.291709","cables":[{"name":"ACS Alaska-Oregon Network (AKORN)","id":"acs-alaska-oregon-network-akorn","cable_id":1571}],"name":"Nikiski, Alaska, United States","city_id":8540,"id":"nikiski-alaska-united-states","latitude":"60.689824"}

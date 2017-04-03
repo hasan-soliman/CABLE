@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1560,"name":"West African Cable System (WACS)","id":"west-african-cable-system-wacs"}],"type":"landing_point","latitude":"14.923013","longitude":"-23.521247","name":"Palmarejo, Cape Verde","id":"palmarejo-cape-verde","city_id":10725}
+{"type":"landing_point","longitude":"-23.521247","cables":[{"name":"West African Cable System (WACS)","id":"west-african-cable-system-wacs","cable_id":1560}],"name":"Palmarejo, Cape Verde","city_id":10725,"id":"palmarejo-cape-verde","latitude":"14.923013"}

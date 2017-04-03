@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1807,"name":"Saba, Statia Cable System (SSCS)","id":"saba-statia-cable-system-sscs"}],"type":"landing_point","latitude":"18.024452","longitude":"-63.055054","name":"Great Bay Beach, Saint Martin","id":"great-bay-beach-saint-martin","city_id":16123}
+{"type":"landing_point","longitude":"-63.055054","cables":[{"name":"Saba, Statia Cable System (SSCS)","id":"saba-statia-cable-system-sscs","cable_id":1807}],"name":"Great Bay Beach, Saint Martin","city_id":16123,"id":"great-bay-beach-saint-martin","latitude":"18.024452"}

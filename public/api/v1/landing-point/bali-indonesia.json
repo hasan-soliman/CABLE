@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1767,"name":"JaKa2LaDeMa","id":"jaka2ladema"}],"type":"landing_point","latitude":"-8.464415","longitude":"115.596973","name":"Bali, Indonesia","id":"bali-indonesia","city_id":9597}
+{"type":"landing_point","longitude":"115.596973","cables":[{"name":"JaKa2LaDeMa","id":"jaka2ladema","cable_id":1767}],"name":"Bali, Indonesia","city_id":9597,"id":"bali-indonesia","latitude":"-8.464415"}

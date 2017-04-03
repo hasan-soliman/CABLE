@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1155,"name":"Tata TGN-Pacific","id":"tata-tgn-pacific"}],"type":"landing_point","latitude":"35.062383","longitude":"140.061097","name":"Emi, Japan","id":"emi-japan","city_id":5894}
+{"type":"landing_point","longitude":"140.061097","cables":[{"name":"Tata TGN-Pacific","id":"tata-tgn-pacific","cable_id":1155}],"name":"Emi, Japan","city_id":5894,"id":"emi-japan","latitude":"35.062383"}

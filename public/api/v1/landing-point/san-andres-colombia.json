@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1843,"name":"San Andres Isla Tolu Submarine Cable (SAIT)","id":"san-andres-isla-tolu-submarine-cable-sait"}],"type":"landing_point","latitude":"12.584696","longitude":"-81.700553","name":"San Andres, Colombia","id":"san-andres-colombia","city_id":15182}
+{"type":"landing_point","longitude":"-81.700553","cables":[{"name":"San Andres Isla Tolu Submarine Cable (SAIT)","id":"san-andres-isla-tolu-submarine-cable-sait","cable_id":1843}],"name":"San Andres, Colombia","city_id":15182,"id":"san-andres-colombia","latitude":"12.584696"}

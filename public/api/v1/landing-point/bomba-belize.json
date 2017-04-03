@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1893,"name":"Strategic Evolution Underwater Link (SEUL)","id":"strategic-evolution-underwater-link-seul"}],"type":"landing_point","latitude":"17.925611","longitude":"-88.294458","name":"Bomba, Belize","id":"bomba-belize","city_id":16711}
+{"type":"landing_point","longitude":"-88.294458","cables":[{"name":"Strategic Evolution Underwater Link (SEUL)","id":"strategic-evolution-underwater-link-seul","cable_id":1893}],"name":"Bomba, Belize","city_id":16711,"id":"bomba-belize","latitude":"17.925611"}

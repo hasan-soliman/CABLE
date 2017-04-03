@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1885,"name":"SMPCS Packet-2","id":"smpcs-packet-2"}],"type":"landing_point","latitude":"-2.175233","longitude":"139.353285","name":"Sarmi, Indonesia","id":"sarmi-indonesia","city_id":16628}
+{"type":"landing_point","longitude":"139.353285","cables":[{"name":"SMPCS Packet-2","id":"smpcs-packet-2","cable_id":1885}],"name":"Sarmi, Indonesia","city_id":16628,"id":"sarmi-indonesia","latitude":"-2.175233"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1806,"name":"Taba-Aqaba","id":"taba-aqaba"}],"type":"landing_point","latitude":"29.492574","longitude":"34.894863","name":"Taba, Egypt","id":"taba-egypt","city_id":10498}
+{"type":"landing_point","longitude":"34.894863","cables":[{"name":"Taba-Aqaba","id":"taba-aqaba","cable_id":1806}],"name":"Taba, Egypt","city_id":10498,"id":"taba-egypt","latitude":"29.492574"}

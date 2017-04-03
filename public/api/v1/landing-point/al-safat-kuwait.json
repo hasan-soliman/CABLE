@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1346,"name":"FALCON","id":"falcon"}],"type":"landing_point","latitude":"29.369930","longitude":"47.976497","name":"Al Safat, Kuwait","id":"al-safat-kuwait","city_id":4294}
+{"type":"landing_point","longitude":"47.976497","cables":[{"name":"FALCON","id":"falcon","cable_id":1346}],"name":"Al Safat, Kuwait","city_id":4294,"id":"al-safat-kuwait","latitude":"29.369930"}

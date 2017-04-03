@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1220,"name":"SAFE","id":"safe"}],"type":"landing_point","latitude":"-21.000249","longitude":"55.279130","name":"Saint Paul, Réunion","id":"saint-paul-runion","city_id":5978}
+{"type":"landing_point","longitude":"55.279130","cables":[{"name":"SAFE","id":"safe","cable_id":1220}],"name":"Saint Paul, Réunion","city_id":5978,"id":"saint-paul-runion","latitude":"-21.000249"}

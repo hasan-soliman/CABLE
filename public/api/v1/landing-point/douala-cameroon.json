@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1219,"name":"SAT-3/WASC","id":"sat-3wasc"}],"type":"landing_point","latitude":"4.047151","longitude":"9.706313","name":"Douala, Cameroon","id":"douala-cameroon","city_id":4210}
+{"type":"landing_point","longitude":"9.706313","cables":[{"name":"SAT-3/WASC","id":"sat-3wasc","cable_id":1219}],"name":"Douala, Cameroon","city_id":4210,"id":"douala-cameroon","latitude":"4.047151"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1512,"name":"Atlas Offshore","id":"atlas-offshore"},{"cable_id":1666,"name":"Canalink","id":"canalink"}],"type":"landing_point","latitude":"35.470781","longitude":"-6.035757","name":"Asilah, Morocco","id":"asilah-morocco","city_id":5910}
+{"type":"landing_point","longitude":"-6.035757","cables":[{"name":"Atlas Offshore","id":"atlas-offshore","cable_id":1512},{"name":"Canalink","id":"canalink","cable_id":1666}],"name":"Asilah, Morocco","city_id":5910,"id":"asilah-morocco","latitude":"35.470781"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1801,"name":"Azores Fiber Optic System (AFOS)","id":"azores-fiber-optic-system-afos"}],"type":"landing_point","latitude":"36.956767","longitude":"-25.141266","name":"Vila do Porto, Portugal","id":"vila-do-porto-portugal","city_id":14835}
+{"type":"landing_point","longitude":"-25.141266","cables":[{"name":"Azores Fiber Optic System (AFOS)","id":"azores-fiber-optic-system-afos","cable_id":1801}],"name":"Vila do Porto, Portugal","city_id":14835,"id":"vila-do-porto-portugal","latitude":"36.956767"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1884,"name":"SMPCS Packet-1","id":"smpcs-packet-1"}],"type":"landing_point","latitude":"-0.626797","longitude":"127.480463","name":"Labuha, Indonesia","id":"labuha-indonesia","city_id":16636}
+{"type":"landing_point","longitude":"127.480463","cables":[{"name":"SMPCS Packet-1","id":"smpcs-packet-1","cable_id":1884}],"name":"Labuha, Indonesia","city_id":16636,"id":"labuha-indonesia","latitude":"-0.626797"}

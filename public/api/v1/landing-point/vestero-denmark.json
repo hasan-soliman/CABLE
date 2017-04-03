@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1688,"name":"Kattegat 2","id":"kattegat-2"}],"type":"landing_point","latitude":"57.272248","longitude":"10.966957","name":"Vestero, Denmark","id":"vestero-denmark","city_id":10321}
+{"type":"landing_point","longitude":"10.966957","cables":[{"name":"Kattegat 2","id":"kattegat-2","cable_id":1688}],"name":"Vestero, Denmark","city_id":10321,"id":"vestero-denmark","latitude":"57.272248"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1456,"name":"HIFN (Hawaii Island Fibre Network)","id":"hifn-hawaii-island-fibre-network"}],"type":"landing_point","latitude":"21.093359","longitude":"-157.023886","name":"Kaunakakai, HI, United States","id":"kaunakakai-hi-united-states","city_id":16121}
+{"type":"landing_point","longitude":"-157.023886","cables":[{"name":"HIFN (Hawaii Island Fibre Network)","id":"hifn-hawaii-island-fibre-network","cable_id":1456}],"name":"Kaunakakai, HI, United States","city_id":16121,"id":"kaunakakai-hi-united-states","latitude":"21.093359"}

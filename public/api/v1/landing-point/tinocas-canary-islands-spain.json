@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1666,"name":"Canalink","id":"canalink"}],"type":"landing_point","latitude":"28.134359","longitude":"-15.487706","name":"Tinocas, Canary Islands, Spain","id":"tinocas-canary-islands-spain","city_id":16016}
+{"type":"landing_point","longitude":"-15.487706","cables":[{"name":"Canalink","id":"canalink","cable_id":1666}],"name":"Tinocas, Canary Islands, Spain","city_id":16016,"id":"tinocas-canary-islands-spain","latitude":"28.134359"}

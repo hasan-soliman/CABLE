@@ -1,1 +1,1 @@
-{"latlon":[{"latlon":"15.151809,145.699571"}],"cables":[{"cable_id":1874,"name":"Atisa","id":"atisa"}],"landing_points":[{"name":"Sugar Dock, Saipan","landing_point_id":16550,"id":"sugar-dock-saipan"}],"name":"Saipan"}
+{"landing_points":[{"landing_point_id":16550,"name":"Sugar Dock, Saipan","id":"sugar-dock-saipan"}],"cables":[{"name":"Atisa","id":"atisa","cable_id":1874}],"name":"Saipan","latlon":[{"latlon":"15.151809,145.699571"}]}

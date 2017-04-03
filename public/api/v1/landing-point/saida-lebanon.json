@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1321,"name":"BERYTAR","id":"berytar"}],"type":"landing_point","latitude":"33.450189","longitude":"35.386269","name":"Saida, Lebanon","id":"saida-lebanon","city_id":6047}
+{"type":"landing_point","longitude":"35.386269","cables":[{"name":"BERYTAR","id":"berytar","cable_id":1321}],"name":"Saida, Lebanon","city_id":6047,"id":"saida-lebanon","latitude":"33.450189"}

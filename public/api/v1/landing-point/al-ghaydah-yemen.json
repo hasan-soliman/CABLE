@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1346,"name":"FALCON","id":"falcon"}],"type":"landing_point","latitude":"16.210378","longitude":"52.182355","name":"Al Ghaydah, Yemen","id":"al-ghaydah-yemen","city_id":7679}
+{"type":"landing_point","longitude":"52.182355","cables":[{"name":"FALCON","id":"falcon","cable_id":1346}],"name":"Al Ghaydah, Yemen","city_id":7679,"id":"al-ghaydah-yemen","latitude":"16.210378"}

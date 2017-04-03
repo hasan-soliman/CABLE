@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1881,"name":"Sumatera Bangka Cable System (SBCS)","id":"sumatera-bangka-cable-system-sbcs"}],"type":"landing_point","latitude":"-2.065151","longitude":"105.164263","name":"Muntok, Indonesia","id":"muntok-indonesia","city_id":16617}
+{"type":"landing_point","longitude":"105.164263","cables":[{"name":"Sumatera Bangka Cable System (SBCS)","id":"sumatera-bangka-cable-system-sbcs","cable_id":1881}],"name":"Muntok, Indonesia","city_id":16617,"id":"muntok-indonesia","latitude":"-2.065151"}

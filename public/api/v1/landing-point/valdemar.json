@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1737,"name":"CANTAT-3","id":"cantat-3"}],"type":"landing_point","latitude":"55.804072","longitude":"4.564323","name":"Valdemar","id":"valdemar","city_id":10781}
+{"type":"landing_point","longitude":"4.564323","cables":[{"name":"CANTAT-3","id":"cantat-3","cable_id":1737}],"name":"Valdemar","city_id":10781,"id":"valdemar","latitude":"55.804072"}

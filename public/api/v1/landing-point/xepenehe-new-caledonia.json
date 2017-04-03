@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1802,"name":"Picot-1","id":"picot-1"}],"type":"landing_point","latitude":"-20.780913","longitude":"167.151318","name":"Xepenehe, New Caledonia","id":"xepenehe-new-caledonia","city_id":14838}
+{"type":"landing_point","longitude":"167.151318","cables":[{"name":"Picot-1","id":"picot-1","cable_id":1802}],"name":"Xepenehe, New Caledonia","city_id":14838,"id":"xepenehe-new-caledonia","latitude":"-20.780913"}

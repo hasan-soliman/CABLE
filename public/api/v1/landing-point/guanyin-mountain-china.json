@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1632,"name":"Cross Straits Cable Network","id":"cross-straits-cable-network"}],"type":"landing_point","latitude":"24.493919","longitude":"118.188964","name":"Guanyin Mountain, China","id":"guanyin-mountain-china","city_id":10369}
+{"type":"landing_point","longitude":"118.188964","cables":[{"name":"Cross Straits Cable Network","id":"cross-straits-cable-network","cable_id":1632}],"name":"Guanyin Mountain, China","city_id":10369,"id":"guanyin-mountain-china","latitude":"24.493919"}

@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1862,"name":"Quintillion Subsea Cable Network","id":"quintillion-subsea-cable-network"}],"type":"landing_point","latitude":"70.255640","longitude":"-148.338442","name":"Prudhoe Bay, Alaska, United States","id":"prudhoe-bay-alaska-united-states","city_id":13390}
+{"type":"landing_point","longitude":"-148.338442","cables":[{"name":"Quintillion Subsea Cable Network","id":"quintillion-subsea-cable-network","cable_id":1862}],"name":"Prudhoe Bay, Alaska, United States","city_id":13390,"id":"prudhoe-bay-alaska-united-states","latitude":"70.255640"}

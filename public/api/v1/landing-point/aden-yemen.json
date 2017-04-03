@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1739,"name":"Asia Africa Europe-1 (AAE-1)","id":"asia-africa-europe-1-aae-1"}],"type":"landing_point","latitude":"12.800687","longitude":"45.033530","name":"Aden, Yemen","id":"aden-yemen","city_id":5969}
+{"type":"landing_point","longitude":"45.033530","cables":[{"name":"Asia Africa Europe-1 (AAE-1)","id":"asia-africa-europe-1-aae-1","cable_id":1739}],"name":"Aden, Yemen","city_id":5969,"id":"aden-yemen","latitude":"12.800687"}

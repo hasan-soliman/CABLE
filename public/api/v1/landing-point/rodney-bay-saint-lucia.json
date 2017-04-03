@@ -1,1 +1,1 @@
-{"cables":[{"cable_id":1619,"name":"Southern Caribbean Fiber","id":"southern-caribbean-fiber"}],"type":"landing_point","latitude":"14.035623","longitude":"-60.988551","name":"Rodney Bay, Saint Lucia","id":"rodney-bay-saint-lucia","city_id":8837}
+{"type":"landing_point","longitude":"-60.988551","cables":[{"name":"Southern Caribbean Fiber","id":"southern-caribbean-fiber","cable_id":1619}],"name":"Rodney Bay, Saint Lucia","city_id":8837,"id":"rodney-bay-saint-lucia","latitude":"14.035623"}
