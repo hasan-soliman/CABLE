@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-60.949684","cables":[{"name":"TT-1","id":"tt-1","cable_id":1799}],"name":"Toco, Trinidad and Tobago","city_id":14806,"id":"toco-trinidad-and-tobago","latitude":"10.831132"}
+{"city_id":14806,"id":"toco-trinidad-and-tobago","latitude":"10.831132","longitude":"-60.949684","name":"Toco, Trinidad and Tobago","type":"landing_point","cables":[{"cable_id":1799,"id":"tt-1","name":"TT-1"}]}

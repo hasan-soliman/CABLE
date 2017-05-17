@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-83.776766","cables":[{"name":"ARCOS","id":"arcos","cable_id":1078}],"name":"Puerto Lempira, Honduras","city_id":5692,"id":"puerto-lempira-honduras","latitude":"15.261221"}
+{"city_id":5692,"id":"puerto-lempira-honduras","latitude":"15.261221","longitude":"-83.776766","name":"Puerto Lempira, Honduras","type":"landing_point","cables":[{"cable_id":1078,"id":"arcos","name":"ARCOS"}]}

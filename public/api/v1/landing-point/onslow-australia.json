@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"115.113282","cables":[{"name":"Trident Subsea Cable","id":"trident-subsea-cable","cable_id":1783}],"name":"Onslow, Australia","city_id":14675,"id":"onslow-australia","latitude":"-21.637871"}
+{"city_id":14675,"id":"onslow-australia","latitude":"-21.637871","longitude":"115.113282","name":"Onslow, Australia","type":"landing_point","cables":[{"cable_id":1783,"id":"trident-subsea-cable","name":"Trident Subsea Cable"}]}

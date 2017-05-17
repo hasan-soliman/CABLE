@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"21.741659","cables":[{"name":"LFON (Libyan Fiber Optic Network)","id":"lfon-libyan-fiber-optic-network","cable_id":1184}],"name":"Al Baida, Libya","city_id":10838,"id":"al-baida-libya","latitude":"32.881732"}
+{"city_id":10838,"id":"al-baida-libya","latitude":"32.881732","longitude":"21.741659","name":"Al Baida, Libya","type":"landing_point","cables":[{"cable_id":1184,"id":"lfon-libyan-fiber-optic-network","name":"LFON (Libyan Fiber Optic Network)"}]}

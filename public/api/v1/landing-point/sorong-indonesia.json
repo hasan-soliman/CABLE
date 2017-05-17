@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"131.295403","cables":[{"name":"SMPCS Packet-1","id":"smpcs-packet-1","cable_id":1884},{"name":"SMPCS Packet-2","id":"smpcs-packet-2","cable_id":1885}],"name":"Sorong, Indonesia","city_id":16573,"id":"sorong-indonesia","latitude":"-0.882070"}
+{"city_id":16573,"id":"sorong-indonesia","latitude":"-0.882070","longitude":"131.295403","name":"Sorong, Indonesia","type":"landing_point","cables":[{"cable_id":1884,"id":"smpcs-packet-1","name":"SMPCS Packet-1"},{"cable_id":1885,"id":"smpcs-packet-2","name":"SMPCS Packet-2"}]}

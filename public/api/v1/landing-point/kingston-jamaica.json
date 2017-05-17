@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-76.792157","cables":[{"name":"Cayman-Jamaica Fiber System","id":"cayman-jamaica-fiber-system","cable_id":1068}],"name":"Kingston, Jamaica","city_id":3272,"id":"kingston-jamaica","latitude":"17.992225"}
+{"city_id":3272,"id":"kingston-jamaica","latitude":"17.992225","longitude":"-76.792157","name":"Kingston, Jamaica","type":"landing_point","cables":[{"cable_id":1068,"id":"cayman-jamaica-fiber-system","name":"Cayman-Jamaica Fiber System"}]}

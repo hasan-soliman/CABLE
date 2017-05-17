@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-34.861037","cables":[{"name":"Brazilian Festoon","id":"brazilian-festoon","cable_id":1888}],"name":"João Pessoa, Brazil","city_id":3351,"id":"joo-pessoa-brazil","latitude":"-7.115295"}
+{"city_id":3351,"id":"joo-pessoa-brazil","latitude":"-7.115295","longitude":"-34.861037","name":"João Pessoa, Brazil","type":"landing_point","cables":[{"cable_id":1888,"id":"brazilian-festoon","name":"Brazilian Festoon"}]}

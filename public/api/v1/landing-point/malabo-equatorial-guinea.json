@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"8.783364","cables":[{"name":"Ceiba-1","id":"ceiba-1","cable_id":1699},{"name":"Ceiba-2","id":"ceiba-2","cable_id":1842}],"name":"Malabo, Equatorial Guinea","city_id":4224,"id":"malabo-equatorial-guinea","latitude":"3.749788"}
+{"city_id":4224,"id":"malabo-equatorial-guinea","latitude":"3.749788","longitude":"8.783364","name":"Malabo, Equatorial Guinea","type":"landing_point","cables":[{"cable_id":1699,"id":"ceiba-1","name":"Ceiba-1"},{"cable_id":1842,"id":"ceiba-2","name":"Ceiba-2"}]}

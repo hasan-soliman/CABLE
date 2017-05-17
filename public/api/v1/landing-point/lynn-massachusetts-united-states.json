@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-70.950265","cables":[{"name":"GTT Atlantic","id":"gtt-atlantic","cable_id":1080}],"name":"Lynn, Massachusetts, United States","city_id":3683,"id":"lynn-massachusetts-united-states","latitude":"42.463673"}
+{"city_id":3683,"id":"lynn-massachusetts-united-states","latitude":"42.463673","longitude":"-70.950265","name":"Lynn, Massachusetts, United States","type":"landing_point","cables":[{"cable_id":1080,"id":"gtt-atlantic","name":"GTT Atlantic"}]}

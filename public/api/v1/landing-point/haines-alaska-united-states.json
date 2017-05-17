@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-135.445003","cables":[{"name":"Lynn Canal Fiber","id":"lynn-canal-fiber","cable_id":1840}],"name":"Haines, Alaska, United States","city_id":16207,"id":"haines-alaska-united-states","latitude":"59.235833"}
+{"city_id":16207,"id":"haines-alaska-united-states","latitude":"59.235833","longitude":"-135.445003","name":"Haines, Alaska, United States","type":"landing_point","cables":[{"cable_id":1840,"id":"lynn-canal-fiber","name":"Lynn Canal Fiber"}]}

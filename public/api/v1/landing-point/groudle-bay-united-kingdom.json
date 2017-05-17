@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-4.423893","cables":[{"name":"BT-MT-1","id":"bt-mt-1","cable_id":1752}],"name":"Groudle Bay, United Kingdom","city_id":13374,"id":"groudle-bay-united-kingdom","latitude":"54.166976"}
+{"city_id":13374,"id":"groudle-bay-united-kingdom","latitude":"54.166976","longitude":"-4.423893","name":"Groudle Bay, United Kingdom","type":"landing_point","cables":[{"cable_id":1752,"id":"bt-mt-1","name":"BT-MT-1"}]}

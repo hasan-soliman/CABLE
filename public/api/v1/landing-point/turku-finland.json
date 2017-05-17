@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"22.259237","cables":[{"name":"Sweden-Finland 4 (SFS-4)","id":"sweden-finland-4-sfs-4","cable_id":1207}],"name":"Turku, Finland","city_id":3126,"id":"turku-finland","latitude":"60.449309"}
+{"city_id":3126,"id":"turku-finland","latitude":"60.449309","longitude":"22.259237","name":"Turku, Finland","type":"landing_point","cables":[{"cable_id":1207,"id":"sweden-finland-4-sfs-4","name":"Sweden-Finland 4 (SFS-4)"}]}

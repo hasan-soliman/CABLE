@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-9.232191","cables":[{"name":"AEConnect (AEC)","id":"aeconnect-aec","cable_id":1691}],"name":"Killala, Ireland","city_id":14732,"id":"killala-ireland","latitude":"54.206832"}
+{"city_id":14732,"id":"killala-ireland","latitude":"54.206832","longitude":"-9.232191","name":"Killala, Ireland","type":"landing_point","cables":[{"cable_id":1691,"id":"aeconnect-aec","name":"AEConnect (AEC)"}]}

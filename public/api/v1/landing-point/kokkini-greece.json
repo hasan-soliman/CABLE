@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"19.923984","cables":[{"name":"Greece-Western Europe Network (GWEN)","id":"greece-western-europe-network-gwen","cable_id":1383}],"name":"Kokkini, Greece","city_id":7730,"id":"kokkini-greece","latitude":"39.753824"}
+{"city_id":7730,"id":"kokkini-greece","latitude":"39.753824","longitude":"19.923984","name":"Kokkini, Greece","type":"landing_point","cables":[{"cable_id":1383,"id":"greece-western-europe-network-gwen","name":"Greece-Western Europe Network (GWEN)"}]}

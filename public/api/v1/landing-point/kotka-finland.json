@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"26.883563","cables":[{"name":"BCS North - Phase 2","id":"bcs-north---phase-2","cable_id":1610}],"name":"Kotka, Finland","city_id":4552,"id":"kotka-finland","latitude":"60.501043"}
+{"city_id":4552,"id":"kotka-finland","latitude":"60.501043","longitude":"26.883563","name":"Kotka, Finland","type":"landing_point","cables":[{"cable_id":1610,"id":"bcs-north---phase-2","name":"BCS North - Phase 2"}]}

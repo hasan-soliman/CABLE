@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"35.897792","cables":[{"name":"Aletar","id":"aletar","cable_id":1319},{"name":"BERYTAR","id":"berytar","cable_id":1321},{"name":"UGARIT","id":"ugarit","cable_id":1306}],"name":"Tartous, Syria","city_id":6030,"id":"tartous-syria","latitude":"34.891704"}
+{"city_id":6030,"id":"tartous-syria","latitude":"34.891704","longitude":"35.897792","name":"Tartous, Syria","type":"landing_point","cables":[{"cable_id":1319,"id":"aletar","name":"Aletar"},{"cable_id":1321,"id":"berytar","name":"BERYTAR"},{"cable_id":1306,"id":"ugarit","name":"UGARIT"}]}

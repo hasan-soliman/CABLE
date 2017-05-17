@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"63.426978","cables":[{"name":"IOX Cable System","id":"iox-cable-system","cable_id":1901}],"name":"Port Mathurin, Mauritius","city_id":16803,"id":"port-mathurin-mauritius","latitude":"-19.679717"}
+{"city_id":16803,"id":"port-mathurin-mauritius","latitude":"-19.679717","longitude":"63.426978","name":"Port Mathurin, Mauritius","type":"landing_point","cables":[{"cable_id":1901,"id":"iox-cable-system","name":"IOX Cable System"}]}

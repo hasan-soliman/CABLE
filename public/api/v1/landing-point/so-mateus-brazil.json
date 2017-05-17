@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-39.859130","cables":[{"name":"Brazilian Festoon","id":"brazilian-festoon","cable_id":1888}],"name":"São Mateus, Brazil","city_id":5506,"id":"so-mateus-brazil","latitude":"-18.716705"}
+{"city_id":5506,"id":"so-mateus-brazil","latitude":"-18.716705","longitude":"-39.859130","name":"São Mateus, Brazil","type":"landing_point","cables":[{"cable_id":1888,"id":"brazilian-festoon","name":"Brazilian Festoon"}]}

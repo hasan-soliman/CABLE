@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"58.606082","cables":[{"name":"Asia Africa Europe-1 (AAE-1)","id":"asia-africa-europe-1-aae-1","cable_id":1739}],"name":"Al Bustan, Oman","city_id":15019,"id":"al-bustan-oman","latitude":"23.576085"}
+{"city_id":15019,"id":"al-bustan-oman","latitude":"23.576085","longitude":"58.606082","name":"Al Bustan, Oman","type":"landing_point","cables":[{"cable_id":1739,"id":"asia-africa-europe-1-aae-1","name":"Asia Africa Europe-1 (AAE-1)"}]}

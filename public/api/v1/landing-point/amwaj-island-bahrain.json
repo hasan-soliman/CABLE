@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"50.575812","cables":[{"name":"Tata TGN-Gulf","id":"tata-tgn-gulf","cable_id":1631}],"name":"Amwaj Island, Bahrain","city_id":10683,"id":"amwaj-island-bahrain","latitude":"26.228977"}
+{"city_id":10683,"id":"amwaj-island-bahrain","latitude":"26.228977","longitude":"50.575812","name":"Amwaj Island, Bahrain","type":"landing_point","cables":[{"cable_id":1631,"id":"tata-tgn-gulf","name":"Tata TGN-Gulf"}]}

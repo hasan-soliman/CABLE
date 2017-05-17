@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-151.443027","cables":[{"name":"Honotua","id":"honotua","cable_id":1556}],"name":"Uturoa, French Polynesia","city_id":14799,"id":"uturoa-french-polynesia","latitude":"-16.730915"}
+{"city_id":14799,"id":"uturoa-french-polynesia","latitude":"-16.730915","longitude":"-151.443027","name":"Uturoa, French Polynesia","type":"landing_point","cables":[{"cable_id":1556,"id":"honotua","name":"Honotua"}]}

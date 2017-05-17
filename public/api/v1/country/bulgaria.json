@@ -1,1 +1,1 @@
-{"landing_points":[{"landing_point_id":9594,"name":"Balchik, Bulgaria","id":"balchik-bulgaria"}],"cables":[{"name":"Caucasus Cable System","id":"caucasus-cable-system","cable_id":1563}],"name":"Bulgaria","latlon":[{"latlon":"43.414344,28.167449"}]}
+{"name":"Bulgaria","cables":[{"id":"caucasus-cable-system","name":"Caucasus Cable System","cable_id":1563}],"landing_points":[{"id":"balchik-bulgaria","name":"Balchik, Bulgaria","landing_point_id":9594}],"latlon":[{"latlon":"43.414344,28.167449"}]}

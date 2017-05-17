@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"125.540620","cables":[{"name":"PLDT Domestic Fiber Optic Network (DFON)","id":"pldt-domestic-fiber-optic-network-dfon","cable_id":1839}],"name":"Butuan City, Philippines","city_id":16053,"id":"butuan-city-philippines","latitude":"8.947613"}
+{"city_id":16053,"id":"butuan-city-philippines","latitude":"8.947613","longitude":"125.540620","name":"Butuan City, Philippines","type":"landing_point","cables":[{"cable_id":1839,"id":"pldt-domestic-fiber-optic-network-dfon","name":"PLDT Domestic Fiber Optic Network (DFON)"}]}

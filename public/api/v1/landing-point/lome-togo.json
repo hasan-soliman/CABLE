@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"1.227813","cables":[{"name":"West African Cable System (WACS)","id":"west-african-cable-system-wacs","cable_id":1560}],"name":"Lome, Togo","city_id":3317,"id":"lome-togo","latitude":"6.126008"}
+{"city_id":3317,"id":"lome-togo","latitude":"6.126008","longitude":"1.227813","name":"Lome, Togo","type":"landing_point","cables":[{"cable_id":1560,"id":"west-african-cable-system-wacs","name":"West African Cable System (WACS)"}]}

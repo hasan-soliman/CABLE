@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-53.673381","cables":[{"name":"Greenland Connect North","id":"greenland-connect-north","cable_id":1897}],"name":"Sisimiut, Greenland","city_id":16720,"id":"sisimiut-greenland","latitude":"66.939467"}
+{"city_id":16720,"id":"sisimiut-greenland","latitude":"66.939467","longitude":"-53.673381","name":"Sisimiut, Greenland","type":"landing_point","cables":[{"cable_id":1897,"id":"greenland-connect-north","name":"Greenland Connect North"}]}

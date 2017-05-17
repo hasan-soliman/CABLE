@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"174.770455","cables":[{"name":"Aqualink","id":"aqualink","cable_id":1487},{"name":"Tasman-2","id":"tasman-2","cable_id":1135}],"name":"Auckland, New Zealand","city_id":3319,"id":"auckland-new-zealand","latitude":"-36.884421"}
+{"city_id":3319,"id":"auckland-new-zealand","latitude":"-36.884421","longitude":"174.770455","name":"Auckland, New Zealand","type":"landing_point","cables":[{"cable_id":1487,"id":"aqualink","name":"Aqualink"},{"cable_id":1135,"id":"tasman-2","name":"Tasman-2"}]}

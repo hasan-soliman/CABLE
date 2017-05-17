@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"56.246806","cables":[{"name":"FALCON","id":"falcon","cable_id":1346},{"name":"OMRAN/EPEG Cable System","id":"omranepeg-cable-system","cable_id":1695}],"name":"Khasab, Oman","city_id":7645,"id":"khasab-oman","latitude":"26.181308"}
+{"city_id":7645,"id":"khasab-oman","latitude":"26.181308","longitude":"56.246806","name":"Khasab, Oman","type":"landing_point","cables":[{"cable_id":1346,"id":"falcon","name":"FALCON"},{"cable_id":1695,"id":"omranepeg-cable-system","name":"OMRAN/EPEG Cable System"}]}

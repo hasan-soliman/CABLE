@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-132.383814","cables":[{"name":"Alaska United Southeast","id":"alaska-united-southeast","cable_id":1567}],"name":"Wrangell, Alaska, United States","city_id":8549,"id":"wrangell-alaska-united-states","latitude":"56.470796"}
+{"city_id":8549,"id":"wrangell-alaska-united-states","latitude":"56.470796","longitude":"-132.383814","name":"Wrangell, Alaska, United States","type":"landing_point","cables":[{"cable_id":1567,"id":"alaska-united-southeast","name":"Alaska United Southeast"}]}

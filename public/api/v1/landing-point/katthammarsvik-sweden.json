@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"18.845273","cables":[{"name":"BCS East-West Interlink","id":"bcs-east-west-interlink","cable_id":1222}],"name":"Katthammarsvik, Sweden","city_id":10365,"id":"katthammarsvik-sweden","latitude":"57.431037"}
+{"city_id":10365,"id":"katthammarsvik-sweden","latitude":"57.431037","longitude":"18.845273","name":"Katthammarsvik, Sweden","type":"landing_point","cables":[{"cable_id":1222,"id":"bcs-east-west-interlink","name":"BCS East-West Interlink"}]}

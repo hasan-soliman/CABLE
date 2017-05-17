@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-4.338688","cables":[{"name":"Africa Coast to Europe (ACE)","id":"africa-coast-to-europe-ace","cable_id":1629},{"name":"SeaMeWe-3","id":"seamewe-3","cable_id":1031}],"name":"Penmarch, France","city_id":3119,"id":"penmarch-france","latitude":"47.811315"}
+{"city_id":3119,"id":"penmarch-france","latitude":"47.811315","longitude":"-4.338688","name":"Penmarch, France","type":"landing_point","cables":[{"cable_id":1629,"id":"africa-coast-to-europe-ace","name":"Africa Coast to Europe (ACE)"},{"cable_id":1031,"id":"seamewe-3","name":"SeaMeWe-3"}]}

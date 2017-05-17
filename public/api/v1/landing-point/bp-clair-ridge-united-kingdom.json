@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"2.294939","cables":[{"name":"SHEFA-2","id":"shefa-2","cable_id":1576}],"name":"BP Clair Ridge, United Kingdom","city_id":16809,"id":"bp-clair-ridge-united-kingdom","latitude":"60.441045"}
+{"city_id":16809,"id":"bp-clair-ridge-united-kingdom","latitude":"60.441045","longitude":"2.294939","name":"BP Clair Ridge, United Kingdom","type":"landing_point","cables":[{"cable_id":1576,"id":"shefa-2","name":"SHEFA-2"}]}

@@ -1,1 +1,1 @@
-{"landing_points":[{"landing_point_id":10782,"name":"Tyra","id":"tyra"}],"cables":[{"name":"CANTAT-3","id":"cantat-3","cable_id":1737}],"name":"Tyra","latlon":[{"latlon":"55.715608,4.748503"}]}
+{"name":"Tyra","cables":[{"id":"cantat-3","name":"CANTAT-3","cable_id":1737}],"landing_points":[{"id":"tyra","name":"Tyra","landing_point_id":10782}],"latlon":[{"latlon":"55.715608,4.748503"}]}

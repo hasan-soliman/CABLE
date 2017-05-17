@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"15.094787","cables":[{"name":"LFON (Libyan Fiber Optic Network)","id":"lfon-libyan-fiber-optic-network","cable_id":1184}],"name":"Misurata, Libya","city_id":7867,"id":"misurata-libya","latitude":"32.374274"}
+{"city_id":7867,"id":"misurata-libya","latitude":"32.374274","longitude":"15.094787","name":"Misurata, Libya","type":"landing_point","cables":[{"cable_id":1184,"id":"lfon-libyan-fiber-optic-network","name":"LFON (Libyan Fiber Optic Network)"}]}

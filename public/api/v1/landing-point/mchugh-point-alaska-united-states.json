@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-149.732188","cables":[{"name":"Alaska United Turnagain Arm (AUTA)","id":"alaska-united-turnagain-arm-auta","cable_id":1813}],"name":"McHugh Point, Alaska, United States","city_id":15023,"id":"mchugh-point-alaska-united-states","latitude":"61.015715"}
+{"city_id":15023,"id":"mchugh-point-alaska-united-states","latitude":"61.015715","longitude":"-149.732188","name":"McHugh Point, Alaska, United States","type":"landing_point","cables":[{"cable_id":1813,"id":"alaska-united-turnagain-arm-auta","name":"Alaska United Turnagain Arm (AUTA)"}]}

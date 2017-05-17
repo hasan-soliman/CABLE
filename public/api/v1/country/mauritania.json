@@ -1,1 +1,1 @@
-{"landing_points":[{"landing_point_id":4192,"name":"Nouakchott, Mauritania","id":"nouakchott-mauritania"}],"cables":[{"name":"Africa Coast to Europe (ACE)","id":"africa-coast-to-europe-ace","cable_id":1629}],"name":"Mauritania","latlon":[{"latlon":"18.083876,-15.978282"}]}
+{"name":"Mauritania","cables":[{"id":"africa-coast-to-europe-ace","name":"Africa Coast to Europe (ACE)","cable_id":1629}],"landing_points":[{"id":"nouakchott-mauritania","name":"Nouakchott, Mauritania","landing_point_id":4192}],"latlon":[{"latlon":"18.083876,-15.978282"}]}

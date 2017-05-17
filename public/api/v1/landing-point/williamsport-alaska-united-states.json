@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-153.632138","cables":[{"name":"TERRA SW","id":"terra-sw","cable_id":1693}],"name":"Williamsport, Alaska, United States","city_id":15024,"id":"williamsport-alaska-united-states","latitude":"59.682403"}
+{"city_id":15024,"id":"williamsport-alaska-united-states","latitude":"59.682403","longitude":"-153.632138","name":"Williamsport, Alaska, United States","type":"landing_point","cables":[{"cable_id":1693,"id":"terra-sw","name":"TERRA SW"}]}

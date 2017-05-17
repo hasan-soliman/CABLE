@@ -1,1 +1,1 @@
-{"landing_points":[{"landing_point_id":16017,"name":"Güimar, Canary Islands","id":"gimar-canary-islands"}],"cables":[{"name":"Canalink","id":"canalink","cable_id":1666}],"name":"Canary Islands","latlon":[{"latlon":"28.310580,-16.412559"}]}
+{"name":"Canary Islands","cables":[{"id":"canalink","name":"Canalink","cable_id":1666}],"landing_points":[{"id":"gimar-canary-islands","name":"Güimar, Canary Islands","landing_point_id":16017}],"latlon":[{"latlon":"28.310580,-16.412559"}]}

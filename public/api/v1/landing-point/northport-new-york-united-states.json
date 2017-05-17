@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-73.344111","cables":[{"name":"FLAG Atlantic-1 (FA-1)","id":"flag-atlantic-1-fa-1","cable_id":1028}],"name":"Northport, New York, United States","city_id":9762,"id":"northport-new-york-united-states","latitude":"40.909451"}
+{"city_id":9762,"id":"northport-new-york-united-states","latitude":"40.909451","longitude":"-73.344111","name":"Northport, New York, United States","type":"landing_point","cables":[{"cable_id":1028,"id":"flag-atlantic-1-fa-1","name":"FLAG Atlantic-1 (FA-1)"}]}

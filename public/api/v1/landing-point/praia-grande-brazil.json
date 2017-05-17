@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-46.412496","cables":[{"name":"Seabras-1","id":"seabras-1","cable_id":1728}],"name":"Praia Grande, Brazil","city_id":16413,"id":"praia-grande-brazil","latitude":"-24.008866"}
+{"city_id":16413,"id":"praia-grande-brazil","latitude":"-24.008866","longitude":"-46.412496","name":"Praia Grande, Brazil","type":"landing_point","cables":[{"cable_id":1906,"id":"arbr","name":"ARBR"},{"cable_id":1728,"id":"seabras-1","name":"Seabras-1"}]}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-2.523650","cables":[{"name":"SHEFA-2","id":"shefa-2","cable_id":1576}],"name":"Banff, United Kingdom","city_id":8680,"id":"banff-united-kingdom","latitude":"57.666864"}
+{"city_id":8680,"id":"banff-united-kingdom","latitude":"57.666864","longitude":"-2.523650","name":"Banff, United Kingdom","type":"landing_point","cables":[{"cable_id":1576,"id":"shefa-2","name":"SHEFA-2"}]}

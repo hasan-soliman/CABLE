@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-132.970044","cables":[{"name":"Alaska United Southeast","id":"alaska-united-southeast","cable_id":1567}],"name":"Petersburg, Alaska, United States","city_id":8550,"id":"petersburg-alaska-united-states","latitude":"56.807612"}
+{"city_id":8550,"id":"petersburg-alaska-united-states","latitude":"56.807612","longitude":"-132.970044","name":"Petersburg, Alaska, United States","type":"landing_point","cables":[{"cable_id":1567,"id":"alaska-united-southeast","name":"Alaska United Southeast"}]}

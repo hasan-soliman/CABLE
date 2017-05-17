@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"124.574996","cables":[{"name":"Luwuk Tutuyan Cable System (LTCS)","id":"luwuk-tutuyan-cable-system-ltcs","cable_id":1883}],"name":"Tutuyan, Indonesia","city_id":16621,"id":"tutuyan-indonesia","latitude":"0.761435"}
+{"city_id":16621,"id":"tutuyan-indonesia","latitude":"0.761435","longitude":"124.574996","name":"Tutuyan, Indonesia","type":"landing_point","cables":[{"cable_id":1883,"id":"luwuk-tutuyan-cable-system-ltcs","name":"Luwuk Tutuyan Cable System (LTCS)"}]}

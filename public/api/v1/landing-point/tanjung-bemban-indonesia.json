@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"104.133111","cables":[{"name":"JAKABARE","id":"jakabare","cable_id":1597}],"name":"Tanjung Bemban, Indonesia","city_id":9096,"id":"tanjung-bemban-indonesia","latitude":"1.173202"}
+{"city_id":9096,"id":"tanjung-bemban-indonesia","latitude":"1.173202","longitude":"104.133111","name":"Tanjung Bemban, Indonesia","type":"landing_point","cables":[{"cable_id":1597,"id":"jakabare","name":"JAKABARE"}]}

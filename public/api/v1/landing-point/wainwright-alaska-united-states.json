@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-160.038342","cables":[{"name":"Quintillion Subsea Cable Network","id":"quintillion-subsea-cable-network","cable_id":1862}],"name":"Wainwright, Alaska, United States","city_id":16439,"id":"wainwright-alaska-united-states","latitude":"70.636951"}
+{"city_id":16439,"id":"wainwright-alaska-united-states","latitude":"70.636951","longitude":"-160.038342","name":"Wainwright, Alaska, United States","type":"landing_point","cables":[{"cable_id":1862,"id":"quintillion-subsea-cable-network","name":"Quintillion Subsea Cable Network"}]}

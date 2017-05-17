@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"34.633340","cables":[{"name":"Turcyos-1","id":"turcyos-1","cable_id":1341}],"name":"Mersin, Turkey","city_id":9080,"id":"mersin-turkey","latitude":"36.799980"}
+{"city_id":9080,"id":"mersin-turkey","latitude":"36.799980","longitude":"34.633340","name":"Mersin, Turkey","type":"landing_point","cables":[{"cable_id":1341,"id":"turcyos-1","name":"Turcyos-1"}]}

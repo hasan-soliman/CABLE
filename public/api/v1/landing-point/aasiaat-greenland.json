@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-52.859111","cables":[{"name":"Greenland Connect North","id":"greenland-connect-north","cable_id":1897}],"name":"Aasiaat, Greenland","city_id":16718,"id":"aasiaat-greenland","latitude":"68.706971"}
+{"city_id":16718,"id":"aasiaat-greenland","latitude":"68.706971","longitude":"-52.859111","name":"Aasiaat, Greenland","type":"landing_point","cables":[{"cable_id":1897,"id":"greenland-connect-north","name":"Greenland Connect North"}]}

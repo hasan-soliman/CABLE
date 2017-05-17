@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"8.738638","cables":[{"name":"Corse-Continent 5 (CC5)","id":"corse-continent-5-cc5","cable_id":1428}],"name":"Ajaccio, France","city_id":6053,"id":"ajaccio-france","latitude":"41.919326"}
+{"city_id":6053,"id":"ajaccio-france","latitude":"41.919326","longitude":"8.738638","name":"Ajaccio, France","type":"landing_point","cables":[{"cable_id":1428,"id":"corse-continent-5-cc5","name":"Corse-Continent 5 (CC5)"}]}

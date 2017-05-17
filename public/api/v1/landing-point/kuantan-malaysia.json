@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"103.322565","cables":[{"name":"APCN-2","id":"apcn-2","cable_id":1049},{"name":"Asia Pacific Gateway (APG)","id":"asia-pacific-gateway-apg","cable_id":1617}],"name":"Kuantan, Malaysia","city_id":5903,"id":"kuantan-malaysia","latitude":"3.815169"}
+{"city_id":5903,"id":"kuantan-malaysia","latitude":"3.815169","longitude":"103.322565","name":"Kuantan, Malaysia","type":"landing_point","cables":[{"cable_id":1049,"id":"apcn-2","name":"APCN-2"},{"cable_id":1617,"id":"asia-pacific-gateway-apg","name":"Asia Pacific Gateway (APG)"}]}

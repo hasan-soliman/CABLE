@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"116.047266","cables":[{"name":"XL Bali Lombok Submarine Cable System","id":"xl-bali-lombok-submarine-cable-system","cable_id":1867}],"name":"Sengigi, Indonesia","city_id":16516,"id":"sengigi-indonesia","latitude":"-8.485460"}
+{"city_id":16516,"id":"sengigi-indonesia","latitude":"-8.485460","longitude":"116.047266","name":"Sengigi, Indonesia","type":"landing_point","cables":[{"cable_id":1867,"id":"xl-bali-lombok-submarine-cable-system","name":"XL Bali Lombok Submarine Cable System"}]}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"130.857610","cables":[{"name":"SMPCS Packet-2","id":"smpcs-packet-2","cable_id":1885}],"name":"Waisai, Indonesia","city_id":16631,"id":"waisai-indonesia","latitude":"-0.383364"}
+{"city_id":16631,"id":"waisai-indonesia","latitude":"-0.383364","longitude":"130.857610","name":"Waisai, Indonesia","type":"landing_point","cables":[{"cable_id":1885,"id":"smpcs-packet-2","name":"SMPCS Packet-2"}]}

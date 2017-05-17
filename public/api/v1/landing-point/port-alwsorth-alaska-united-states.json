@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-154.336926","cables":[{"name":"TERRA SW","id":"terra-sw","cable_id":1693}],"name":"Port Alwsorth, Alaska, United States","city_id":15032,"id":"port-alwsorth-alaska-united-states","latitude":"60.200372"}
+{"city_id":15032,"id":"port-alwsorth-alaska-united-states","latitude":"60.200372","longitude":"-154.336926","name":"Port Alwsorth, Alaska, United States","type":"landing_point","cables":[{"cable_id":1693,"id":"terra-sw","name":"TERRA SW"}]}

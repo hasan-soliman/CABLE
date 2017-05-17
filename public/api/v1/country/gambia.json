@@ -1,1 +1,1 @@
-{"landing_points":[{"landing_point_id":4348,"name":"Banjul, Gambia","id":"banjul-gambia"}],"cables":[{"name":"Africa Coast to Europe (ACE)","id":"africa-coast-to-europe-ace","cable_id":1629}],"name":"Gambia","latlon":[{"latlon":"13.455948,-16.581358"}]}
+{"name":"Gambia","cables":[{"id":"africa-coast-to-europe-ace","name":"Africa Coast to Europe (ACE)","cable_id":1629}],"landing_points":[{"id":"banjul-gambia","name":"Banjul, Gambia","landing_point_id":4348}],"latlon":[{"latlon":"13.455948,-16.581358"}]}

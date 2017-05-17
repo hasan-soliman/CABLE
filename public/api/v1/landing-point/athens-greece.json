@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"23.736287","cables":[{"name":"MedNautilus Submarine System","id":"mednautilus-submarine-system","cable_id":1185}],"name":"Athens, Greece","city_id":3211,"id":"athens-greece","latitude":"37.976078"}
+{"city_id":3211,"id":"athens-greece","latitude":"37.976078","longitude":"23.736287","name":"Athens, Greece","type":"landing_point","cables":[{"cable_id":1185,"id":"mednautilus-submarine-system","name":"MedNautilus Submarine System"}]}

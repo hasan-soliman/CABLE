@@ -1,1 +1,1 @@
-{"landing_points":[{"landing_point_id":4258,"name":"Providenciales, Turks and Caicos Islands","id":"providenciales-turks-and-caicos-islands"}],"cables":[{"name":"ARCOS ","id":"arcos","cable_id":1078}],"name":"Turks and Caicos Islands","latlon":[{"latlon":"21.851098,-72.120235"}]}
+{"name":"Turks and Caicos Islands","cables":[{"id":"arcos","name":"ARCOS ","cable_id":1078}],"landing_points":[{"id":"providenciales-turks-and-caicos-islands","name":"Providenciales, Turks and Caicos Islands","landing_point_id":4258}],"latlon":[{"latlon":"21.851098,-72.120235"}]}

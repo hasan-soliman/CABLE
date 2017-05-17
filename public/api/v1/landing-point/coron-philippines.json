@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"120.200682","cables":[{"name":"Boracay-Palawan Submarine Cable System","id":"boracay-palawan-submarine-cable-system","cable_id":1781}],"name":"Coron, Philippines","city_id":9385,"id":"coron-philippines","latitude":"12.004960"}
+{"city_id":9385,"id":"coron-philippines","latitude":"12.004960","longitude":"120.200682","name":"Coron, Philippines","type":"landing_point","cables":[{"cable_id":1781,"id":"boracay-palawan-submarine-cable-system","name":"Boracay-Palawan Submarine Cable System"}]}

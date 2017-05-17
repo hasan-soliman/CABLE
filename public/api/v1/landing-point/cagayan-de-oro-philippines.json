@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"124.631929","cables":[{"name":"PLDT Domestic Fiber Optic Network (DFON)","id":"pldt-domestic-fiber-optic-network-dfon","cable_id":1839}],"name":"Cagayan de Oro, Philippines","city_id":10658,"id":"cagayan-de-oro-philippines","latitude":"8.454229"}
+{"city_id":10658,"id":"cagayan-de-oro-philippines","latitude":"8.454229","longitude":"124.631929","name":"Cagayan de Oro, Philippines","type":"landing_point","cables":[{"cable_id":1839,"id":"pldt-domestic-fiber-optic-network-dfon","name":"PLDT Domestic Fiber Optic Network (DFON)"}]}

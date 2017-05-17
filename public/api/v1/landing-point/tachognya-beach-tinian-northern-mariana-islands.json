@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"145.629258","cables":[{"name":"Atisa","id":"atisa","cable_id":1874}],"name":"Tachognya Beach, Tinian, Northern Mariana Islands","city_id":16552,"id":"tachognya-beach-tinian-northern-mariana-islands","latitude":"14.958767"}
+{"city_id":16552,"id":"tachognya-beach-tinian-northern-mariana-islands","latitude":"14.958767","longitude":"145.629258","name":"Tachognya Beach, Tinian, Northern Mariana Islands","type":"landing_point","cables":[{"cable_id":1874,"id":"atisa","name":"Atisa"}]}

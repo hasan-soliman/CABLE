@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-8.869594","cables":[{"name":"EllaLink","id":"ellalink","cable_id":1725}],"name":"Sines, Portugal","city_id":9754,"id":"sines-portugal","latitude":"37.957218"}
+{"city_id":9754,"id":"sines-portugal","latitude":"37.957218","longitude":"-8.869594","name":"Sines, Portugal","type":"landing_point","cables":[{"cable_id":1725,"id":"ellalink","name":"EllaLink"}]}

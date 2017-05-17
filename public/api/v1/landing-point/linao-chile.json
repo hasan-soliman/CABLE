@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-73.504463","cables":[{"name":"Segunda FOS Canal de Chacao","id":"segunda-fos-canal-de-chacao","cable_id":1830}],"name":"Linao, Chile","city_id":16013,"id":"linao-chile","latitude":"-41.991132"}
+{"city_id":16013,"id":"linao-chile","latitude":"-41.991132","longitude":"-73.504463","name":"Linao, Chile","type":"landing_point","cables":[{"cable_id":1830,"id":"segunda-fos-canal-de-chacao","name":"Segunda FOS Canal de Chacao"}]}

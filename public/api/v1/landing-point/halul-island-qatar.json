@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"52.420245","cables":[{"name":"Qatar-U.A.E. Submarine Cable System","id":"qatar-u-a-e-submarine-cable-system","cable_id":1254}],"name":"Halul Island, Qatar","city_id":6019,"id":"halul-island-qatar","latitude":"25.668564"}
+{"city_id":6019,"id":"halul-island-qatar","latitude":"25.668564","longitude":"52.420245","name":"Halul Island, Qatar","type":"landing_point","cables":[{"cable_id":1254,"id":"qatar-u-a-e-submarine-cable-system","name":"Qatar-U.A.E. Submarine Cable System"}]}

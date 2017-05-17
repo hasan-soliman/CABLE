@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-85.954750","cables":[{"name":"ARCOS","id":"arcos","cable_id":1078}],"name":"Trujillo, Honduras","city_id":5850,"id":"trujillo-honduras","latitude":"15.915151"}
+{"city_id":5850,"id":"trujillo-honduras","latitude":"15.915151","longitude":"-85.954750","name":"Trujillo, Honduras","type":"landing_point","cables":[{"cable_id":1078,"id":"arcos","name":"ARCOS"}]}

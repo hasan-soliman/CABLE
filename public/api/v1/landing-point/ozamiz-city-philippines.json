@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"123.849996","cables":[{"name":"PLDT Domestic Fiber Optic Network (DFON)","id":"pldt-domestic-fiber-optic-network-dfon","cable_id":1839}],"name":"Ozamiz City, Philippines","city_id":16052,"id":"ozamiz-city-philippines","latitude":"8.150030"}
+{"city_id":16052,"id":"ozamiz-city-philippines","latitude":"8.150030","longitude":"123.849996","name":"Ozamiz City, Philippines","type":"landing_point","cables":[{"cable_id":1839,"id":"pldt-domestic-fiber-optic-network-dfon","name":"PLDT Domestic Fiber Optic Network (DFON)"}]}

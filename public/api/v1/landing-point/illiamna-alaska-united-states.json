@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-154.906116","cables":[{"name":"TERRA SW","id":"terra-sw","cable_id":1693}],"name":"Illiamna, Alaska, United States","city_id":15027,"id":"illiamna-alaska-united-states","latitude":"59.754766"}
+{"city_id":15027,"id":"illiamna-alaska-united-states","latitude":"59.754766","longitude":"-154.906116","name":"Illiamna, Alaska, United States","type":"landing_point","cables":[{"cable_id":1693,"id":"terra-sw","name":"TERRA SW"}]}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"114.604005","cables":[{"name":"JaKa2LaDeMa","id":"jaka2ladema","cable_id":1767},{"name":"S-U-B Cable System","id":"s-u-b-cable-system","cable_id":1880}],"name":"Banjarmasin, Indonesia","city_id":7803,"id":"banjarmasin-indonesia","latitude":"-3.327967"}
+{"city_id":7803,"id":"banjarmasin-indonesia","latitude":"-3.327967","longitude":"114.604005","name":"Banjarmasin, Indonesia","type":"landing_point","cables":[{"cable_id":1767,"id":"jaka2ladema","name":"JaKa2LaDeMa"},{"cable_id":1880,"id":"s-u-b-cable-system","name":"S-U-B Cable System"}]}

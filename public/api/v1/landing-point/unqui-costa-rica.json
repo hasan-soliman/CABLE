@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-84.454262","cables":[{"name":"Pan-American Crossing (PAC)","id":"pan-american-crossing-pac","cable_id":1072}],"name":"Unqui, Costa Rica","city_id":7981,"id":"unqui-costa-rica","latitude":"9.525860"}
+{"city_id":7981,"id":"unqui-costa-rica","latitude":"9.525860","longitude":"-84.454262","name":"Unqui, Costa Rica","type":"landing_point","cables":[{"cable_id":1072,"id":"pan-american-crossing-pac","name":"Pan-American Crossing (PAC)"}]}

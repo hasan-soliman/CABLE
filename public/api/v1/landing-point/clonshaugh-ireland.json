@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-6.197915","cables":[{"name":"Emerald Bridge Fibres","id":"emerald-bridge-fibres","cable_id":1684}],"name":"Clonshaugh, Ireland","city_id":10313,"id":"clonshaugh-ireland","latitude":"53.410055"}
+{"city_id":10313,"id":"clonshaugh-ireland","latitude":"53.410055","longitude":"-6.197915","name":"Clonshaugh, Ireland","type":"landing_point","cables":[{"cable_id":1684,"id":"emerald-bridge-fibres","name":"Emerald Bridge Fibres"}]}

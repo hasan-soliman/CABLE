@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"49.292170","cables":[{"name":"Africa-1","id":"africa-1","cable_id":1878}],"name":"Antsiranana, Madagascar","city_id":13489,"id":"antsiranana-madagascar","latitude":"-12.275253"}
+{"city_id":13489,"id":"antsiranana-madagascar","latitude":"-12.275253","longitude":"49.292170","name":"Antsiranana, Madagascar","type":"landing_point","cables":[{"cable_id":1878,"id":"africa-1","name":"Africa-1"}]}

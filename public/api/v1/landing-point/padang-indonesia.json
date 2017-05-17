@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"100.361628","cables":[{"name":"JASUKA","id":"jasuka","cable_id":1844}],"name":"Padang, Indonesia","city_id":9722,"id":"padang-indonesia","latitude":"-0.943862"}
+{"city_id":9722,"id":"padang-indonesia","latitude":"-0.943862","longitude":"100.361628","name":"Padang, Indonesia","type":"landing_point","cables":[{"cable_id":1844,"id":"jasuka","name":"JASUKA"}]}

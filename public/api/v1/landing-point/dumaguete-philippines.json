@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"123.281442","cables":[{"name":"PLDT Domestic Fiber Optic Network (DFON)","id":"pldt-domestic-fiber-optic-network-dfon","cable_id":1839}],"name":"Dumaguete, Philippines","city_id":7842,"id":"dumaguete-philippines","latitude":"9.295611"}
+{"city_id":7842,"id":"dumaguete-philippines","latitude":"9.295611","longitude":"123.281442","name":"Dumaguete, Philippines","type":"landing_point","cables":[{"cable_id":1839,"id":"pldt-domestic-fiber-optic-network-dfon","name":"PLDT Domestic Fiber Optic Network (DFON)"}]}

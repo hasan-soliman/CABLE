@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"123.894625","cables":[{"name":"PLDT Domestic Fiber Optic Network (DFON)","id":"pldt-domestic-fiber-optic-network-dfon","cable_id":1839}],"name":"Cebu, Philippines","city_id":3901,"id":"cebu-philippines","latitude":"10.310039"}
+{"city_id":3901,"id":"cebu-philippines","latitude":"10.310039","longitude":"123.894625","name":"Cebu, Philippines","type":"landing_point","cables":[{"cable_id":1839,"id":"pldt-domestic-fiber-optic-network-dfon","name":"PLDT Domestic Fiber Optic Network (DFON)"}]}

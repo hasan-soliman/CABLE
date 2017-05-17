@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"51.519367","cables":[{"name":"Tata TGN-Gulf","id":"tata-tgn-gulf","cable_id":1631}],"name":"Al-Kheesa, Qatar","city_id":10682,"id":"al-kheesa-qatar","latitude":"25.294346"}
+{"city_id":10682,"id":"al-kheesa-qatar","latitude":"25.294346","longitude":"51.519367","name":"Al-Kheesa, Qatar","type":"landing_point","cables":[{"cable_id":1631,"id":"tata-tgn-gulf","name":"Tata TGN-Gulf"}]}

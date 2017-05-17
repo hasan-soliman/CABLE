@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"72.997677","cables":[{"name":"Ooredoo Maldives Domestic Submarine Cable System","id":"ooredoo-maldives-domestic-submarine-cable-system","cable_id":1868}],"name":"Thinadhoo, Maldives","city_id":16505,"id":"thinadhoo-maldives","latitude":"0.531088"}
+{"city_id":16505,"id":"thinadhoo-maldives","latitude":"0.531088","longitude":"72.997677","name":"Thinadhoo, Maldives","type":"landing_point","cables":[{"cable_id":1868,"id":"nationwide-submarine-cable-ooredoo-maldives-nascom","name":"Nationwide Submarine Cable Ooredoo Maldives (NaSCOM)"}]}

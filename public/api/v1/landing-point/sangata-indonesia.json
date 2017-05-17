@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"117.550976","cables":[{"name":"JaKa2LaDeMa","id":"jaka2ladema","cable_id":1767}],"name":"Sangata, Indonesia","city_id":14609,"id":"sangata-indonesia","latitude":"0.326889"}
+{"city_id":14609,"id":"sangata-indonesia","latitude":"0.326889","longitude":"117.550976","name":"Sangata, Indonesia","type":"landing_point","cables":[{"cable_id":1767,"id":"jaka2ladema","name":"JaKa2LaDeMa"}]}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-69.020627","cables":[{"name":"Pacific Caribbean Cable System (PCCS)","id":"pacific-caribbean-cable-system-pccs","cable_id":1727}],"name":"Tera Cora, Curaçao","city_id":14631,"id":"tera-cora-curaao","latitude":"12.234501"}
+{"city_id":14631,"id":"tera-cora-curaao","latitude":"12.234501","longitude":"-69.020627","name":"Tera Cora, Curaçao","type":"landing_point","cables":[{"cable_id":1727,"id":"pacific-caribbean-cable-system-pccs","name":"Pacific Caribbean Cable System (PCCS)"}]}

@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"142.942443","cables":[{"name":"Far East Submarine Cable System","id":"far-east-submarine-cable-system","cable_id":1825}],"name":"Okha, Russia","city_id":15833,"id":"okha-russia","latitude":"53.577548"}
+{"city_id":15833,"id":"okha-russia","latitude":"53.577548","longitude":"142.942443","name":"Okha, Russia","type":"landing_point","cables":[{"cable_id":1825,"id":"far-east-submarine-cable-system","name":"Far East Submarine Cable System"}]}

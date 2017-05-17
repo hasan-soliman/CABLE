@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-79.877647","cables":[{"name":"Cayman-Jamaica Fiber System","id":"cayman-jamaica-fiber-system","cable_id":1068}],"name":"Cayman Brac, Cayman Islands","city_id":6048,"id":"cayman-brac-cayman-islands","latitude":"19.690332"}
+{"city_id":6048,"id":"cayman-brac-cayman-islands","latitude":"19.690332","longitude":"-79.877647","name":"Cayman Brac, Cayman Islands","type":"landing_point","cables":[{"cable_id":1068,"id":"cayman-jamaica-fiber-system","name":"Cayman-Jamaica Fiber System"}]}

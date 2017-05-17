@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-154.899767","cables":[{"name":"TERRA SW","id":"terra-sw","cable_id":1693}],"name":"Newhalem, Alaska, United States","city_id":15029,"id":"newhalem-alaska-united-states","latitude":"59.718145"}
+{"city_id":15029,"id":"newhalem-alaska-united-states","latitude":"59.718145","longitude":"-154.899767","name":"Newhalem, Alaska, United States","type":"landing_point","cables":[{"cable_id":1693,"id":"terra-sw","name":"TERRA SW"}]}

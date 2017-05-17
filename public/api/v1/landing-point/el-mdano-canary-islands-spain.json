@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"-16.538584","cables":[{"name":"Atlantis-2","id":"atlantis-2","cable_id":1045},{"name":"Pencan-6","id":"pencan-6","cable_id":1448}],"name":"El Médano, Canary Islands, Spain","city_id":5722,"id":"el-mdano-canary-islands-spain","latitude":"28.046652"}
+{"city_id":5722,"id":"el-mdano-canary-islands-spain","latitude":"28.046652","longitude":"-16.538584","name":"El Médano, Canary Islands, Spain","type":"landing_point","cables":[{"cable_id":1045,"id":"atlantis-2","name":"Atlantis-2"},{"cable_id":1448,"id":"pencan-6","name":"Pencan-6"}]}

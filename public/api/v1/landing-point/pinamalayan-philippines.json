@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"121.464548","cables":[{"name":"PLDT Domestic Fiber Optic Network (DFON)","id":"pldt-domestic-fiber-optic-network-dfon","cable_id":1839}],"name":"Pinamalayan, Philippines","city_id":16046,"id":"pinamalayan-philippines","latitude":"13.045780"}
+{"city_id":16046,"id":"pinamalayan-philippines","latitude":"13.045780","longitude":"121.464548","name":"Pinamalayan, Philippines","type":"landing_point","cables":[{"cable_id":1839,"id":"pldt-domestic-fiber-optic-network-dfon","name":"PLDT Domestic Fiber Optic Network (DFON)"}]}

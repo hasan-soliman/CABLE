@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"160.699954","cables":[{"name":"Solomons Oceanic Cable Network","id":"solomons-oceanic-cable-network","cable_id":1736}],"name":"Auki, Solomon Islands","city_id":10893,"id":"auki-solomon-islands","latitude":"-8.766734"}
+{"city_id":10893,"id":"auki-solomon-islands","latitude":"-8.766734","longitude":"160.699954","name":"Auki, Solomon Islands","type":"landing_point","cables":[{"cable_id":1736,"id":"solomons-islands-submarine-cable-sisc","name":"Solomons Islands Submarine Cable (SISC)"}]}

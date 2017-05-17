@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"14.380041","cables":[{"name":"Vodafone Malta-Sicily Cable System (VMSCS)","id":"vodafone-malta-sicily-cable-system-vmscs","cable_id":1249}],"name":"Balluta Bay, Malta","city_id":6170,"id":"balluta-bay-malta","latitude":"35.934062"}
+{"city_id":6170,"id":"balluta-bay-malta","latitude":"35.934062","longitude":"14.380041","name":"Balluta Bay, Malta","type":"landing_point","cables":[{"cable_id":1249,"id":"vodafone-malta-sicily-cable-system-vmscs","name":"Vodafone Malta-Sicily Cable System (VMSCS)"}]}

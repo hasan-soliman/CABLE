@@ -1,1 +1,1 @@
-{"type":"landing_point","longitude":"120.253025","cables":[{"name":"Mataram Kupang Cable System (MKCS)","id":"mataram-kupang-cable-system-mkcs","cable_id":1780}],"name":"Waingapu, Indonesia","city_id":14652,"id":"waingapu-indonesia","latitude":"-9.646153"}
+{"city_id":14652,"id":"waingapu-indonesia","latitude":"-9.646153","longitude":"120.253025","name":"Waingapu, Indonesia","type":"landing_point","cables":[{"cable_id":1780,"id":"mataram-kupang-cable-system-mkcs","name":"Mataram Kupang Cable System (MKCS)"}]}
