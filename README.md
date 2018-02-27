@@ -71,7 +71,7 @@ Below are links to both of the datasets used for the [Submarine Cable Map](http:
 
 __Submarine Cables:__
 
-[https://www.google.com/fusiontables/DataSource?docid=1BSUr9iVk4XL-UBTCvpd6suEzbl4L95_a01Mj07Ji#map:id=3](https://www.google.com/fusiontables/DataSource?docid=1BSUr9iVk4XL-UBTCvpd6suEzbl4L95_a01Mj07Ji#map:id=3)
+[https://www.google.com/fusiontables/DataSource?docid=1Uz8-YmK_gd_8rKH0VfsG0ivVYBdcCUbEwqfLohYK#map:id=3](https://www.google.com/fusiontables/DataSource?docid=1Uz8-YmK_gd_8rKH0VfsG0ivVYBdcCUbEwqfLohYK#map:id=3)
 
 __To download as KML try the following steps:__
 
@@ -81,7 +81,7 @@ __To download as KML try the following steps:__
 
 __Landing points:__
 
-[https://www.google.com/fusiontables/DataSource?docid=1qKQ4to6Fyr5Sl3s45nYwwJuv3jUVGCJf-6Ev7UUX#map:id=3](https://www.google.com/fusiontables/DataSource?docid=1qKQ4to6Fyr5Sl3s45nYwwJuv3jUVGCJf-6Ev7UUX#map:id=3)
+[https://www.google.com/fusiontables/DataSource?docid=1BFkJsp-dSIgHt3T5KVtcItSQAhe6Ge6gWP2iy2QT#map:id=3](https://www.google.com/fusiontables/DataSource?docid=1BFkJsp-dSIgHt3T5KVtcItSQAhe6Ge6gWP2iy2QT#map:id=3)
 
 
 __To download as KML try the following steps:__
