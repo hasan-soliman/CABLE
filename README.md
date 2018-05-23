@@ -2,8 +2,6 @@
 Submarine Cable Map
 ===================
 
-[![Submarine Cable Map](https://www.telegeography.com/page_attachments/products/website/telecom-resources/submarine-cable-map/0003/4671/interactive-cable-map.png)](http://www.submarinecablemap.com)
-
 [TeleGeography's](http://www.telegeography.com) submarine cable map is based on our authoritative [Global Bandwidth](http://www.telegeography.com/research-services/global-bandwidth-research-service/) research and depicts international active and planned submarine cable systems and their landing stations. The map presents data about each cable, including landing points, owners, length, ready-for-service (RFS) date, and website. Try it today! Visit [http://www.submarinecablemap.com](http://www.submarinecablemap.com).
 
 
@@ -71,7 +69,7 @@ Below are links to both of the datasets used for the [Submarine Cable Map](http:
 
 __Submarine Cables:__
 
-[https://www.google.com/fusiontables/DataSource?docid=14UzWUwxtbgFE7WP5TLdh1yc31MKJQjqniDhjBo9G#map:id=3](https://www.google.com/fusiontables/DataSource?docid=14UzWUwxtbgFE7WP5TLdh1yc31MKJQjqniDhjBo9G#map:id=3)
+[https://www.google.com/fusiontables/DataSource?docid=1T7MmBbw4QO1HPtW_qim-1QMXBLJIN_HbPp2BnIy0#map:id=3](https://www.google.com/fusiontables/DataSource?docid=1T7MmBbw4QO1HPtW_qim-1QMXBLJIN_HbPp2BnIy0#map:id=3)
 
 __To download as KML try the following steps:__
 
@@ -81,7 +79,7 @@ __To download as KML try the following steps:__
 
 __Landing points:__
 
-[https://www.google.com/fusiontables/DataSource?docid=1400wMCcM6A8hSCyfdI86MueWwMc55vM2HS3Zs_ii#map:id=3](https://www.google.com/fusiontables/DataSource?docid=1400wMCcM6A8hSCyfdI86MueWwMc55vM2HS3Zs_ii#map:id=3)
+[https://www.google.com/fusiontables/DataSource?docid=1Cln6exV2kXVXwISkSa3pmNPmduN1aGs6AHXLV1W1#map:id=3](https://www.google.com/fusiontables/DataSource?docid=1Cln6exV2kXVXwISkSa3pmNPmduN1aGs6AHXLV1W1#map:id=3)
 
 
 __To download as KML try the following steps:__
