@@ -91,6 +91,12 @@ __To download as KML try the following steps:__
 __Note:__ For landing points, modify the 'Select location' dropdown menu to 'coordinates' from 'id', then click 'Download KML' to get the landing point data.
 
 
+License
+------------------------
+
+Our map is made available under the following [Creative Commons License: Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)](https://creativecommons.org/licenses/by-nc-sa/3.0/).
+
+
 Questions? Corrections?
 ------------------------
 
