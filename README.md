@@ -2,91 +2,50 @@
 Submarine Cable Map
 ===================
 
-[TeleGeography's](http://www.telegeography.com) submarine cable map is based on our authoritative [Global Bandwidth](http://www.telegeography.com/research-services/global-bandwidth-research-service/) research and depicts international active and planned submarine cable systems and their landing stations. The map presents data about each cable, including landing points, owners, length, ready-for-service (RFS) date, and website. Try it today! Visit [http://www.submarinecablemap.com](http://www.submarinecablemap.com).
+[TeleGeography's](https://www.telegeography.com) submarine cable map is based on our authoritative [Global Bandwidth](https://www.telegeography.com/research-services/global-bandwidth-research-service/) research. The map depicts active and planned submarine cable systems, their landing stations, cable length, ready for service (RFS) date, owners, and website. Visit [https://www.submarinecablemap.com](https://www.submarinecablemap.com).
+
+For more background about submarine cables, read our [FAQ](https://www2.telegeography.com/submarine-cable-faqs-frequently-asked-questions).
 
 
 Installation
 ------------
 
-    $ git clone git://github.com/telegeography/www.submarinecablemap.com.git
-
-Point your webserver's document root to the public directory and that's it.
-
-Or you can click the [Download ZIP](https://github.com/telegeography/www.submarinecablemap.com/archive/master.zip) link on the right and download the zip file.  Unzip the zip file and point your webserver's document root to the public directory.
-
-If you're on a Mac you can download the zip file or clone the repo and use [python's SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html):
+Install a LTS version of [Node.js](https://nodejs.org/), [Yarn](https://yarnpkg.com/) for package management, and finally [Ember](https://www.emberjs.com/).
 
     $ git clone git://github.com/telegeography/www.submarinecablemap.com.git
-    $ cd www.submarinecablemap.com/public 
-    $ python -m SimpleHTTPServer
-
-Or the following will work on a Mac too:
-
-    $ wget https://github.com/telegeography/www.submarinecablemap.com/archive/master.zip
-    $ unzip master.zip
-    $ cd www.submarinecablemap.com-master/public/
-    $ python -m SimpleHTTPServer
-
-
-Updates
--------
-
-To make sure you get any updates, just watch this repository and perform a pull when you see any new commits:
-
     $ cd www.submarinecablemap.com
-    $ git pull
-
+    $ yarn install
+    $ ember serve
 
 How did you make the Submarine Cable Map?
 -------------------------------
 
-[TeleGeography](http://www.telegeography.com) draws the cable routes and plots the landing points with [Adobe Illustrator](http://www.adobe.com/products/illustrator.html). Using [Avenza's MAPublisher](http://www.avenza.com/mapublisher) plug-in, which works with Illustrator, two sets of data are exported as KML files: the cable routes (as MultiLineStrings) and landing points (as Points). These KML files are then parsed to create CSV files that are uploaded to Google Fusion Tables.
+[TeleGeography](http://www.telegeography.com) draws the cable routes and plots the landing points with [Adobe Illustrator](https://www.adobe.com/products/illustrator.html). Using [Avenza's MAPublisher](https://www.avenza.com/mapublisher) plug-in, which works with Illustrator, two sets of data are exported as KML files: the cable routes (as MultiLineStrings) and landing points (as Points). These KML files are then parsed to create CSV files that are uploaded to Google Fusion Tables.
 
-We use [Google's Maps API v3.](http://code.google.com/apis/maps/documentation/javascript/) to transform the [Google Fusion Tables](http://www.google.com/fusiontables) into two separate map layers of cable routes and landing points. The interactivity on the map is driven by javascript and was written in-house at TeleGeography.
-
-This interactive map Javascript was created using the [Node.js](http://nodejs.org/) utility [CoffeeScript](http://coffeescript.org/) written by Jeremy Ashkenas, the [Ember](http://emberjs.com/) web application framework, the [HTML5 Boilerplate](http://html5boilerplate.com/) front-end template, the [node-build-script](https://github.com/h5bp/node-build-script) and [node-ember-precompile](https://github.com/gabrielgrant/node-ember-precompile) tools.  The CoffeScript for the map was written in-house at TeleGeography.
-
-Notable Commandline examples:
-
-	# Install ember-precomile from github to get versions correct.
-	npm install --from-git git://github.com/gabrielgrant/node-ember-precompile.git
-	# precompile handlebars templates
-	ember-precompile handlebars/*.handlebars -f src/javascripts/handlebars.tmpl.js
-	
-	# Used watchr to compile coffeescript/handlebars.
-	watchr bin/script.watchr
-	
-	# Watch, server and build using h5bp, very helpful
-	h5bp watch
-	h5bp server
-	h5bp build:minify
-
+This interactive map Javascript was created using the [Ember](https://emberjs.com/) web application framework using [emberCLI](https://ember-cli.com/).  The Javascript for the map was written in-house at TeleGeography.
 
 How can I download the KML or a CSV of the dataset?
 --------------------------------------------------
 
-Below are links to both of the datasets used for the [Submarine Cable Map](http://www.submarinecablemap.com).
+Below are links to both of the datasets used for the [Submarine Cable Map](https://www.submarinecablemap.com).
+
+In the urls below, substitute `{{ fusiontables_cable_id }}` and `{{ fusiontables_landingpoints_id }}` with the corresponding ids in [public/api/v2/config.json](https://raw.githubusercontent.com/telegeography/www.submarinecablemap.com/master/public/api/v2/config.json).
 
 __Submarine Cables:__
 
-[https://www.google.com/fusiontables/DataSource?docid=1gMumdPtMznGbj7pL_UwOYpm96aYjpbDEhhT2U2rs#map:id=3](https://www.google.com/fusiontables/DataSource?docid=1gMumdPtMznGbj7pL_UwOYpm96aYjpbDEhhT2U2rs#map:id=3)
+    https://www.google.com/fusiontables/DataSource?docid={{ fusiontables_cable_id }}#map:id=3
+  
+
+__Landing points:__
+
+    https://www.google.com/fusiontables/DataSource?docid={{ fusiontables_landingpoints_id }}#map:id=3
+
 
 __To download as KML try the following steps:__
 
 1. Click the 'Map of coordinates' tab.
 2. Click 'File' then 'Download'.
-3. Then select the KML radion button and click 'Download'
-
-__Landing points:__
-
-[https://www.google.com/fusiontables/DataSource?docid=1Jasf_BJBpqZQBIqe3CVd1mfwPUEiioZHC3f3-e9E#map:id=3](https://www.google.com/fusiontables/DataSource?docid=1Jasf_BJBpqZQBIqe3CVd1mfwPUEiioZHC3f3-e9E#map:id=3)
-
-
-__To download as KML try the following steps:__
-
-1. Click the 'Map of coordinates' tab
-2. Click 'File' then 'Download'.
-3. Then select the KML radion button and click 'Download'
+3. Then select the KML radio button and click 'Download'
 
 __Note:__ For landing points, modify the 'Select location' dropdown menu to 'coordinates' from 'id', then click 'Download KML' to get the landing point data.
 
