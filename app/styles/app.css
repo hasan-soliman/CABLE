@@ -13,11 +13,15 @@ h3 {font-size:14px; padding:0 0 9px 0;}
 #header-portrait { padding:9px 9px 8px 9px; border-bottom:1px solid #e5e5e5; }
 #telegeography-logo-portrait { width:62px; height:12px; margin-bottom:1px; background:url(images/telegeography-logo-portrait-2x.png) no-repeat; background-size:62px 12px; }
 #header-portrait h1 { font-size:12px; line-height:12px; }
-#telegeography-logo, #sponsor-logo { display:block; }
+#telegeography-logo, .company-logo { display:block; }
 #header-portrait { display:none; }
 #telegeography-logo {width:108px; height:21px; background:url(images/telegeography-logo.png) no-repeat; background-size:108px 21px; }
-#sponsor-logo, #sponsor-logo-portrait {width:275px; height:47px; background-image:url(images/huawei-marine-sponsored.png); background-repeat:no-repeat; }
-#sponsor-logo-portrait { position:absolute; top:7px; right:9px; height:20px; width:50%; background-size:contain; background-repeat:no-repeat; background-position:right top;  }
+.company-logos { position:relative; width:275px; height:47px;}
+.company-logo { position:absolute; top:0; left:0; }
+.company-logo, .company-logo-portrait {width:275px; height:47px; background-repeat:no-repeat; background-color:#fff; }
+.huawei-marine-logo { background-image:url(images/huawei-marine-logo.png); }
+.equinix-logo { background-image:url(images/equinix-logo.png); }
+.company-logo-portrait { position:absolute; top:7px; right:9px; height:20px; width:50%; background-size:contain; background-repeat:no-repeat; background-position:right top;  }
 #content {padding-bottom:18px;}
 #search {width:284px; height:18px; line-height:18px; font-size:14px; padding:0 18px 0 40px; color:#fff; border:none;background:none;outline:none;font-family:Helvetica,Arial;font-weight:bold;}
 #search.focus { color:#0071bc;}
@@ -30,10 +34,10 @@ h2#name {padding:0;}
 a.email-link {display:block;margin:6px 0 12px 0;padding:0 0 0 16px;height:10px;line-height:10px;background:url(images/share-icons.png) no-repeat 0 -38px;}
 a.email-link:hover {background-position:0 -48px;}
 
-#sponsor {padding:0;}
-#sponsor img {border:0;}
-#footer, #sponsor, #sponsor-portrait {font-size:10px;color:#b3b3b3;}
-#sponsor-portrait { position:absolute; top:29px; right:9px; height:7px; font-size:7px; line-height:7px; color:#666; }
+.company {padding:0;}
+.company img {border:0;}
+#footer, .company, .company-portrait {font-size:10px;color:#b3b3b3;}
+.company-portrait { position:absolute; top:29px; right:9px; height:7px; font-size:7px; line-height:7px; color:#666; }
 #footer { height:12px; line-height:12px; padding:6px 0 0 0;}
 #footer a {float:right;margin:0 0 0 4px;height:12px;}
 #footer a.facebook, #footer a.twitter, #footer a.github  {display:block;width:12px;background-image:url(images/share-icons.png);}
@@ -95,7 +99,7 @@ iframe{
 
 @media only screen and (max-width:414px) and (orientation : portrait) {
 	#header, #updated-on { display:none; }
-	#header-portrait, #telegeography-logo-portrait, #sponsor-logo-portrait { display:block; }
+	#header-portrait, #telegeography-logo-portrait, .company-logo-portrait { display:block; }
 	#map { top:0; left:0; height:50%; width:100%; z-index:1; margin-right:0; }
 	#side_bar { background:#fff; position:absolute; margin-top:45px; top:50%; left:0; width:100%; height:auto; z-index:998; }
 	#content { width:auto; }
@@ -109,8 +113,8 @@ iframe{
 	#header p, #header #footer a, #updated-on { display:none; }
 	#header { width:auto; padding-top:16px; }
 	#telegeography-logo {width:72px; height:14px; background:url(images/telegeography-logo-2x.png) no-repeat; background-size:72px 14px;}
-	#sponsor-logo { margin-top:9px; margin-bottom:2px; height:32px; background-size:contain; background-repeat:no-repeat; }
-	#sponsor { color:#666; }
+	.company-logo { margin-top:9px; margin-bottom:2px; height:32px; background-size:contain; background-repeat:no-repeat; }
+	.company { color:#666; }
 	#map { position:fixed !important; top:0; left:0; height:10%; width:50%; height:100%; z-index:1; margin-right:0; }
 	#side_bar { background:#fff; position:absolute; top:0; right:0; width:50%; height:auto; z-index:998; }
 	#content { width:auto; }

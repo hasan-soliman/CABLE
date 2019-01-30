@@ -16,6 +16,15 @@ export function initialize(application) {
     return slug;
   });
 
+  application.set('swapCompany', function(currentCompany = Math.round(Math.random())){
+    let companyNames = ['Huawei Marine', 'Equinix'];
+    companyNames.forEach(function(d, i) {
+      let target = $(`.${companyNames[i].toLowerCase().replace(" ","-")}-logo`);
+      (i == currentCompany) ? target.show() : target.hide();
+    });
+    $("span.company, span.company-portrait").text(`Sponsored in part by ${companyNames[currentCompany]}`);
+  },)
+
   application.deferReadiness();
   $.getJSON(`/${application.apiPath}/config.json`, function(data) {
     application.set('mapConfig', data);
