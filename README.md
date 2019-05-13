@@ -24,30 +24,18 @@ How did you make the Submarine Cable Map?
 
 This interactive map Javascript was created using the [Ember](https://emberjs.com/) web application framework using [emberCLI](https://ember-cli.com/).  The Javascript for the map was written in-house at TeleGeography.
 
-How can I download the KML or a CSV of the dataset?
+How can I download the GeoJSON dataset?
 --------------------------------------------------
 
 Below are links to both of the datasets used for the [Submarine Cable Map](https://www.submarinecablemap.com).
 
-In the urls below, substitute `{{ fusiontables_cable_id }}` and `{{ fusiontables_landingpoints_id }}` with the corresponding ids in [public/api/v2/config.json](https://raw.githubusercontent.com/telegeography/www.submarinecablemap.com/master/public/api/v2/config.json).
-
 __Submarine Cables:__
 
-    https://www.google.com/fusiontables/DataSource?docid={{ fusiontables_cable_id }}#map:id=3
-  
+[Submarine Cables GeoJSON](https://raw.githubusercontent.com/telegeography/www.submarinecablemap.com/master/public/api/v2/cable/cable-geo.json)
 
 __Landing points:__
 
-    https://www.google.com/fusiontables/DataSource?docid={{ fusiontables_landingpoints_id }}#map:id=3
-
-
-__To download as KML try the following steps:__
-
-1. Click the 'Map of coordinates' tab.
-2. Click 'File' then 'Download'.
-3. Then select the KML radio button and click 'Download'
-
-__Note:__ For landing points, modify the 'Select location' dropdown menu to 'coordinates' from 'id', then click 'Download KML' to get the landing point data.
+[Landing Point GeoJSON](https://raw.githubusercontent.com/telegeography/www.submarinecablemap.com/master/public/api/v2/landing-point/landing-point-geo.json)
 
 
 License
