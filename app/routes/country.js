@@ -10,7 +10,7 @@ export default Route.extend({
     $.getJSON(`${application.apiPath}/country/${application.getSlug(model)}.json`, function(data){
       controller.set("model",  data);
       if(application.map){
-        application.map.selectCountry(data.cables, data.latlon);
+        application.map.selectCountry(data.cables, data.landing_points, data.latlon);
       }
     });
   }

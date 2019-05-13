@@ -1,9 +1,8 @@
-window.SubmarineCable = {}
+`window.SubmarineCable = {}`
 
 class SubmarineCable.Map
-
-  # @landing_points_table_id = "1Cl54ggURDqPMvVSuxaQM5mPinrdeDq9FDCGfg9T4"
-  # @cables_table_id = "1lObSCM2_KCXIcbCfm_rbilwftWBbxAKszNyfOiL3"
+  @cablesGeoJSON: "/api/v2/cable/cable-geo.json"
+  @landingsGeoJSON: "/api/v2/landing-point/landing-point-geo.json"
 
   @mapStyles: [
     {"featureType": "landscape","stylers": [{ "visibility": "on" },{ "color": "#d9d9d9" }]},
@@ -19,65 +18,68 @@ class SubmarineCable.Map
     {"elementType": "labels.text.fill","stylers": [{ "color": "#808080" }]}
   ];
 
+  landingIcon: () ->
+    { url: '/assets/images/marker.png', size: new google.maps.Size(10, 10), anchor: new google.maps.Point(5, 5) }
+
   showCables: () ->
-    @cables = new google.maps.FusionTablesLayer
-      query: {select: 'coordinates',from: @cables_table_id}
-      styles: [{polylineOptions: {strokeOpacity: 1}}]
-      suppressInfoWindows:true,
-      styleId: 1
-    @cables.setMap(@gmap)
+    @cables = new google.maps.Data({map:@gmap})
+    @cables.loadGeoJson(SubmarineCable.Map.cablesGeoJSON)
+    @cables.setStyle (feature) =>
+      return ({strokeColor: "##{feature.getProperty("color")}", strokeWeight: 2})
 
   showLandingPoints: () ->
-    @landing_points = new google.maps.FusionTablesLayer
-      query: {select: 'coordinates',from: @landing_points_table_id}
-      suppressInfoWindows:true
-      styleId: 1
-    @landing_points.setMap(@gmap)
-
+    @landings = new google.maps.Data({map:@gmap})
+    @landings.loadGeoJson(SubmarineCable.Map.landingsGeoJSON)
+    @landings.setStyle({icon: @landingIcon()});
 
   selectCable: (id, desc, is_map_clicked = false) ->
-    # Cable Select Event
     @infoBox.close()
-    @cables.setOptions
-      styles: [
-        { polylineOptions: {strokeOpacity: 0.1} }
-        where: "id = '#{id}'", polylineOptions: { strokeColor: "#a81120", strokeOpacity: 1.0}
-      ]
 
-    @landing_points.setQuery
-      select: 'coordinates'
-      from: @landing_points_table_id
-      where: "id IN (#{("'#{d.id}'"for d in desc).join()})"
+    @cables.setStyle (feature) =>
+      if feature.getProperty("slug") is id
+        return ({strokeColor: "#a81120", strokeOpacity: 1})
+      else
+        return ({strokeColor: "##{feature.getProperty("color")}", strokeOpacity: 0.1})
+
+    @landings.setStyle (feature) =>
+      if feature.getProperty("id") in (d.landing_point_id for d in desc)
+        return ({icon: @landingIcon()})
+      else
+        return ({icon: @landingIcon(), visible:false})
+
     @boundMap(desc)
 
-  selectCountry: (cables, latlons) ->
-    # Country Select Event
+  selectCountry: (cables, landing_points, latlons) ->
     @infoBox.close()
-    @cables.setOptions
-      styles: [
-        { polylineOptions: { strokeOpacity: 0.1 }}
-        where: "cable_id IN (#{("#{d.cable_id}"for d in cables).join()})", polylineOptions: { strokeOpacity: 1.0 }
-      ]
 
-    @landing_points.setQuery
-      select: 'coordinates'
-      from: @landing_points_table_id
-      where: "cable_id IN (#{("#{d.cable_id}"for d in cables).join()})"
+    @cables.setStyle (feature) =>
+      if feature.getProperty("slug") in (d.id for d in cables)
+        return ({strokeColor: "##{feature.getProperty("color")}", strokeOpacity: 1})
+      else
+        return ({strokeColor: "##{feature.getProperty("color")}", strokeOpacity: 0.1})
+
+    @landings.setStyle (feature) =>
+      if feature.getProperty("id") in (d.landing_point_id for d in landing_points)
+        return ({icon: @landingIcon()})
+      else
+        return ({icon: @landingIcon(), visible:false})
 
     @boundMap(latlons)
 
   selectRfs: (data) ->
-    # RFS Select Event
     @infoBox.close()
-    @cables.setOptions
-      styles: [
-        { polylineOptions: { strokeOpacity: 0.1 }}
-        where: "rfs CONTAINS '#{data.rfs.toString()}'", polylineOptions: { strokeOpacity: 1.0 }
-      ]
-    @landing_points.setQuery
-      select: 'coordinates'
-      from: @landing_points_table_id
-      where: "cable_id IN (#{("#{d.cable_id}"for d in data.cables).join()})"
+
+    @cables.setStyle (feature) =>
+      if feature.getProperty("slug") in (d.id for d in data.cables)
+        return ({strokeColor: "##{feature.getProperty("color")}", strokeOpacity: 1})
+      else
+        return ({strokeColor: "##{feature.getProperty("color")}", strokeOpacity: 0.1})
+    #
+    @landings.setStyle (feature) =>
+      if feature.getProperty("id") in (d.landing_point_id for d in data.landing_points)
+        return ({icon: @landingIcon()})
+      else
+        return ({icon: @landingIcon(), visible:false})
 
   boundMap: (desc) ->
     bounds = new google.maps.LatLngBounds()
@@ -88,12 +90,10 @@ class SubmarineCable.Map
       @gmap.setZoom @gmap.getZoom() - 2
 
   selectLandingPoint: (name, latLng) ->
-    # Landing Point Select Event
-    @cables.setOptions({styles: [{ polylineOptions: {strokeOpacity: 1} }] });
-    @landing_points.setQuery
-      select: 'coordinates',
-      from: @landing_points_table_id
-
+    @cables.setStyle (feature) =>
+      return ({strokeColor: "##{feature.getProperty("color")}", strokeOpacity: 1})
+    @landings.setStyle (feature) =>
+      return ({icon: @landingIcon()})
     @infoBox.close()
     @gmap.panTo latLng
     @infoBox.setContent "<div class=\"infoBoxContent\"><div class=\"infoBoxPointer\"></div>#{name}</div>"
@@ -101,8 +101,10 @@ class SubmarineCable.Map
     @infoBox.open @gmap
 
   resetMap: () ->
-    @cables.setOptions({ styles: [{ polylineOptions: { strokeOpacity: 1 }} ] })
-    @landing_points.setQuery({select: 'coordinates',from: @landing_points_table_id})
+    @cables.setStyle (feature) =>
+      return ({strokeColor: "##{feature.getProperty("color")}", strokeOpacity: 1})
+    @landings.setStyle (feature) =>
+      return ({icon: @landingIcon()})
     @infoBox.close()
 
   resetBounds: () ->
@@ -110,25 +112,12 @@ class SubmarineCable.Map
     @gmap.setCenter new google.maps.LatLng(30.0,-30.0)
 
   setEvents: () ->
-    # Map Event
     google.maps.event.addListener @gmap, 'click', (event) =>
-      # @analytics('Map', 'Click', 'On Map')
       jQuery(location).attr('href',"#/")
-
-    # google.maps.event.addListener @gmap, 'zoom_changed', (event) =>
-    #   console.log @gmap.getZoom()
-
-    # Cable Event
-    google.maps.event.addListener @cables, 'click', (event) =>
-      # Cable Click Event?
-      # @analytics('Cable', 'Click', event.row.id.value)
-      jQuery(location).attr('href',"#/submarine-cable/#{event.row.id.value}")
-
-    # LandingPoint Event
-    google.maps.event.addListener @landing_points, 'click', (event) =>
-      # Landing Point Click Event?
-      # @analytics('Landing Point', 'Click', event.row.id.value)
-      jQuery(location).attr('href',"#/landing-point/#{event.row.id.value}")
+    @cables.addListener 'click', (event) =>
+      jQuery(location).attr('href',"#/submarine-cable/#{event.feature.getProperty('slug')}")
+    @landings.addListener 'click', (event) =>
+      jQuery(location).attr('href',"#/landing-point/#{event.feature.getProperty('slug')}")
 
   isMobile: () ->
     try
@@ -140,12 +129,9 @@ class SubmarineCable.Map
     # _gaq.push(['_trackEvent', category, action, label]) if _gaq
 
   constructor: (@element, @config) ->
-    @landing_points_table_id = @config.fusiontables_landingpoints_id
-    @cables_table_id = @config.fusiontables_cable_id
     @creation_time = @config.creation_time
     @gmap = new google.maps.Map document.getElementById(@element), {
       zoom: if @isMobile() then 1 else 3,
-      maptiks_id: "Submarine Cable Map",
       maxZoom: 8,
       minZoom: 2,
       mapTypeId: google.maps.MapTypeId.ROADMAP,

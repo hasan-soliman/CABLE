@@ -1,1 +1,1 @@
-{"name":"Romania","cables":[{"id":"diamond-link-global","name":"Diamond Link Global","cable_id":2015}],"landing_points":[{"id":"constanta-romania","name":"Constanta, Romania","landing_point_id":6152}],"latlon":[{"latlon":"44.176978,28.653289"}]}
+{"name":"Romania","cables":[{"id":"diamond-link-global","name":"Diamond Link Global","cable_id":2015}],"landing_points":[{"id":"constanta-romania","name":"Constanta, Romania","landing_point_id":6152},{"id":"poti-georgia","name":"Poti, Georgia","landing_point_id":5530}],"latlon":[{"latlon":"44.176978,28.653289"}]}
