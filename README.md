@@ -24,18 +24,20 @@ How did you make the Submarine Cable Map?
 
 This interactive map Javascript was created using the [Ember](https://emberjs.com/) web application framework using [emberCLI](https://ember-cli.com/).  The Javascript for the map was written in-house at TeleGeography.
 
-How can I download the GeoJSON dataset?
+How can I download the dataset?
 --------------------------------------------------
 
-Below are links to both of the datasets used for the [Submarine Cable Map](https://www.submarinecablemap.com).
+Below are links to the datasets used for the [Submarine Cable Map](https://www.submarinecablemap.com).
 
 __Submarine Cables:__
 
-[Submarine Cables GeoJSON](https://raw.githubusercontent.com/telegeography/www.submarinecablemap.com/master/public/api/v2/cable/cable-geo.json)
+* [Submarine Cables GeoJSON](https://raw.githubusercontent.com/telegeography/www.submarinecablemap.com/master/public/api/v2/cable/cable-geo.json)
+* [Submarine Cable Data](https://github.com/telegeography/www.submarinecablemap.com/tree/master/public/api/v2/cable)
 
-__Landing points:__
+__Landing Points:__
 
-[Landing Point GeoJSON](https://raw.githubusercontent.com/telegeography/www.submarinecablemap.com/master/public/api/v2/landing-point/landing-point-geo.json)
+* [Landing Point GeoJSON](https://raw.githubusercontent.com/telegeography/www.submarinecablemap.com/master/public/api/v2/landing-point/landing-point-geo.json)
+* [Landing Point Data](https://github.com/telegeography/www.submarinecablemap.com/tree/master/public/api/v2/landing-point)
 
 
 License
