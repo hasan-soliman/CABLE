@@ -1,1 +1,1 @@
-{"rfs":"2022","cables":[{"id":"h2-cable","name":"H2 Cable","cable_id":2050}],"landing_points":[{"id":"sydney-australia","landing_point_id":3030},{"id":"chung-hom-kok-hong-kong-china","landing_point_id":5856}]}
+{"rfs":"2022","cables":[{"id":"sxs","name":"SxS","cable_id":2027},{"id":"h2-cable","name":"H2 Cable","cable_id":2050}],"landing_points":[{"id":"los-angeles-ca-united-states","landing_point_id":3678},{"id":"piti-gu-united-states","landing_point_id":5973},{"id":"sydney-australia","landing_point_id":3030},{"id":"chung-hom-kok-hong-kong-china","landing_point_id":5856}]}

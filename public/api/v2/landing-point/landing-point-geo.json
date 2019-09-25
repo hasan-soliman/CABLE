@@ -771,8 +771,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -171.766678,
-          -13.833407
+          -171.766684,
+          -13.833675
         ]
       },
       "properties": {
@@ -786,8 +786,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -171.766684,
-          -13.833675
+          -171.766678,
+          -13.833407
         ]
       },
       "properties": {
@@ -839,21 +839,6 @@
         "slug": "arawa-papua-new-guinea",
         "name": "Arawa, Papua New Guinea",
         "id": 16737
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.513094,
-          18.770338
-        ]
-      },
-      "properties": {
-        "slug": "arcahaie-haiti",
-        "name": "Arcahaie, Haiti",
-        "id": 16979
       }
     },
     {
@@ -996,8 +981,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.306747,
-          -18.47337
+          -70.306711,
+          -18.47381
         ]
       },
       "properties": {
@@ -1011,8 +996,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.306711,
-          -18.47381
+          -70.306747,
+          -18.47337
         ]
       },
       "properties": {
@@ -1626,21 +1611,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.77978,
-          10.940434
-        ]
-      },
-      "properties": {
-        "slug": "barranquilla-colombia",
-        "name": "Barranquilla, Colombia",
-        "id": 4315
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.779755,
           10.940459
         ]
@@ -1911,8 +1881,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.010874,
-          10.435112
+          45.010898,
+          10.435136
         ]
       },
       "properties": {
@@ -1926,8 +1896,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.010898,
-          10.435136
+          45.010874,
+          10.435112
         ]
       },
       "properties": {
@@ -2129,21 +2099,6 @@
         "slug": "boat-harbour-tasmania-australia",
         "name": "Boat Harbour, Tasmania, Australia",
         "id": 7813
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.088939,
-          26.35051
-        ]
-      },
-      "properties": {
-        "slug": "boca-raton-fl-united-states",
-        "name": "Boca Raton, FL, United States",
-        "id": 3563
       }
     },
     {
@@ -2901,6 +2856,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.54096,
+          64.230374
+        ]
+      },
+      "properties": {
+        "slug": "cape-dorset-nu-canada",
+        "name": "Cape Dorset, NU, Canada",
+        "id": 15057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.421934,
           -33.919164
         ]
@@ -3171,21 +3141,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -61.650806,
-          10.686137
-        ]
-      },
-      "properties": {
-        "slug": "chaguaramas-trinidad-and-tobago",
-        "name": "Chaguaramas, Trinidad and Tobago",
-        "id": 8838
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.987017,
           1.389047
         ]
@@ -3366,8 +3321,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.954676,
-          34.976702
+          139.954652,
+          34.976653
         ]
       },
       "properties": {
@@ -3381,8 +3336,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.954652,
-          34.976653
+          139.954676,
+          34.976702
         ]
       },
       "properties": {
@@ -3471,8 +3426,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.203077,
-          22.222106
+          114.203028,
+          22.222045
         ]
       },
       "properties": {
@@ -3486,8 +3441,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.203028,
-          22.222045
+          114.203077,
+          22.222106
         ]
       },
       "properties": {
@@ -6471,21 +6426,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.049997,
-          12.616678
-        ]
-      },
-      "properties": {
-        "slug": "hudishibana-aruba",
-        "name": "Hudishibana, Aruba",
-        "id": 10790
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           73.540157,
           4.211946
         ]
@@ -6636,6 +6576,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -68.519724,
+          63.748612
+        ]
+      },
+      "properties": {
+        "slug": "iqaluit-nu-canada",
+        "name": "Iqaluit, NU, Canada",
+        "id": 10398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -70.142221,
           -20.216704
         ]
@@ -6651,8 +6606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.315393,
-          43.17118
+          141.315515,
+          43.171388
         ]
       },
       "properties": {
@@ -6666,8 +6621,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.315515,
-          43.171388
+          141.315393,
+          43.17118
         ]
       },
       "properties": {
@@ -6757,7 +6712,7 @@
         "type": "Point",
         "coordinates": [
           106.827836,
-          -6.171887
+          -6.171594
         ]
       },
       "properties": {
@@ -6772,7 +6727,7 @@
         "type": "Point",
         "coordinates": [
           106.827836,
-          -6.171594
+          -6.171887
         ]
       },
       "properties": {
@@ -7671,6 +7626,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -69.869199,
+          62.847416
+        ]
+      },
+      "properties": {
+        "slug": "kimmirut-nu-canada",
+        "name": "Kimmirut, NU, Canada",
+        "id": 15058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -162.304421,
           55.049129
         ]
@@ -7688,21 +7658,6 @@
         "coordinates": [
           -76.792157,
           17.992225
-        ]
-      },
-      "properties": {
-        "slug": "kingston-jamaica",
-        "name": "Kingston, Jamaica",
-        "id": 3272
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.792132,
-          17.992604
         ]
       },
       "properties": {
@@ -7851,8 +7806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -152.395148,
-          57.794342
+          -152.395282,
+          57.794135
         ]
       },
       "properties": {
@@ -7866,8 +7821,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -152.395282,
-          57.794135
+          -152.395148,
+          57.794342
         ]
       },
       "properties": {
@@ -8121,21 +8076,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.265549,
-          12.14434
-        ]
-      },
-      "properties": {
-        "slug": "kralendijk-bonaire-sint-eustatius-and-saba",
-        "name": "Kralendijk, Bonaire, Sint Eustatius and Saba",
-        "id": 17005
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           22.738045,
           59.00086
         ]
@@ -8256,8 +8196,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.46319,
-          -0.823452
+          103.466705,
+          -0.816543
         ]
       },
       "properties": {
@@ -8271,8 +8211,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.466705,
-          -0.816543
+          103.46319,
+          -0.823452
         ]
       },
       "properties": {
@@ -8346,8 +8286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.583322,
-          -10.183335
+          123.583395,
+          -10.183311
         ]
       },
       "properties": {
@@ -8361,8 +8301,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.583395,
-          -10.183311
+          123.583322,
+          -10.183335
         ]
       },
       "properties": {
@@ -9396,8 +9336,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.792795,
-          -0.938833
+          122.79277,
+          -0.938784
         ]
       },
       "properties": {
@@ -9411,8 +9351,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.79277,
-          -0.938784
+          122.792795,
+          -0.938833
         ]
       },
       "properties": {
@@ -9501,7 +9441,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.784751,
+          145.784922,
           -5.233679
         ]
       },
@@ -9516,7 +9456,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.784922,
+          145.784751,
           -5.233679
         ]
       },
@@ -9981,21 +9921,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -61.038148,
-          10.506572
-        ]
-      },
-      "properties": {
-        "slug": "manzanilla-trinidad-and-tobago",
-        "name": "Manzanilla, Trinidad and Tobago",
-        "id": 17006
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -104.308177,
           19.085816
         ]
@@ -10034,21 +9959,6 @@
         "slug": "maracaibo-venezuela",
         "name": "Maracaibo, Venezuela",
         "id": 4314
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.753544,
-          9.437554
-        ]
-      },
-      "properties": {
-        "slug": "maria-chiquita-panama",
-        "name": "Maria Chiquita, Panama",
-        "id": 5928
       }
     },
     {
@@ -10806,8 +10716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.672839,
-          -4.053016
+          39.67279,
+          -4.053211
         ]
       },
       "properties": {
@@ -10821,8 +10731,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.67279,
-          -4.053211
+          39.672839,
+          -4.053016
         ]
       },
       "properties": {
@@ -10874,21 +10784,6 @@
         "slug": "monte-carlo-monaco",
         "name": "Monte Carlo, Monaco",
         "id": 6028
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.92138,
-          18.469361
-        ]
-      },
-      "properties": {
-        "slug": "montego-bay-jamaica",
-        "name": "Montego Bay, Jamaica",
-        "id": 7687
       }
     },
     {
@@ -11032,7 +10927,7 @@
         "type": "Point",
         "coordinates": [
           31.757853,
-          -28.950636
+          -28.95044
         ]
       },
       "properties": {
@@ -11047,7 +10942,7 @@
         "type": "Point",
         "coordinates": [
           31.757853,
-          -28.95044
+          -28.950636
         ]
       },
       "properties": {
@@ -11294,21 +11189,6 @@
         "slug": "naoetsu-japan",
         "name": "Naoetsu, Japan",
         "id": 5529
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.795792,
-          26.139096
-        ]
-      },
-      "properties": {
-        "slug": "naples-fl-united-states",
-        "name": "Naples, FL, United States",
-        "id": 3708
       }
     },
     {
@@ -11811,21 +11691,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -175.204947,
-          -21.139336
-        ]
-      },
-      "properties": {
-        "slug": "nukualofa-tonga",
-        "name": "Nukualofa, Tonga",
-        "id": 17154
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -175.200032,
           -21.133281
         ]
@@ -11841,6 +11706,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -175.204947,
+          -21.139336
+        ]
+      },
+      "properties": {
+        "slug": "nukualofa-tonga",
+        "name": "Nukualofa, Tonga",
+        "id": 17154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -171.811505,
           -9.174595
         ]
@@ -11849,6 +11729,21 @@
         "slug": "nukunonu-tokelau",
         "name": "Nukunonu, Tokelau",
         "id": 17030
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.729986,
+          64.181253
+        ]
+      },
+      "properties": {
+        "slug": "nuuk-greenland",
+        "name": "Nuuk, Greenland",
+        "id": 8488
       }
     },
     {
@@ -11933,21 +11828,6 @@
         "coordinates": [
           -77.103192,
           18.39856
-        ]
-      },
-      "properties": {
-        "slug": "ocho-rios-jamaica",
-        "name": "Ocho Rios, Jamaica",
-        "id": 7688
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.103228,
-          18.398573
         ]
       },
       "properties": {
@@ -12419,21 +12299,6 @@
         "slug": "papenoo-french-polynesia",
         "name": "Papenoo, French Polynesia",
         "id": 8974
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -55.173844,
-          5.82403
-        ]
-      },
-      "properties": {
-        "slug": "paramaribo-suriname",
-        "name": "Paramaribo, Suriname",
-        "id": 4256
       }
     },
     {
@@ -13371,21 +13236,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.120235,
-          21.851073
-        ]
-      },
-      "properties": {
-        "slug": "providenciales-turks-and-caicos-islands",
-        "name": "Providenciales, Turks and Caicos Islands",
-        "id": 4258
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -148.338448,
           70.25564
         ]
@@ -13566,21 +13416,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.691183,
-          19.799365
-        ]
-      },
-      "properties": {
-        "slug": "puerto-plata-dominican-republic",
-        "name": "Puerto Plata, Dominican Republic",
-        "id": 5823
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -90.822216,
           13.93461
         ]
@@ -13716,8 +13551,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.204367,
-          11.708598
+          -70.204257,
+          11.708793
         ]
       },
       "properties": {
@@ -13731,8 +13566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.204257,
-          11.708793
+          -70.204367,
+          11.708598
         ]
       },
       "properties": {
@@ -14114,21 +13949,6 @@
         "slug": "rnne-denmark",
         "name": "Rønne, Denmark",
         "id": 17269
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -60.735341,
-          11.182451
-        ]
-      },
-      "properties": {
-        "slug": "rockly-bay-trinidad-and-tobago",
-        "name": "Rockly Bay, Trinidad and Tobago",
-        "id": 17007
       }
     },
     {
@@ -14678,21 +14498,6 @@
         "coordinates": [
           -66.106664,
           18.465833
-        ]
-      },
-      "properties": {
-        "slug": "san-juan-pr-united-states",
-        "name": "San Juan, PR, United States",
-        "id": 4262
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.106664,
-          18.466029
         ]
       },
       "properties": {
@@ -15591,8 +15396,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.853033,
-          1.293661
+          103.853106,
+          1.293881
         ]
       },
       "properties": {
@@ -15606,8 +15411,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.853106,
-          1.293881
+          103.853033,
+          1.293661
         ]
       },
       "properties": {
@@ -15831,21 +15636,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.561445,
-          0.73497
-        ]
-      },
-      "properties": {
-        "slug": "sofifi-indonesia",
-        "name": "Sofifi, Indonesia",
-        "id": 16622
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           127.56142,
           0.73497
         ]
@@ -15861,8 +15651,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.596956,
-          7.078571
+          127.561445,
+          0.73497
+        ]
+      },
+      "properties": {
+        "slug": "sofifi-indonesia",
+        "name": "Sofifi, Indonesia",
+        "id": 16622
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59698,
+          7.078449
         ]
       },
       "properties": {
@@ -15876,8 +15681,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.59698,
-          7.078449
+          100.596956,
+          7.078571
         ]
       },
       "properties": {
@@ -16537,7 +16342,7 @@
         "type": "Point",
         "coordinates": [
           174.767916,
-          -36.787839
+          -36.787961
         ]
       },
       "properties": {
@@ -16552,7 +16357,7 @@
         "type": "Point",
         "coordinates": [
           174.767916,
-          -36.787961
+          -36.787839
         ]
       },
       "properties": {
@@ -16687,7 +16492,7 @@
         "type": "Point",
         "coordinates": [
           107.120903,
-          -5.981457
+          -5.981262
         ]
       },
       "properties": {
@@ -16702,7 +16507,7 @@
         "type": "Point",
         "coordinates": [
           107.120903,
-          -5.981262
+          -5.981457
         ]
       },
       "properties": {
@@ -17181,8 +16986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.889565,
-          -4.550306
+          136.889614,
+          -4.550257
         ]
       },
       "properties": {
@@ -17196,8 +17001,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.889614,
-          -4.550257
+          136.889565,
+          -4.550306
         ]
       },
       "properties": {
@@ -17721,8 +17526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          132.752092,
-          -5.626575
+          132.752043,
+          -5.62655
         ]
       },
       "properties": {
@@ -17736,8 +17541,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          132.752043,
-          -5.62655
+          132.752092,
+          -5.626575
         ]
       },
       "properties": {
@@ -17879,21 +17684,6 @@
         "slug": "turku-finland",
         "name": "Turku, Finland",
         "id": 3126
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.415366,
-          19.380066
-        ]
-      },
-      "properties": {
-        "slug": "turtle-farm-cayman-islands",
-        "name": "Turtle Farm, Cayman Islands",
-        "id": 17195
       }
     },
     {
@@ -18127,7 +17917,7 @@
         "type": "Point",
         "coordinates": [
           -151.749531,
-          -16.506281
+          -16.50633
         ]
       },
       "properties": {
@@ -18142,7 +17932,7 @@
         "type": "Point",
         "coordinates": [
           -151.749531,
-          -16.50633
+          -16.506281
         ]
       },
       "properties": {
@@ -18516,8 +18306,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.253025,
-          -9.646153
+          120.252903,
+          -9.646104
         ]
       },
       "properties": {
@@ -18531,8 +18321,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.252903,
-          -9.646104
+          120.253025,
+          -9.646153
         ]
       },
       "properties": {
@@ -18764,21 +18554,6 @@
         "slug": "whittier-ak-united-states",
         "name": "Whittier, AK, United States",
         "id": 6255
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.89647,
-          12.095585
-        ]
-      },
-      "properties": {
-        "slug": "willemstad-netherlands-antilles",
-        "name": "Willemstad, Netherlands Antilles",
-        "id": 4275
       }
     },
     {
