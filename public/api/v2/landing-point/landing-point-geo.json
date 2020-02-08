@@ -2666,8 +2666,8 @@
         ]
       },
       "properties": {
-        "slug": "busan-korea-rep-",
-        "name": "Busan, Korea, Rep.",
+        "slug": "busan-south-korea",
+        "name": "Busan, South Korea",
         "id": 4183
       }
     },
@@ -2681,8 +2681,8 @@
         ]
       },
       "properties": {
-        "slug": "busan-korea-rep-",
-        "name": "Busan, Korea, Rep.",
+        "slug": "busan-south-korea",
+        "name": "Busan, South Korea",
         "id": 4183
       }
     },
@@ -3546,8 +3546,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.954676,
-          34.976702
+          139.954652,
+          34.976653
         ]
       },
       "properties": {
@@ -3561,8 +3561,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.954652,
-          34.976653
+          139.954676,
+          34.976702
         ]
       },
       "properties": {
@@ -3636,8 +3636,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.205665,
-          22.225036
+          114.203028,
+          22.222045
         ]
       },
       "properties": {
@@ -3651,8 +3651,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.203028,
-          22.222045
+          114.205665,
+          22.225036
         ]
       },
       "properties": {
@@ -5486,8 +5486,8 @@
         ]
       },
       "properties": {
-        "slug": "funningsfjordur-faeroe-islands",
-        "name": "Funningsfjordur, Faeroe Islands",
+        "slug": "funningsfjordur-faroe-islands",
+        "name": "Funningsfjordur, Faroe Islands",
         "id": 5725
       }
     },
@@ -5666,8 +5666,8 @@
         ]
       },
       "properties": {
-        "slug": "geoje-korea-rep-",
-        "name": "Geoje, Korea, Rep.",
+        "slug": "geoje-south-korea",
+        "name": "Geoje, South Korea",
         "id": 17590
       }
     },
@@ -6111,8 +6111,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          62.325026,
-          25.132297
+          62.324977,
+          25.132261
         ]
       },
       "properties": {
@@ -6126,8 +6126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          62.324977,
-          25.132261
+          62.325026,
+          25.132297
         ]
       },
       "properties": {
@@ -8666,8 +8666,8 @@
         ]
       },
       "properties": {
-        "slug": "kwajalein-republic-of-marshall-islands",
-        "name": "Kwajalein, Republic of Marshall Islands",
+        "slug": "kwajalein-marshall-islands",
+        "name": "Kwajalein, Marshall Islands",
         "id": 7879
       }
     },
@@ -9806,8 +9806,8 @@
         ]
       },
       "properties": {
-        "slug": "magachgil-yap-federated-states-of-micronesia",
-        "name": "Magachgil, Yap, Federated States of Micronesia",
+        "slug": "magachgil-yap-micronesia",
+        "name": "Magachgil, Yap, Micronesia",
         "id": 16966
       }
     },
@@ -9866,8 +9866,8 @@
         ]
       },
       "properties": {
-        "slug": "majuro-republic-of-marshall-islands",
-        "name": "Majuro, Republic of Marshall Islands",
+        "slug": "majuro-marshall-islands",
+        "name": "Majuro, Marshall Islands",
         "id": 9060
       }
     },
@@ -13046,8 +13046,8 @@
         ]
       },
       "properties": {
-        "slug": "pohnpei-federated-states-of-micronesia",
-        "name": "Pohnpei, Federated States of Micronesia",
+        "slug": "pohnpei-micronesia",
+        "name": "Pohnpei, Micronesia",
         "id": 9062
       }
     },
@@ -15866,8 +15866,8 @@
         ]
       },
       "properties": {
-        "slug": "shindu-ri-korea-rep-",
-        "name": "Shindu-Ri, Korea, Rep.",
+        "slug": "shindu-ri-south-korea",
+        "name": "Shindu-Ri, South Korea",
         "id": 5977
       }
     },
@@ -17681,8 +17681,8 @@
         ]
       },
       "properties": {
-        "slug": "tjornuvik-faeroe-islands",
-        "name": "Tjornuvik, Faeroe Islands",
+        "slug": "tjornuvik-faroe-islands",
+        "name": "Tjornuvik, Faroe Islands",
         "id": 5724
       }
     },
@@ -17876,8 +17876,8 @@
         ]
       },
       "properties": {
-        "slug": "torshavn-faeroe-islands",
-        "name": "Torshavn, Faeroe Islands",
+        "slug": "torshavn-faroe-islands",
+        "name": "Torshavn, Faroe Islands",
         "id": 8681
       }
     },
@@ -19121,8 +19121,8 @@
         ]
       },
       "properties": {
-        "slug": "weno-chuuk-federated-states-of-micronesia",
-        "name": "Weno, Chuuk, Federated States of Micronesia",
+        "slug": "weno-chuuk-micronesia",
+        "name": "Weno, Chuuk, Micronesia",
         "id": 16967
       }
     },
