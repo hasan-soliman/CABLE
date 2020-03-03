@@ -261,21 +261,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -165.773056,
-          54.135555
-        ]
-      },
-      "properties": {
-        "slug": "akutan-ak-united-states",
-        "name": "Akutan, AK, United States",
-        "id": 17106
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           21.741659,
           32.881732
         ]
@@ -816,7 +801,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -171.766678,
+          -171.766679,
           -13.833407
         ]
       },
@@ -831,7 +816,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -171.766679,
+          -171.766678,
           -13.833407
         ]
       },
@@ -1026,8 +1011,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.306711,
-          -18.47381
+          -70.306747,
+          -18.47337
         ]
       },
       "properties": {
@@ -1041,8 +1026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.306747,
-          -18.47337
+          -70.306711,
+          -18.47381
         ]
       },
       "properties": {
@@ -2121,8 +2106,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.329189,
-          55.75168
+          8.32897,
+          55.751533
         ]
       },
       "properties": {
@@ -2136,8 +2121,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.32897,
-          55.751533
+          8.329189,
+          55.75168
         ]
       },
       "properties": {
@@ -2661,8 +2646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          128.99931,
-          35.170147
+          128.999481,
+          35.170281
         ]
       },
       "properties": {
@@ -2676,8 +2661,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          128.999481,
-          35.170281
+          128.99931,
+          35.170147
         ]
       },
       "properties": {
@@ -2796,7 +2781,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.631929,
+          124.631905,
           8.454229
         ]
       },
@@ -2811,7 +2796,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.631905,
+          124.631929,
           8.454229
         ]
       },
@@ -2933,6 +2918,21 @@
         "coordinates": [
           -86.767555,
           21.095727
+        ]
+      },
+      "properties": {
+        "slug": "cancn-mexico",
+        "name": "Cancún, Mexico",
+        "id": 3842
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.767567,
+          21.095666
         ]
       },
       "properties": {
@@ -3157,6 +3157,21 @@
         "type": "Point",
         "coordinates": [
           -75.505683,
+          10.387016
+        ]
+      },
+      "properties": {
+        "slug": "cartagena-colombia",
+        "name": "Cartagena, Colombia",
+        "id": 5693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.505683,
           10.386699
         ]
       },
@@ -3352,7 +3367,7 @@
         "type": "Point",
         "coordinates": [
           103.987017,
-          1.389047
+          1.389438
         ]
       },
       "properties": {
@@ -3367,7 +3382,7 @@
         "type": "Point",
         "coordinates": [
           103.987017,
-          1.389438
+          1.389047
         ]
       },
       "properties": {
@@ -3464,51 +3479,6 @@
         "slug": "chichiriviche-venezuela",
         "name": "Chichiriviche, Venezuela",
         "id": 7863
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -158.408809,
-          56.294441
-        ]
-      },
-      "properties": {
-        "slug": "chignik-bay-ak-united-states",
-        "name": "Chignik Bay, AK, United States",
-        "id": 17371
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -158.50723,
-          56.32126
-        ]
-      },
-      "properties": {
-        "slug": "chignik-lagoon-ak-united-states",
-        "name": "Chignik Lagoon, AK, United States",
-        "id": 17372
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -158.77209,
-          56.25489
-        ]
-      },
-      "properties": {
-        "slug": "chignik-lake-ak-united-states",
-        "name": "Chignik Lake, AK, United States",
-        "id": 17373
       }
     },
     {
@@ -3779,21 +3749,6 @@
         "slug": "coilleag-united-kingdom",
         "name": "Coilleag, United Kingdom",
         "id": 15873
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -162.70403,
-          55.204048
-        ]
-      },
-      "properties": {
-        "slug": "cold-bay-ak-united-states",
-        "name": "Cold Bay, AK, United States",
-        "id": 17368
       }
     },
     {
@@ -4641,21 +4596,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.447639,
-          1.665609
-        ]
-      },
-      "properties": {
-        "slug": "dumai-indonesia",
-        "name": "Dumai, Indonesia",
-        "id": 7311
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           101.447565,
           1.665316
         ]
@@ -4672,6 +4612,21 @@
         "type": "Point",
         "coordinates": [
           101.447565,
+          1.665609
+        ]
+      },
+      "properties": {
+        "slug": "dumai-indonesia",
+        "name": "Dumai, Indonesia",
+        "id": 7311
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.447639,
           1.665609
         ]
       },
@@ -5076,23 +5031,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -163.415,
-          54.850838
-        ]
-      },
-      "properties": {
-        "slug": "false-pass-ak-united-states",
-        "name": "False Pass, AK, United States",
-        "id": 17105
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.662156,
-          22.249206
+          120.662107,
+          22.249254
         ]
       },
       "properties": {
@@ -5106,8 +5046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.662107,
-          22.249254
+          120.662156,
+          22.249206
         ]
       },
       "properties": {
@@ -5331,8 +5271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.88153,
-          17.712477
+          -64.881518,
+          17.712428
         ]
       },
       "properties": {
@@ -5346,8 +5286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.881518,
-          17.712428
+          -64.88153,
+          17.712477
         ]
       },
       "properties": {
@@ -5646,8 +5586,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.15491,
-          6.804108
+          -58.154836,
+          6.804499
         ]
       },
       "properties": {
@@ -5661,8 +5601,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.154836,
-          6.804499
+          -58.15491,
+          6.804108
         ]
       },
       "properties": {
@@ -6036,21 +5976,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.850562,
-          17.897914
-        ]
-      },
-      "properties": {
-        "slug": "gustavia-saint-barthlemy",
-        "name": "Gustavia, Saint Barthélemy",
-        "id": 15452
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -62.85055,
           17.897914
         ]
@@ -6066,8 +5991,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          62.324977,
-          25.132261
+          -62.850562,
+          17.897914
+        ]
+      },
+      "properties": {
+        "slug": "gustavia-saint-barthlemy",
+        "name": "Gustavia, Saint Barthélemy",
+        "id": 15452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.325026,
+          25.132297
         ]
       },
       "properties": {
@@ -6081,8 +6021,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          62.325026,
-          25.132297
+          62.324977,
+          25.132261
         ]
       },
       "properties": {
@@ -6891,8 +6831,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.315393,
-          43.17118
+          141.315515,
+          43.171388
         ]
       },
       "properties": {
@@ -6906,8 +6846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.315515,
-          43.171388
+          141.315393,
+          43.17118
         ]
       },
       "properties": {
@@ -7011,38 +6951,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.827861,
-          -6.171594
-        ]
-      },
-      "properties": {
-        "slug": "jakarta-indonesia",
-        "name": "Jakarta, Indonesia",
-        "id": 3012
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.827836,
-          -6.171594
-        ]
-      },
-      "properties": {
-        "slug": "jakarta-indonesia",
-        "name": "Jakarta, Indonesia",
-        "id": 3012
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           106.827836,
           -6.171887
+        ]
+      },
+      "properties": {
+        "slug": "jakarta-indonesia",
+        "name": "Jakarta, Indonesia",
+        "id": 3012
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.827836,
+          -6.171594
+        ]
+      },
+      "properties": {
+        "slug": "jakarta-indonesia",
+        "name": "Jakarta, Indonesia",
+        "id": 3012
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.827861,
+          -6.171594
         ]
       },
       "properties": {
@@ -7896,21 +7836,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -162.304421,
-          55.049129
-        ]
-      },
-      "properties": {
-        "slug": "king-cove-ak-united-states",
-        "name": "King Cove, AK, United States",
-        "id": 17367
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -76.792157,
           17.992225
         ]
@@ -8054,21 +7979,6 @@
         "slug": "ko-olina-hi-united-states",
         "name": "Ko Olina, HI, United States",
         "id": 16118
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.395148,
-          57.794342
-        ]
-      },
-      "properties": {
-        "slug": "kodiak-ak-united-states",
-        "name": "Kodiak, AK, United States",
-        "id": 8394
       }
     },
     {
@@ -8961,21 +8871,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -153.985971,
-          57.537238
-        ]
-      },
-      "properties": {
-        "slug": "larsen-bay-ak-united-states",
-        "name": "Larsen Bay, AK, United States",
-        "id": 17374
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.016383,
           59.081109
         ]
@@ -9441,8 +9336,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.245335,
-          34.053485
+          -118.245347,
+          34.053399
         ]
       },
       "properties": {
@@ -9456,8 +9351,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.245347,
-          34.053399
+          -118.245335,
+          34.053485
         ]
       },
       "properties": {
@@ -9591,8 +9486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.792795,
-          -0.938833
+          122.79277,
+          -0.938784
         ]
       },
       "properties": {
@@ -9606,8 +9501,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.79277,
-          -0.938784
+          122.792795,
+          -0.938833
         ]
       },
       "properties": {
@@ -9711,7 +9606,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.784922,
+          145.784751,
           -5.233679
         ]
       },
@@ -9726,7 +9621,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.784751,
+          145.784922,
           -5.233679
         ]
       },
@@ -9966,8 +9861,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.83962,
-          1.490829
+          124.839547,
+          1.490878
         ]
       },
       "properties": {
@@ -9981,8 +9876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.839547,
-          1.490878
+          124.83962,
+          1.490829
         ]
       },
       "properties": {
@@ -10131,7 +10026,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          134.062003,
+          134.062052,
           -0.861465
         ]
       },
@@ -10146,7 +10041,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          134.062052,
+          134.062003,
           -0.861465
         ]
       },
@@ -10223,6 +10118,21 @@
         "coordinates": [
           -79.753544,
           9.437334
+        ]
+      },
+      "properties": {
+        "slug": "maria-chiquita-panama",
+        "name": "Maria Chiquita, Panama",
+        "id": 5928
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.753544,
+          9.437554
         ]
       },
       "properties": {
@@ -10371,8 +10281,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.616696,
-          12.366727
+          123.616671,
+          12.366679
         ]
       },
       "properties": {
@@ -10386,8 +10296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.616671,
-          12.366679
+          123.616696,
+          12.366727
         ]
       },
       "properties": {
@@ -10956,8 +10866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.34415,
-          2.041171
+          45.344174,
+          2.041195
         ]
       },
       "properties": {
@@ -10971,8 +10881,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.344174,
-          2.041195
+          45.34415,
+          2.041171
         ]
       },
       "properties": {
@@ -11211,8 +11121,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.86679,
-          6.833209
+          79.866716,
+          6.832697
         ]
       },
       "properties": {
@@ -11226,8 +11136,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.866716,
-          6.832697
+          79.86679,
+          6.833209
         ]
       },
       "properties": {
@@ -12186,8 +12096,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.680561,
-          26.212412
+          127.680805,
+          26.212375
         ]
       },
       "properties": {
@@ -12201,8 +12111,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.680805,
-          26.212375
+          127.680561,
+          26.212412
         ]
       },
       "properties": {
@@ -12801,21 +12711,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -159.144791,
-          55.917415
-        ]
-      },
-      "properties": {
-        "slug": "perryville-ak-united-states",
-        "name": "Perryville, AK, United States",
-        "id": 17370
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           115.857227,
           -31.953442
         ]
@@ -12951,8 +12846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.694737,
-          13.464664
+          144.694688,
+          13.464688
         ]
       },
       "properties": {
@@ -12966,8 +12861,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.694688,
-          13.464688
+          144.694737,
+          13.464664
         ]
       },
       "properties": {
@@ -13626,6 +13521,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.597162,
+          15.727175
+        ]
+      },
+      "properties": {
+        "slug": "puerto-barrios-guatemala",
+        "name": "Puerto Barrios, Guatemala",
+        "id": 5848
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -88.597241,
           15.727138
         ]
@@ -13926,8 +13836,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.204367,
-          11.708598
+          -70.204257,
+          11.708793
         ]
       },
       "properties": {
@@ -13941,8 +13851,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.204257,
-          11.708793
+          -70.204367,
+          11.708598
         ]
       },
       "properties": {
@@ -14249,21 +14159,6 @@
         "slug": "rengit-malaysia",
         "name": "Rengit, Malaysia",
         "id": 8970
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.431507,
-          54.243343
-        ]
-      },
-      "properties": {
-        "slug": "ribnitz-germany",
-        "name": "Ribnitz, Germany",
-        "id": 5842
       }
     },
     {
@@ -14811,7 +14706,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.504541,
+          -38.504638,
           -12.969979
         ]
       },
@@ -14826,7 +14721,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.504638,
+          -38.504541,
           -12.969979
         ]
       },
@@ -15037,21 +14932,6 @@
         "type": "Point",
         "coordinates": [
           125.937007,
-          -2.201454
-        ]
-      },
-      "properties": {
-        "slug": "sanana-indonesia",
-        "name": "Sanana, Indonesia",
-        "id": 16623
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          125.937007,
           -2.201479
         ]
       },
@@ -15066,14 +14946,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -160.496301,
-          55.341451
+          125.937007,
+          -2.201454
         ]
       },
       "properties": {
-        "slug": "sand-point-ak-united-states",
-        "name": "Sand Point, AK, United States",
-        "id": 17369
+        "slug": "sanana-indonesia",
+        "name": "Sanana, Indonesia",
+        "id": 16623
       }
     },
     {
@@ -15389,6 +15269,21 @@
         "slug": "saraemee-indonesia",
         "name": "Saraemee, Indonesia",
         "id": 14651
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.539627,
+          27.338876
+        ]
+      },
+      "properties": {
+        "slug": "sarasota-fl-united-states",
+        "name": "Sarasota, FL, United States",
+        "id": 3779
       }
     },
     {
@@ -15756,8 +15651,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.87438,
-          34.336834
+          136.874282,
+          34.336895
         ]
       },
       "properties": {
@@ -15771,8 +15666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.874282,
-          34.336895
+          136.87438,
+          34.336834
         ]
       },
       "properties": {
@@ -16131,21 +16026,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.56142,
-          0.73497
-        ]
-      },
-      "properties": {
-        "slug": "sofifi-indonesia",
-        "name": "Sofifi, Indonesia",
-        "id": 16622
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           127.561445,
           0.73497
         ]
@@ -16161,8 +16041,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.59698,
-          7.078449
+          127.56142,
+          0.73497
+        ]
+      },
+      "properties": {
+        "slug": "sofifi-indonesia",
+        "name": "Sofifi, Indonesia",
+        "id": 16622
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.596956,
+          7.078571
         ]
       },
       "properties": {
@@ -16176,8 +16071,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.596956,
-          7.078571
+          100.59698,
+          7.078449
         ]
       },
       "properties": {
@@ -16852,7 +16747,7 @@
         "type": "Point",
         "coordinates": [
           174.767916,
-          -36.787961
+          -36.787839
         ]
       },
       "properties": {
@@ -16867,7 +16762,7 @@
         "type": "Point",
         "coordinates": [
           174.767916,
-          -36.787839
+          -36.787961
         ]
       },
       "properties": {
@@ -18096,8 +17991,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          132.752043,
-          -5.62655
+          132.752092,
+          -5.626575
         ]
       },
       "properties": {
@@ -18111,8 +18006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          132.752092,
-          -5.626575
+          132.752043,
+          -5.62655
         ]
       },
       "properties": {
@@ -18381,21 +18276,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -166.533242,
-          53.884432
-        ]
-      },
-      "properties": {
-        "slug": "unalaska-ak-united-states",
-        "name": "Unalaska, AK, United States",
-        "id": 17107
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -61.443177,
           12.611405
         ]
@@ -18502,7 +18382,7 @@
         "type": "Point",
         "coordinates": [
           -151.749531,
-          -16.50633
+          -16.506281
         ]
       },
       "properties": {
@@ -18517,7 +18397,7 @@
         "type": "Point",
         "coordinates": [
           -151.749531,
-          -16.506281
+          -16.50633
         ]
       },
       "properties": {
@@ -18576,8 +18456,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.620309,
-          -33.045531
+          -71.620479,
+          -33.045775
         ]
       },
       "properties": {
@@ -18591,8 +18471,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.620479,
-          -33.045775
+          -71.620309,
+          -33.045531
         ]
       },
       "properties": {
@@ -18966,8 +18846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.062861,
-          40.152908
+          -74.062873,
+          40.152871
         ]
       },
       "properties": {
@@ -18981,8 +18861,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.062873,
-          40.152871
+          -74.062861,
+          40.152908
         ]
       },
       "properties": {
