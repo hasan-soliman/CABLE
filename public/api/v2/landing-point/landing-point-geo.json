@@ -36,8 +36,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.026237,
-          5.323518
+          -4.026249,
+          5.323493
         ]
       },
       "properties": {
@@ -51,8 +51,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.026249,
-          5.323493
+          -4.026237,
+          5.323518
         ]
       },
       "properties": {
@@ -96,8 +96,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.200909,
-          5.558503
+          -0.201092,
+          5.558283
         ]
       },
       "properties": {
@@ -111,8 +111,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.201092,
-          5.558283
+          -0.200909,
+          5.558503
         ]
       },
       "properties": {
@@ -314,6 +314,21 @@
         "slug": "aktau-kazakhstan",
         "name": "Aktau, Kazakhstan",
         "id": 5701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.773056,
+          54.135641
+        ]
+      },
+      "properties": {
+        "slug": "akutan-ak-united-states",
+        "name": "Akutan, AK, United States",
+        "id": 17106
       }
     },
     {
@@ -846,8 +861,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -171.766684,
-          -13.833675
+          -171.766678,
+          -13.833407
         ]
       },
       "properties": {
@@ -861,8 +876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -171.766678,
-          -13.833407
+          -171.766684,
+          -13.833675
         ]
       },
       "properties": {
@@ -1056,8 +1071,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.306711,
-          -18.47381
+          -70.306747,
+          -18.47337
         ]
       },
       "properties": {
@@ -1071,8 +1086,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.306747,
-          -18.47337
+          -70.306711,
+          -18.47381
         ]
       },
       "properties": {
@@ -1791,8 +1806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.731214,
-          17.298634
+          -62.731226,
+          17.298451
         ]
       },
       "properties": {
@@ -1806,8 +1821,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.731226,
-          17.298451
+          -62.731214,
+          17.298634
         ]
       },
       "properties": {
@@ -2076,7 +2091,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.332743,
+          5.332755,
           60.390703
         ]
       },
@@ -2091,7 +2106,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.332755,
+          5.332743,
           60.390703
         ]
       },
@@ -2901,7 +2916,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.631905,
+          124.631929,
           8.454229
         ]
       },
@@ -2916,7 +2931,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.631929,
+          124.631905,
           8.454229
         ]
       },
@@ -3036,8 +3051,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.767567,
-          21.095666
+          -86.767555,
+          21.095727
         ]
       },
       "properties": {
@@ -3051,8 +3066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.767555,
-          21.095727
+          -86.767567,
+          21.095666
         ]
       },
       "properties": {
@@ -3231,8 +3246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.331557,
-          38.690165
+          -9.337916,
+          38.688834
         ]
       },
       "properties": {
@@ -3246,8 +3261,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.337916,
-          38.688834
+          -9.331557,
+          38.690165
         ]
       },
       "properties": {
@@ -3307,7 +3322,7 @@
         "type": "Point",
         "coordinates": [
           -75.505683,
-          10.387016
+          10.386699
         ]
       },
       "properties": {
@@ -3322,7 +3337,7 @@
         "type": "Point",
         "coordinates": [
           -75.505683,
-          10.386699
+          10.387016
         ]
       },
       "properties": {
@@ -3517,7 +3532,7 @@
         "type": "Point",
         "coordinates": [
           103.987017,
-          1.389438
+          1.389047
         ]
       },
       "properties": {
@@ -3532,7 +3547,7 @@
         "type": "Point",
         "coordinates": [
           103.987017,
-          1.389047
+          1.389438
         ]
       },
       "properties": {
@@ -3636,8 +3651,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.954652,
-          34.976653
+          -158.408809,
+          56.294526
+        ]
+      },
+      "properties": {
+        "slug": "chignik-bay-ak-united-states",
+        "name": "Chignik Bay, AK, United States",
+        "id": 17371
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.50723,
+          56.321345
+        ]
+      },
+      "properties": {
+        "slug": "chignik-lagoon-ak-united-states",
+        "name": "Chignik Lagoon, AK, United States",
+        "id": 17372
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.77209,
+          56.254975
+        ]
+      },
+      "properties": {
+        "slug": "chignik-lake-ak-united-states",
+        "name": "Chignik Lake, AK, United States",
+        "id": 17373
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.954676,
+          34.976702
         ]
       },
       "properties": {
@@ -3651,8 +3711,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.954676,
-          34.976702
+          139.954652,
+          34.976653
         ]
       },
       "properties": {
@@ -3906,6 +3966,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -132.829514,
+          56.015205
+        ]
+      },
+      "properties": {
+        "slug": "coffman-cove-ak-united-states",
+        "name": "Coffman Cove, AK, United States",
+        "id": 18148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.302212,
           57.073615
         ]
@@ -3914,6 +3989,21 @@
         "slug": "coilleag-united-kingdom",
         "name": "Coilleag, United Kingdom",
         "id": 15873
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.70403,
+          55.204146
+        ]
+      },
+      "properties": {
+        "slug": "cold-bay-ak-united-states",
+        "name": "Cold Bay, AK, United States",
+        "id": 17368
       }
     },
     {
@@ -4101,8 +4191,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.200682,
-          12.00496
+          120.200706,
+          12.005058
         ]
       },
       "properties": {
@@ -4116,8 +4206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.200706,
-          12.005058
+          120.200682,
+          12.00496
         ]
       },
       "properties": {
@@ -4341,8 +4431,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -17.451914,
-          14.686599
+          -17.451926,
+          14.686673
         ]
       },
       "properties": {
@@ -4356,8 +4446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -17.451926,
-          14.686673
+          -17.451914,
+          14.686599
         ]
       },
       "properties": {
@@ -4596,8 +4686,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.147984,
-          11.594682
+          43.145835,
+          11.598735
         ]
       },
       "properties": {
@@ -4611,8 +4701,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.145835,
-          11.598735
+          43.147984,
+          11.594682
         ]
       },
       "properties": {
@@ -4821,21 +4911,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.447565,
-          1.665609
-        ]
-      },
-      "properties": {
-        "slug": "dumai-indonesia",
-        "name": "Dumai, Indonesia",
-        "id": 7311
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           101.447639,
           1.665609
         ]
@@ -4853,6 +4928,21 @@
         "coordinates": [
           101.447565,
           1.665316
+        ]
+      },
+      "properties": {
+        "slug": "dumai-indonesia",
+        "name": "Dumai, Indonesia",
+        "id": 7311
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.447565,
+          1.665609
         ]
       },
       "properties": {
@@ -5271,8 +5361,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.662156,
-          22.249206
+          -163.415,
+          54.850923
+        ]
+      },
+      "properties": {
+        "slug": "false-pass-ak-united-states",
+        "name": "False Pass, AK, United States",
+        "id": 17105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.662107,
+          22.249254
         ]
       },
       "properties": {
@@ -5286,8 +5391,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.662107,
-          22.249254
+          120.662156,
+          22.249206
         ]
       },
       "properties": {
@@ -6276,7 +6381,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.850562,
+          -62.85055,
           17.897914
         ]
       },
@@ -6291,7 +6396,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.85055,
+          -62.850562,
           17.897914
         ]
       },
@@ -6951,8 +7056,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.540157,
-          4.211946
+          73.540279,
+          4.211922
         ]
       },
       "properties": {
@@ -6966,8 +7071,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.540279,
-          4.211922
+          73.540157,
+          4.211946
         ]
       },
       "properties": {
@@ -7176,8 +7281,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.315515,
-          43.171388
+          141.315393,
+          43.17118
         ]
       },
       "properties": {
@@ -7191,8 +7296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.315393,
-          43.17118
+          141.315515,
+          43.171388
         ]
       },
       "properties": {
@@ -7341,7 +7446,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.827836,
+          106.827861,
           -6.171594
         ]
       },
@@ -7356,7 +7461,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.827861,
+          106.827836,
           -6.171594
         ]
       },
@@ -7416,8 +7521,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          140.669007,
-          -2.591615
+          140.669104,
+          -2.591566
         ]
       },
       "properties": {
@@ -7431,8 +7536,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          140.669104,
-          -2.591566
+          140.669007,
+          -2.591615
         ]
       },
       "properties": {
@@ -7627,7 +7732,7 @@
         "type": "Point",
         "coordinates": [
           67.028539,
-          24.889378
+          24.889683
         ]
       },
       "properties": {
@@ -7642,7 +7747,7 @@
         "type": "Point",
         "coordinates": [
           67.028539,
-          24.889683
+          24.889378
         ]
       },
       "properties": {
@@ -7731,8 +7836,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.023893,
-          21.093359
+          -157.023889,
+          21.093335
         ]
       },
       "properties": {
@@ -7746,8 +7851,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.023889,
-          21.093335
+          -157.023893,
+          21.093359
         ]
       },
       "properties": {
@@ -8196,6 +8301,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -162.304421,
+          55.049227
+        ]
+      },
+      "properties": {
+        "slug": "king-cove-ak-united-states",
+        "name": "King Cove, AK, United States",
+        "id": 17367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.792157,
           17.992225
         ]
@@ -8348,6 +8468,21 @@
         "coordinates": [
           -152.395282,
           57.794135
+        ]
+      },
+      "properties": {
+        "slug": "kodiak-ak-united-states",
+        "name": "Kodiak, AK, United States",
+        "id": 8394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.395148,
+          57.794428
         ]
       },
       "properties": {
@@ -8721,8 +8856,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.466705,
-          -0.816543
+          103.46319,
+          -0.823452
         ]
       },
       "properties": {
@@ -8736,8 +8871,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.46319,
-          -0.823452
+          103.466705,
+          -0.816543
         ]
       },
       "properties": {
@@ -9066,8 +9201,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.423503,
-          6.439093
+          3.42321,
+          6.438874
         ]
       },
       "properties": {
@@ -9081,8 +9216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.42321,
-          6.438874
+          3.423503,
+          6.439093
         ]
       },
       "properties": {
@@ -9269,6 +9404,21 @@
         "slug": "larne-united-kingdom",
         "name": "Larne, United Kingdom",
         "id": 11390
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.985971,
+          57.537323
+        ]
+      },
+      "properties": {
+        "slug": "larsen-bay-ak-united-states",
+        "name": "Larsen Bay, AK, United States",
+        "id": 17374
       }
     },
     {
@@ -9801,8 +9951,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.245347,
-          34.053399
+          -118.245335,
+          34.053485
         ]
       },
       "properties": {
@@ -9816,8 +9966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.245335,
-          34.053485
+          -118.245347,
+          34.053399
         ]
       },
       "properties": {
@@ -9951,8 +10101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.79277,
-          -0.938784
+          122.792795,
+          -0.938833
         ]
       },
       "properties": {
@@ -9966,8 +10116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.792795,
-          -0.938833
+          122.79277,
+          -0.938784
         ]
       },
       "properties": {
@@ -10071,7 +10221,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.784751,
+          145.784922,
           -5.233679
         ]
       },
@@ -10086,7 +10236,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.784922,
+          145.784751,
           -5.233679
         ]
       },
@@ -10341,8 +10491,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.839547,
-          1.490878
+          124.83962,
+          1.490829
         ]
       },
       "properties": {
@@ -10356,8 +10506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.83962,
-          1.490829
+          124.839547,
+          1.490878
         ]
       },
       "properties": {
@@ -10566,8 +10716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.580606,
-          -25.968533
+          32.580631,
+          -25.968166
         ]
       },
       "properties": {
@@ -10581,8 +10731,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.580631,
-          -25.968166
+          32.580606,
+          -25.968533
         ]
       },
       "properties": {
@@ -10612,7 +10762,7 @@
         "type": "Point",
         "coordinates": [
           -79.753544,
-          9.437334
+          9.437554
         ]
       },
       "properties": {
@@ -10627,7 +10777,7 @@
         "type": "Point",
         "coordinates": [
           -79.753544,
-          9.437554
+          9.437334
         ]
       },
       "properties": {
@@ -10731,6 +10881,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.372489,
+          43.29358
+        ]
+      },
+      "properties": {
+        "slug": "marseille-france",
+        "name": "Marseille, France",
+        "id": 3210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.372623,
           43.293165
         ]
@@ -10761,23 +10926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.372489,
-          43.29358
-        ]
-      },
-      "properties": {
-        "slug": "marseille-france",
-        "name": "Marseille, France",
-        "id": 3210
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.816956,
-          35.037517
+          139.816932,
+          35.037627
         ]
       },
       "properties": {
@@ -10791,8 +10941,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.816932,
-          35.037627
+          139.816956,
+          35.037517
         ]
       },
       "properties": {
@@ -11001,7 +11151,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.676058,
+          98.676082,
           3.752132
         ]
       },
@@ -11031,7 +11181,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.676082,
+          98.676058,
           3.752132
         ]
       },
@@ -11376,8 +11526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.344174,
-          2.041195
+          45.34415,
+          2.041171
         ]
       },
       "properties": {
@@ -11391,8 +11541,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.34415,
-          2.041171
+          45.344174,
+          2.041195
         ]
       },
       "properties": {
@@ -11436,8 +11586,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.67279,
-          -4.053211
+          39.672839,
+          -4.053016
         ]
       },
       "properties": {
@@ -11451,8 +11601,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.672839,
-          -4.053016
+          39.67279,
+          -4.053211
         ]
       },
       "properties": {
@@ -11692,7 +11842,7 @@
         "type": "Point",
         "coordinates": [
           31.757853,
-          -28.95044
+          -28.950636
         ]
       },
       "properties": {
@@ -11707,7 +11857,7 @@
         "type": "Point",
         "coordinates": [
           31.757853,
-          -28.950636
+          -28.95044
         ]
       },
       "properties": {
@@ -12456,8 +12606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          166.439209,
-          -22.303324
+          166.439112,
+          -22.303032
         ]
       },
       "properties": {
@@ -12471,8 +12621,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          166.439112,
-          -22.303032
+          166.439209,
+          -22.303324
         ]
       },
       "properties": {
@@ -12546,21 +12696,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -171.811505,
-          -9.174595
-        ]
-      },
-      "properties": {
-        "slug": "nukunonu-tokelau",
-        "name": "Nukunonu, Tokelau",
-        "id": 17030
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -171.811506,
           -9.174595
         ]
@@ -12576,8 +12711,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.729962,
-          64.181131
+          -171.811505,
+          -9.174595
+        ]
+      },
+      "properties": {
+        "slug": "nukunonu-tokelau",
+        "name": "Nukunonu, Tokelau",
+        "id": 17030
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.729986,
+          64.181253
         ]
       },
       "properties": {
@@ -12591,8 +12741,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.729986,
-          64.181253
+          -51.729962,
+          64.181131
         ]
       },
       "properties": {
@@ -13356,6 +13506,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -159.144791,
+          55.9175
+        ]
+      },
+      "properties": {
+        "slug": "perryville-ak-united-states",
+        "name": "Perryville, AK, United States",
+        "id": 17370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           115.857227,
           -31.953442
         ]
@@ -13491,8 +13656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.694737,
-          13.464664
+          144.694688,
+          13.464688
         ]
       },
       "properties": {
@@ -13506,8 +13671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.694688,
-          13.464688
+          144.694737,
+          13.464664
         ]
       },
       "properties": {
@@ -13971,8 +14136,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.219691,
-          19.615552
+          37.219666,
+          19.615564
         ]
       },
       "properties": {
@@ -13986,8 +14151,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.219666,
-          19.615564
+          37.219691,
+          19.615552
         ]
       },
       "properties": {
@@ -14271,8 +14436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.597162,
-          15.727175
+          -88.597241,
+          15.727138
         ]
       },
       "properties": {
@@ -14286,8 +14451,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.597241,
-          15.727138
+          -88.597162,
+          15.727175
         ]
       },
       "properties": {
@@ -14601,8 +14766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.204367,
-          11.708598
+          -70.204257,
+          11.708793
         ]
       },
       "properties": {
@@ -14616,8 +14781,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.204257,
-          11.708793
+          -70.204367,
+          11.708598
         ]
       },
       "properties": {
@@ -15142,7 +15307,7 @@
         "type": "Point",
         "coordinates": [
           122.749997,
-          11.583329
+          11.583305
         ]
       },
       "properties": {
@@ -15157,7 +15322,7 @@
         "type": "Point",
         "coordinates": [
           122.749997,
-          11.583305
+          11.583329
         ]
       },
       "properties": {
@@ -15486,8 +15651,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          54.148076,
-          17.095827
+          54.148027,
+          17.095863
         ]
       },
       "properties": {
@@ -15501,8 +15666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          54.148027,
-          17.095863
+          54.148076,
+          17.095827
         ]
       },
       "properties": {
@@ -15546,7 +15711,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.504638,
+          -38.504541,
           -12.969979
         ]
       },
@@ -15561,7 +15726,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.504541,
+          -38.504638,
           -12.969979
         ]
       },
@@ -15636,8 +15801,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.050095,
-          12.362626
+          121.05012,
+          12.362577
         ]
       },
       "properties": {
@@ -15651,8 +15816,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.05012,
-          12.362577
+          121.050095,
+          12.362626
         ]
       },
       "properties": {
@@ -15757,7 +15922,7 @@
         "type": "Point",
         "coordinates": [
           125.937007,
-          -2.201479
+          -2.201454
         ]
       },
       "properties": {
@@ -15772,13 +15937,28 @@
         "type": "Point",
         "coordinates": [
           125.937007,
-          -2.201454
+          -2.201479
         ]
       },
       "properties": {
         "slug": "sanana-indonesia",
         "name": "Sanana, Indonesia",
         "id": 16623
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.496301,
+          55.341548
+        ]
+      },
+      "properties": {
+        "slug": "sand-point-ak-united-states",
+        "name": "Sand Point, AK, United States",
+        "id": 17369
       }
     },
     {
@@ -16431,8 +16611,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.675488,
-          23.354552
+          116.675512,
+          23.354869
         ]
       },
       "properties": {
@@ -16446,8 +16626,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.675512,
-          23.354869
+          116.675488,
+          23.354552
         ]
       },
       "properties": {
@@ -16986,8 +17166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.930574,
-          13.174369
+          100.930549,
+          13.174442
         ]
       },
       "properties": {
@@ -17001,8 +17181,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.930549,
-          13.174442
+          100.930574,
+          13.174369
         ]
       },
       "properties": {
@@ -17241,8 +17421,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.53002,
-          29.972554
+          32.530118,
+          29.972285
         ]
       },
       "properties": {
@@ -17256,8 +17436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.530118,
-          29.972285
+          32.53002,
+          29.972554
         ]
       },
       "properties": {
@@ -17481,21 +17661,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.207039,
-          -33.869676
-        ]
-      },
-      "properties": {
-        "slug": "sydney-australia",
-        "name": "Sydney, Australia",
-        "id": 3030
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           151.20699,
           -33.869872
         ]
@@ -17513,6 +17678,21 @@
         "coordinates": [
           151.207039,
           -33.869701
+        ]
+      },
+      "properties": {
+        "slug": "sydney-australia",
+        "name": "Sydney, Australia",
+        "id": 3030
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.207039,
+          -33.869676
         ]
       },
       "properties": {
@@ -17632,7 +17812,7 @@
         "type": "Point",
         "coordinates": [
           174.767916,
-          -36.787839
+          -36.787961
         ]
       },
       "properties": {
@@ -17647,7 +17827,7 @@
         "type": "Point",
         "coordinates": [
           174.767916,
-          -36.787961
+          -36.787839
         ]
       },
       "properties": {
@@ -17886,8 +18066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.462644,
-          25.181602
+          121.462595,
+          25.181357
         ]
       },
       "properties": {
@@ -17901,8 +18081,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.462595,
-          25.181357
+          121.462644,
+          25.181602
         ]
       },
       "properties": {
@@ -18636,8 +18816,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -56.37537,
-          5.886628
+          -56.375382,
+          5.886579
         ]
       },
       "properties": {
@@ -18651,8 +18831,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -56.375382,
-          5.886579
+          -56.37537,
+          5.886628
         ]
       },
       "properties": {
@@ -18891,8 +19071,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          132.752092,
-          -5.626575
+          132.752043,
+          -5.62655
         ]
       },
       "properties": {
@@ -18906,8 +19086,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          132.752043,
-          -5.62655
+          132.752092,
+          -5.626575
         ]
       },
       "properties": {
@@ -19206,6 +19386,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -166.533242,
+          53.88453
+        ]
+      },
+      "properties": {
+        "slug": "unalaska-ak-united-states",
+        "name": "Unalaska, AK, United States",
+        "id": 17107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -61.443177,
           12.611405
         ]
@@ -19312,7 +19507,7 @@
         "type": "Point",
         "coordinates": [
           -151.749531,
-          -16.506281
+          -16.50633
         ]
       },
       "properties": {
@@ -19327,7 +19522,7 @@
         "type": "Point",
         "coordinates": [
           -151.749531,
-          -16.50633
+          -16.506281
         ]
       },
       "properties": {
@@ -19386,8 +19581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.620309,
-          -33.045531
+          -71.620479,
+          -33.045775
         ]
       },
       "properties": {
@@ -19401,8 +19596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.620479,
-          -33.045775
+          -71.620309,
+          -33.045531
         ]
       },
       "properties": {
@@ -19731,8 +19926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.253025,
-          -9.646153
+          120.252903,
+          -9.646104
         ]
       },
       "properties": {
@@ -19746,8 +19941,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.252903,
-          -9.646104
+          120.253025,
+          -9.646153
         ]
       },
       "properties": {
@@ -19791,8 +19986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.062861,
-          40.152908
+          -74.062873,
+          40.152871
         ]
       },
       "properties": {
@@ -19806,8 +20001,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.062873,
-          40.152871
+          -74.062861,
+          40.152908
         ]
       },
       "properties": {
