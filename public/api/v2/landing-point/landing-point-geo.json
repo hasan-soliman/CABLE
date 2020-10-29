@@ -14436,8 +14436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.597241,
-          15.727138
+          -88.597162,
+          15.727175
         ]
       },
       "properties": {
@@ -14451,8 +14451,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.597162,
-          15.727175
+          -88.597241,
+          15.727138
         ]
       },
       "properties": {
@@ -15307,7 +15307,7 @@
         "type": "Point",
         "coordinates": [
           122.749997,
-          11.583305
+          11.583329
         ]
       },
       "properties": {
@@ -15322,7 +15322,7 @@
         "type": "Point",
         "coordinates": [
           122.749997,
-          11.583329
+          11.583305
         ]
       },
       "properties": {
@@ -15546,21 +15546,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.711761,
-          49.868809
-        ]
-      },
-      "properties": {
-        "slug": "saint-valery-en-caux-france",
-        "name": "Saint Valery en Caux, France",
-        "id": 9773
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           55.549931,
           -20.897368
         ]
@@ -15651,8 +15636,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          54.148027,
-          17.095863
+          54.148076,
+          17.095827
         ]
       },
       "properties": {
@@ -15666,8 +15651,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          54.148076,
-          17.095827
+          54.148027,
+          17.095863
         ]
       },
       "properties": {
@@ -15922,7 +15907,7 @@
         "type": "Point",
         "coordinates": [
           125.937007,
-          -2.201454
+          -2.201479
         ]
       },
       "properties": {
@@ -15937,7 +15922,7 @@
         "type": "Point",
         "coordinates": [
           125.937007,
-          -2.201479
+          -2.201454
         ]
       },
       "properties": {
@@ -16611,8 +16596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.675512,
-          23.354869
+          116.675488,
+          23.354552
         ]
       },
       "properties": {
@@ -16626,8 +16611,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.675488,
-          23.354552
+          116.675512,
+          23.354869
         ]
       },
       "properties": {
@@ -17016,21 +17001,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.56142,
-          0.73497
-        ]
-      },
-      "properties": {
-        "slug": "sofifi-indonesia",
-        "name": "Sofifi, Indonesia",
-        "id": 16622
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           127.561445,
           0.73497
         ]
@@ -17046,8 +17016,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.596956,
-          7.078571
+          127.56142,
+          0.73497
+        ]
+      },
+      "properties": {
+        "slug": "sofifi-indonesia",
+        "name": "Sofifi, Indonesia",
+        "id": 16622
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59698,
+          7.078449
         ]
       },
       "properties": {
@@ -17061,8 +17046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.59698,
-          7.078449
+          100.596956,
+          7.078571
         ]
       },
       "properties": {
@@ -17166,8 +17151,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.930549,
-          13.174442
+          100.930574,
+          13.174369
         ]
       },
       "properties": {
@@ -17181,8 +17166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.930574,
-          13.174369
+          100.930549,
+          13.174442
         ]
       },
       "properties": {
@@ -17602,7 +17587,7 @@
         "type": "Point",
         "coordinates": [
           178.437446,
-          -18.12381
+          -18.123639
         ]
       },
       "properties": {
@@ -17617,7 +17602,7 @@
         "type": "Point",
         "coordinates": [
           178.437446,
-          -18.123639
+          -18.12381
         ]
       },
       "properties": {
@@ -17661,6 +17646,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.207039,
+          -33.869676
+        ]
+      },
+      "properties": {
+        "slug": "sydney-australia",
+        "name": "Sydney, Australia",
+        "id": 3030
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.20699,
           -33.869872
         ]
@@ -17678,21 +17678,6 @@
         "coordinates": [
           151.207039,
           -33.869701
-        ]
-      },
-      "properties": {
-        "slug": "sydney-australia",
-        "name": "Sydney, Australia",
-        "id": 3030
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.207039,
-          -33.869676
         ]
       },
       "properties": {
@@ -18216,8 +18201,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.50034,
-          10.819707
+          119.500389,
+          10.819609
         ]
       },
       "properties": {
@@ -18231,8 +18216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.500389,
-          10.819609
+          119.50034,
+          10.819707
         ]
       },
       "properties": {
@@ -18696,8 +18681,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.558564,
-          9.496294
+          -75.558686,
+          9.496685
         ]
       },
       "properties": {
@@ -18711,8 +18696,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.558686,
-          9.496685
+          -75.558564,
+          9.496294
         ]
       },
       "properties": {
@@ -18816,8 +18801,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -56.375382,
-          5.886579
+          -56.37537,
+          5.886628
         ]
       },
       "properties": {
@@ -18831,8 +18816,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -56.37537,
-          5.886628
+          -56.375382,
+          5.886579
         ]
       },
       "properties": {
@@ -19071,21 +19056,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          132.752043,
-          -5.62655
-        ]
-      },
-      "properties": {
-        "slug": "tual-indonesia",
-        "name": "Tual, Indonesia",
-        "id": 16632
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           132.752092,
           -5.626575
         ]
@@ -19101,8 +19071,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.646222,
-          1.338656
+          132.752043,
+          -5.62655
+        ]
+      },
+      "properties": {
+        "slug": "tual-indonesia",
+        "name": "Tual, Indonesia",
+        "id": 16632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.647076,
+          1.338193
         ]
       },
       "properties": {
@@ -19116,8 +19101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.647076,
-          1.338193
+          103.646222,
+          1.338656
         ]
       },
       "properties": {
@@ -19581,8 +19566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.620479,
-          -33.045775
+          -71.620309,
+          -33.045531
         ]
       },
       "properties": {
@@ -19596,8 +19581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.620309,
-          -33.045531
+          -71.620479,
+          -33.045775
         ]
       },
       "properties": {
@@ -19776,6 +19761,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.797809,
+          49.877293
+        ]
+      },
+      "properties": {
+        "slug": "veules-les-roses-france",
+        "name": "Veules-les-Roses, France",
+        "id": 18149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           55.445048,
           -4.617615
         ]
@@ -19837,7 +19837,7 @@
         "type": "Point",
         "coordinates": [
           -76.059198,
-          36.755009
+          36.755021
         ]
       },
       "properties": {
@@ -19852,7 +19852,7 @@
         "type": "Point",
         "coordinates": [
           -76.059198,
-          36.755021
+          36.755009
         ]
       },
       "properties": {
@@ -19986,21 +19986,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.062873,
-          40.152871
-        ]
-      },
-      "properties": {
-        "slug": "wall-township-nj-united-states",
-        "name": "Wall Township, NJ, United States",
-        "id": 3822
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.062861,
           40.152908
         ]
@@ -20018,6 +20003,21 @@
         "coordinates": [
           -74.062873,
           40.152884
+        ]
+      },
+      "properties": {
+        "slug": "wall-township-nj-united-states",
+        "name": "Wall Township, NJ, United States",
+        "id": 3822
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.062873,
+          40.152871
         ]
       },
       "properties": {
@@ -20466,8 +20466,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.649893,
-          29.116658
+          32.649844,
+          29.116683
         ]
       },
       "properties": {
@@ -20481,8 +20481,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.649844,
-          29.116683
+          32.649893,
+          29.116658
         ]
       },
       "properties": {
