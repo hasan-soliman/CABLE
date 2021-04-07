@@ -1,1 +1,1 @@
-{"city_id":8394,"id":"kodiak-ak-united-states","latitude":"57.794136","longitude":"-152.395283","name":"Kodiak, AK, United States","type":"landing_point","cables":[{"cable_id":1530,"id":"kodiak-kenai-fiber-link-kkfl","name":"Kodiak Kenai Fiber Link (KKFL)"}]}
+{"city_id":8394,"id":"kodiak-ak-united-states","latitude":"57.794136","longitude":"-152.395283","name":"Kodiak, AK, United States","type":"landing_point","cables":[{"cable_id":1942,"id":"au-aleutian","name":"AU-Aleutian"},{"cable_id":1530,"id":"kodiak-kenai-fiber-link-kkfl","name":"Kodiak Kenai Fiber Link (KKFL)"}]}
