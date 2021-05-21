@@ -1,1 +1,1 @@
-{"city_id":6178,"id":"playa-del-carmen-mexico","latitude":"20.629672","longitude":"-87.070218","name":"Playa del Carmen, Mexico","type":"landing_point","cables":[{"cable_id":2099,"id":"ixchel","name":"Ixchel"}]}
+{"city_id":6178,"id":"playa-del-carmen-mexico","latitude":"20.629672","longitude":"-87.070218","name":"Playa del Carmen, Mexico","type":"landing_point","cables":[{"cable_id":2099,"id":"ixchel","name":"Ixchel","is_tbd":"false"}],"is_tbd":"false"}

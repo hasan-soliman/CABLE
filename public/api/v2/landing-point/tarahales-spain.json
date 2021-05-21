@@ -1,1 +1,1 @@
-{"city_id":16517,"id":"tarahales-spain","latitude":"28.096375","longitude":"-15.450745","name":"Tarahales, Spain","type":"landing_point","cables":[{"cable_id":1866,"id":"pencan-9","name":"Pencan-9"}]}
+{"city_id":16517,"id":"tarahales-spain","latitude":"28.096375","longitude":"-15.450745","name":"Tarahales, Spain","type":"landing_point","cables":[{"cable_id":1866,"id":"pencan-9","name":"Pencan-9","is_tbd":"false"}],"is_tbd":"false"}

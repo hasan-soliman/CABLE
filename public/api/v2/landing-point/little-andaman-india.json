@@ -1,1 +1,1 @@
-{"city_id":17254,"id":"little-andaman-india","latitude":"10.709053","longitude":"92.597157","name":"Little Andaman, India","type":"landing_point","cables":[{"cable_id":1861,"id":"chennai-andaman-nicobar-islands-cable","name":"Chennai-Andaman & Nicobar Islands Cable"}]}
+{"city_id":17254,"id":"little-andaman-india","latitude":"10.709053","longitude":"92.597157","name":"Little Andaman, India","type":"landing_point","cables":[{"cable_id":1861,"id":"chennai-andaman-nicobar-islands-cable","name":"Chennai-Andaman & Nicobar Islands Cable","is_tbd":"false"}],"is_tbd":"false"}

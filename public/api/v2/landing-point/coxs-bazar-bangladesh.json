@@ -1,1 +1,1 @@
-{"city_id":6299,"id":"coxs-bazar-bangladesh","latitude":"21.429180","longitude":"91.994931","name":"Cox’s Bazar, Bangladesh","type":"landing_point","cables":[{"cable_id":1035,"id":"seamewe-4","name":"SeaMeWe-4"}]}
+{"city_id":6299,"id":"coxs-bazar-bangladesh","latitude":"21.429180","longitude":"91.994931","name":"Cox’s Bazar, Bangladesh","type":"landing_point","cables":[{"cable_id":1035,"id":"seamewe-4","name":"SeaMeWe-4","is_tbd":"false"}],"is_tbd":"false"}

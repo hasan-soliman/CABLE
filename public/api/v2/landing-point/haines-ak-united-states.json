@@ -1,1 +1,1 @@
-{"city_id":16207,"id":"haines-ak-united-states","latitude":"59.235832","longitude":"-135.444996","name":"Haines, AK, United States","type":"landing_point","cables":[{"cable_id":1840,"id":"lynn-canal-fiber","name":"Lynn Canal Fiber"}]}
+{"city_id":16207,"id":"haines-ak-united-states","latitude":"59.235832","longitude":"-135.444996","name":"Haines, AK, United States","type":"landing_point","cables":[{"cable_id":1840,"id":"lynn-canal-fiber","name":"Lynn Canal Fiber","is_tbd":"false"}],"is_tbd":"false"}

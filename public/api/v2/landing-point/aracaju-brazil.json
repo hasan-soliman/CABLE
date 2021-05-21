@@ -1,1 +1,1 @@
-{"city_id":3356,"id":"aracaju-brazil","latitude":"-10.909604","longitude":"-37.074802","name":"Aracaju, Brazil","type":"landing_point","cables":[{"cable_id":1888,"id":"brazilian-festoon","name":"Brazilian Festoon"}]}
+{"city_id":3356,"id":"aracaju-brazil","latitude":"-10.909604","longitude":"-37.074802","name":"Aracaju, Brazil","type":"landing_point","cables":[{"cable_id":1888,"id":"brazilian-festoon","name":"Brazilian Festoon","is_tbd":"false"}],"is_tbd":"false"}

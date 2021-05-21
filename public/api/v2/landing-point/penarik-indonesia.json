@@ -1,1 +1,1 @@
-{"city_id":16634,"id":"penarik-indonesia","latitude":"3.666752","longitude":"108.290232","name":"Penarik, Indonesia","type":"landing_point","cables":[{"cable_id":1886,"id":"east-west-submarine-cable-system","name":"East-West Submarine Cable System"}]}
+{"city_id":16634,"id":"penarik-indonesia","latitude":"3.666752","longitude":"108.290232","name":"Penarik, Indonesia","type":"landing_point","cables":[{"cable_id":1886,"id":"east-west-submarine-cable-system","name":"East-West Submarine Cable System","is_tbd":"false"}],"is_tbd":"false"}

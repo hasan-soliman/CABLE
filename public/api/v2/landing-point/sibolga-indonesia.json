@@ -1,1 +1,1 @@
-{"city_id":16287,"id":"sibolga-indonesia","latitude":"1.747808","longitude":"98.786625","name":"Sibolga, Indonesia","type":"landing_point","cables":[{"cable_id":1844,"id":"jasuka","name":"JASUKA"}]}
+{"city_id":16287,"id":"sibolga-indonesia","latitude":"1.747808","longitude":"98.786625","name":"Sibolga, Indonesia","type":"landing_point","cables":[{"cable_id":1844,"id":"jasuka","name":"JASUKA","is_tbd":"false"}],"is_tbd":"false"}

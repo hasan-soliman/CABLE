@@ -1,1 +1,1 @@
-{"city_id":10120,"id":"haina-dominican-republic","latitude":"18.698999","longitude":"-70.161839","name":"Haina, Dominican Republic","type":"landing_point","cables":[{"cable_id":1671,"id":"east-west","name":"East-West"}]}
+{"city_id":10120,"id":"haina-dominican-republic","latitude":"18.698999","longitude":"-70.161839","name":"Haina, Dominican Republic","type":"landing_point","cables":[{"cable_id":1671,"id":"east-west","name":"East-West","is_tbd":"false"}],"is_tbd":"false"}

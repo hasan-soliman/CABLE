@@ -1,1 +1,1 @@
-{"city_id":16737,"id":"arawa-papua-new-guinea","latitude":"-6.225627","longitude":"155.567811","name":"Arawa, Papua New Guinea","type":"landing_point","cables":[{"cable_id":1899,"id":"kumul-domestic-submarine-cable-system","name":"Kumul Domestic Submarine Cable System"}]}
+{"city_id":16737,"id":"arawa-papua-new-guinea","latitude":"-6.225627","longitude":"155.567811","name":"Arawa, Papua New Guinea","type":"landing_point","cables":[{"cable_id":1899,"id":"kumul-domestic-submarine-cable-system","name":"Kumul Domestic Submarine Cable System","is_tbd":"false"}],"is_tbd":"false"}

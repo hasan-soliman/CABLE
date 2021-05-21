@@ -1,1 +1,1 @@
-{"city_id":18161,"id":"rurutu-french-polynesia","latitude":"-22.451280","longitude":"-151.342879","name":"Rurutu, French Polynesia","type":"landing_point","cables":[{"cable_id":2109,"id":"natitua-sud","name":"Natitua Sud"}]}
+{"city_id":18161,"id":"rurutu-french-polynesia","latitude":"-22.451280","longitude":"-151.342879","name":"Rurutu, French Polynesia","type":"landing_point","cables":[{"cable_id":2109,"id":"natitua-sud","name":"Natitua Sud","is_tbd":"false"}],"is_tbd":"false"}

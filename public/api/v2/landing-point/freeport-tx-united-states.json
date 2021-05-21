@@ -1,1 +1,1 @@
-{"city_id":6347,"id":"freeport-tx-united-states","latitude":"28.949570","longitude":"-95.344370","name":"Freeport, TX, United States","type":"landing_point","cables":[{"cable_id":2113,"id":"gulf-of-mexico-fiber-optic-network","name":"Gulf of Mexico Fiber Optic Network"}]}
+{"city_id":6347,"id":"freeport-tx-united-states","latitude":"28.949570","longitude":"-95.344370","name":"Freeport, TX, United States","type":"landing_point","cables":[{"cable_id":2113,"id":"gulf-of-mexico-fiber-optic-network","name":"Gulf of Mexico Fiber Optic Network","is_tbd":"false"}],"is_tbd":"false"}

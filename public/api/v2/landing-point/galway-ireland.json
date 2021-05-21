@@ -1,1 +1,1 @@
-{"city_id":3253,"id":"galway-ireland","latitude":"53.273886","longitude":"-9.048344","name":"Galway, Ireland","type":"landing_point","cables":[{"cable_id":2033,"id":"iris","name":"IRIS"}]}
+{"city_id":3253,"id":"galway-ireland","latitude":"53.273886","longitude":"-9.048344","name":"Galway, Ireland","type":"landing_point","cables":[{"cable_id":2033,"id":"iris","name":"IRIS","is_tbd":"false"}],"is_tbd":"false"}

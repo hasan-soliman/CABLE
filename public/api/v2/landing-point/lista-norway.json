@@ -1,1 +1,1 @@
-{"city_id":18006,"id":"lista-norway","latitude":"58.064440","longitude":"6.786930","name":"Lista, Norway","type":"landing_point","cables":[{"cable_id":2092,"id":"havtor","name":"Havtor"}]}
+{"city_id":18006,"id":"lista-norway","latitude":"58.064440","longitude":"6.786930","name":"Lista, Norway","type":"landing_point","cables":[{"cable_id":2092,"id":"havtor","name":"Havtor","is_tbd":"false"}],"is_tbd":"false"}

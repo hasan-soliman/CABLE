@@ -1,1 +1,1 @@
-{"city_id":7862,"id":"cabimas-venezuela","latitude":"10.395953","longitude":"-71.451096","name":"Cabimas, Venezuela","type":"landing_point","cables":[{"cable_id":1094,"id":"venezuelan-festoon","name":"Venezuelan Festoon"}]}
+{"city_id":7862,"id":"cabimas-venezuela","latitude":"10.395953","longitude":"-71.451096","name":"Cabimas, Venezuela","type":"landing_point","cables":[{"cable_id":1094,"id":"venezuelan-festoon","name":"Venezuelan Festoon","is_tbd":"false"}],"is_tbd":"false"}

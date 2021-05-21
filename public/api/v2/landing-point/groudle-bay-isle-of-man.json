@@ -1,1 +1,1 @@
-{"city_id":13374,"id":"groudle-bay-isle-of-man","latitude":"54.166979","longitude":"-4.423897","name":"Groudle Bay, Isle of Man","type":"landing_point","cables":[{"cable_id":1752,"id":"bt-mt-1","name":"BT-MT-1"}]}
+{"city_id":13374,"id":"groudle-bay-isle-of-man","latitude":"54.166979","longitude":"-4.423897","name":"Groudle Bay, Isle of Man","type":"landing_point","cables":[{"cable_id":1752,"id":"bt-mt-1","name":"BT-MT-1","is_tbd":"false"}],"is_tbd":"false"}

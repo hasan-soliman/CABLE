@@ -1,1 +1,1 @@
-{"city_id":3352,"id":"recife-brazil","latitude":"-8.055335","longitude":"-34.871971","name":"Recife, Brazil","type":"landing_point","cables":[{"cable_id":1888,"id":"brazilian-festoon","name":"Brazilian Festoon"}]}
+{"city_id":3352,"id":"recife-brazil","latitude":"-8.055335","longitude":"-34.871971","name":"Recife, Brazil","type":"landing_point","cables":[{"cable_id":1888,"id":"brazilian-festoon","name":"Brazilian Festoon","is_tbd":"false"}],"is_tbd":"false"}

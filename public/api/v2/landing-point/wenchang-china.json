@@ -1,1 +1,1 @@
-{"city_id":17541,"id":"wenchang-china","latitude":"20.045319","longitude":"110.761812","name":"Wenchang, China","type":"landing_point","cables":[{"cable_id":2058,"id":"hainan-to-hong-kong-express-h2he","name":"Hainan to Hong Kong Express (H2HE)"}]}
+{"city_id":17541,"id":"wenchang-china","latitude":"20.045319","longitude":"110.761812","name":"Wenchang, China","type":"landing_point","cables":[{"cable_id":2058,"id":"hainan-to-hong-kong-express-h2he","name":"Hainan to Hong Kong Express (H2HE)","is_tbd":"false"}],"is_tbd":"false"}

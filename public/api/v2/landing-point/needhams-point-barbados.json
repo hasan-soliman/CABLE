@@ -1,1 +1,1 @@
-{"city_id":6183,"id":"needhams-point-barbados","latitude":"13.078789","longitude":"-59.612725","name":"Needham’s Point, Barbados","type":"landing_point","cables":[{"cable_id":1619,"id":"southern-caribbean-fiber","name":"Southern Caribbean Fiber"}]}
+{"city_id":6183,"id":"needhams-point-barbados","latitude":"13.078789","longitude":"-59.612725","name":"Needham’s Point, Barbados","type":"landing_point","cables":[{"cable_id":1619,"id":"southern-caribbean-fiber","name":"Southern Caribbean Fiber","is_tbd":"false"}],"is_tbd":"false"}

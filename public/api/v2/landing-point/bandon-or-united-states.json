@@ -1,1 +1,1 @@
-{"city_id":3554,"id":"bandon-or-united-states","latitude":"43.118557","longitude":"-124.408236","name":"Bandon, OR, United States","type":"landing_point","cables":[{"cable_id":1794,"id":"faster","name":"FASTER"}]}
+{"city_id":3554,"id":"bandon-or-united-states","latitude":"43.118557","longitude":"-124.408236","name":"Bandon, OR, United States","type":"landing_point","cables":[{"cable_id":1794,"id":"faster","name":"FASTER","is_tbd":"false"}],"is_tbd":"false"}

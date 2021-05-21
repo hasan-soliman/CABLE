@@ -1,1 +1,1 @@
-{"city_id":8896,"id":"ilo-peru","latitude":"-17.641170","longitude":"-71.323707","name":"Ilo, Peru","type":"landing_point","cables":[{"cable_id":1921,"id":"fibra-optica-al-pacfico","name":"Fibra Optica al Pacífico"}]}
+{"city_id":8896,"id":"ilo-peru","latitude":"-17.641170","longitude":"-71.323707","name":"Ilo, Peru","type":"landing_point","cables":[{"cable_id":1921,"id":"fibra-optica-al-pacfico","name":"Fibra Optica al Pacífico","is_tbd":"false"}],"is_tbd":"false"}

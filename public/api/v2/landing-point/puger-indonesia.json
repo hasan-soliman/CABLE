@@ -1,1 +1,1 @@
-{"city_id":17294,"id":"puger-indonesia","latitude":"-8.374136","longitude":"113.456805","name":"Puger, Indonesia","type":"landing_point","cables":[{"cable_id":1992,"id":"link-2-phase-2","name":"Link 2 Phase-2"}]}
+{"city_id":17294,"id":"puger-indonesia","latitude":"-8.374136","longitude":"113.456805","name":"Puger, Indonesia","type":"landing_point","cables":[{"cable_id":1992,"id":"link-2-phase-2","name":"Link 2 Phase-2","is_tbd":"false"}],"is_tbd":"false"}

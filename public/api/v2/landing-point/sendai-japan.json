@@ -1,1 +1,1 @@
-{"city_id":7835,"id":"sendai-japan","latitude":"38.314358","longitude":"140.758202","name":"Sendai, Japan","type":"landing_point","cables":[{"cable_id":1075,"id":"japan-information-highway-jih","name":"Japan Information Highway (JIH)"}]}
+{"city_id":7835,"id":"sendai-japan","latitude":"38.314358","longitude":"140.758202","name":"Sendai, Japan","type":"landing_point","cables":[{"cable_id":1075,"id":"japan-information-highway-jih","name":"Japan Information Highway (JIH)","is_tbd":"false"}],"is_tbd":"false"}

@@ -1,1 +1,1 @@
-{"city_id":16284,"id":"baturaja-indonesia","latitude":"-5.040324","longitude":"103.838966","name":"Baturaja, Indonesia","type":"landing_point","cables":[{"cable_id":1844,"id":"jasuka","name":"JASUKA"}]}
+{"city_id":16284,"id":"baturaja-indonesia","latitude":"-5.040324","longitude":"103.838966","name":"Baturaja, Indonesia","type":"landing_point","cables":[{"cable_id":1844,"id":"jasuka","name":"JASUKA","is_tbd":"false"}],"is_tbd":"false"}

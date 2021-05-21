@@ -1,1 +1,1 @@
-{"city_id":18138,"id":"pagudpud-philippines","latitude":"18.624237","longitude":"120.857986","name":"Pagudpud, Philippines","type":"landing_point","cables":[{"cable_id":2114,"id":"cap-1","name":"CAP-1"}]}
+{"city_id":18138,"id":"pagudpud-philippines","latitude":"18.624237","longitude":"120.857986","name":"Pagudpud, Philippines","type":"landing_point","cables":[{"cable_id":2114,"id":"cap-1","name":"CAP-1","is_tbd":"false"}],"is_tbd":"false"}

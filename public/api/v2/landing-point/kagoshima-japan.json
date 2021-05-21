@@ -1,1 +1,1 @@
-{"city_id":7490,"id":"kagoshima-japan","latitude":"31.596550","longitude":"130.557111","name":"Kagoshima, Japan","type":"landing_point","cables":[{"cable_id":2042,"id":"okinawa-cellular-cable","name":"Okinawa Cellular Cable"}]}
+{"city_id":7490,"id":"kagoshima-japan","latitude":"31.596550","longitude":"130.557111","name":"Kagoshima, Japan","type":"landing_point","cables":[{"cable_id":2042,"id":"okinawa-cellular-cable","name":"Okinawa Cellular Cable","is_tbd":"false"}],"is_tbd":"false"}

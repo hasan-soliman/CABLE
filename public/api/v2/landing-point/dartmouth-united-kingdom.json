@@ -1,1 +1,1 @@
-{"city_id":10381,"id":"dartmouth-united-kingdom","latitude":"50.351742","longitude":"-3.578390","name":"Dartmouth, United Kingdom","type":"landing_point","cables":[{"cable_id":1703,"id":"uk-channel-islands-7","name":"UK-Channel Islands-7"}]}
+{"city_id":10381,"id":"dartmouth-united-kingdom","latitude":"50.351742","longitude":"-3.578390","name":"Dartmouth, United Kingdom","type":"landing_point","cables":[{"cable_id":1703,"id":"uk-channel-islands-7","name":"UK-Channel Islands-7","is_tbd":"false"}],"is_tbd":"false"}

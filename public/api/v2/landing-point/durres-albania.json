@@ -1,1 +1,1 @@
-{"city_id":6025,"id":"durres-albania","latitude":"41.316693","longitude":"19.450060","name":"Durres, Albania","type":"landing_point","cables":[{"cable_id":1317,"id":"adria-1","name":"Adria-1"},{"cable_id":1296,"id":"italy-albania","name":"Italy-Albania"}]}
+{"city_id":6025,"id":"durres-albania","latitude":"41.316693","longitude":"19.450060","name":"Durres, Albania","type":"landing_point","cables":[{"cable_id":1317,"id":"adria-1","name":"Adria-1","is_tbd":"false"},{"cable_id":1296,"id":"italy-albania","name":"Italy-Albania","is_tbd":"false"}],"is_tbd":"false"}

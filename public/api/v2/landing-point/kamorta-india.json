@@ -1,1 +1,1 @@
-{"city_id":17256,"id":"kamorta-india","latitude":"8.172232","longitude":"93.481409","name":"Kamorta, India","type":"landing_point","cables":[{"cable_id":1861,"id":"chennai-andaman-nicobar-islands-cable","name":"Chennai-Andaman & Nicobar Islands Cable"}]}
+{"city_id":17256,"id":"kamorta-india","latitude":"8.172232","longitude":"93.481409","name":"Kamorta, India","type":"landing_point","cables":[{"cable_id":1861,"id":"chennai-andaman-nicobar-islands-cable","name":"Chennai-Andaman & Nicobar Islands Cable","is_tbd":"false"}],"is_tbd":"false"}

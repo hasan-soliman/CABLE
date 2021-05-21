@@ -1,1 +1,1 @@
-{"city_id":19353,"id":"west-island-cocos-keeling-islands","latitude":"-12.193114","longitude":"96.832315","name":"West Island, Cocos (Keeling) Islands","type":"landing_point","cables":[{"cable_id":2062,"id":"oman-australia-cable-oac","name":"Oman Australia Cable (OAC)"}]}
+{"city_id":19353,"id":"west-island-cocos-keeling-islands","latitude":"-12.193114","longitude":"96.832315","name":"West Island, Cocos (Keeling) Islands","type":"landing_point","cables":[{"cable_id":2062,"id":"oman-australia-cable-oac","name":"Oman Australia Cable (OAC)","is_tbd":"false"}],"is_tbd":"false"}

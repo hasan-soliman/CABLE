@@ -1,1 +1,1 @@
-{"city_id":17708,"id":"caithness-united-kingdom","latitude":"58.568843","longitude":"-3.794250","name":"Caithness, United Kingdom","type":"landing_point","cables":[{"cable_id":2041,"id":"celtic-norse","name":"Celtic Norse"}]}
+{"city_id":17708,"id":"caithness-united-kingdom","latitude":"58.568843","longitude":"-3.794250","name":"Caithness, United Kingdom","type":"landing_point","cables":[{"cable_id":2041,"id":"celtic-norse","name":"Celtic Norse","is_tbd":"false"}],"is_tbd":"false"}

@@ -1,1 +1,1 @@
-{"city_id":11503,"id":"soyo-angola","latitude":"-6.141027","longitude":"12.352112","name":"Soyo, Angola","type":"landing_point","cables":[{"cable_id":2119,"id":"nzadi-cable-system","name":"Nzadi Cable System"}]}
+{"city_id":11503,"id":"soyo-angola","latitude":"-6.141027","longitude":"12.352112","name":"Soyo, Angola","type":"landing_point","cables":[{"cable_id":2119,"id":"nzadi-cable-system","name":"Nzadi Cable System","is_tbd":"false"}],"is_tbd":"false"}

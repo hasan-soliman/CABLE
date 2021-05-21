@@ -1,1 +1,1 @@
-{"city_id":5493,"id":"porto-seguro-brazil","latitude":"-16.451086","longitude":"-39.064693","name":"Porto Seguro, Brazil","type":"landing_point","cables":[{"cable_id":1888,"id":"brazilian-festoon","name":"Brazilian Festoon"}]}
+{"city_id":5493,"id":"porto-seguro-brazil","latitude":"-16.451086","longitude":"-39.064693","name":"Porto Seguro, Brazil","type":"landing_point","cables":[{"cable_id":1888,"id":"brazilian-festoon","name":"Brazilian Festoon","is_tbd":"false"}],"is_tbd":"false"}

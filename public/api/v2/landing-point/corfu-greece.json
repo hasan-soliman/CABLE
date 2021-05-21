@@ -1,1 +1,1 @@
-{"city_id":6024,"id":"corfu-greece","latitude":"39.619298","longitude":"19.919494","name":"Corfu, Greece","type":"landing_point","cables":[{"cable_id":1317,"id":"adria-1","name":"Adria-1"}]}
+{"city_id":6024,"id":"corfu-greece","latitude":"39.619298","longitude":"19.919494","name":"Corfu, Greece","type":"landing_point","cables":[{"cable_id":1317,"id":"adria-1","name":"Adria-1","is_tbd":"false"}],"is_tbd":"false"}

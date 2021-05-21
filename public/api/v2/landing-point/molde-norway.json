@@ -1,1 +1,1 @@
-{"city_id":11400,"id":"molde-norway","latitude":"62.737235","longitude":"7.160738","name":"Molde, Norway","type":"landing_point","cables":[{"cable_id":2052,"id":"n0r5ke-viking","name":"N0r5ke Viking"}]}
+{"city_id":11400,"id":"molde-norway","latitude":"62.737235","longitude":"7.160738","name":"Molde, Norway","type":"landing_point","cables":[{"cable_id":2052,"id":"n0r5ke-viking","name":"N0r5ke Viking","is_tbd":"false"}],"is_tbd":"false"}

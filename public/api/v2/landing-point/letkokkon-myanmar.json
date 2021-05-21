@@ -1,1 +1,1 @@
-{"city_id":18150,"id":"letkokkon-myanmar","latitude":"16.340399","longitude":"96.162002","name":"Letkokkon, Myanmar","type":"landing_point","cables":[{"cable_id":2082,"id":"mist","name":"MIST"}]}
+{"city_id":18150,"id":"letkokkon-myanmar","latitude":"16.340399","longitude":"96.162002","name":"Letkokkon, Myanmar","type":"landing_point","cables":[{"cable_id":2082,"id":"mist","name":"MIST","is_tbd":"false"}],"is_tbd":"false"}

@@ -1,1 +1,1 @@
-{"city_id":8681,"id":"torshavn-faroe-islands","latitude":"62.017460","longitude":"-6.771845","name":"Torshavn, Faroe Islands","type":"landing_point","cables":[{"cable_id":1576,"id":"shefa-2","name":"SHEFA-2"}]}
+{"city_id":8681,"id":"torshavn-faroe-islands","latitude":"62.017460","longitude":"-6.771845","name":"Torshavn, Faroe Islands","type":"landing_point","cables":[{"cable_id":1576,"id":"shefa-2","name":"SHEFA-2","is_tbd":"false"}],"is_tbd":"false"}

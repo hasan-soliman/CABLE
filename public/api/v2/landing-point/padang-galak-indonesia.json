@@ -1,1 +1,1 @@
-{"city_id":19309,"id":"padang-galak-indonesia","latitude":"-8.657100","longitude":"115.260570","name":"Padang Galak, Indonesia","type":"landing_point","cables":[{"cable_id":2144,"id":"denpasar-waingapu-cable-systems","name":"Denpasar-Waingapu Cable Systems"}]}
+{"city_id":19309,"id":"padang-galak-indonesia","latitude":"-8.657100","longitude":"115.260570","name":"Padang Galak, Indonesia","type":"landing_point","cables":[{"cable_id":2144,"id":"denpasar-waingapu-cable-systems","name":"Denpasar-Waingapu Cable Systems","is_tbd":"false"}],"is_tbd":"false"}

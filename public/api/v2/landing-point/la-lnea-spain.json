@@ -1,1 +1,1 @@
-{"city_id":17979,"id":"la-lnea-spain","latitude":"36.210322","longitude":"-5.325190","name":"La Línea, Spain","type":"landing_point","cables":[{"cable_id":2098,"id":"dos-continentes-l-ll","name":"DOS CONTINENTES l & ll"}]}
+{"city_id":17979,"id":"la-lnea-spain","latitude":"36.210322","longitude":"-5.325190","name":"La Línea, Spain","type":"landing_point","cables":[{"cable_id":2098,"id":"dos-continentes-l-ll","name":"DOS CONTINENTES l & ll","is_tbd":"false"}],"is_tbd":"false"}

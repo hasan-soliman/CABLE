@@ -1,1 +1,1 @@
-{"city_id":10709,"id":"iquique-chile","latitude":"-20.216705","longitude":"-70.142222","name":"Iquique, Chile","type":"landing_point","cables":[{"cable_id":1997,"id":"prat","name":"Prat"}]}
+{"city_id":10709,"id":"iquique-chile","latitude":"-20.216705","longitude":"-70.142222","name":"Iquique, Chile","type":"landing_point","cables":[{"cable_id":1997,"id":"prat","name":"Prat","is_tbd":"false"}],"is_tbd":"false"}

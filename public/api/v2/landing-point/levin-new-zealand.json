@@ -1,1 +1,1 @@
-{"city_id":7849,"id":"levin-new-zealand","latitude":"-40.625284","longitude":"175.285316","name":"Levin, New Zealand","type":"landing_point","cables":[{"cable_id":1486,"id":"nelson-levin","name":"Nelson-Levin"}]}
+{"city_id":7849,"id":"levin-new-zealand","latitude":"-40.625284","longitude":"175.285316","name":"Levin, New Zealand","type":"landing_point","cables":[{"cable_id":1486,"id":"nelson-levin","name":"Nelson-Levin","is_tbd":"false"}],"is_tbd":"false"}

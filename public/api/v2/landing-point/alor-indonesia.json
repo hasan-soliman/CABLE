@@ -1,1 +1,1 @@
-{"city_id":19344,"id":"alor-indonesia","latitude":"-8.320654","longitude":"124.403759","name":"Alor, Indonesia","type":"landing_point","cables":[{"cable_id":2145,"id":"kupang-alor-cable-systems","name":"Kupang-Alor Cable Systems"}]}
+{"city_id":19344,"id":"alor-indonesia","latitude":"-8.320654","longitude":"124.403759","name":"Alor, Indonesia","type":"landing_point","cables":[{"cable_id":2145,"id":"kupang-alor-cable-systems","name":"Kupang-Alor Cable Systems","is_tbd":"false"}],"is_tbd":"false"}

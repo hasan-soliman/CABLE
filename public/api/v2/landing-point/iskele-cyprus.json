@@ -1,1 +1,1 @@
-{"city_id":10383,"id":"iskele-cyprus","latitude":"35.284388","longitude":"33.919475","name":"Iskele, Cyprus","type":"landing_point","cables":[{"cable_id":1705,"id":"turcyos-2","name":"Turcyos-2"}]}
+{"city_id":10383,"id":"iskele-cyprus","latitude":"35.284388","longitude":"33.919475","name":"Iskele, Cyprus","type":"landing_point","cables":[{"cable_id":1705,"id":"turcyos-2","name":"Turcyos-2","is_tbd":"false"}],"is_tbd":"false"}

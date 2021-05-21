@@ -1,1 +1,1 @@
-{"city_id":17089,"id":"baubau-indonesia","latitude":"-5.507064","longitude":"122.596887","name":"Baubau, Indonesia","type":"landing_point","cables":[{"cable_id":1940,"id":"palapa-ring-middle","name":"Palapa Ring Middle"}]}
+{"city_id":17089,"id":"baubau-indonesia","latitude":"-5.507064","longitude":"122.596887","name":"Baubau, Indonesia","type":"landing_point","cables":[{"cable_id":1940,"id":"palapa-ring-middle","name":"Palapa Ring Middle","is_tbd":"false"}],"is_tbd":"false"}

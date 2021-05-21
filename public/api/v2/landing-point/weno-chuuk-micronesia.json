@@ -1,1 +1,1 @@
-{"city_id":16967,"id":"weno-chuuk-micronesia","latitude":"7.439994","longitude":"151.858487","name":"Weno, Chuuk, Micronesia","type":"landing_point","cables":[{"cable_id":1908,"id":"chuuk-pohnpei-cable","name":"Chuuk-Pohnpei Cable"}]}
+{"city_id":16967,"id":"weno-chuuk-micronesia","latitude":"7.439994","longitude":"151.858487","name":"Weno, Chuuk, Micronesia","type":"landing_point","cables":[{"cable_id":1908,"id":"chuuk-pohnpei-cable","name":"Chuuk-Pohnpei Cable","is_tbd":"false"}],"is_tbd":"false"}

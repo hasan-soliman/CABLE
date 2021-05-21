@@ -1,1 +1,1 @@
-{"city_id":15836,"id":"porthcressa-beach-united-kingdom","latitude":"49.919905","longitude":"-6.308173","name":"Porthcressa Beach, United Kingdom","type":"landing_point","cables":[{"cable_id":1826,"id":"isles-of-scilly-cable","name":"Isles of Scilly Cable"}]}
+{"city_id":15836,"id":"porthcressa-beach-united-kingdom","latitude":"49.919905","longitude":"-6.308173","name":"Porthcressa Beach, United Kingdom","type":"landing_point","cables":[{"cable_id":1826,"id":"isles-of-scilly-cable","name":"Isles of Scilly Cable","is_tbd":"false"}],"is_tbd":"false"}

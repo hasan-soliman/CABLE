@@ -1,1 +1,1 @@
-{"city_id":16719,"id":"maniitsoq-greenland","latitude":"65.407680","longitude":"-52.905723","name":"Maniitsoq, Greenland","type":"landing_point","cables":[{"cable_id":1897,"id":"greenland-connect-north","name":"Greenland Connect North"}]}
+{"city_id":16719,"id":"maniitsoq-greenland","latitude":"65.407680","longitude":"-52.905723","name":"Maniitsoq, Greenland","type":"landing_point","cables":[{"cable_id":1897,"id":"greenland-connect-north","name":"Greenland Connect North","is_tbd":"false"}],"is_tbd":"false"}

@@ -1,1 +1,1 @@
-{"city_id":18099,"id":"houstrup-denmark","latitude":"55.764600","longitude":"8.193131","name":"Houstrup, Denmark","type":"landing_point","cables":[{"cable_id":1912,"id":"havhingstennorth-sea-connect-nsc","name":"Havhingsten/North Sea Connect (NSC)"}]}
+{"city_id":18099,"id":"houstrup-denmark","latitude":"55.764600","longitude":"8.193131","name":"Houstrup, Denmark","type":"landing_point","cables":[{"cable_id":1912,"id":"havhingstennorth-sea-connect-nsc","name":"Havhingsten/North Sea Connect (NSC)","is_tbd":"false"}],"is_tbd":"false"}

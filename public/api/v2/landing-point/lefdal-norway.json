@@ -1,1 +1,1 @@
-{"city_id":17994,"id":"lefdal-norway","latitude":"61.935540","longitude":"5.498520","name":"Lefdal, Norway","type":"landing_point","cables":[{"cable_id":2052,"id":"n0r5ke-viking","name":"N0r5ke Viking"}]}
+{"city_id":17994,"id":"lefdal-norway","latitude":"61.935540","longitude":"5.498520","name":"Lefdal, Norway","type":"landing_point","cables":[{"cable_id":2052,"id":"n0r5ke-viking","name":"N0r5ke Viking","is_tbd":"false"}],"is_tbd":"false"}

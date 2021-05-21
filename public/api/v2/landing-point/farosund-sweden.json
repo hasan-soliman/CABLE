@@ -1,1 +1,1 @@
-{"city_id":7412,"id":"farosund-sweden","latitude":"57.862980","longitude":"19.055334","name":"Farosund, Sweden","type":"landing_point","cables":[{"cable_id":1364,"id":"sweden-latvia","name":"Sweden-Latvia"}]}
+{"city_id":7412,"id":"farosund-sweden","latitude":"57.862980","longitude":"19.055334","name":"Farosund, Sweden","type":"landing_point","cables":[{"cable_id":1364,"id":"sweden-latvia","name":"Sweden-Latvia","is_tbd":"false"}],"is_tbd":"false"}

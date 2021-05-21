@@ -1,1 +1,1 @@
-{"city_id":10892,"id":"honiara-solomon-islands","latitude":"-9.429093","longitude":"159.949790","name":"Honiara, Solomon Islands","type":"landing_point","cables":[{"cable_id":1934,"id":"coral-sea-cable-system-cs","name":"Coral Sea Cable System (CS²)"}]}
+{"city_id":10892,"id":"honiara-solomon-islands","latitude":"-9.429093","longitude":"159.949790","name":"Honiara, Solomon Islands","type":"landing_point","cables":[{"cable_id":1934,"id":"coral-sea-cable-system-cs","name":"Coral Sea Cable System (CS²)","is_tbd":"false"}],"is_tbd":"false"}

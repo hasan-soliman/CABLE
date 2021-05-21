@@ -1,1 +1,1 @@
-{"city_id":14608,"id":"pankalan-indonesia","latitude":"-2.849667","longitude":"111.752925","name":"Pankalan, Indonesia","type":"landing_point","cables":[{"cable_id":1767,"id":"jaka2ladema","name":"JaKa2LaDeMa"}]}
+{"city_id":14608,"id":"pankalan-indonesia","latitude":"-2.849667","longitude":"111.752925","name":"Pankalan, Indonesia","type":"landing_point","cables":[{"cable_id":1767,"id":"jaka2ladema","name":"JaKa2LaDeMa","is_tbd":"false"}],"is_tbd":"false"}

@@ -1,1 +1,1 @@
-{"city_id":4208,"id":"conakry-guinea","latitude":"9.513624","longitude":"-13.703822","name":"Conakry, Guinea","type":"landing_point","cables":[{"cable_id":1629,"id":"africa-coast-to-europe-ace","name":"Africa Coast to Europe (ACE)"}]}
+{"city_id":4208,"id":"conakry-guinea","latitude":"9.513624","longitude":"-13.703822","name":"Conakry, Guinea","type":"landing_point","cables":[{"cable_id":1629,"id":"africa-coast-to-europe-ace","name":"Africa Coast to Europe (ACE)","is_tbd":"false"}],"is_tbd":"false"}

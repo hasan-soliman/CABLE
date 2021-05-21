@@ -1,1 +1,1 @@
-{"city_id":16556,"id":"ygarden-norway","latitude":"60.587347","longitude":"4.830247","name":"Øygarden, Norway","type":"landing_point","cables":[{"cable_id":1203,"id":"tampnet-offshore-foc-network","name":"Tampnet Offshore FOC Network"}]}
+{"city_id":16556,"id":"ygarden-norway","latitude":"60.587347","longitude":"4.830247","name":"Øygarden, Norway","type":"landing_point","cables":[{"cable_id":1203,"id":"tampnet-offshore-foc-network","name":"Tampnet Offshore FOC Network","is_tbd":"false"}],"is_tbd":"false"}

@@ -1,1 +1,1 @@
-{"city_id":10782,"id":"tyra-denmark","latitude":"55.715607","longitude":"4.748508","name":"Tyra, Denmark","type":"landing_point","cables":[{"cable_id":1737,"id":"cantat-3","name":"CANTAT-3"}]}
+{"city_id":10782,"id":"tyra-denmark","latitude":"55.715607","longitude":"4.748508","name":"Tyra, Denmark","type":"landing_point","cables":[{"cable_id":1737,"id":"cantat-3","name":"CANTAT-3","is_tbd":"false"}],"is_tbd":"false"}

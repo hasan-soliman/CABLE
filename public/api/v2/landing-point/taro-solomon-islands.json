@@ -1,1 +1,1 @@
-{"city_id":17241,"id":"taro-solomon-islands","latitude":"-6.708991","longitude":"156.395911","name":"Taro, Solomon Islands","type":"landing_point","cables":[{"cable_id":1934,"id":"coral-sea-cable-system-cs","name":"Coral Sea Cable System (CS²)"}]}
+{"city_id":17241,"id":"taro-solomon-islands","latitude":"-6.708991","longitude":"156.395911","name":"Taro, Solomon Islands","type":"landing_point","cables":[{"cable_id":1934,"id":"coral-sea-cable-system-cs","name":"Coral Sea Cable System (CS²)","is_tbd":"false"}],"is_tbd":"false"}

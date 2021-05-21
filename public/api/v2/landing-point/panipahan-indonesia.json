@@ -1,1 +1,1 @@
-{"city_id":17176,"id":"panipahan-indonesia","latitude":"2.452351","longitude":"100.313315","name":"Panipahan, Indonesia","type":"landing_point","cables":[{"cable_id":1957,"id":"damai-cable-system","name":"DAMAI Cable System"}]}
+{"city_id":17176,"id":"panipahan-indonesia","latitude":"2.452351","longitude":"100.313315","name":"Panipahan, Indonesia","type":"landing_point","cables":[{"cable_id":1957,"id":"damai-cable-system","name":"DAMAI Cable System","is_tbd":"false"}],"is_tbd":"false"}

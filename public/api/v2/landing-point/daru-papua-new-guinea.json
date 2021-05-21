@@ -1,1 +1,1 @@
-{"city_id":16742,"id":"daru-papua-new-guinea","latitude":"-9.078178","longitude":"143.209983","name":"Daru, Papua New Guinea","type":"landing_point","cables":[{"cable_id":1899,"id":"kumul-domestic-submarine-cable-system","name":"Kumul Domestic Submarine Cable System"}]}
+{"city_id":16742,"id":"daru-papua-new-guinea","latitude":"-9.078178","longitude":"143.209983","name":"Daru, Papua New Guinea","type":"landing_point","cables":[{"cable_id":1899,"id":"kumul-domestic-submarine-cable-system","name":"Kumul Domestic Submarine Cable System","is_tbd":"false"}],"is_tbd":"false"}

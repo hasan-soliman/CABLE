@@ -1,1 +1,1 @@
-{"city_id":19243,"id":"tebingtinggi-island-indonesia","latitude":"0.932560","longitude":"102.667020","name":"Tebingtinggi Island, Indonesia","type":"landing_point","cables":[{"cable_id":1939,"id":"palapa-ring-west","name":"Palapa Ring West"}]}
+{"city_id":19243,"id":"tebingtinggi-island-indonesia","latitude":"0.932560","longitude":"102.667020","name":"Tebingtinggi Island, Indonesia","type":"landing_point","cables":[{"cable_id":1939,"id":"palapa-ring-west","name":"Palapa Ring West","is_tbd":"false"}],"is_tbd":"false"}

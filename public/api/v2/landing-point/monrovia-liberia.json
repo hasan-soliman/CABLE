@@ -1,1 +1,1 @@
-{"city_id":4178,"id":"monrovia-liberia","latitude":"6.300076","longitude":"-10.797184","name":"Monrovia, Liberia","type":"landing_point","cables":[{"cable_id":1629,"id":"africa-coast-to-europe-ace","name":"Africa Coast to Europe (ACE)"}]}
+{"city_id":4178,"id":"monrovia-liberia","latitude":"6.300076","longitude":"-10.797184","name":"Monrovia, Liberia","type":"landing_point","cables":[{"cable_id":1629,"id":"africa-coast-to-europe-ace","name":"Africa Coast to Europe (ACE)","is_tbd":"false"}],"is_tbd":"false"}

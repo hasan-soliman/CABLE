@@ -1,1 +1,1 @@
-{"city_id":10338,"id":"deeside-clwyd-united-kingdom","latitude":"53.201727","longitude":"-3.027560","name":"Deeside Clwyd, United Kingdom","type":"landing_point","cables":[{"cable_id":1685,"id":"geo-eirgrid","name":"Geo-Eirgrid"}]}
+{"city_id":10338,"id":"deeside-clwyd-united-kingdom","latitude":"53.201727","longitude":"-3.027560","name":"Deeside Clwyd, United Kingdom","type":"landing_point","cables":[{"cable_id":1685,"id":"geo-eirgrid","name":"Geo-Eirgrid","is_tbd":"false"}],"is_tbd":"false"}

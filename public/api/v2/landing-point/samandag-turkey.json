@@ -1,1 +1,1 @@
-{"city_id":10382,"id":"samandag-turkey","latitude":"36.082338","longitude":"35.999267","name":"Samandag, Turkey","type":"landing_point","cables":[{"cable_id":1705,"id":"turcyos-2","name":"Turcyos-2"}]}
+{"city_id":10382,"id":"samandag-turkey","latitude":"36.082338","longitude":"35.999267","name":"Samandag, Turkey","type":"landing_point","cables":[{"cable_id":1705,"id":"turcyos-2","name":"Turcyos-2","is_tbd":"false"}],"is_tbd":"false"}

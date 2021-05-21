@@ -1,1 +1,1 @@
-{"city_id":19247,"id":"black-river-jamaica","latitude":"18.023692","longitude":"-77.848372","name":"Black River, Jamaica","type":"landing_point","cables":[{"cable_id":2141,"id":"jscfs","name":"JSCFS"}]}
+{"city_id":19247,"id":"black-river-jamaica","latitude":"18.023692","longitude":"-77.848372","name":"Black River, Jamaica","type":"landing_point","cables":[{"cable_id":2141,"id":"jscfs","name":"JSCFS","is_tbd":"false"}],"is_tbd":"false"}

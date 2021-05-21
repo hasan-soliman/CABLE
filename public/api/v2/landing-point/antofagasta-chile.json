@@ -1,1 +1,1 @@
-{"city_id":10710,"id":"antofagasta-chile","latitude":"-23.650001","longitude":"-70.399998","name":"Antofagasta, Chile","type":"landing_point","cables":[{"cable_id":1997,"id":"prat","name":"Prat"}]}
+{"city_id":10710,"id":"antofagasta-chile","latitude":"-23.650001","longitude":"-70.399998","name":"Antofagasta, Chile","type":"landing_point","cables":[{"cable_id":1997,"id":"prat","name":"Prat","is_tbd":"false"}],"is_tbd":"false"}

@@ -1,1 +1,1 @@
-{"city_id":7731,"id":"portpatrick-united-kingdom","latitude":"54.843724","longitude":"-5.115547","name":"Portpatrick, United Kingdom","type":"landing_point","cables":[{"cable_id":1387,"id":"scotland-northern-ireland-1","name":"Scotland-Northern Ireland 1"}]}
+{"city_id":7731,"id":"portpatrick-united-kingdom","latitude":"54.843724","longitude":"-5.115547","name":"Portpatrick, United Kingdom","type":"landing_point","cables":[{"cable_id":1387,"id":"scotland-northern-ireland-1","name":"Scotland-Northern Ireland 1","is_tbd":"false"}],"is_tbd":"false"}

@@ -1,1 +1,1 @@
-{"city_id":18078,"id":"quanono-new-caledonia","latitude":"-20.937043","longitude":"167.260454","name":"Quanono, New Caledonia","type":"landing_point","cables":[{"cable_id":2053,"id":"gondwana-2picot-2","name":"Gondwana-2/Picot-2"}]}
+{"city_id":18078,"id":"quanono-new-caledonia","latitude":"-20.937043","longitude":"167.260454","name":"Quanono, New Caledonia","type":"landing_point","cables":[{"cable_id":2053,"id":"gondwana-2picot-2","name":"Gondwana-2/Picot-2","is_tbd":"false"}],"is_tbd":"false"}

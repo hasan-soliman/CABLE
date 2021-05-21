@@ -1,1 +1,1 @@
-{"city_id":3132,"id":"stavanger-norway","latitude":"58.970835","longitude":"5.730793","name":"Stavanger, Norway","type":"landing_point","cables":[{"cable_id":2088,"id":"bkk-digitek","name":"BKK Digitek"},{"cable_id":1941,"id":"no-uk","name":"NO-UK"}]}
+{"city_id":3132,"id":"stavanger-norway","latitude":"58.970835","longitude":"5.730793","name":"Stavanger, Norway","type":"landing_point","cables":[{"cable_id":2088,"id":"bkk-digitek","name":"BKK Digitek","is_tbd":"false"},{"cable_id":1941,"id":"no-uk","name":"NO-UK","is_tbd":"false"}],"is_tbd":"false"}

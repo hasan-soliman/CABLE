@@ -1,1 +1,1 @@
-{"city_id":17138,"id":"kekaha-hi-united-states","latitude":"21.970305","longitude":"-159.724201","name":"Kekaha, HI, United States","type":"landing_point","cables":[{"cable_id":1948,"id":"paniolo-cable-network","name":"Paniolo Cable Network"}]}
+{"city_id":17138,"id":"kekaha-hi-united-states","latitude":"21.970305","longitude":"-159.724201","name":"Kekaha, HI, United States","type":"landing_point","cables":[{"cable_id":1948,"id":"paniolo-cable-network","name":"Paniolo Cable Network","is_tbd":"false"}],"is_tbd":"false"}

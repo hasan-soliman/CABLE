@@ -1,1 +1,1 @@
-{"city_id":17373,"id":"chignik-lake-ak-united-states","latitude":"56.254981","longitude":"-158.772091","name":"Chignik Lake, AK, United States","type":"landing_point","cables":[{"cable_id":1942,"id":"au-aleutian","name":"AU-Aleutian"}]}
+{"city_id":17373,"id":"chignik-lake-ak-united-states","latitude":"56.254981","longitude":"-158.772091","name":"Chignik Lake, AK, United States","type":"landing_point","cables":[{"cable_id":1942,"id":"au-aleutian","name":"AU-Aleutian","is_tbd":"false"}],"is_tbd":"false"}

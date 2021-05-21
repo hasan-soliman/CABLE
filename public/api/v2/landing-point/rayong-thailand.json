@@ -1,1 +1,1 @@
-{"city_id":10985,"id":"rayong-thailand","latitude":"12.670663","longitude":"101.277346","name":"Rayong, Thailand","type":"landing_point","cables":[{"cable_id":1776,"id":"malaysia-cambodia-thailand-mct-cable","name":"Malaysia-Cambodia-Thailand (MCT) Cable"}]}
+{"city_id":10985,"id":"rayong-thailand","latitude":"12.670663","longitude":"101.277346","name":"Rayong, Thailand","type":"landing_point","cables":[{"cable_id":1776,"id":"malaysia-cambodia-thailand-mct-cable","name":"Malaysia-Cambodia-Thailand (MCT) Cable","is_tbd":"false"}],"is_tbd":"false"}

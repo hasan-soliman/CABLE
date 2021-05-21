@@ -1,1 +1,1 @@
-{"city_id":18165,"id":"bairiki-kiribati","latitude":"1.329100","longitude":"172.979100","name":"Bairiki, Kiribati","type":"landing_point","cables":[{"cable_id":2008,"id":"east-micronesia-cable-emc","name":"East Micronesia Cable (EMC)"}]}
+{"city_id":18165,"id":"bairiki-kiribati","latitude":"1.329100","longitude":"172.979100","name":"Bairiki, Kiribati","type":"landing_point","cables":[{"cable_id":2008,"id":"east-micronesia-cable-emc","name":"East Micronesia Cable (EMC)","is_tbd":"false"}],"is_tbd":"false"}

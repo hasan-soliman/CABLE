@@ -1,1 +1,1 @@
-{"city_id":17084,"id":"taliabu-indonesia","latitude":"-1.826840","longitude":"124.774058","name":"Taliabu, Indonesia","type":"landing_point","cables":[{"cable_id":1940,"id":"palapa-ring-middle","name":"Palapa Ring Middle"}]}
+{"city_id":17084,"id":"taliabu-indonesia","latitude":"-1.826840","longitude":"124.774058","name":"Taliabu, Indonesia","type":"landing_point","cables":[{"cable_id":1940,"id":"palapa-ring-middle","name":"Palapa Ring Middle","is_tbd":"false"}],"is_tbd":"false"}

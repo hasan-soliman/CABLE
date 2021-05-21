@@ -1,1 +1,1 @@
-{"city_id":9844,"id":"yzerfontein-south-africa","latitude":"-33.348224","longitude":"18.155530","name":"Yzerfontein, South Africa","type":"landing_point","cables":[{"cable_id":1560,"id":"west-african-cable-system-wacs","name":"West African Cable System (WACS)"}]}
+{"city_id":9844,"id":"yzerfontein-south-africa","latitude":"-33.348224","longitude":"18.155530","name":"Yzerfontein, South Africa","type":"landing_point","cables":[{"cable_id":1560,"id":"west-african-cable-system-wacs","name":"West African Cable System (WACS)","is_tbd":"false"}],"is_tbd":"false"}

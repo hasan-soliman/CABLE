@@ -1,1 +1,1 @@
-{"city_id":7853,"id":"manawatu-wanganui-new-zealand","latitude":"-39.625442","longitude":"175.618212","name":"Manawatu-Wanganui, New Zealand","type":"landing_point","cables":[{"cable_id":1487,"id":"aqualink","name":"Aqualink"}]}
+{"city_id":7853,"id":"manawatu-wanganui-new-zealand","latitude":"-39.625442","longitude":"175.618212","name":"Manawatu-Wanganui, New Zealand","type":"landing_point","cables":[{"cable_id":1487,"id":"aqualink","name":"Aqualink","is_tbd":"false"}],"is_tbd":"false"}

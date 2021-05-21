@@ -1,1 +1,1 @@
-{"city_id":3117,"id":"genoa-italy","latitude":"44.410344","longitude":"8.938911","name":"Genoa, Italy","type":"landing_point","cables":[{"cable_id":2020,"id":"2africa","name":"2Africa"}]}
+{"city_id":3117,"id":"genoa-italy","latitude":"44.410344","longitude":"8.938911","name":"Genoa, Italy","type":"landing_point","cables":[{"cable_id":2020,"id":"2africa","name":"2Africa","is_tbd":"false"}],"is_tbd":"false"}

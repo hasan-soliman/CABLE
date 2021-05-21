@@ -1,1 +1,1 @@
-{"city_id":4258,"id":"providenciales-turks-and-caicos-islands","latitude":"21.851092","longitude":"-72.120236","name":"Providenciales, Turks and Caicos Islands","type":"landing_point","cables":[{"cable_id":1078,"id":"arcos","name":"ARCOS"}]}
+{"city_id":4258,"id":"providenciales-turks-and-caicos-islands","latitude":"21.851092","longitude":"-72.120236","name":"Providenciales, Turks and Caicos Islands","type":"landing_point","cables":[{"cable_id":1078,"id":"arcos","name":"ARCOS","is_tbd":"false"}],"is_tbd":"false"}

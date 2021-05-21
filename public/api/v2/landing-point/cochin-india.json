@@ -1,1 +1,1 @@
-{"city_id":4322,"id":"cochin-india","latitude":"9.938085","longitude":"76.269551","name":"Cochin, India","type":"landing_point","cables":[{"cable_id":1220,"id":"safe","name":"SAFE"},{"cable_id":1031,"id":"seamewe-3","name":"SeaMeWe-3"}]}
+{"city_id":4322,"id":"cochin-india","latitude":"9.938085","longitude":"76.269551","name":"Cochin, India","type":"landing_point","cables":[{"cable_id":1220,"id":"safe","name":"SAFE","is_tbd":"false"},{"cable_id":1031,"id":"seamewe-3","name":"SeaMeWe-3","is_tbd":"false"}],"is_tbd":"false"}

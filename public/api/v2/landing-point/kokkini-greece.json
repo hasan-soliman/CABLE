@@ -1,1 +1,1 @@
-{"city_id":7730,"id":"kokkini-greece","latitude":"39.753828","longitude":"19.923986","name":"Kokkini, Greece","type":"landing_point","cables":[{"cable_id":1383,"id":"oteglobe-kokkini-bari","name":"OTEGLOBE Kokkini-Bari"}]}
+{"city_id":7730,"id":"kokkini-greece","latitude":"39.753828","longitude":"19.923986","name":"Kokkini, Greece","type":"landing_point","cables":[{"cable_id":1383,"id":"oteglobe-kokkini-bari","name":"OTEGLOBE Kokkini-Bari","is_tbd":"false"}],"is_tbd":"false"}

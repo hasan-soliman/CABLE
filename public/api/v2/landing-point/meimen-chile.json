@@ -1,1 +1,1 @@
-{"city_id":16012,"id":"meimen-chile","latitude":"-41.806922","longitude":"-73.155294","name":"Meimen, Chile","type":"landing_point","cables":[{"cable_id":1830,"id":"segunda-fos-canal-de-chacao","name":"Segunda FOS Canal de Chacao"}]}
+{"city_id":16012,"id":"meimen-chile","latitude":"-41.806922","longitude":"-73.155294","name":"Meimen, Chile","type":"landing_point","cables":[{"cable_id":1830,"id":"segunda-fos-canal-de-chacao","name":"Segunda FOS Canal de Chacao","is_tbd":"false"}],"is_tbd":"false"}

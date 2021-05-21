@@ -1,1 +1,1 @@
-{"city_id":17257,"id":"great-nicobar-india","latitude":"7.031331","longitude":"93.927405","name":"Great Nicobar, India","type":"landing_point","cables":[{"cable_id":1861,"id":"chennai-andaman-nicobar-islands-cable","name":"Chennai-Andaman & Nicobar Islands Cable"}]}
+{"city_id":17257,"id":"great-nicobar-india","latitude":"7.031331","longitude":"93.927405","name":"Great Nicobar, India","type":"landing_point","cables":[{"cable_id":1861,"id":"chennai-andaman-nicobar-islands-cable","name":"Chennai-Andaman & Nicobar Islands Cable","is_tbd":"false"}],"is_tbd":"false"}

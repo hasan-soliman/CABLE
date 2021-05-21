@@ -1,1 +1,1 @@
-{"city_id":19248,"id":"port-antonio-jamaica","latitude":"18.176324","longitude":"-76.446080","name":"Port Antonio, Jamaica","type":"landing_point","cables":[{"cable_id":1068,"id":"cayman-jamaica-fiber-system-cjfs","name":"Cayman-Jamaica Fiber System (CJFS)"}]}
+{"city_id":19248,"id":"port-antonio-jamaica","latitude":"18.176324","longitude":"-76.446080","name":"Port Antonio, Jamaica","type":"landing_point","cables":[{"cable_id":1068,"id":"cayman-jamaica-fiber-system-cjfs","name":"Cayman-Jamaica Fiber System (CJFS)","is_tbd":"false"}],"is_tbd":"false"}

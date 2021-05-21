@@ -1,1 +1,1 @@
-{"city_id":18079,"id":"tadine-new-caledonia","latitude":"-21.548052","longitude":"167.879521","name":"Tadine, New Caledonia","type":"landing_point","cables":[{"cable_id":2053,"id":"gondwana-2picot-2","name":"Gondwana-2/Picot-2"}]}
+{"city_id":18079,"id":"tadine-new-caledonia","latitude":"-21.548052","longitude":"167.879521","name":"Tadine, New Caledonia","type":"landing_point","cables":[{"cable_id":2053,"id":"gondwana-2picot-2","name":"Gondwana-2/Picot-2","is_tbd":"false"}],"is_tbd":"false"}

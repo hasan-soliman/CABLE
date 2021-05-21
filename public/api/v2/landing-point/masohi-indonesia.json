@@ -1,1 +1,1 @@
-{"city_id":16625,"id":"masohi-indonesia","latitude":"-3.297836","longitude":"128.955256","name":"Masohi, Indonesia","type":"landing_point","cables":[{"cable_id":1884,"id":"smpcs-packet-1","name":"SMPCS Packet-1"}]}
+{"city_id":16625,"id":"masohi-indonesia","latitude":"-3.297836","longitude":"128.955256","name":"Masohi, Indonesia","type":"landing_point","cables":[{"cable_id":1884,"id":"smpcs-packet-1","name":"SMPCS Packet-1","is_tbd":"false"}],"is_tbd":"false"}

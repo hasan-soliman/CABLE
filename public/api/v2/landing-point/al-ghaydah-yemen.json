@@ -1,1 +1,1 @@
-{"city_id":7679,"id":"al-ghaydah-yemen","latitude":"16.210382","longitude":"52.182361","name":"Al Ghaydah, Yemen","type":"landing_point","cables":[{"cable_id":1346,"id":"falcon","name":"FALCON"}]}
+{"city_id":7679,"id":"al-ghaydah-yemen","latitude":"16.210382","longitude":"52.182361","name":"Al Ghaydah, Yemen","type":"landing_point","cables":[{"cable_id":1346,"id":"falcon","name":"FALCON","is_tbd":"false"}],"is_tbd":"false"}

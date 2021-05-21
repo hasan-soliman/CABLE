@@ -1,1 +1,1 @@
-{"city_id":15028,"id":"kokhanok-ak-united-states","latitude":"59.442158","longitude":"-154.752752","name":"Kokhanok, AK, United States","type":"landing_point","cables":[{"cable_id":1693,"id":"terra-sw","name":"TERRA SW"}]}
+{"city_id":15028,"id":"kokhanok-ak-united-states","latitude":"59.442158","longitude":"-154.752752","name":"Kokhanok, AK, United States","type":"landing_point","cables":[{"cable_id":1693,"id":"terra-sw","name":"TERRA SW","is_tbd":"false"}],"is_tbd":"false"}
