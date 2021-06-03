@@ -126,8 +126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.201097,
-          5.558283
+          -0.200914,
+          5.558502
         ]
       },
       "properties": {
@@ -141,8 +141,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.200914,
-          5.558502
+          -0.201097,
+          5.558283
         ]
       },
       "properties": {
@@ -591,14 +591,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.196209,
-          -33.913674
+          29.889799,
+          31.191886
         ]
       },
       "properties": {
-        "slug": "alexandria-australia",
-        "name": "Alexandria, Australia",
-        "id": 6097
+        "slug": "alexandria-egypt",
+        "name": "Alexandria, Egypt",
+        "id": 6044
       }
     },
     {
@@ -611,8 +611,8 @@
         ]
       },
       "properties": {
-        "slug": "alexandria-australia",
-        "name": "Alexandria, Australia",
+        "slug": "alexandria-nsw-australia",
+        "name": "Alexandria, NSW, Australia",
         "id": 6097
       }
     },
@@ -621,14 +621,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.889799,
-          31.191886
+          151.196209,
+          -33.913674
         ]
       },
       "properties": {
-        "slug": "alexandria-egypt",
-        "name": "Alexandria, Egypt",
-        "id": 6044
+        "slug": "alexandria-nsw-australia",
+        "name": "Alexandria, NSW, Australia",
+        "id": 6097
       }
     },
     {
@@ -801,8 +801,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.833373,
-          -6.129011
+          106.833299,
+          -6.129363
         ]
       },
       "properties": {
@@ -816,8 +816,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.833299,
-          -6.129363
+          106.833373,
+          -6.129011
         ]
       },
       "properties": {
@@ -921,21 +921,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.883909,
-          -6.073699
-        ]
-      },
-      "properties": {
-        "slug": "anyer-indonesia",
-        "name": "Anyer, Indonesia",
-        "id": 14605
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           105.88391,
           -6.073698
         ]
@@ -951,8 +936,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -171.766684,
-          -13.833676
+          105.883909,
+          -6.073699
+        ]
+      },
+      "properties": {
+        "slug": "anyer-indonesia",
+        "name": "Anyer, Indonesia",
+        "id": 14605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.766679,
+          -13.833403
         ]
       },
       "properties": {
@@ -981,8 +981,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -171.766679,
-          -13.833403
+          -171.766684,
+          -13.833676
         ]
       },
       "properties": {
@@ -1911,8 +1911,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.731229,
-          17.298452
+          -62.731217,
+          17.298639
         ]
       },
       "properties": {
@@ -1926,8 +1926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.731217,
-          17.298639
+          -62.731229,
+          17.298452
         ]
       },
       "properties": {
@@ -1971,8 +1971,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.06493,
-          13.765553
+          121.065101,
+          13.765826
         ]
       },
       "properties": {
@@ -1986,8 +1986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.065101,
-          13.765826
+          121.06493,
+          13.765553
         ]
       },
       "properties": {
@@ -2241,8 +2241,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.332761,
-          60.390703
+          5.332752,
+          60.390707
         ]
       },
       "properties": {
@@ -2256,8 +2256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.332752,
-          60.390707
+          5.332761,
+          60.390703
         ]
       },
       "properties": {
@@ -2486,8 +2486,8 @@
         ]
       },
       "properties": {
-        "slug": "boat-harbour-tasmania-australia",
-        "name": "Boat Harbour, Tasmania, Australia",
+        "slug": "boat-harbour-tas-australia",
+        "name": "Boat Harbour, TAS, Australia",
         "id": 7813
       }
     },
@@ -2511,8 +2511,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.400077,
-          67.286006
+          14.400076,
+          67.286001
         ]
       },
       "properties": {
@@ -2526,8 +2526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.400076,
-          67.286001
+          14.400077,
+          67.286006
         ]
       },
       "properties": {
@@ -2831,8 +2831,8 @@
         ]
       },
       "properties": {
-        "slug": "brookvale-australia",
-        "name": "Brookvale, Australia",
+        "slug": "brookvale-nsw-australia",
+        "name": "Brookvale, NSW, Australia",
         "id": 5781
       }
     },
@@ -2916,8 +2916,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.666652,
-          17.949941
+          -76.666668,
+          17.949677
         ]
       },
       "properties": {
@@ -2931,8 +2931,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.666668,
-          17.949677
+          -76.666652,
+          17.949941
         ]
       },
       "properties": {
@@ -3156,7 +3156,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.63192,
+          124.631895,
           8.454228
         ]
       },
@@ -3171,7 +3171,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.631895,
+          124.63192,
           8.454228
         ]
       },
@@ -3276,8 +3276,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.878199,
-          10.606454
+          -66.878296,
+          10.606106
         ]
       },
       "properties": {
@@ -3291,8 +3291,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.878296,
-          10.606106
+          -66.878199,
+          10.606454
         ]
       },
       "properties": {
@@ -3951,8 +3951,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.954687,
-          34.976698
+          139.954663,
+          34.976658
         ]
       },
       "properties": {
@@ -3966,8 +3966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.954663,
-          34.976658
+          139.954687,
+          34.976698
         ]
       },
       "properties": {
@@ -4071,8 +4071,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.20307,
-          22.222106
+          114.203021,
+          22.22205
         ]
       },
       "properties": {
@@ -4086,8 +4086,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.203021,
-          22.22205
+          114.20307,
+          22.222106
         ]
       },
       "properties": {
@@ -4461,8 +4461,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.200673,
-          12.00496
+          120.200697,
+          12.005056
         ]
       },
       "properties": {
@@ -4476,8 +4476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.200697,
-          12.005056
+          120.200673,
+          12.00496
         ]
       },
       "properties": {
@@ -4856,8 +4856,8 @@
         ]
       },
       "properties": {
-        "slug": "darwin-australia",
-        "name": "Darwin, Australia",
+        "slug": "darwin-nt-australia",
+        "name": "Darwin, NT, Australia",
         "id": 7685
       }
     },
@@ -4986,8 +4986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.145844,
-          11.598732
+          43.147993,
+          11.594678
         ]
       },
       "properties": {
@@ -5001,8 +5001,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.147993,
-          11.594678
+          43.145844,
+          11.598732
         ]
       },
       "properties": {
@@ -5226,8 +5226,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.447633,
-          1.665607
+          101.447561,
+          1.665606
         ]
       },
       "properties": {
@@ -5257,7 +5257,7 @@
         "type": "Point",
         "coordinates": [
           101.447561,
-          1.665606
+          1.665313
         ]
       },
       "properties": {
@@ -5271,8 +5271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.447561,
-          1.665313
+          101.447633,
+          1.665607
         ]
       },
       "properties": {
@@ -5676,8 +5676,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.662147,
-          22.249202
+          120.662098,
+          22.249259
         ]
       },
       "properties": {
@@ -5691,8 +5691,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.662098,
-          22.249259
+          120.662147,
+          22.249202
         ]
       },
       "properties": {
@@ -5921,8 +5921,8 @@
         ]
       },
       "properties": {
-        "slug": "four-mile-bluff-australia",
-        "name": "Four Mile Bluff, Australia",
+        "slug": "four-mile-bluff-tas-australia",
+        "name": "Four Mile Bluff, TAS, Australia",
         "id": 10796
       }
     },
@@ -6681,8 +6681,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.850549,
-          17.897916
+          -62.850565,
+          17.897911
         ]
       },
       "properties": {
@@ -6696,8 +6696,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.850565,
-          17.897911
+          -62.850549,
+          17.897916
         ]
       },
       "properties": {
@@ -7526,8 +7526,8 @@
         ]
       },
       "properties": {
-        "slug": "inverloch-australia",
-        "name": "Inverloch, Australia",
+        "slug": "inverloch-vic-australia",
+        "name": "Inverloch, VIC, Australia",
         "id": 7860
       }
     },
@@ -7566,8 +7566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.315404,
-          43.171177
+          141.315526,
+          43.17139
         ]
       },
       "properties": {
@@ -7581,8 +7581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.315526,
-          43.17139
+          141.315404,
+          43.171177
         ]
       },
       "properties": {
@@ -7701,8 +7701,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.655721,
-          30.332035
+          -81.65574,
+          30.331761
         ]
       },
       "properties": {
@@ -7716,8 +7716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.65574,
-          30.331761
+          -81.655721,
+          30.332035
         ]
       },
       "properties": {
@@ -7746,7 +7746,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.827831,
+          106.827855,
           -6.171599
         ]
       },
@@ -7761,7 +7761,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.827855,
+          106.827831,
           -6.171599
         ]
       },
@@ -7866,8 +7866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.159807,
-          -8.784071
+          115.159856,
+          -8.784095
         ]
       },
       "properties": {
@@ -7881,8 +7881,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.159856,
-          -8.784095
+          115.159807,
+          -8.784071
         ]
       },
       "properties": {
@@ -8766,8 +8766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -152.395283,
-          57.794136
+          -152.395149,
+          57.794429
         ]
       },
       "properties": {
@@ -8781,8 +8781,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -152.395149,
-          57.794429
+          -152.395283,
+          57.794136
         ]
       },
       "properties": {
@@ -9246,8 +9246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.583385,
-          -10.183309
+          123.583312,
+          -10.183333
         ]
       },
       "properties": {
@@ -9261,8 +9261,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.583312,
-          -10.183333
+          123.583385,
+          -10.183309
         ]
       },
       "properties": {
@@ -9531,8 +9531,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.423216,
-          6.438875
+          3.423509,
+          6.439093
         ]
       },
       "properties": {
@@ -9546,8 +9546,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.423509,
-          6.439093
+          3.423216,
+          6.438875
         ]
       },
       "properties": {
@@ -10011,8 +10011,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.45434,
-          0.394513
+          9.454364,
+          0.394269
         ]
       },
       "properties": {
@@ -10026,8 +10026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.454364,
-          0.394269
+          9.45434,
+          0.394513
         ]
       },
       "properties": {
@@ -10101,8 +10101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.896106,
-          30.935672
+          121.896082,
+          30.935662
         ]
       },
       "properties": {
@@ -10116,8 +10116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.896082,
-          30.935662
+          121.896106,
+          30.935672
         ]
       },
       "properties": {
@@ -10154,21 +10154,6 @@
         "slug": "lisbon-portugal",
         "name": "Lisbon, Portugal",
         "id": 3146
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.78693,
-          58.06444
-        ]
-      },
-      "properties": {
-        "slug": "lista-norway",
-        "name": "Lista, Norway",
-        "id": 18006
       }
     },
     {
@@ -10446,8 +10431,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.792761,
-          -0.938778
+          122.792785,
+          -0.938827
         ]
       },
       "properties": {
@@ -10461,8 +10446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.792785,
-          -0.938827
+          122.792761,
+          -0.938778
         ]
       },
       "properties": {
@@ -10566,7 +10551,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.784761,
+          145.784932,
           -5.233685
         ]
       },
@@ -10581,7 +10566,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.784932,
+          145.784761,
           -5.233685
         ]
       },
@@ -11122,7 +11107,7 @@
         "type": "Point",
         "coordinates": [
           -79.753544,
-          9.437336
+          9.437553
         ]
       },
       "properties": {
@@ -11137,7 +11122,7 @@
         "type": "Point",
         "coordinates": [
           -79.753544,
-          9.437553
+          9.437336
         ]
       },
       "properties": {
@@ -11231,39 +11216,9 @@
         ]
       },
       "properties": {
-        "slug": "maroochydore-australia",
-        "name": "Maroochydore, Australia",
+        "slug": "maroochydore-qld-australia",
+        "name": "Maroochydore, QLD, Australia",
         "id": 11593
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.372629,
-          43.293165
-        ]
-      },
-      "properties": {
-        "slug": "marseille-france",
-        "name": "Marseille, France",
-        "id": 3210
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.372495,
-          43.293582
-        ]
-      },
-      "properties": {
-        "slug": "marseille-france",
-        "name": "Marseille, France",
-        "id": 3210
       }
     },
     {
@@ -11287,6 +11242,36 @@
         "type": "Point",
         "coordinates": [
           5.372507,
+          43.293582
+        ]
+      },
+      "properties": {
+        "slug": "marseille-france",
+        "name": "Marseille, France",
+        "id": 3210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.372629,
+          43.293165
+        ]
+      },
+      "properties": {
+        "slug": "marseille-france",
+        "name": "Marseille, France",
+        "id": 3210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.372495,
           43.293582
         ]
       },
@@ -11331,8 +11316,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.616686,
-          12.366725
+          123.616661,
+          12.366677
         ]
       },
       "properties": {
@@ -11346,8 +11331,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.616661,
-          12.366677
+          123.616686,
+          12.366725
         ]
       },
       "properties": {
@@ -11501,8 +11486,8 @@
         ]
       },
       "properties": {
-        "slug": "mcgaurans-beach-australia",
-        "name": "McGaurans Beach, Australia",
+        "slug": "mcgaurans-beach-vic-australia",
+        "name": "McGaurans Beach, VIC, Australia",
         "id": 10797
       }
     },
@@ -11527,7 +11512,7 @@
         "type": "Point",
         "coordinates": [
           98.676079,
-          3.752132
+          3.751742
         ]
       },
       "properties": {
@@ -11542,7 +11527,7 @@
         "type": "Point",
         "coordinates": [
           98.676079,
-          3.751742
+          3.752132
         ]
       },
       "properties": {
@@ -11976,8 +11961,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.6728,
-          -4.053207
+          39.672849,
+          -4.053012
         ]
       },
       "properties": {
@@ -11991,8 +11976,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.672849,
-          -4.053012
+          39.6728,
+          -4.053207
         ]
       },
       "properties": {
@@ -12231,21 +12216,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.866717,
-          6.832702
-        ]
-      },
-      "properties": {
-        "slug": "mt-lavinia-sri-lanka",
-        "name": "Mt. Lavinia, Sri Lanka",
-        "id": 5949
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           79.86679,
           6.833211
         ]
@@ -12261,14 +12231,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.757864,
-          -28.950438
+          79.866717,
+          6.832702
         ]
       },
       "properties": {
-        "slug": "mtunzini-south-africa",
-        "name": "Mtunzini, South Africa",
-        "id": 5942
+        "slug": "mt-lavinia-sri-lanka",
+        "name": "Mt. Lavinia, Sri Lanka",
+        "id": 5949
       }
     },
     {
@@ -12291,7 +12261,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.349895,
+          31.757864,
+          -28.950438
+        ]
+      },
+      "properties": {
+        "slug": "mtunzini-south-africa",
+        "name": "Mtunzini, South Africa",
+        "id": 5942
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.34987,
           -5.933359
         ]
       },
@@ -12306,7 +12291,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.34987,
+          12.349895,
           -5.933359
         ]
       },
@@ -13451,8 +13436,8 @@
         ]
       },
       "properties": {
-        "slug": "oxford-falls-australia",
-        "name": "Oxford Falls, Australia",
+        "slug": "oxford-falls-nsw-australia",
+        "name": "Oxford Falls, NSW, Australia",
         "id": 5778
       }
     },
@@ -13556,8 +13541,8 @@
         ]
       },
       "properties": {
-        "slug": "paddington-new-south-wales-australia",
-        "name": "Paddington, New South Wales, Australia",
+        "slug": "paddington-nsw-australia",
+        "name": "Paddington, NSW, Australia",
         "id": 5779
       }
     },
@@ -13626,8 +13611,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.358366,
-          38.121501
+          13.35839,
+          38.121453
         ]
       },
       "properties": {
@@ -13641,8 +13626,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.35839,
-          38.121453
+          13.358366,
+          38.121501
         ]
       },
       "properties": {
@@ -13961,8 +13946,8 @@
         ]
       },
       "properties": {
-        "slug": "perth-australia",
-        "name": "Perth, Australia",
+        "slug": "perth-wa-australia",
+        "name": "Perth, WA, Australia",
         "id": 3239
       }
     },
@@ -14091,6 +14076,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          144.694742,
+          13.464655
+        ]
+      },
+      "properties": {
+        "slug": "piti-gu-united-states",
+        "name": "Piti, GU, United States",
+        "id": 5973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           144.694698,
           13.464683
         ]
@@ -14108,21 +14108,6 @@
         "coordinates": [
           144.694737,
           13.464662
-        ]
-      },
-      "properties": {
-        "slug": "piti-gu-united-states",
-        "name": "Piti, GU, United States",
-        "id": 5973
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.694742,
-          13.464655
         ]
       },
       "properties": {
@@ -14241,6 +14226,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -61.79058,
+          12.008817
+        ]
+      },
+      "properties": {
+        "slug": "point-salines-grenada",
+        "name": "Point Salines, Grenada",
+        "id": 17317
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.790578,
+          12.008822
+        ]
+      },
+      "properties": {
+        "slug": "point-salines-grenada",
+        "name": "Point Salines, Grenada",
+        "id": 17317
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -61.533085,
           16.241044
         ]
@@ -14256,8 +14271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.863616,
-          -4.778824
+          11.86364,
+          -4.779092
         ]
       },
       "properties": {
@@ -14271,8 +14286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.86364,
-          -4.779092
+          11.863616,
+          -4.778824
         ]
       },
       "properties": {
@@ -14316,7 +14331,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          109.335446,
+          109.335641,
           -0.027407
         ]
       },
@@ -14331,7 +14346,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          109.335641,
+          109.335446,
           -0.027407
         ]
       },
@@ -14516,8 +14531,8 @@
         ]
       },
       "properties": {
-        "slug": "port-hedland-australia",
-        "name": "Port Hedland, Australia",
+        "slug": "port-hedland-wa-australia",
+        "name": "Port Hedland, WA, Australia",
         "id": 5777
       }
     },
@@ -14579,36 +14594,6 @@
         "slug": "port-said-egypt",
         "name": "Port Said, Egypt",
         "id": 9487
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -61.79058,
-          12.008817
-        ]
-      },
-      "properties": {
-        "slug": "port-salines-grenada",
-        "name": "Port Salines, Grenada",
-        "id": 17317
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -61.790578,
-          12.008822
-        ]
-      },
-      "properties": {
-        "slug": "port-salines-grenada",
-        "name": "Port Salines, Grenada",
-        "id": 17317
       }
     },
     {
@@ -14826,8 +14811,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -23.521247,
-          14.923011
+          -23.52121,
+          14.923188
         ]
       },
       "properties": {
@@ -14841,8 +14826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -23.52121,
-          14.923188
+          -23.521247,
+          14.923011
         ]
       },
       "properties": {
@@ -14961,8 +14946,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.597238,
-          15.727144
+          -88.597159,
+          15.727179
         ]
       },
       "properties": {
@@ -14976,8 +14961,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.597159,
-          15.727179
+          -88.597238,
+          15.727144
         ]
       },
       "properties": {
@@ -15321,8 +15306,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.204368,
-          11.708602
+          -70.204258,
+          11.708793
         ]
       },
       "properties": {
@@ -15336,8 +15321,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.204258,
-          11.708793
+          -70.204368,
+          11.708602
         ]
       },
       "properties": {
@@ -16296,7 +16281,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.504635,
+          -38.504537,
           -12.969985
         ]
       },
@@ -16311,7 +16296,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.504537,
+          -38.504635,
           -12.969985
         ]
       },
@@ -16596,21 +16581,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.119697,
-          -38.820183
-        ]
-      },
-      "properties": {
-        "slug": "sandy-point-australia",
-        "name": "Sandy Point, Australia",
-        "id": 10799
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.399529,
           26.025209
         ]
@@ -16619,6 +16589,21 @@
         "slug": "sandy-point-bahamas",
         "name": "Sandy Point, Bahamas",
         "id": 5788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.119697,
+          -38.820183
+        ]
+      },
+      "properties": {
+        "slug": "sandy-point-vic-australia",
+        "name": "Sandy Point, VIC, Australia",
+        "id": 10799
       }
     },
     {
@@ -17271,8 +17256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.874391,
-          34.336831
+          136.874294,
+          34.336891
         ]
       },
       "properties": {
@@ -17286,8 +17271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.874294,
-          34.336891
+          136.874391,
+          34.336831
         ]
       },
       "properties": {
@@ -17661,8 +17646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.596951,
-          7.078572
+          100.596976,
+          7.07845
         ]
       },
       "properties": {
@@ -17676,8 +17661,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.596976,
-          7.07845
+          100.596951,
+          7.078572
         ]
       },
       "properties": {
@@ -17936,8 +17921,8 @@
         ]
       },
       "properties": {
-        "slug": "stanley-australia",
-        "name": "Stanley, Australia",
+        "slug": "stanley-tas-australia",
+        "name": "Stanley, TAS, Australia",
         "id": 7861
       }
     },
@@ -18217,7 +18202,7 @@
         "type": "Point",
         "coordinates": [
           178.437448,
-          -18.123639
+          -18.123812
         ]
       },
       "properties": {
@@ -18232,7 +18217,7 @@
         "type": "Point",
         "coordinates": [
           178.437448,
-          -18.123812
+          -18.123639
         ]
       },
       "properties": {
@@ -18276,13 +18261,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.206998,
+          -33.86988
+        ]
+      },
+      "properties": {
+        "slug": "sydney-nsw-australia",
+        "name": "Sydney, NSW, Australia",
+        "id": 3030
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.207047,
           -33.869697
         ]
       },
       "properties": {
-        "slug": "sydney-new-south-wales-australia",
-        "name": "Sydney, New South Wales, Australia",
+        "slug": "sydney-nsw-australia",
+        "name": "Sydney, NSW, Australia",
         "id": 3030
       }
     },
@@ -18296,23 +18296,8 @@
         ]
       },
       "properties": {
-        "slug": "sydney-new-south-wales-australia",
-        "name": "Sydney, New South Wales, Australia",
-        "id": 3030
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.206998,
-          -33.86988
-        ]
-      },
-      "properties": {
-        "slug": "sydney-new-south-wales-australia",
-        "name": "Sydney, New South Wales, Australia",
+        "slug": "sydney-nsw-australia",
+        "name": "Sydney, NSW, Australia",
         "id": 3030
       }
     },
@@ -18426,8 +18411,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          174.767919,
-          -36.787965
+          174.767921,
+          -36.787834
         ]
       },
       "properties": {
@@ -18441,8 +18426,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          174.767921,
-          -36.787834
+          174.767919,
+          -36.787965
         ]
       },
       "properties": {
@@ -18681,8 +18666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.462635,
-          25.181604
+          121.462586,
+          25.181361
         ]
       },
       "properties": {
@@ -18696,8 +18681,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.462586,
-          25.181361
+          121.462635,
+          25.181604
         ]
       },
       "properties": {
@@ -18831,8 +18816,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.50038,
-          10.819603
+          119.500331,
+          10.819711
         ]
       },
       "properties": {
@@ -18846,8 +18831,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.500331,
-          10.819711
+          119.50038,
+          10.819603
         ]
       },
       "properties": {
@@ -18951,8 +18936,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.211132,
-          3.207132
+          106.211083,
+          3.207108
         ]
       },
       "properties": {
@@ -18966,8 +18951,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.211083,
-          3.207108
+          106.211132,
+          3.207132
         ]
       },
       "properties": {
@@ -19131,8 +19116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.889577,
-          -4.550311
+          136.889626,
+          -4.550263
         ]
       },
       "properties": {
@@ -19146,8 +19131,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.889626,
-          -4.550263
+          136.889577,
+          -4.550311
         ]
       },
       "properties": {
@@ -19356,8 +19341,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.558686,
-          9.496685
+          -75.558564,
+          9.4963
         ]
       },
       "properties": {
@@ -19371,8 +19356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.558564,
-          9.4963
+          -75.558686,
+          9.496685
         ]
       },
       "properties": {
@@ -20182,7 +20167,7 @@
         "type": "Point",
         "coordinates": [
           -151.749531,
-          -16.506325
+          -16.506278
         ]
       },
       "properties": {
@@ -20197,7 +20182,7 @@
         "type": "Point",
         "coordinates": [
           -151.749531,
-          -16.506278
+          -16.506325
         ]
       },
       "properties": {
@@ -20631,6 +20616,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          120.252894,
+          -9.646107
+        ]
+      },
+      "properties": {
+        "slug": "waingapu-indonesia",
+        "name": "Waingapu, Indonesia",
+        "id": 14652
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           120.253016,
           -9.646155
         ]
@@ -20648,21 +20648,6 @@
         "coordinates": [
           120.252914,
           -9.646108
-        ]
-      },
-      "properties": {
-        "slug": "waingapu-indonesia",
-        "name": "Waingapu, Indonesia",
-        "id": 14652
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.252894,
-          -9.646107
         ]
       },
       "properties": {
@@ -20707,21 +20692,6 @@
         "type": "Point",
         "coordinates": [
           -74.062874,
-          40.152874
-        ]
-      },
-      "properties": {
-        "slug": "wall-township-nj-united-states",
-        "name": "Wall Township, NJ, United States",
-        "id": 3822
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.062874,
           40.152887
         ]
       },
@@ -20738,6 +20708,21 @@
         "coordinates": [
           -74.062862,
           40.152905
+        ]
+      },
+      "properties": {
+        "slug": "wall-township-nj-united-states",
+        "name": "Wall Township, NJ, United States",
+        "id": 3822
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.062874,
+          40.152874
         ]
       },
       "properties": {
@@ -21011,8 +20996,8 @@
         ]
       },
       "properties": {
-        "slug": "wurrumiyanga-australia",
-        "name": "Wurrumiyanga, Australia",
+        "slug": "wurrumiyanga-nt-australia",
+        "name": "Wurrumiyanga, NT, Australia",
         "id": 17285
       }
     },
@@ -21216,8 +21201,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.649905,
-          29.116655
+          32.649856,
+          29.116687
         ]
       },
       "properties": {
@@ -21231,8 +21216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.649856,
-          29.116687
+          32.649905,
+          29.116655
         ]
       },
       "properties": {
