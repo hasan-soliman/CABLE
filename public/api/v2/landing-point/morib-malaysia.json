@@ -1,1 +1,1 @@
-{"city_id":18151,"id":"morib-malaysia","latitude":"2.751191","longitude":"101.443614","name":"Morib, Malaysia","type":"landing_point","cables":[{"cable_id":2082,"id":"mist","name":"MIST","is_tbd":"false"}],"is_tbd":"false"}
+{"city_id":18151,"id":"morib-malaysia","latitude":"2.751191","longitude":"101.443614","name":"Morib, Malaysia","type":"landing_point","cables":[{"cable_id":2077,"id":"india-asia-xpress-iax","name":"India Asia Xpress (IAX)","is_tbd":"false"},{"cable_id":2082,"id":"mist","name":"MIST","is_tbd":"false"}],"is_tbd":"false"}
