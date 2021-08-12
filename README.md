@@ -31,13 +31,13 @@ Below are links to the datasets used for the [Submarine Cable Map](https://www.s
 
 __Submarine Cables:__
 
-* [Submarine Cables GeoJSON](https://raw.githubusercontent.com/telegeography/www.submarinecablemap.com/master/public/api/v3/cable/cable-geo.json)
-* [Submarine Cable Data](https://github.com/telegeography/www.submarinecablemap.com/tree/master/public/api/v3/cable)
+* [Submarine Cables GeoJSON](https://raw.githubusercontent.com/telegeography/www.submarinecablemap.com/master/web/public/api/v3/cable/cable-geo.json)
+* [Submarine Cable Data](https://github.com/telegeography/www.submarinecablemap.com/tree/master/web/public/api/v3/cable)
 
 __Landing Points:__
 
-* [Landing Point GeoJSON](https://raw.githubusercontent.com/telegeography/www.submarinecablemap.com/master/public/api/v3/landing-point/landing-point-geo.json)
-* [Landing Point Data](https://github.com/telegeography/www.submarinecablemap.com/tree/master/public/api/v3/landing-point)
+* [Landing Point GeoJSON](https://raw.githubusercontent.com/telegeography/www.submarinecablemap.com/master/web/public/api/v3/landing-point/landing-point-geo.json)
+* [Landing Point Data](https://github.com/telegeography/www.submarinecablemap.com/tree/master/web/public/api/v3/landing-point)
 
 
 License
