@@ -1,0 +1,1 @@
+{"id":"valencia-spain","name":"Valencia, Spain","country":"Spain","cables":[{"id":"balalink","name":"Balalink","rfs_year":2001,"is_planned":false},{"id":"oran-valencia-orval","name":"Oran-Valencia (ORVAL)","rfs_year":2020,"is_planned":false}],"landing_points":["oran-algeria","valencia-spain","palma-spain","algiers-algeria"]}
