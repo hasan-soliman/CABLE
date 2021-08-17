@@ -26,12 +26,12 @@ const About = ({ children }) => {
               <h2 className="mt-8">Search Cables</h2>
               <p>The information presented on the map can be filtered by the following data points:</p>
               <ul className="ml-4 mb-2">
-                <li><ArrowSmRightIcon className="w-4 h-4 mt-0.5 float-left mr-1.5" />Cable system name</li>
-                <li><ArrowSmRightIcon className="w-4 h-4 mt-0.5 float-left mr-1.5" />Landing point name</li>
-                <li><ArrowSmRightIcon className="w-4 h-4 mt-0.5 float-left mr-1.5" />Country connected</li>
-                <li><ArrowSmRightIcon className="w-4 h-4 mt-0.5 float-left mr-1.5" />RFS (ready for service) year</li>
-                <li><ArrowSmRightIcon className="w-4 h-4 mt-0.5 float-left mr-1.5" />Planned versus in service cable systems</li>
-                <li><ArrowSmRightIcon className="w-4 h-4 mt-0.5 float-left mr-1.5" />Submarine cable supplier name</li>
+                <li><ArrowSmRightIcon className="w-4 h-4 mt-0.5 float-left mr-1.5" />Cable system, e.g. "ARCOS"</li>
+                <li><ArrowSmRightIcon className="w-4 h-4 mt-0.5 float-left mr-1.5" />Country connected by cables, e.g. "France"</li>
+                <li><ArrowSmRightIcon className="w-4 h-4 mt-0.5 float-left mr-1.5" />Known cable landing location, e.g. "Porthcurno"</li>
+                <li><ArrowSmRightIcon className="w-4 h-4 mt-0.5 float-left mr-1.5" />Ready for service year, e.g. "2010"</li>
+                <li><ArrowSmRightIcon className="w-4 h-4 mt-0.5 float-left mr-1.5" />"Planned" versus "In service" cables</li>
+                <li><ArrowSmRightIcon className="w-4 h-4 mt-0.5 float-left mr-1.5" />Supplier of cables, e.g. "ASN"</li>
               </ul>
 
               <p>Want to search by submarine cable owner? You can explore that data in our <a href="https://www2.telegeography.com/global-bandwidth-research-service" target="_blank" rel="noopener noreferrer">Global Bandwidth Research Service</a>.</p>
