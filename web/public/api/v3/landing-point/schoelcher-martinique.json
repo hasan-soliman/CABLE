@@ -1,1 +1,1 @@
-{"id":"schoelcher-martinique","name":"Schoelcher, Martinique","country":"Martinique","cables":[{"id":"cuba-martinique","name":"Cuba-Martinique","rfs_year":2023,"is_planned":true},{"id":"kanawa","name":"Kanawa","rfs_year":2019,"is_planned":false}],"landing_points":["kourou-french-guiana","schoelcher-martinique","santiago-de-cuba-cuba"]}
+{"id":"schoelcher-martinique","name":"Schoelcher, Martinique","country":"Martinique","cables":[{"id":"kanawa","name":"Kanawa","rfs_year":2019,"is_planned":false}],"landing_points":["kourou-french-guiana","schoelcher-martinique"]}
